@@ -15,7 +15,11 @@ on:
   schedule:
     # TR 09:00-22:59 arasi her 10 dakikada bir. Gece calismasi gereksiz:
     # kart gonderilmiyorsa basilacak dugme de yok.
-    - cron: "*/10 6-19 * * *"
+    #
+    # "*/10" yerine dakikalar tek tek yazildi: */10 her saatin :00'ina
+    # denk geliyor ve saat basi GitHub'in en sikisik dilimi - planli
+    # calismalar orada geciktiriliyor ya da tumden dusuruluyor.
+    - cron: "3,13,23,33,43,53 6-19 * * *"
   workflow_dispatch:
 
 permissions:
