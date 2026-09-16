@@ -51,7 +51,7 @@
       "word": "discrepancy"
     },
     "5cb32c1670": {
-      "answered_count": 0,
+      "answered_count": 1,
       "box": 1,
       "collocations": [
         "direct relevance",
@@ -66,30 +66,34 @@
       "ipa": "/ˈreləvəns/",
       "known_count": 0,
       "lang": "en",
+      "last_answer": "unknown",
+      "last_answered_at": "2026-09-16",
       "last_shown_at": "2026-09-16",
       "level": "B2",
       "meaning_tr": "ilgi, alaka, ilişki",
       "pos": "noun",
       "shown_count": 1,
-      "unknown_count": 0,
+      "unknown_count": 1,
       "word": "relevance"
     },
     "6f2293150e": {
-      "answered_count": 0,
-      "box": 1,
+      "answered_count": 1,
+      "box": 2,
       "collocations": [
         "implement a policy",
         "implement changes"
       ],
       "definition_en": "To start using a plan, system, or decision.",
-      "due": "2026-09-17",
+      "due": "2026-09-18",
       "example": "The local government decided to implement new recycling policies starting next month.",
       "example_tr": "Yerel yönetim önümüzdeki aydan itibaren yeni geri dönüşüm politikalarını uygulamaya karar verdi.",
       "first_seen": "2026-09-16T15:02:30.116093+03:00",
       "id": "6f2293150e",
       "ipa": "/ˈɪmplɪment/",
-      "known_count": 0,
+      "known_count": 1,
       "lang": "en",
+      "last_answer": "known",
+      "last_answered_at": "2026-09-16",
       "last_shown_at": "2026-09-16",
       "level": "B2",
       "meaning_tr": "uygulamak, yürürlüğe koymak, gerçekleştirmek",
@@ -175,7 +179,7 @@
       "word": "substantial"
     },
     "f09deb610d": {
-      "answered_count": 0,
+      "answered_count": 1,
       "box": 1,
       "collocations": [
         "unprecedented rise",
@@ -190,12 +194,14 @@
       "ipa": "/ʌnˈpresɪdentɪd/",
       "known_count": 0,
       "lang": "en",
+      "last_answer": "unknown",
+      "last_answered_at": "2026-09-16",
       "last_shown_at": "2026-09-16",
       "level": "C1",
       "meaning_tr": "eşi görülmemiş, emsalsiz, benzersiz",
       "pos": "adjective",
       "shown_count": 1,
-      "unknown_count": 0,
+      "unknown_count": 1,
       "word": "unprecedented"
     },
     "fac9c0cdb7": {
@@ -224,6 +230,6 @@
     }
   },
   "last_sent_at": "2026-09-16T15:02:30.116093+03:00",
-  "update_offset": 626511668,
+  "update_offset": 626511673,
   "version": 1
 }
