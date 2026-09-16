@@ -1,5 +1,29 @@
 {
   "cards": {
+    "40fdfd0765": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "reluctantly agree",
+        "reluctantly accept"
+      ],
+      "definition_en": "In an unwilling and hesitant way.",
+      "due": "2026-09-17",
+      "example": "She reluctantly agreed to work overtime on the weekend to finish the urgent report.",
+      "example_tr": "Acil raporu bitirmek için hafta sonu fazla mesai yapmayı isteksizce kabul etti.",
+      "first_seen": "2026-09-16T11:00:52.379460+03:00",
+      "id": "40fdfd0765",
+      "ipa": "/rɪˈlʌktəntli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-16",
+      "level": "C1",
+      "meaning_tr": "isteksizce, gönülsüzce",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "reluctantly"
+    },
     "5605b53981": {
       "answered_count": 1,
       "box": 1,
@@ -77,9 +101,57 @@
       "shown_count": 1,
       "unknown_count": 2,
       "word": "advocate"
+    },
+    "d5a73dfdc2": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "substantial amount",
+        "substantial growth"
+      ],
+      "definition_en": "Large in size, value, or importance.",
+      "due": "2026-09-17",
+      "example": "The company invested a substantial amount of money in developing the new software.",
+      "example_tr": "Şirket, yeni yazılımı geliştirmek için önemli miktarda para yatırdı.",
+      "first_seen": "2026-09-16T11:00:52.379460+03:00",
+      "id": "d5a73dfdc2",
+      "ipa": "/səbˈstænʃl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-16",
+      "level": "B2",
+      "meaning_tr": "büyük, önemli, kayda değer",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "substantial"
+    },
+    "fac9c0cdb7": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "acknowledge receipt",
+        "grudgingly acknowledge"
+      ],
+      "definition_en": "To accept or admit that something is true or exists.",
+      "due": "2026-09-17",
+      "example": "The manager finally acknowledged that the team had made a significant contribution to the project's success.",
+      "example_tr": "Yönetici nihayet ekibin projenin başarısına önemli bir katkı sağladığını kabul etti.",
+      "first_seen": "2026-09-16T11:00:52.379460+03:00",
+      "id": "fac9c0cdb7",
+      "ipa": "/əkˈnɒlɪdʒ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-16",
+      "level": "B2",
+      "meaning_tr": "kabul etmek, onaylamak, tanımak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "acknowledge"
     }
   },
-  "last_sent_at": "2026-09-16T10:12:29.899891+03:00",
+  "last_sent_at": "2026-09-16T11:00:52.379460+03:00",
   "update_offset": 626511668,
   "version": 1
 }
