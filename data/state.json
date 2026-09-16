@@ -1,5 +1,29 @@
 {
   "cards": {
+    "2f2916f101": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "oversee a project",
+        "oversee operations"
+      ],
+      "definition_en": "To watch and direct a task or project to make sure it is done correctly.",
+      "due": "2026-09-17",
+      "example": "The newly appointed manager will oversee the entire transition to the digital platform.",
+      "example_tr": "Yeni atanan müdür, dijital platforma geçiş sürecinin tamamını denetleyecek.",
+      "first_seen": "2026-09-16T17:14:08.281855+03:00",
+      "id": "2f2916f101",
+      "ipa": "/ˌəʊvəˈsiː/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-16",
+      "level": "B2",
+      "meaning_tr": "denetlemek, yönetmek, gözetmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "oversee"
+    },
     "40fdfd0765": {
       "answered_count": 0,
       "box": 1,
@@ -128,6 +152,30 @@
       "unknown_count": 1,
       "word": "resilient"
     },
+    "a87bbffed8": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "financial incentive",
+        "strong incentive"
+      ],
+      "definition_en": "Something that encourages you to work harder or start a new activity.",
+      "due": "2026-09-17",
+      "example": "The company offers a financial incentive to employees who meet their monthly targets.",
+      "example_tr": "Şirket, aylık hedeflerine ulaşan çalışanlara maddi bir teşvik sunuyor.",
+      "first_seen": "2026-09-16T17:14:08.281855+03:00",
+      "id": "a87bbffed8",
+      "ipa": "/ɪnˈsentɪv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-16",
+      "level": "B2",
+      "meaning_tr": "teşvik, güdü, özendirici",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "incentive"
+    },
     "bb3b6440dc": {
       "answered_count": 2,
       "box": 1,
@@ -153,6 +201,30 @@
       "shown_count": 1,
       "unknown_count": 2,
       "word": "advocate"
+    },
+    "c28b9a32da": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "ambiguous language",
+        "ambiguous answer"
+      ],
+      "definition_en": "Having more than one possible meaning, which makes it confusing or unclear.",
+      "due": "2026-09-17",
+      "example": "The instructions were so ambiguous that none of the students knew what to do.",
+      "example_tr": "Yönergeler o kadar belirsizdi ki öğrencilerin hiçbiri ne yapacağını bilemedi.",
+      "first_seen": "2026-09-16T17:14:08.281855+03:00",
+      "id": "c28b9a32da",
+      "ipa": "/æmˈbɪɡjuəs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-16",
+      "level": "C1",
+      "meaning_tr": "belirsiz, muğlak, iki anlamlı",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "ambiguous"
     },
     "d5a73dfdc2": {
       "answered_count": 0,
@@ -229,7 +301,7 @@
       "word": "acknowledge"
     }
   },
-  "last_sent_at": "2026-09-16T15:02:30.116093+03:00",
+  "last_sent_at": "2026-09-16T17:14:08.281855+03:00",
   "update_offset": 626511673,
   "version": 1
 }
