@@ -8,7 +8,7 @@
         "oversee operations"
       ],
       "definition_en": "To watch and direct a task or project to make sure it is done correctly.",
-      "due": "2026-09-17",
+      "due": "2026-09-18",
       "example": "The newly appointed manager will oversee the entire transition to the digital platform.",
       "example_tr": "Yeni atanan müdür, dijital platforma geçiş sürecinin tamamını denetleyecek.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -16,11 +16,11 @@
       "ipa": "/ˌəʊvəˈsiː/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-16",
+      "last_shown_at": "2026-09-17",
       "level": "B2",
       "meaning_tr": "denetlemek, yönetmek, gözetmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "oversee"
     },
@@ -32,7 +32,7 @@
         "reluctantly accept"
       ],
       "definition_en": "In an unwilling and hesitant way.",
-      "due": "2026-09-17",
+      "due": "2026-09-18",
       "example": "She reluctantly agreed to work overtime on the weekend to finish the urgent report.",
       "example_tr": "Acil raporu bitirmek için hafta sonu fazla mesai yapmayı isteksizce kabul etti.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -40,11 +40,11 @@
       "ipa": "/rɪˈlʌktəntli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-16",
+      "last_shown_at": "2026-09-17",
       "level": "C1",
       "meaning_tr": "isteksizce, gönülsüzce",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "reluctantly"
     },
@@ -301,7 +301,7 @@
       "word": "acknowledge"
     }
   },
-  "last_sent_at": "2026-09-16T17:14:08.281855+03:00",
+  "last_sent_at": "2026-09-17T01:24:08.280350+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
