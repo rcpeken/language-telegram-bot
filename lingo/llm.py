@@ -126,7 +126,7 @@ def _complete_gemini(system: str, user: str) -> str:
             "contents": [{"role": "user", "parts": [{"text": user}]}],
             "generationConfig": {
                 "temperature": 0.9,
-                "maxOutputTokens": 4000,
+                "maxOutputTokens": 8000,
                 # JSON'u modelin iyi niyetine birakmak yerine API seviyesinde zorla.
                 "responseMimeType": "application/json",
             },
@@ -186,7 +186,7 @@ def _complete_openai_compatible(provider: str, system: str, user: str) -> str:
                 {"role": "user", "content": user},
             ],
             "temperature": 0.9,
-            "max_tokens": 4000,
+            "max_tokens": 8000,
             "response_format": {"type": "json_object"},
         },
     )
@@ -224,7 +224,7 @@ def _complete_anthropic(system: str, user: str) -> str:
     try:
         response = client.messages.create(
             model=config.LLM_MODEL,
-            max_tokens=4000,
+            max_tokens=8000,
             thinking={"type": "adaptive"},
             output_config={"effort": config.EFFORT},
             system=[

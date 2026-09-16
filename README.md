@@ -56,8 +56,14 @@ Tekrar takvimi Leitner kutu sistemi:
 | **Google Gemini** (kelime üretimi) | Ücretsiz katman, kredi kartı istemiyor |
 | **gTTS** (telaffuz sesi) | Google Translate'in konuşma ucu, anahtar istemiyor |
 
-Günde 5 LLM çağrısı yapılıyor; Gemini'nin ücretsiz katmanı günde 1500 isteğe
-izin veriyor.
+**Günde tek bir LLM çağrısı yapılıyor.** Gemini'nin ücretsiz katmanında günlük
+istek hakkı sanıldığından düşük (bu projede `limit: 20` olarak görüldü) ve her
+slotta ayrı çağrı yapmak — üstüne geçici 503 hatalarındaki yeniden denemeler —
+hakkı gün ortasında bitirebiliyor. Bu yüzden günün bütün kelimeleri tek çağrıda
+üretilip **havuzda** saklanıyor; her slot havuzdan 3 kelime alıyor.
+
+Yan faydası: slotlar LLM'in o anda ayakta olmasına bağlı değil ve kart gönderimi
+~25 saniye yerine anında tamamlanıyor.
 
 ---
 
@@ -155,6 +161,7 @@ Hepsi `.env` üzerinden, kod değiştirmeden:
 | `LINGO_NEW_PER_RUN` | `3` | Mesaj başına yeni kelime |
 | `LINGO_REVIEW_PER_RUN` | `2` | Mesaj başına tekrar |
 | `LINGO_EN_ACCENT` | `co.uk` | Telaffuz aksanı (`com` = Amerikan) |
+| `LINGO_POOL_TARGET` | `15` | Tek çağrıda üretilip saklanan kelime sayısı |
 | `LINGO_AUDIO` | `1` | `0` yaparsan ses gönderilmez |
 | `LINGO_LANGS` | `en` | Diller (aşağıya bak) |
 
@@ -176,7 +183,7 @@ lingo/llm.py         Gemini / Groq / OpenRouter / Claude ortak katmanı
 lingo/tts.py         gTTS ile mp3 telaffuz
 lingo/deliver.py     Telegram mesajı, düğmeler, arşiv
 lingo/feedback.py    Düğme cevaplarını tekrar takvimine işler
-data/state.json      Öğrendiğin her kelime ve tekrar takvimi
+data/state.json      Öğrendiğin her kelime, tekrar takvimi ve kelime havuzu
 archive/*.md         Günlük okunabilir kayıt
 ```
 
@@ -194,5 +201,7 @@ kopyalaman yeterli, silersen bot sıfırdan başlar.
   ayakta duran bir sunucu ister.
 - **gTTS resmi bir servis değil.** Geçici olarak yanıt vermeyebilir; o durumda
   kart sesli mesaj yerine düz metin olarak gelir, gönderim kaybolmaz.
-- **LLM kotası dolarsa** o çalışmada yeni kelime üretilmez, sadece tekrarlar
-  gönderilir — tekrarlar LLM gerektirmiyor.
+- **LLM kotası dolarsa** havuzda kelime kaldığı sürece hiçbir şey değişmez.
+  Havuz da boşsa o slotta sadece tekrarlar gönderilir (tekrarlar LLM
+  gerektirmiyor). Gönderilecek hiçbir şey kalmazsa çalışma hata vermez;
+  Telegram'dan günde bir kez bilgi mesajı gelir ve sonraki slot yeniden dener.

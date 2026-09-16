@@ -61,6 +61,19 @@ REVIEW_PER_RUN = int(os.getenv("LINGO_REVIEW_PER_RUN", "2"))
 # gondermek istemi gereksiz sisiriyor.
 EXCLUDE_HINT_LIMIT = int(os.getenv("LINGO_EXCLUDE_HINT", "250"))
 
+# --- Kelime havuzu ---------------------------------------------------------
+# Her slotta ayri LLM cagrisi yapmak yerine gunun tum kelimelerini tek
+# cagrida uretip saklariz; her slot havuzdan alir.
+#
+# Sebebi kota: Gemini ucretsiz katmanin gunluk istek hakki dusuk (bu
+# projede "limit: 20" olarak goruldu). Slot basina cagri, ustune gecici
+# 503 hatalarindaki yeniden denemeler, hakki gun ortasinda bitirebiliyor -
+# nitekim bitirdi. Havuzla gunluk kullanim 5+ istekten 1'e iniyor.
+#
+# Yan faydalari: slot artik LLM'in o anda ayakta olmasina bagli degil ve
+# kart gonderimi ~25 saniye yerine aninda tamamlaniyor.
+POOL_TARGET = int(os.getenv("LINGO_POOL_TARGET", str(NEW_PER_RUN * 5)))
+
 # --- Aralikli tekrar (Leitner) --------------------------------------------
 # Kutu -> bir sonraki gosterime kac gun. Dogru bildikce kutu yukselir,
 # bilemedigin kelime 1. kutuya duser ve ertesi gun tekrar karsina cikar.

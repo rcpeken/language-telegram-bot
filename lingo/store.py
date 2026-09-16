@@ -32,7 +32,14 @@ def card_id(lang: str, word: str) -> str:
 
 
 def empty_state() -> dict:
-    return {"version": STATE_VERSION, "update_offset": 0, "last_sent_at": None, "cards": {}}
+    return {
+        "version": STATE_VERSION,
+        "update_offset": 0,
+        "last_sent_at": None,
+        "cards": {},
+        # Uretilmis ama henuz gonderilmemis kelimeler.
+        "pool": [],
+    }
 
 
 def load_state() -> dict:
@@ -61,6 +68,7 @@ def load_state() -> dict:
     data.setdefault("version", STATE_VERSION)
     data.setdefault("update_offset", 0)
     data.setdefault("last_sent_at", None)
+    data.setdefault("pool", [])
     return data
 
 
@@ -86,19 +94,40 @@ def save_state(state: dict) -> Path:
 # --- Sorgular --------------------------------------------------------------
 
 def known_words(state: dict, lang: str | None = None) -> set[str]:
-    """Daha once gonderilmis tum kelimeler (kucuk harfe indirgenmis)."""
-    return {
+    """Bir daha uretilmemesi gereken kelimeler (kucuk harfe indirgenmis).
+
+    Gonderilmis kartlarin yani sira havuzda bekleyenleri de kapsiyor:
+    havuzdaki kelime henuz "ogrenilmis" degil ama zaten uretilmis durumda
+    ve tekrar uretilirse kullanici ayni kelimeyi iki kez gorur.
+    """
+    gonderilmis = {
         str(card.get("word", "")).strip().lower()
         for card in state["cards"].values()
         if lang is None or card.get("lang") == lang
     }
+    bekleyen = {
+        str(w.get("word", "")).strip().lower()
+        for w in state.get("pool", [])
+        if lang is None or w.get("lang") == lang
+    }
+    return gonderilmis | bekleyen
 
 
 def recent_words(state: dict, lang: str, limit: int) -> list[str]:
-    """Isteme eklenecek 'bunlari verme' listesi - en yeniler once."""
+    """Isteme eklenecek 'bunlari verme' listesi - en yeniler once.
+
+    Havuzda bekleyenler basa konuyor: onlar da uretilmis kelimeler ve
+    modele hatirlatmazsak ayni kelimeyi tekrar onerip parti icindeki
+    yerleri bosa harciyor.
+    """
+    bekleyen = [
+        str(w.get("word", "")) for w in state.get("pool", [])
+        if w.get("lang") == lang and w.get("word")
+    ]
     kartlar = [c for c in state["cards"].values() if c.get("lang") == lang]
     kartlar.sort(key=lambda c: str(c.get("first_seen", "")), reverse=True)
-    return [str(c.get("word", "")) for c in kartlar[:limit] if c.get("word")]
+    gecmis = [str(c.get("word", "")) for c in kartlar if c.get("word")]
+    return (bekleyen + gecmis)[:limit]
 
 
 def due_cards(state: dict, today: dt.date, limit: int,
@@ -128,6 +157,51 @@ def add_card(state: dict, word: dict, lang: str, today: dt.date,
     return cid, card
 
 
+# --- Kelime havuzu ---------------------------------------------------------
+
+def pool_count(state: dict, lang: str | None = None) -> int:
+    """Havuzda bekleyen kelime sayisi."""
+    return sum(
+        1 for w in state.get("pool", [])
+        if lang is None or w.get("lang") == lang
+    )
+
+
+def pool_add(state: dict, words: list[dict]) -> int:
+    """Uretilen kelimeleri havuza ekler, eklenen sayiyi dondurur."""
+    havuz = state.setdefault("pool", [])
+    mevcut = {str(w.get("word", "")).lower() for w in havuz}
+    eklenen = 0
+    for kelime in words:
+        anahtar = str(kelime.get("word", "")).lower()
+        if not anahtar or anahtar in mevcut:
+            continue
+        mevcut.add(anahtar)
+        havuz.append(kelime)
+        eklenen += 1
+    return eklenen
+
+
+def pool_take(state: dict, lang: str, count: int) -> list[dict]:
+    """Havuzdan `count` kelime alir ve havuzdan cikarir (FIFO).
+
+    Cikarma isini gonderim basarili olduktan sonra degil, alma aninda
+    yapiyoruz; gonderim patlarsa kelime kaybolur ama havuzda kalip
+    sonsuza kadar yeniden denenmesinden iyi - alternatifi, gonderilemeyen
+    bir kelimenin her slotta tekrar tekrar denenip kuyrugu tikamasi.
+    """
+    havuz = state.setdefault("pool", [])
+    secilen: list[dict] = []
+    kalan: list[dict] = []
+    for kelime in havuz:
+        if len(secilen) < count and kelime.get("lang") == lang:
+            secilen.append(kelime)
+        else:
+            kalan.append(kelime)
+    state["pool"] = kalan
+    return secilen
+
+
 def stats(state: dict) -> dict:
     """Kisa ilerleme ozeti - mesaj altbilgisinde gosteriliyor."""
     kartlar = list(state["cards"].values())
@@ -136,4 +210,5 @@ def stats(state: dict) -> dict:
         "toplam": len(kartlar),
         "oturmus": sum(1 for c in kartlar if int(c.get("box", 1)) >= 5),
         "bekleyen": sum(1 for c in kartlar if srs.is_due(c, bugun)),
+        "havuz": pool_count(state),
     }

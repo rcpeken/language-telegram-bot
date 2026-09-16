@@ -142,6 +142,64 @@ def test_store():
     check("ispanyolca filtresi bos donuyor", store.known_words(state, "es") == set())
 
 
+# --- Kelime havuzu ---------------------------------------------------------
+
+def test_pool():
+    print("\nKelime havuzu")
+    state = store.empty_state()
+    eklendi = store.pool_add(state, [
+        {"word": "alpha", "lang": "en"},
+        {"word": "beta", "lang": "en"},
+        {"word": "Alpha", "lang": "en"},        # ayni kelime, farkli yazim
+        {"word": "casa", "lang": "es"},
+    ])
+    check("mukerrer kelime havuza girmiyor", eklendi == 3, str(eklendi))
+    check("dil basina sayim dogru", store.pool_count(state, "en") == 2)
+    check("toplam sayim dogru", store.pool_count(state) == 3)
+    check("havuzdaki kelime 'bilinen' sayiliyor",
+          "alpha" in store.known_words(state, "en"))
+    check("havuz dil filtresine uyuyor", "casa" not in store.known_words(state, "en"))
+
+    alinan = store.pool_take(state, "en", 1)
+    check("istenen sayida alindi",
+          len(alinan) == 1 and alinan[0]["word"] == "alpha", str(alinan))
+    check("alinan havuzdan cikarildi", store.pool_count(state, "en") == 1)
+    check("diger dile dokunulmadi", store.pool_count(state, "es") == 1)
+    check("sira korunuyor", store.pool_take(state, "en", 1)[0]["word"] == "beta")
+    check("bos havuz bos liste donuyor", store.pool_take(state, "en", 3) == [])
+
+    # Havuz durumu diske yazilip geri okunabilmeli - slotlar arasinda
+    # yasayacagi tek yer orasi.
+    with tempfile.TemporaryDirectory() as tmp:
+        eski = store.STATE_PATH
+        store.STATE_PATH = Path(tmp) / "state.json"
+        try:
+            s2 = store.empty_state()
+            store.pool_add(s2, [{"word": "gamma", "lang": "en", "ipa": "/g/"}])
+            store.save_state(s2)
+            geri = store.load_state()
+            check("havuz diskte kalici", store.pool_count(geri, "en") == 1)
+            check("havuz alanlari korunuyor", geri["pool"][0]["ipa"] == "/g/")
+        finally:
+            store.STATE_PATH = eski
+
+    # Eski surumden gelen, havuz alani olmayan durum dosyasi cokmemeli.
+    eski_bicim = {"version": 1, "cards": {}, "update_offset": 0}
+    check("havuzsuz eski durum cokmuyor", store.pool_count(eski_bicim) == 0)
+
+    # Haric listesi: havuzdakiler basta olmali ki model onlari tekrar
+    # onerip parti icindeki yerleri bosa harcamasin.
+    state3 = store.empty_state()
+    cid = store.card_id("en", "gonderilmis")
+    state3["cards"][cid] = make_card("gonderilmis", id=cid)
+    store.pool_add(state3, [{"word": "bekleyen", "lang": "en"}])
+    haric = store.recent_words(state3, "en", 10)
+    check("havuzdaki kelime haric listesinde", "bekleyen" in haric, str(haric))
+    check("havuzdaki kelime basta", haric[0] == "bekleyen", str(haric))
+    check("gonderilmis kelime de listede", "gonderilmis" in haric, str(haric))
+    check("haric listesi limitleniyor", len(store.recent_words(state3, "en", 1)) == 1)
+
+
 # --- LLM ciktisi -----------------------------------------------------------
 
 GECERLI = {
@@ -471,6 +529,7 @@ def main() -> int:
     with tempfile.TemporaryDirectory() as tmp:
         test_srs()
         test_store()
+        test_pool()
         test_parsing()
         test_validation()
         test_generate_filters()

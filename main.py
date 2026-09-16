@@ -68,6 +68,28 @@ def _too_soon(state: dict, now: dt.datetime) -> float | None:
     return kalan if kalan > 0 else None
 
 
+def _bos_slot_bildir(state: dict, now: dt.datetime) -> None:
+    """Gonderilecek kart kalmadiginda gunde en fazla bir kez haber verir.
+
+    Her slotta mesaj atmak, saglayici bir gun boyunca kapaliysa kullaniciyi
+    bes ayni bildirimle bogar. Gunde bir kez, okudugu yerden haber vermek
+    yeterli - Actions gunlugune bakmasini beklemek gercekci degil.
+    """
+    bugun = now.date().isoformat()
+    if state.get("last_notice_date") == bugun:
+        return
+    try:
+        deliver.send_message(
+            "<b>lingo-radar</b>\n\n"
+            "Bu slotta yeni kelime uretilemedi - saglayici yanit vermedi "
+            "veya gunluk kota doldu. Vadesi gelen tekrar da yoktu.\n\n"
+            "<i>Sonraki slotta yeniden denenecek.</i>"
+        )
+    except Exception as exc:
+        print(f"  Bilgi mesaji gonderilemedi: {exc}")
+    state["last_notice_date"] = bugun
+
+
 def _print_card(card: dict, kind: str) -> None:
     """--dry-run ciktisi: Telegram'a gidecek metnin duz hali."""
     import re
@@ -84,6 +106,7 @@ def show_stats(state: dict) -> int:
     print(f"Toplam kelime     : {ozet['toplam']}")
     print(f"Oturmus (5+ kutu) : {ozet['oturmus']}")
     print(f"Bugun vadesi gelen: {ozet['bekleyen']}")
+    print(f"Havuzda bekleyen  : {ozet['havuz']} kelime")
     for dil in config.LANGS:
         spec = config.lang_spec(dil)
         adet = len(store.known_words(state, dil))
@@ -246,34 +269,57 @@ def main() -> int:
     tekrarlar = store.due_cards(state, today, tekrar_adet, langs=config.LANGS)
     print(f"Vadesi gelen tekrar: {len(tekrarlar)} kart")
 
-    # 4) Yeni kelimeler. Her dil icin ayri cagri - tek istemde iki dil
-    #    karistirmak model ciktisinin kalitesini belirgin dusuruyor.
+    # 4) Yeni kelimeler havuzdan gelir. Havuz bu slotu karsilamiyorsa tek
+    #    bir LLM cagrisiyla gunun tamami uretilip havuza konur - slot basina
+    #    cagri yapmak ucretsiz katmanin gunluk istek hakkini bitiriyordu.
+    #    Her dil icin ayri cagri: tek istemde iki dil karistirmak model
+    #    ciktisinin kalitesini belirgin dusuruyor.
     yeniler: list[tuple[dict, str]] = []
-    if not args.no_llm and yeni_adet > 0:
+    if yeni_adet > 0:
         for dil, adet in _split_quota(yeni_adet, config.LANGS).items():
             if adet <= 0:
                 continue
             spec = config.lang_spec(dil)
-            print(f"{spec['label']} icin {adet} kelime uretiliyor "
-                  f"(seviye {spec['level']})...")
-            try:
-                kelimeler = generate.generate(
-                    dil, adet,
-                    exclude=store.recent_words(state, dil, config.EXCLUDE_HINT_LIMIT),
-                    known=store.known_words(state, dil),
-                )
-            except Exception as exc:
-                # Ucretsiz katmanda gunluk kota dolabilir; tekrarlar LLM
-                # gerektirmiyor, o yuzden gonderim tumden iptal edilmez.
-                print(f"  Kelime uretilemedi ({type(exc).__name__}: {exc})")
-                continue
-            for kelime in kelimeler:
+            elde = store.pool_count(state, dil)
+
+            if elde < adet and not args.no_llm:
+                # Havuzu tepeye kadar dolduruyoruz: bugun bir daha cagri
+                # yapmamak icin. En az bu slotun ihtiyaci kadar isteriz.
+                istenen = max(config.POOL_TARGET - elde, adet)
+                print(f"{spec['label']} havuzunda {elde} kelime var, "
+                      f"{istenen} kelime uretiliyor (seviye {spec['level']})...")
+                try:
+                    kelimeler = generate.generate(
+                        dil, istenen,
+                        exclude=store.recent_words(state, dil, config.EXCLUDE_HINT_LIMIT),
+                        known=store.known_words(state, dil),
+                    )
+                except Exception as exc:
+                    # Kota dolmus ya da saglayici yanit vermiyor olabilir.
+                    # Tekrarlar LLM gerektirmiyor; gonderim tumden iptal
+                    # edilmez, havuzda ne varsa o gider.
+                    print(f"  Kelime uretilemedi ({type(exc).__name__}: {exc})")
+                else:
+                    print(f"  Havuza {store.pool_add(state, kelimeler)} kelime eklendi.")
+            elif elde >= adet:
+                print(f"{spec['label']}: havuzdan {adet} kelime "
+                      f"({elde} bekliyor, LLM cagrisi yok)")
+
+            for kelime in store.pool_take(state, dil, adet):
                 kelime["id"] = store.card_id(dil, kelime["word"])
                 yeniler.append((kelime, dil))
 
     if not tekrarlar and not yeniler:
+        # Bu bir cokme degil: saglayici gecici olarak yanit vermemis ya da
+        # gunluk kota dolmus, ustelik vadesi gelen tekrar da yok. Hata
+        # koduyla cikmak her seferinde kirmizi bir calisma ve bir ariza
+        # e-postasi uretiyordu. Bunun yerine gunde bir kez Telegram'dan
+        # haber verip sessizce cikiyoruz; sonraki slot yeniden deniyor.
         print("Gonderilecek kart yok. (Tekrar vadesi gelmemis ve yeni kelime uretilememis.)")
-        return 1
+        if not args.dry_run:
+            _bos_slot_bildir(state, now)
+            store.save_state(state)
+        return 0
 
     gonderilenler: list[tuple[dict, str]] = []
     sesli = config.AUDIO_ENABLED and not args.no_audio
