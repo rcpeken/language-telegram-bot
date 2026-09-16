@@ -50,6 +50,54 @@
       "unknown_count": 1,
       "word": "discrepancy"
     },
+    "5cb32c1670": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "direct relevance",
+        "lose relevance"
+      ],
+      "definition_en": "The degree to which something is related or useful to what is happening.",
+      "due": "2026-09-17",
+      "example": "The teacher explained the historical relevance of the event to modern society.",
+      "example_tr": "Öğretmen, olayın modern toplumla olan tarihi ilişkisini açıkladı.",
+      "first_seen": "2026-09-16T15:02:30.116093+03:00",
+      "id": "5cb32c1670",
+      "ipa": "/ˈreləvəns/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-16",
+      "level": "B2",
+      "meaning_tr": "ilgi, alaka, ilişki",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "relevance"
+    },
+    "6f2293150e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "implement a policy",
+        "implement changes"
+      ],
+      "definition_en": "To start using a plan, system, or decision.",
+      "due": "2026-09-17",
+      "example": "The local government decided to implement new recycling policies starting next month.",
+      "example_tr": "Yerel yönetim önümüzdeki aydan itibaren yeni geri dönüşüm politikalarını uygulamaya karar verdi.",
+      "first_seen": "2026-09-16T15:02:30.116093+03:00",
+      "id": "6f2293150e",
+      "ipa": "/ˈɪmplɪment/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-16",
+      "level": "B2",
+      "meaning_tr": "uygulamak, yürürlüğe koymak, gerçekleştirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "implement"
+    },
     "9b20ce2921": {
       "answered_count": 1,
       "box": 1,
@@ -126,6 +174,30 @@
       "unknown_count": 0,
       "word": "substantial"
     },
+    "f09deb610d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "unprecedented rise",
+        "unprecedented challenge"
+      ],
+      "definition_en": "Never having happened or existed in the past.",
+      "due": "2026-09-17",
+      "example": "The company experienced unprecedented growth after launching its new software worldwide.",
+      "example_tr": "Şirket, yeni yazılımını dünya çapında piyasaya sürdükten sonra eşi görülmemiş bir büyüme yaşadı.",
+      "first_seen": "2026-09-16T15:02:30.116093+03:00",
+      "id": "f09deb610d",
+      "ipa": "/ʌnˈpresɪdentɪd/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-16",
+      "level": "C1",
+      "meaning_tr": "eşi görülmemiş, emsalsiz, benzersiz",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "unprecedented"
+    },
     "fac9c0cdb7": {
       "answered_count": 0,
       "box": 1,
@@ -151,7 +223,7 @@
       "word": "acknowledge"
     }
   },
-  "last_sent_at": "2026-09-16T11:00:52.379460+03:00",
+  "last_sent_at": "2026-09-16T15:02:30.116093+03:00",
   "update_offset": 626511668,
   "version": 1
 }
