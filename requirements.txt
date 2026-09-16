@@ -1,0 +1,9 @@
+requests>=2.32.0
+python-dotenv>=1.0.1
+
+# Telaffuz sesi icin. Google Translate'in TTS ucunu kullanir - anahtar
+# istemez, ucretsizdir. LINGO_AUDIO=0 ile kapatirsan bu paket gerekmez.
+gTTS>=2.5.1
+
+# Gemini, Groq ve OpenRouter icin ek paket gerekmiyor - hepsi REST API.
+# Sadece Claude kullanacaksan: pip install anthropic

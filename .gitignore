@@ -1,0 +1,17 @@
+# Sirlar - asla commit'lenmez
+.env
+.env.local
+.env.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Gecici uretilen dosyalar
+*.mp3
+*.bozuk
+
+# Ajan/oturum notlari - urunun parcasi degil, repoya gitmez
+context.md

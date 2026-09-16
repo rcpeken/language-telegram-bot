@@ -1,0 +1,66 @@
+name: Lingo Feedback
+
+# Dugme cevaplarini sik araliklarla isler - kart gondermez.
+#
+# Asil is akisi (lingo-radar.yml) zaten her calismanin basinda cevaplari
+# okuyor, yani bu dosya olmasa da sistem calisir; sadece cevabin islenmesi
+# uc saate kadar gecikir. Bu akis o gecikmeyi ~10 dakikaya indiriyor.
+#
+# ONEMLI - ucret: public repoda Actions dakikasi sinirsiz ve bu akis
+# bedava. Private repoda aylik 2000 dakikalik ucretsiz kota var ve 10
+# dakikada bir calismak onu asar. Repon private ise ya bu dosyayi sil,
+# ya da cron'u "0 */1 * * *" gibi saatlik bir araliga cek.
+
+on:
+  schedule:
+    # TR 09:00-22:59 arasi her 10 dakikada bir. Gece calismasi gereksiz:
+    # kart gonderilmiyorsa basilacak dugme de yok.
+    - cron: "*/10 6-19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Kart gonderen akisla AYNI grup: ikisi ayni anda data/state.json'a
+# yazarsa biri digerinin commit'ini ezer. Ayni grup sirali calistiriyor.
+concurrency:
+  group: lingo-radar
+  cancel-in-progress: false
+
+jobs:
+  feedback:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      # Sadece cevap isliyoruz: ne LLM ne de ses gerekiyor. Iki paket
+      # kurmak tam listeyi kurmaktan belirgin hizli - bu akis gunde
+      # 84 kez calistigi icin fark birikiyor.
+      - name: Bagimliliklari kur
+        run: pip install requests python-dotenv
+
+      - name: Cevaplari isle
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py --feedback-only
+
+      - name: Hafizayi kaydet
+        run: |
+          git config user.name "lingo-radar"
+          git config user.email "lingo-radar@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Yeni cevap yok."
+          else
+            git commit -m "dugme cevaplari islendi"
+            git pull --rebase --autostash
+            git push
+          fi

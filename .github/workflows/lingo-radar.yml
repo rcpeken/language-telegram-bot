@@ -1,0 +1,81 @@
+name: Lingo Radar
+
+on:
+  schedule:
+    # TR saati yil boyu UTC+3 (yaz saati uygulamasi yok).
+    # Slotlar: 09:00, 12:00, 15:00, 18:00, 21:00 TR -> 06,09,12,15,18 UTC.
+    #
+    # Dakika olarak ":17" secildi. Saat basi ("00") GitHub'in en sikisik
+    # dilimi; planli calismalar orada saatlerce gecikiyor, yogunlukta
+    # tamamen dusuruluyor. Tek dakika kaydirmak bu kuyrugun disina cikariyor.
+    - cron: "17 6,9,12,15,18 * * *"
+    # Yedek deneme: ilki hic tetiklenmezse bu yakalar. Ilki calistiysa
+    # main.py son gonderimin uzerinden 2 saat gecmedigini gorup sessizce
+    # cikar - mukerrer kart gonderilmez.
+    - cron: "47 7,10,13,16,19 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Slot araligi kontrolunu atla"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Iki calisma ayni anda durum dosyasina yazarsa biri digerinin uzerine
+# commit atmaya calisir. Sirali calistirmak bunu tumden engelliyor.
+concurrency:
+  group: lingo-radar
+  cancel-in-progress: false
+
+jobs:
+  words:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Bagimliliklari kur
+        run: pip install -r requirements.txt
+
+      - name: Kelimeleri uret ve gonder
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          LINGO_PROVIDER: ${{ vars.LINGO_PROVIDER || 'gemini' }}
+          LINGO_MODEL: ${{ vars.LINGO_MODEL }}
+          LINGO_LANGS: ${{ vars.LINGO_LANGS || 'en' }}
+          LINGO_EN_LEVEL: ${{ vars.LINGO_EN_LEVEL || 'B2-C1' }}
+          LINGO_ES_LEVEL: ${{ vars.LINGO_ES_LEVEL || 'A1-A2' }}
+          LINGO_NEW_PER_RUN: ${{ vars.LINGO_NEW_PER_RUN || '3' }}
+          LINGO_REVIEW_PER_RUN: ${{ vars.LINGO_REVIEW_PER_RUN || '2' }}
+          LINGO_AUDIO: ${{ vars.LINGO_AUDIO || '1' }}
+        run: python main.py ${{ inputs.force && '--force' || '' }}
+
+      - name: Hafizayi kaydet
+        # Gonderim adimi patlasa bile calisiyor: islenmis dugme cevaplari
+        # ve ilerletilmis getUpdates offset'i kaybolmasin.
+        if: always()
+        run: |
+          git config user.name "lingo-radar"
+          git config user.email "lingo-radar@users.noreply.github.com"
+          git add data/ archive/
+          if git diff --staged --quiet; then
+            echo "Degisiklik yok."
+          else
+            git commit -m "kelime hafizasi guncellendi"
+            # Yedek calisma ile yaris ihtimaline karsi: uzaktakini al, uzerine bin.
+            git pull --rebase --autostash
+            git push
+          fi

@@ -1,0 +1,85 @@
+{
+  "cards": {
+    "5605b53981": {
+      "answered_count": 1,
+      "box": 1,
+      "collocations": [
+        "wide discrepancy",
+        "discrepancy between"
+      ],
+      "definition_en": "A difference between two things that should be the same.",
+      "due": "2026-09-17",
+      "example": "The accountant found a significant discrepancy between the two financial reports.",
+      "example_tr": "Muhasebeci iki mali rapor arasında önemli bir tutarsızlık buldu.",
+      "first_seen": "2026-09-16T10:12:29.899891+03:00",
+      "id": "5605b53981",
+      "ipa": "/dɪˈskrep.ən.si/",
+      "known_count": 0,
+      "lang": "en",
+      "last_answer": "unknown",
+      "last_answered_at": "2026-09-16",
+      "last_shown_at": "2026-09-16",
+      "level": "C1",
+      "meaning_tr": "tutarsızlık, çelişki, fark",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 1,
+      "word": "discrepancy"
+    },
+    "9b20ce2921": {
+      "answered_count": 1,
+      "box": 1,
+      "collocations": [
+        "resilient system",
+        "highly resilient"
+      ],
+      "definition_en": "Able to quickly return to a previous good condition after a difficult situation.",
+      "due": "2026-09-17",
+      "example": "Local businesses proved to be highly resilient during the economic crisis last year.",
+      "example_tr": "Yerel işletmeler geçen yılki ekonomik kriz sırasında son derece dirençli olduklarını kanıtladılar.",
+      "first_seen": "2026-09-16T10:12:29.899891+03:00",
+      "id": "9b20ce2921",
+      "ipa": "/rɪˈzɪl.jənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_answer": "unknown",
+      "last_answered_at": "2026-09-16",
+      "last_shown_at": "2026-09-16",
+      "level": "B2",
+      "meaning_tr": "dirençli, esnek, güçlü",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 1,
+      "word": "resilient"
+    },
+    "bb3b6440dc": {
+      "answered_count": 2,
+      "box": 1,
+      "collocations": [
+        "advocate for change",
+        "strongly advocate"
+      ],
+      "definition_en": "To publicly support or suggest an idea, development, or way of doing something.",
+      "due": "2026-09-17",
+      "example": "Many environmental groups advocate using public transport to reduce carbon emissions in cities.",
+      "example_tr": "Birçok çevre grubu, şehirlerdeki karbon emisyonlarını azaltmak için toplu taşıma araçlarının kullanılmasını savunuyor.",
+      "first_seen": "2026-09-16T10:12:29.899891+03:00",
+      "id": "bb3b6440dc",
+      "ipa": "/ˈæd.və.keɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_answer": "unknown",
+      "last_answered_at": "2026-09-16",
+      "last_shown_at": "2026-09-16",
+      "level": "C1",
+      "meaning_tr": "savunmak, desteklemek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 2,
+      "word": "advocate"
+    }
+  },
+  "last_sent_at": "2026-09-16T10:12:29.899891+03:00",
+  "update_offset": 626511668,
+  "version": 1
+}
