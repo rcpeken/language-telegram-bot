@@ -96,6 +96,30 @@
       "unknown_count": 0,
       "word": "reluctantly"
     },
+    "52ce49305c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "enhance performance",
+        "enhance skills"
+      ],
+      "definition_en": "To improve the quality, amount, or strength of something.",
+      "due": "2026-09-18",
+      "example": "Adding fresh herbs at the end of cooking will enhance the soup's flavor.",
+      "example_tr": "Pişirme işleminin sonunda taze otlar eklemek çorbanın lezzetini artıracaktır.",
+      "first_seen": "2026-09-17T20:05:50.551121+03:00",
+      "id": "52ce49305c",
+      "ipa": "/ɪnˈhɑːns/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-17",
+      "level": "B2",
+      "meaning_tr": "artırmak, geliştirmek, iyileştirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "enhance"
+    },
     "5605b53981": {
       "answered_count": 1,
       "box": 1,
@@ -121,6 +145,30 @@
       "shown_count": 2,
       "unknown_count": 1,
       "word": "discrepancy"
+    },
+    "580c00e545": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "subsequently developed",
+        "subsequently discovered"
+      ],
+      "definition_en": "After something else has happened.",
+      "due": "2026-09-18",
+      "example": "She worked hard at university and was subsequently offered a prestigious job in London.",
+      "example_tr": "Üniversitede çok çalıştı ve sonrasında kendisine Londra'da prestijli bir iş teklif edildi.",
+      "first_seen": "2026-09-17T20:05:50.551121+03:00",
+      "id": "580c00e545",
+      "ipa": "/ˈsʌbsɪkwəntli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-17",
+      "level": "B2",
+      "meaning_tr": "sonradan, sonrasında, daha sonra",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "subsequently"
     },
     "5cb32c1670": {
       "answered_count": 1,
@@ -198,6 +246,30 @@
       "unknown_count": 0,
       "word": "implement"
     },
+    "782e5d921a": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "on the verge of collapse",
+        "on the verge of tears"
+      ],
+      "definition_en": "Very close to experiencing or doing something.",
+      "due": "2026-09-18",
+      "example": "The scientists believe that they are on the verge of discovering a cure.",
+      "example_tr": "Bilim insanları bir tedavi bulmanın eşiğinde olduklarına inanıyorlar.",
+      "first_seen": "2026-09-17T20:05:50.551121+03:00",
+      "id": "782e5d921a",
+      "ipa": "/ɒn ðə vɜːdʒ ɒv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-17",
+      "level": "B2",
+      "meaning_tr": "-in eşiğinde, üzere",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "on the verge of"
+    },
     "9b20ce2921": {
       "answered_count": 1,
       "box": 1,
@@ -206,7 +278,7 @@
         "highly resilient"
       ],
       "definition_en": "Able to quickly return to a previous good condition after a difficult situation.",
-      "due": "2026-09-17",
+      "due": "2026-09-18",
       "example": "Local businesses proved to be highly resilient during the economic crisis last year.",
       "example_tr": "Yerel işletmeler geçen yılki ekonomik kriz sırasında son derece dirençli olduklarını kanıtladılar.",
       "first_seen": "2026-09-16T10:12:29.899891+03:00",
@@ -216,11 +288,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-16",
+      "last_shown_at": "2026-09-17",
       "level": "B2",
       "meaning_tr": "dirençli, esnek, güçlü",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 1,
       "word": "resilient"
     },
@@ -232,7 +304,7 @@
         "strong incentive"
       ],
       "definition_en": "Something that encourages you to work harder or start a new activity.",
-      "due": "2026-09-17",
+      "due": "2026-09-18",
       "example": "The company offers a financial incentive to employees who meet their monthly targets.",
       "example_tr": "Şirket, aylık hedeflerine ulaşan çalışanlara maddi bir teşvik sunuyor.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -240,11 +312,11 @@
       "ipa": "/ɪnˈsentɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-16",
+      "last_shown_at": "2026-09-17",
       "level": "B2",
       "meaning_tr": "teşvik, güdü, özendirici",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "incentive"
     },
@@ -373,53 +445,8 @@
       "word": "acknowledge"
     }
   },
-  "last_sent_at": "2026-09-17T14:49:12.236690+03:00",
+  "last_sent_at": "2026-09-17T20:05:50.551121+03:00",
   "pool": [
-    {
-      "collocations": [
-        "subsequently developed",
-        "subsequently discovered"
-      ],
-      "definition_en": "After something else has happened.",
-      "example": "She worked hard at university and was subsequently offered a prestigious job in London.",
-      "example_tr": "Üniversitede çok çalıştı ve sonrasında kendisine Londra'da prestijli bir iş teklif edildi.",
-      "ipa": "/ˈsʌbsɪkwəntli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "sonradan, sonrasında, daha sonra",
-      "pos": "adverb",
-      "word": "subsequently"
-    },
-    {
-      "collocations": [
-        "on the verge of collapse",
-        "on the verge of tears"
-      ],
-      "definition_en": "Very close to experiencing or doing something.",
-      "example": "The scientists believe that they are on the verge of discovering a cure.",
-      "example_tr": "Bilim insanları bir tedavi bulmanın eşiğinde olduklarına inanıyorlar.",
-      "ipa": "/ɒn ðə vɜːdʒ ɒv/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "-in eşiğinde, üzere",
-      "pos": "phrase",
-      "word": "on the verge of"
-    },
-    {
-      "collocations": [
-        "enhance performance",
-        "enhance skills"
-      ],
-      "definition_en": "To improve the quality, amount, or strength of something.",
-      "example": "Adding fresh herbs at the end of cooking will enhance the soup's flavor.",
-      "example_tr": "Pişirme işleminin sonunda taze otlar eklemek çorbanın lezzetini artıracaktır.",
-      "ipa": "/ɪnˈhɑːns/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "artırmak, geliştirmek, iyileştirmek",
-      "pos": "verb",
-      "word": "enhance"
-    },
     {
       "collocations": [
         "vague memory",
