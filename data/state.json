@@ -1,5 +1,29 @@
 {
   "cards": {
+    "1add7c295e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "deteriorate rapidly",
+        "health deteriorated"
+      ],
+      "definition_en": "To become worse in quality or condition over time.",
+      "due": "2026-09-19",
+      "example": "The weather conditions began to deteriorate rapidly as the storm approached the coast.",
+      "example_tr": "Fırtına kıyıya yaklaştıkça hava koşulları hızla kötüleşmeye başladı.",
+      "first_seen": "2026-09-18T00:27:29.467923+03:00",
+      "id": "1add7c295e",
+      "ipa": "/dɪˈtɪəriəreɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-18",
+      "level": "C1",
+      "meaning_tr": "kötüleşmek, bozulmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "deteriorate"
+    },
     "2f2916f101": {
       "answered_count": 0,
       "box": 1,
@@ -95,6 +119,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "reluctantly"
+    },
+    "4f1b8d11a9": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "vague memory",
+        "vague answer"
+      ],
+      "definition_en": "Not clearly expressed, known, described, or decided.",
+      "due": "2026-09-19",
+      "example": "The manager gave a very vague explanation about the reasons for the delay.",
+      "example_tr": "Müdür, gecikmenin nedenleri hakkında çok belirsiz bir açıklama yaptı.",
+      "first_seen": "2026-09-18T00:27:29.467923+03:00",
+      "id": "4f1b8d11a9",
+      "ipa": "/veɪɡ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-18",
+      "level": "B2",
+      "meaning_tr": "belirsiz, net olmayan, muğlak",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "vague"
     },
     "52ce49305c": {
       "answered_count": 0,
@@ -270,6 +318,30 @@
       "unknown_count": 0,
       "word": "on the verge of"
     },
+    "8cbb8b6e15": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "precisely because",
+        "know precisely"
+      ],
+      "definition_en": "Exactly and accurately in every detail.",
+      "due": "2026-09-19",
+      "example": "The package arrived at precisely three o'clock, just as they had promised.",
+      "example_tr": "Paket, tam olarak söz verdikleri gibi saat üçte ulaştı.",
+      "first_seen": "2026-09-18T00:27:29.467923+03:00",
+      "id": "8cbb8b6e15",
+      "ipa": "/prɪˈsaɪsli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-18",
+      "level": "B2",
+      "meaning_tr": "tam olarak, kesinlikle, hassasiyetle",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "precisely"
+    },
     "9b20ce2921": {
       "answered_count": 1,
       "box": 1,
@@ -328,7 +400,7 @@
         "strongly advocate"
       ],
       "definition_en": "To publicly support or suggest an idea, development, or way of doing something.",
-      "due": "2026-09-17",
+      "due": "2026-09-19",
       "example": "Many environmental groups advocate using public transport to reduce carbon emissions in cities.",
       "example_tr": "Birçok çevre grubu, şehirlerdeki karbon emisyonlarını azaltmak için toplu taşıma araçlarının kullanılmasını savunuyor.",
       "first_seen": "2026-09-16T10:12:29.899891+03:00",
@@ -338,11 +410,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-16",
+      "last_shown_at": "2026-09-18",
       "level": "C1",
       "meaning_tr": "savunmak, desteklemek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 2,
       "word": "advocate"
     },
@@ -354,7 +426,7 @@
         "ambiguous answer"
       ],
       "definition_en": "Having more than one possible meaning, which makes it confusing or unclear.",
-      "due": "2026-09-17",
+      "due": "2026-09-19",
       "example": "The instructions were so ambiguous that none of the students knew what to do.",
       "example_tr": "Yönergeler o kadar belirsizdi ki öğrencilerin hiçbiri ne yapacağını bilemedi.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -362,11 +434,11 @@
       "ipa": "/æmˈbɪɡjuəs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-16",
+      "last_shown_at": "2026-09-18",
       "level": "C1",
       "meaning_tr": "belirsiz, muğlak, iki anlamlı",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "ambiguous"
     },
@@ -445,53 +517,8 @@
       "word": "acknowledge"
     }
   },
-  "last_sent_at": "2026-09-17T20:05:50.551121+03:00",
+  "last_sent_at": "2026-09-18T00:27:29.467923+03:00",
   "pool": [
-    {
-      "collocations": [
-        "vague memory",
-        "vague answer"
-      ],
-      "definition_en": "Not clearly expressed, known, described, or decided.",
-      "example": "The manager gave a very vague explanation about the reasons for the delay.",
-      "example_tr": "Müdür, gecikmenin nedenleri hakkında çok belirsiz bir açıklama yaptı.",
-      "ipa": "/veɪɡ/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "belirsiz, net olmayan, muğlak",
-      "pos": "adjective",
-      "word": "vague"
-    },
-    {
-      "collocations": [
-        "precisely because",
-        "know precisely"
-      ],
-      "definition_en": "Exactly and accurately in every detail.",
-      "example": "The package arrived at precisely three o'clock, just as they had promised.",
-      "example_tr": "Paket, tam olarak söz verdikleri gibi saat üçte ulaştı.",
-      "ipa": "/prɪˈsaɪsli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "tam olarak, kesinlikle, hassasiyetle",
-      "pos": "adverb",
-      "word": "precisely"
-    },
-    {
-      "collocations": [
-        "deteriorate rapidly",
-        "health deteriorated"
-      ],
-      "definition_en": "To become worse in quality or condition over time.",
-      "example": "The weather conditions began to deteriorate rapidly as the storm approached the coast.",
-      "example_tr": "Fırtına kıyıya yaklaştıkça hava koşulları hızla kötüleşmeye başladı.",
-      "ipa": "/dɪˈtɪəriəreɪt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "kötüleşmek, bozulmak",
-      "pos": "verb",
-      "word": "deteriorate"
-    },
     {
       "collocations": [
         "profound impact",
