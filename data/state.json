@@ -24,6 +24,54 @@
       "unknown_count": 0,
       "word": "oversee"
     },
+    "340d6aa8a2": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "inevitable outcome",
+        "seem inevitable"
+      ],
+      "definition_en": "Certain to happen and impossible to avoid.",
+      "due": "2026-09-18",
+      "example": "With such heavy rain, a delay in the flight schedule was inevitable.",
+      "example_tr": "Böylesine şiddetli yağmurda, uçuş planındaki bir gecikme kaçınılmazdı.",
+      "first_seen": "2026-09-17T14:49:12.236690+03:00",
+      "id": "340d6aa8a2",
+      "ipa": "/ɪnˈevɪtəbl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-17",
+      "level": "B2",
+      "meaning_tr": "kaçınılmaz",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "inevitable"
+    },
+    "3edc8309ee": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "coincide with",
+        "dates coincide"
+      ],
+      "definition_en": "To happen at the same time as something else.",
+      "due": "2026-09-18",
+      "example": "Our summer holiday plans coincide with the annual music festival in Paris.",
+      "example_tr": "Yaz tatili planlarımız, Paris'teki yıllık müzik festivaliyle denk geliyor.",
+      "first_seen": "2026-09-17T14:49:12.236690+03:00",
+      "id": "3edc8309ee",
+      "ipa": "/ˌkəʊɪnˈsaɪd/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-17",
+      "level": "C1",
+      "meaning_tr": "denk gelmek, uyuşmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "coincide"
+    },
     "40fdfd0765": {
       "answered_count": 0,
       "box": 1,
@@ -56,7 +104,7 @@
         "discrepancy between"
       ],
       "definition_en": "A difference between two things that should be the same.",
-      "due": "2026-09-17",
+      "due": "2026-09-18",
       "example": "The accountant found a significant discrepancy between the two financial reports.",
       "example_tr": "Muhasebeci iki mali rapor arasında önemli bir tutarsızlık buldu.",
       "first_seen": "2026-09-16T10:12:29.899891+03:00",
@@ -66,11 +114,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-16",
+      "last_shown_at": "2026-09-17",
       "level": "C1",
       "meaning_tr": "tutarsızlık, çelişki, fark",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 1,
       "word": "discrepancy"
     },
@@ -82,7 +130,7 @@
         "lose relevance"
       ],
       "definition_en": "The degree to which something is related or useful to what is happening.",
-      "due": "2026-09-17",
+      "due": "2026-09-18",
       "example": "The teacher explained the historical relevance of the event to modern society.",
       "example_tr": "Öğretmen, olayın modern toplumla olan tarihi ilişkisini açıkladı.",
       "first_seen": "2026-09-16T15:02:30.116093+03:00",
@@ -92,13 +140,37 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-16",
+      "last_shown_at": "2026-09-17",
       "level": "B2",
       "meaning_tr": "ilgi, alaka, ilişki",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 1,
       "word": "relevance"
+    },
+    "647fecee80": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "feasibility study",
+        "assess the feasibility"
+      ],
+      "definition_en": "The quality of being easily or conveniently done.",
+      "due": "2026-09-18",
+      "example": "The board of directors is currently conducting a feasibility study on the new project.",
+      "example_tr": "Yönetim kurulu şu anda yeni proje üzerine bir yapılabilirlik çalışması yürütüyor.",
+      "first_seen": "2026-09-17T14:49:12.236690+03:00",
+      "id": "647fecee80",
+      "ipa": "/ˌfiːzəˈbɪləti/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-17",
+      "level": "C1",
+      "meaning_tr": "yapılabilirlik, uygulanabilirlik",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "feasibility"
     },
     "6f2293150e": {
       "answered_count": 1,
@@ -301,8 +373,189 @@
       "word": "acknowledge"
     }
   },
-  "last_sent_at": "2026-09-17T01:24:08.280350+03:00",
-  "pool": [],
+  "last_sent_at": "2026-09-17T14:49:12.236690+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "subsequently developed",
+        "subsequently discovered"
+      ],
+      "definition_en": "After something else has happened.",
+      "example": "She worked hard at university and was subsequently offered a prestigious job in London.",
+      "example_tr": "Üniversitede çok çalıştı ve sonrasında kendisine Londra'da prestijli bir iş teklif edildi.",
+      "ipa": "/ˈsʌbsɪkwəntli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "sonradan, sonrasında, daha sonra",
+      "pos": "adverb",
+      "word": "subsequently"
+    },
+    {
+      "collocations": [
+        "on the verge of collapse",
+        "on the verge of tears"
+      ],
+      "definition_en": "Very close to experiencing or doing something.",
+      "example": "The scientists believe that they are on the verge of discovering a cure.",
+      "example_tr": "Bilim insanları bir tedavi bulmanın eşiğinde olduklarına inanıyorlar.",
+      "ipa": "/ɒn ðə vɜːdʒ ɒv/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "-in eşiğinde, üzere",
+      "pos": "phrase",
+      "word": "on the verge of"
+    },
+    {
+      "collocations": [
+        "enhance performance",
+        "enhance skills"
+      ],
+      "definition_en": "To improve the quality, amount, or strength of something.",
+      "example": "Adding fresh herbs at the end of cooking will enhance the soup's flavor.",
+      "example_tr": "Pişirme işleminin sonunda taze otlar eklemek çorbanın lezzetini artıracaktır.",
+      "ipa": "/ɪnˈhɑːns/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "artırmak, geliştirmek, iyileştirmek",
+      "pos": "verb",
+      "word": "enhance"
+    },
+    {
+      "collocations": [
+        "vague memory",
+        "vague answer"
+      ],
+      "definition_en": "Not clearly expressed, known, described, or decided.",
+      "example": "The manager gave a very vague explanation about the reasons for the delay.",
+      "example_tr": "Müdür, gecikmenin nedenleri hakkında çok belirsiz bir açıklama yaptı.",
+      "ipa": "/veɪɡ/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "belirsiz, net olmayan, muğlak",
+      "pos": "adjective",
+      "word": "vague"
+    },
+    {
+      "collocations": [
+        "precisely because",
+        "know precisely"
+      ],
+      "definition_en": "Exactly and accurately in every detail.",
+      "example": "The package arrived at precisely three o'clock, just as they had promised.",
+      "example_tr": "Paket, tam olarak söz verdikleri gibi saat üçte ulaştı.",
+      "ipa": "/prɪˈsaɪsli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "tam olarak, kesinlikle, hassasiyetle",
+      "pos": "adverb",
+      "word": "precisely"
+    },
+    {
+      "collocations": [
+        "deteriorate rapidly",
+        "health deteriorated"
+      ],
+      "definition_en": "To become worse in quality or condition over time.",
+      "example": "The weather conditions began to deteriorate rapidly as the storm approached the coast.",
+      "example_tr": "Fırtına kıyıya yaklaştıkça hava koşulları hızla kötüleşmeye başladı.",
+      "ipa": "/dɪˈtɪəriəreɪt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "kötüleşmek, bozulmak",
+      "pos": "verb",
+      "word": "deteriorate"
+    },
+    {
+      "collocations": [
+        "profound impact",
+        "profound effect"
+      ],
+      "definition_en": "Showing a clear and deep understanding or having a strong effect.",
+      "example": "His grandmother's wise advice had a profound influence on his career choices.",
+      "example_tr": "Büyükannesinin bilgece tavsiyeleri, onun kariyer seçimleri üzerinde derin bir etki yarattı.",
+      "ipa": "/prəˈfaʊnd/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "derin, büyük, etkili",
+      "pos": "adjective",
+      "word": "profound"
+    },
+    {
+      "collocations": [
+        "aging infrastructure",
+        "improve infrastructure"
+      ],
+      "definition_en": "The basic systems and services that a country or organization uses.",
+      "example": "The government plans to invest billions of dollars in upgrading the country's transport infrastructure.",
+      "example_tr": "Hükümet, ülkenin ulaşım altyapısını modernize etmek için milyarlarca dolar yatırım yapmayı planlıyor.",
+      "ipa": "/ˈɪnfrəstrʌktʃə(r)/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "altyapı",
+      "pos": "noun",
+      "word": "infrastructure"
+    },
+    {
+      "collocations": [
+        "come to terms with reality",
+        "come to terms with grief"
+      ],
+      "definition_en": "To gradually accept a sad or difficult situation.",
+      "example": "It took her several months to come to terms with losing her job.",
+      "example_tr": "İşini kaybetmeyi kabullenmesi onun birkaç ayını aldı.",
+      "ipa": "/kʌm tuː tɜːmz wɪð/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "kabullenmek, alışmak, uzlaşmak",
+      "pos": "phrase",
+      "word": "come to terms with"
+    },
+    {
+      "collocations": [
+        "compile a report",
+        "compile data"
+      ],
+      "definition_en": "To collect information from different places and arrange it in a book or list.",
+      "example": "The research assistant spent three weeks compiling the necessary data for the report.",
+      "example_tr": "Araştırma görevlisi, rapor için gerekli verileri derlemek amacıyla üç hafta harcadı.",
+      "ipa": "/kəmˈpaɪl/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "derlemek, bir araya getirmek",
+      "pos": "verb",
+      "word": "compile"
+    },
+    {
+      "collocations": [
+        "comprehensive review",
+        "comprehensive study"
+      ],
+      "definition_en": "Including all or almost all of the items, facts, or information.",
+      "example": "This textbook provides a comprehensive guide to learning the basics of economics.",
+      "example_tr": "Bu ders kitabı, ekonominin temellerini öğrenmek için kapsamlı bir rehber sunmaktadır.",
+      "ipa": "/ˌkɒmprɪˈhensɪv/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "kapsamlı, detaylı",
+      "pos": "adjective",
+      "word": "comprehensive"
+    },
+    {
+      "collocations": [
+        "mutually beneficial",
+        "mutually exclusive"
+      ],
+      "definition_en": "In a way that is experienced or felt by both sides.",
+      "example": "The two companies reached a mutually beneficial agreement after weeks of negotiation.",
+      "example_tr": "İki şirket, haftalar süren müzakerelerin ardından karşılıklı olarak faydalı bir anlaşmaya vardı.",
+      "ipa": "/ˈmjuːtʃuəli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "karşılıklı olarak, ortaklaşa",
+      "pos": "adverb",
+      "word": "mutually"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
