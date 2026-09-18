@@ -32,7 +32,7 @@
         "oversee operations"
       ],
       "definition_en": "To watch and direct a task or project to make sure it is done correctly.",
-      "due": "2026-09-18",
+      "due": "2026-09-19",
       "example": "The newly appointed manager will oversee the entire transition to the digital platform.",
       "example_tr": "Yeni atanan müdür, dijital platforma geçiş sürecinin tamamını denetleyecek.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -40,11 +40,11 @@
       "ipa": "/ˌəʊvəˈsiː/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-17",
+      "last_shown_at": "2026-09-18",
       "level": "B2",
       "meaning_tr": "denetlemek, yönetmek, gözetmek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "oversee"
     },
@@ -119,6 +119,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "reluctantly"
+    },
+    "4ca277de59": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "mutually beneficial",
+        "mutually exclusive"
+      ],
+      "definition_en": "In a way that is experienced or felt by both sides.",
+      "due": "2026-09-19",
+      "example": "The two companies reached a mutually beneficial agreement after weeks of negotiation.",
+      "example_tr": "İki şirket, haftalar süren müzakerelerin ardından karşılıklı olarak faydalı bir anlaşmaya vardı.",
+      "first_seen": "2026-09-18T19:30:08.439611+03:00",
+      "id": "4ca277de59",
+      "ipa": "/ˈmjuːtʃuəli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-18",
+      "level": "B2",
+      "meaning_tr": "karşılıklı olarak, ortaklaşa",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "mutually"
     },
     "4f1b8d11a9": {
       "answered_count": 0,
@@ -416,6 +440,30 @@
       "unknown_count": 0,
       "word": "incentive"
     },
+    "ae7e688a8a": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "compile a report",
+        "compile data"
+      ],
+      "definition_en": "To collect information from different places and arrange it in a book or list.",
+      "due": "2026-09-19",
+      "example": "The research assistant spent three weeks compiling the necessary data for the report.",
+      "example_tr": "Araştırma görevlisi, rapor için gerekli verileri derlemek amacıyla üç hafta harcadı.",
+      "first_seen": "2026-09-18T19:30:08.439611+03:00",
+      "id": "ae7e688a8a",
+      "ipa": "/kəmˈpaɪl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-18",
+      "level": "B2",
+      "meaning_tr": "derlemek, bir araya getirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "compile"
+    },
     "bb3b6440dc": {
       "answered_count": 2,
       "box": 1,
@@ -538,6 +586,30 @@
       "unknown_count": 0,
       "word": "profound"
     },
+    "e406677485": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "comprehensive review",
+        "comprehensive study"
+      ],
+      "definition_en": "Including all or almost all of the items, facts, or information.",
+      "due": "2026-09-19",
+      "example": "This textbook provides a comprehensive guide to learning the basics of economics.",
+      "example_tr": "Bu ders kitabı, ekonominin temellerini öğrenmek için kapsamlı bir rehber sunmaktadır.",
+      "first_seen": "2026-09-18T19:30:08.439611+03:00",
+      "id": "e406677485",
+      "ipa": "/ˌkɒmprɪˈhensɪv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-18",
+      "level": "B2",
+      "meaning_tr": "kapsamlı, detaylı",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "comprehensive"
+    },
     "f09deb610d": {
       "answered_count": 1,
       "box": 1,
@@ -572,7 +644,7 @@
         "grudgingly acknowledge"
       ],
       "definition_en": "To accept or admit that something is true or exists.",
-      "due": "2026-09-17",
+      "due": "2026-09-19",
       "example": "The manager finally acknowledged that the team had made a significant contribution to the project's success.",
       "example_tr": "Yönetici nihayet ekibin projenin başarısına önemli bir katkı sağladığını kabul etti.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -580,63 +652,17 @@
       "ipa": "/əkˈnɒlɪdʒ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-16",
+      "last_shown_at": "2026-09-18",
       "level": "B2",
       "meaning_tr": "kabul etmek, onaylamak, tanımak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "acknowledge"
     }
   },
-  "last_sent_at": "2026-09-18T14:24:05.575471+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "compile a report",
-        "compile data"
-      ],
-      "definition_en": "To collect information from different places and arrange it in a book or list.",
-      "example": "The research assistant spent three weeks compiling the necessary data for the report.",
-      "example_tr": "Araştırma görevlisi, rapor için gerekli verileri derlemek amacıyla üç hafta harcadı.",
-      "ipa": "/kəmˈpaɪl/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "derlemek, bir araya getirmek",
-      "pos": "verb",
-      "word": "compile"
-    },
-    {
-      "collocations": [
-        "comprehensive review",
-        "comprehensive study"
-      ],
-      "definition_en": "Including all or almost all of the items, facts, or information.",
-      "example": "This textbook provides a comprehensive guide to learning the basics of economics.",
-      "example_tr": "Bu ders kitabı, ekonominin temellerini öğrenmek için kapsamlı bir rehber sunmaktadır.",
-      "ipa": "/ˌkɒmprɪˈhensɪv/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "kapsamlı, detaylı",
-      "pos": "adjective",
-      "word": "comprehensive"
-    },
-    {
-      "collocations": [
-        "mutually beneficial",
-        "mutually exclusive"
-      ],
-      "definition_en": "In a way that is experienced or felt by both sides.",
-      "example": "The two companies reached a mutually beneficial agreement after weeks of negotiation.",
-      "example_tr": "İki şirket, haftalar süren müzakerelerin ardından karşılıklı olarak faydalı bir anlaşmaya vardı.",
-      "ipa": "/ˈmjuːtʃuəli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "karşılıklı olarak, ortaklaşa",
-      "pos": "adverb",
-      "word": "mutually"
-    }
-  ],
+  "last_sent_at": "2026-09-18T19:30:08.439611+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
