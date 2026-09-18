@@ -368,6 +368,30 @@
       "unknown_count": 1,
       "word": "resilient"
     },
+    "a5d9665493": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "aging infrastructure",
+        "improve infrastructure"
+      ],
+      "definition_en": "The basic systems and services that a country or organization uses.",
+      "due": "2026-09-19",
+      "example": "The government plans to invest billions of dollars in upgrading the country's transport infrastructure.",
+      "example_tr": "Hükümet, ülkenin ulaşım altyapısını modernize etmek için milyarlarca dolar yatırım yapmayı planlıyor.",
+      "first_seen": "2026-09-18T14:24:05.575471+03:00",
+      "id": "a5d9665493",
+      "ipa": "/ˈɪnfrəstrʌktʃə(r)/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-18",
+      "level": "B2",
+      "meaning_tr": "altyapı",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "infrastructure"
+    },
     "a87bbffed8": {
       "answered_count": 0,
       "box": 1,
@@ -442,6 +466,30 @@
       "unknown_count": 0,
       "word": "ambiguous"
     },
+    "c7603a9262": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "come to terms with reality",
+        "come to terms with grief"
+      ],
+      "definition_en": "To gradually accept a sad or difficult situation.",
+      "due": "2026-09-19",
+      "example": "It took her several months to come to terms with losing her job.",
+      "example_tr": "İşini kaybetmeyi kabullenmesi onun birkaç ayını aldı.",
+      "first_seen": "2026-09-18T14:24:05.575471+03:00",
+      "id": "c7603a9262",
+      "ipa": "/kʌm tuː tɜːmz wɪð/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-18",
+      "level": "C1",
+      "meaning_tr": "kabullenmek, alışmak, uzlaşmak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "come to terms with"
+    },
     "d5a73dfdc2": {
       "answered_count": 0,
       "box": 1,
@@ -450,7 +498,7 @@
         "substantial growth"
       ],
       "definition_en": "Large in size, value, or importance.",
-      "due": "2026-09-17",
+      "due": "2026-09-19",
       "example": "The company invested a substantial amount of money in developing the new software.",
       "example_tr": "Şirket, yeni yazılımı geliştirmek için önemli miktarda para yatırdı.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -458,13 +506,37 @@
       "ipa": "/səbˈstænʃl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-16",
+      "last_shown_at": "2026-09-18",
       "level": "B2",
       "meaning_tr": "büyük, önemli, kayda değer",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "substantial"
+    },
+    "de7703e99a": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "profound impact",
+        "profound effect"
+      ],
+      "definition_en": "Showing a clear and deep understanding or having a strong effect.",
+      "due": "2026-09-19",
+      "example": "His grandmother's wise advice had a profound influence on his career choices.",
+      "example_tr": "Büyükannesinin bilgece tavsiyeleri, onun kariyer seçimleri üzerinde derin bir etki yarattı.",
+      "first_seen": "2026-09-18T14:24:05.575471+03:00",
+      "id": "de7703e99a",
+      "ipa": "/prəˈfaʊnd/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-18",
+      "level": "C1",
+      "meaning_tr": "derin, büyük, etkili",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "profound"
     },
     "f09deb610d": {
       "answered_count": 1,
@@ -474,7 +546,7 @@
         "unprecedented challenge"
       ],
       "definition_en": "Never having happened or existed in the past.",
-      "due": "2026-09-17",
+      "due": "2026-09-19",
       "example": "The company experienced unprecedented growth after launching its new software worldwide.",
       "example_tr": "Şirket, yeni yazılımını dünya çapında piyasaya sürdükten sonra eşi görülmemiş bir büyüme yaşadı.",
       "first_seen": "2026-09-16T15:02:30.116093+03:00",
@@ -484,11 +556,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-16",
+      "last_shown_at": "2026-09-18",
       "level": "C1",
       "meaning_tr": "eşi görülmemiş, emsalsiz, benzersiz",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 1,
       "word": "unprecedented"
     },
@@ -517,53 +589,8 @@
       "word": "acknowledge"
     }
   },
-  "last_sent_at": "2026-09-18T00:27:29.467923+03:00",
+  "last_sent_at": "2026-09-18T14:24:05.575471+03:00",
   "pool": [
-    {
-      "collocations": [
-        "profound impact",
-        "profound effect"
-      ],
-      "definition_en": "Showing a clear and deep understanding or having a strong effect.",
-      "example": "His grandmother's wise advice had a profound influence on his career choices.",
-      "example_tr": "Büyükannesinin bilgece tavsiyeleri, onun kariyer seçimleri üzerinde derin bir etki yarattı.",
-      "ipa": "/prəˈfaʊnd/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "derin, büyük, etkili",
-      "pos": "adjective",
-      "word": "profound"
-    },
-    {
-      "collocations": [
-        "aging infrastructure",
-        "improve infrastructure"
-      ],
-      "definition_en": "The basic systems and services that a country or organization uses.",
-      "example": "The government plans to invest billions of dollars in upgrading the country's transport infrastructure.",
-      "example_tr": "Hükümet, ülkenin ulaşım altyapısını modernize etmek için milyarlarca dolar yatırım yapmayı planlıyor.",
-      "ipa": "/ˈɪnfrəstrʌktʃə(r)/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "altyapı",
-      "pos": "noun",
-      "word": "infrastructure"
-    },
-    {
-      "collocations": [
-        "come to terms with reality",
-        "come to terms with grief"
-      ],
-      "definition_en": "To gradually accept a sad or difficult situation.",
-      "example": "It took her several months to come to terms with losing her job.",
-      "example_tr": "İşini kaybetmeyi kabullenmesi onun birkaç ayını aldı.",
-      "ipa": "/kʌm tuː tɜːmz wɪð/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "kabullenmek, alışmak, uzlaşmak",
-      "pos": "phrase",
-      "word": "come to terms with"
-    },
     {
       "collocations": [
         "compile a report",
