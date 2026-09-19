@@ -104,7 +104,7 @@
         "reluctantly accept"
       ],
       "definition_en": "In an unwilling and hesitant way.",
-      "due": "2026-09-18",
+      "due": "2026-09-20",
       "example": "She reluctantly agreed to work overtime on the weekend to finish the urgent report.",
       "example_tr": "Acil raporu bitirmek için hafta sonu fazla mesai yapmayı isteksizce kabul etti.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -112,11 +112,11 @@
       "ipa": "/rɪˈlʌktəntli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-17",
+      "last_shown_at": "2026-09-19",
       "level": "C1",
       "meaning_tr": "isteksizce, gönülsüzce",
       "pos": "adverb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "reluctantly"
     },
@@ -176,7 +176,7 @@
         "enhance skills"
       ],
       "definition_en": "To improve the quality, amount, or strength of something.",
-      "due": "2026-09-18",
+      "due": "2026-09-20",
       "example": "Adding fresh herbs at the end of cooking will enhance the soup's flavor.",
       "example_tr": "Pişirme işleminin sonunda taze otlar eklemek çorbanın lezzetini artıracaktır.",
       "first_seen": "2026-09-17T20:05:50.551121+03:00",
@@ -184,11 +184,11 @@
       "ipa": "/ɪnˈhɑːns/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-17",
+      "last_shown_at": "2026-09-19",
       "level": "B2",
       "meaning_tr": "artırmak, geliştirmek, iyileştirmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "enhance"
     },
@@ -217,6 +217,30 @@
       "shown_count": 2,
       "unknown_count": 1,
       "word": "discrepancy"
+    },
+    "56622acfb1": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "lucrative business",
+        "lucrative contract"
+      ],
+      "definition_en": "Producing a great deal of profit or wealth.",
+      "due": "2026-09-20",
+      "example": "She decided to leave her teaching job for a more lucrative career in software sales.",
+      "example_tr": "Yazılım satışlarında daha kazançlı bir kariyer için öğretmenlik işinden ayrılmaya karar verdi.",
+      "first_seen": "2026-09-19T14:08:02.914222+03:00",
+      "id": "56622acfb1",
+      "ipa": "/ˈluːkrətɪv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-19",
+      "level": "B2",
+      "meaning_tr": "karlı, kazançlı",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "lucrative"
     },
     "580c00e545": {
       "answered_count": 0,
@@ -562,6 +586,30 @@
       "unknown_count": 0,
       "word": "substantial"
     },
+    "d6a9fdce24": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "mitigate risks",
+        "mitigate climate change"
+      ],
+      "definition_en": "To make something bad or painful less severe, serious, or painful.",
+      "due": "2026-09-20",
+      "example": "The government introduced new measures to mitigate the economic effects of the pandemic.",
+      "example_tr": "Hükümet, pandeminin ekonomik etkilerini hafifletmek için yeni önlemler uygulamaya koydu.",
+      "first_seen": "2026-09-19T14:08:02.914222+03:00",
+      "id": "d6a9fdce24",
+      "ipa": "/ˈmɪtɪɡeɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-19",
+      "level": "C1",
+      "meaning_tr": "hafifletmek, azaltmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "mitigate"
+    },
     "de7703e99a": {
       "answered_count": 0,
       "box": 1,
@@ -659,10 +707,215 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "acknowledge"
+    },
+    "fcc304639c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "high disposable income",
+        "increase disposable income"
+      ],
+      "definition_en": "The amount of money that households have available for spending and saving after taxes.",
+      "due": "2026-09-20",
+      "example": "Higher taxes have significantly reduced the disposable income of average families this year.",
+      "example_tr": "Yüksek vergiler, bu yıl ortalama ailelerin kullanılabilir gelirini önemli ölçüde azalttı.",
+      "first_seen": "2026-09-19T14:08:02.914222+03:00",
+      "id": "fcc304639c",
+      "ipa": "/dɪˈspoʊzəbl ˈɪnkʌm/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-19",
+      "level": "B2",
+      "meaning_tr": "kullanılabilir gelir, net gelir",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-18T23:58:03.924716+03:00",
-  "pool": [],
+  "last_sent_at": "2026-09-19T14:08:02.914222+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "relentless pursuit",
+        "relentless pressure"
+      ],
+      "definition_en": "Continuing without becoming weaker, less severe, or pausing.",
+      "example": "The company's success is the result of their relentless pursuit of customer satisfaction.",
+      "example_tr": "Şirketin başarısı, müşteri memnuniyetini amansızca takip etmelerinin bir sonucudur.",
+      "ipa": "/rɪˈlentləs/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "amansız, aralıksız, acımasız",
+      "pos": "adjective",
+      "word": "relentless"
+    },
+    {
+      "collocations": [
+        "trigger an allergic reaction",
+        "trigger a memory"
+      ],
+      "definition_en": "To cause an event or situation to happen or exist.",
+      "example": "The sudden increase in oil prices could trigger a global financial crisis.",
+      "example_tr": "Petrol fiyatlarındaki ani artış küresel bir finansal krizi tetikleyebilir.",
+      "ipa": "/ˈtrɪɡər/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "tetiklemek, yol açmak",
+      "pos": "verb",
+      "word": "trigger"
+    },
+    {
+      "collocations": [
+        "solve a conundrum",
+        "ethical conundrum"
+      ],
+      "definition_en": "A confusing and difficult problem or question.",
+      "example": "Finding a balance between economic growth and environmental protection is a difficult conundrum.",
+      "example_tr": "Ekonomik büyüme ile çevrenin korunması arasında bir denge bulmak zor bir bilmecedir.",
+      "ipa": "/kəˈnʌndrəm/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "bilmece, içinden çıkılmaz problem",
+      "pos": "noun",
+      "word": "conundrum"
+    },
+    {
+      "collocations": [
+        "drastically change",
+        "drastically reduce"
+      ],
+      "definition_en": "In a way that is likely to have a strong or far-reaching effect.",
+      "example": "The budget was drastically reduced, forcing the department to cancel several projects.",
+      "example_tr": "Bütçe büyük ölçüde düşürüldü ve bu durum departmanı birkaç projeyi iptal etmeye zorladı.",
+      "ipa": "/ˈdræstɪkli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "kökten, önemli ölçüde, büyük ölçüde",
+      "pos": "adverb",
+      "word": "drastically"
+    },
+    {
+      "collocations": [
+        "reconcile differences",
+        "reconcile accounts"
+      ],
+      "definition_en": "To find a way in which two opposing ideas or situations can both be true.",
+      "example": "It is sometimes difficult to reconcile career ambitions with family responsibilities.",
+      "example_tr": "Kariyer hedefleri ile aile sorumluluklarını uzlaştırmak bazen zordur.",
+      "ipa": "/ˈrekənsaɪl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "uzlaştırmak, arayı bulmak",
+      "pos": "verb",
+      "word": "reconcile"
+    },
+    {
+      "collocations": [
+        "foster innovation",
+        "foster growth"
+      ],
+      "definition_en": "To encourage or promote the development of something, typically something good.",
+      "example": "The teacher tried to foster a love of reading by sharing interesting stories.",
+      "example_tr": "Öğretmen, ilginç hikayeler paylaşarak okuma sevgisini teşvik etmeye çalıştı.",
+      "ipa": "/ˈfɔːstər/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "teşvik etmek, geliştirmek, büyütmek",
+      "pos": "verb",
+      "word": "foster"
+    },
+    {
+      "collocations": [
+        "vulnerable position",
+        "highly vulnerable"
+      ],
+      "definition_en": "Easy to hurt or attack physically, emotionally, or mentally.",
+      "example": "Elderly people are often more vulnerable to extreme weather conditions during the winter.",
+      "example_tr": "Yaşlı insanlar kış aylarında genellikle aşırı hava koşullarına karşı daha hassastır.",
+      "ipa": "/ˈvʌlnərəbl/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "savunmasız, hassas, kırılgan",
+      "pos": "adjective",
+      "word": "vulnerable"
+    },
+    {
+      "collocations": [
+        "scarcity of resources",
+        "water scarcity"
+      ],
+      "definition_en": "A situation in which there is not enough of something.",
+      "example": "The scarcity of skilled workers is currently the biggest challenge for local businesses.",
+      "example_tr": "Nitelikli işçi kıtlığı şu anda yerel işletmeler için en büyük zorluktur.",
+      "ipa": "/ˈskersəti/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "kıtlık, azlık, eksiklik",
+      "pos": "noun",
+      "word": "scarcity"
+    },
+    {
+      "collocations": [
+        "pave the way for progress",
+        "pave the way for success"
+      ],
+      "definition_en": "To create a situation in which it is now possible for something to happen.",
+      "example": "This scientific discovery will pave the way for new treatments for heart disease.",
+      "example_tr": "Bu bilimsel keşif, kalp hastalığı için yeni tedavilerin yolunu açacaktır.",
+      "ipa": "/peɪv ðə weɪ fɔːr/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "zemin hazırlamak, yolunu açmak",
+      "pos": "phrase",
+      "word": "pave the way for"
+    },
+    {
+      "collocations": [
+        "inherent risk",
+        "inherent danger"
+      ],
+      "definition_en": "Existing as a natural or basic part of something.",
+      "example": "Every financial investment has an inherent risk of losing money.",
+      "example_tr": "Her finansal yatırım, para kaybetme riskini doğasında barındırır.",
+      "ipa": "/ɪnˈhɪrənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "doğasında olan, kendiliğinden var olan",
+      "pos": "adjective",
+      "word": "inherent"
+    },
+    {
+      "collocations": [
+        "subtle difference",
+        "subtle hint"
+      ],
+      "definition_en": "Not loud, bright, noticeable, or obvious in any way.",
+      "example": "There was a subtle change in his voice that only his mother noticed.",
+      "example_tr": "Sesinde sadece annesinin fark ettiği hafif bir değişiklik vardı.",
+      "ipa": "/ˈsʌtl/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "ince, hafif, kolay fark edilmeyen",
+      "pos": "adjective",
+      "word": "subtle"
+    },
+    {
+      "collocations": [
+        "jeopardize safety",
+        "jeopardize a relationship"
+      ],
+      "definition_en": "To put something such as a plan or system in danger of being damaged or destroyed.",
+      "example": "Missing this deadline could jeopardize the entire project and cost us millions.",
+      "example_tr": "Bu teslim tarihini kaçırmak tüm projeyi tehlikeye atabilir ve bize milyonlara mal olabilir.",
+      "ipa": "/ˈdʒepərdaɪz/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "tehlikeye atmak, riske sokmak",
+      "pos": "verb",
+      "word": "jeopardize"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
