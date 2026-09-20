@@ -1,5 +1,29 @@
 {
   "cards": {
+    "14aeea5092": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "scarcity of resources",
+        "water scarcity"
+      ],
+      "definition_en": "A situation in which there is not enough of something.",
+      "due": "2026-09-21",
+      "example": "The scarcity of skilled workers is currently the biggest challenge for local businesses.",
+      "example_tr": "Nitelikli işçi kıtlığı şu anda yerel işletmeler için en büyük zorluktur.",
+      "first_seen": "2026-09-20T14:32:11.283311+03:00",
+      "id": "14aeea5092",
+      "ipa": "/ˈskersəti/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-20",
+      "level": "B2",
+      "meaning_tr": "kıtlık, azlık, eksiklik",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "scarcity"
+    },
     "1add7c295e": {
       "answered_count": 0,
       "box": 1,
@@ -95,6 +119,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "inevitable"
+    },
+    "394c86cd7c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "vulnerable position",
+        "highly vulnerable"
+      ],
+      "definition_en": "Easy to hurt or attack physically, emotionally, or mentally.",
+      "due": "2026-09-21",
+      "example": "Elderly people are often more vulnerable to extreme weather conditions during the winter.",
+      "example_tr": "Yaşlı insanlar kış aylarında genellikle aşırı hava koşullarına karşı daha hassastır.",
+      "first_seen": "2026-09-20T14:32:11.283311+03:00",
+      "id": "394c86cd7c",
+      "ipa": "/ˈvʌlnərəbl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-20",
+      "level": "B2",
+      "meaning_tr": "savunmasız, hassas, kırılgan",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "vulnerable"
     },
     "3edc8309ee": {
       "answered_count": 0,
@@ -374,7 +422,7 @@
         "on the verge of tears"
       ],
       "definition_en": "Very close to experiencing or doing something.",
-      "due": "2026-09-18",
+      "due": "2026-09-21",
       "example": "The scientists believe that they are on the verge of discovering a cure.",
       "example_tr": "Bilim insanları bir tedavi bulmanın eşiğinde olduklarına inanıyorlar.",
       "first_seen": "2026-09-17T20:05:50.551121+03:00",
@@ -382,11 +430,11 @@
       "ipa": "/ɒn ðə vɜːdʒ ɒv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-17",
+      "last_shown_at": "2026-09-20",
       "level": "B2",
       "meaning_tr": "-in eşiğinde, üzere",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "on the verge of"
     },
@@ -422,7 +470,7 @@
         "highly resilient"
       ],
       "definition_en": "Able to quickly return to a previous good condition after a difficult situation.",
-      "due": "2026-09-18",
+      "due": "2026-09-21",
       "example": "Local businesses proved to be highly resilient during the economic crisis last year.",
       "example_tr": "Yerel işletmeler geçen yılki ekonomik kriz sırasında son derece dirençli olduklarını kanıtladılar.",
       "first_seen": "2026-09-16T10:12:29.899891+03:00",
@@ -432,11 +480,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-17",
+      "last_shown_at": "2026-09-20",
       "level": "B2",
       "meaning_tr": "dirençli, esnek, güçlü",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 1,
       "word": "resilient"
     },
@@ -463,6 +511,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "infrastructure"
+    },
+    "a635f7e0b0": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "pave the way for progress",
+        "pave the way for success"
+      ],
+      "definition_en": "To create a situation in which it is now possible for something to happen.",
+      "due": "2026-09-21",
+      "example": "This scientific discovery will pave the way for new treatments for heart disease.",
+      "example_tr": "Bu bilimsel keşif, kalp hastalığı için yeni tedavilerin yolunu açacaktır.",
+      "first_seen": "2026-09-20T14:32:11.283311+03:00",
+      "id": "a635f7e0b0",
+      "ipa": "/peɪv ðə weɪ fɔːr/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-20",
+      "level": "B2",
+      "meaning_tr": "zemin hazırlamak, yolunu açmak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "pave the way for"
     },
     "a87bbffed8": {
       "answered_count": 0,
@@ -877,53 +949,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-19T23:47:06.679956+03:00",
+  "last_sent_at": "2026-09-20T14:32:11.283311+03:00",
   "pool": [
-    {
-      "collocations": [
-        "vulnerable position",
-        "highly vulnerable"
-      ],
-      "definition_en": "Easy to hurt or attack physically, emotionally, or mentally.",
-      "example": "Elderly people are often more vulnerable to extreme weather conditions during the winter.",
-      "example_tr": "Yaşlı insanlar kış aylarında genellikle aşırı hava koşullarına karşı daha hassastır.",
-      "ipa": "/ˈvʌlnərəbl/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "savunmasız, hassas, kırılgan",
-      "pos": "adjective",
-      "word": "vulnerable"
-    },
-    {
-      "collocations": [
-        "scarcity of resources",
-        "water scarcity"
-      ],
-      "definition_en": "A situation in which there is not enough of something.",
-      "example": "The scarcity of skilled workers is currently the biggest challenge for local businesses.",
-      "example_tr": "Nitelikli işçi kıtlığı şu anda yerel işletmeler için en büyük zorluktur.",
-      "ipa": "/ˈskersəti/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "kıtlık, azlık, eksiklik",
-      "pos": "noun",
-      "word": "scarcity"
-    },
-    {
-      "collocations": [
-        "pave the way for progress",
-        "pave the way for success"
-      ],
-      "definition_en": "To create a situation in which it is now possible for something to happen.",
-      "example": "This scientific discovery will pave the way for new treatments for heart disease.",
-      "example_tr": "Bu bilimsel keşif, kalp hastalığı için yeni tedavilerin yolunu açacaktır.",
-      "ipa": "/peɪv ðə weɪ fɔːr/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "zemin hazırlamak, yolunu açmak",
-      "pos": "phrase",
-      "word": "pave the way for"
-    },
     {
       "collocations": [
         "inherent risk",
