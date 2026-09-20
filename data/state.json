@@ -48,6 +48,30 @@
       "unknown_count": 0,
       "word": "deteriorate"
     },
+    "29336dd63c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "inherent risk",
+        "inherent danger"
+      ],
+      "definition_en": "Existing as a natural or basic part of something.",
+      "due": "2026-09-21",
+      "example": "Every financial investment has an inherent risk of losing money.",
+      "example_tr": "Her finansal yatırım, para kaybetme riskini doğasında barındırır.",
+      "first_seen": "2026-09-20T19:12:56.042085+03:00",
+      "id": "29336dd63c",
+      "ipa": "/ɪnˈhɪrənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-20",
+      "level": "C1",
+      "meaning_tr": "doğasında olan, kendiliğinden var olan",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "inherent"
+    },
     "2c66b21f25": {
       "answered_count": 0,
       "box": 1,
@@ -396,7 +420,7 @@
         "implement changes"
       ],
       "definition_en": "To start using a plan, system, or decision.",
-      "due": "2026-09-18",
+      "due": "2026-09-21",
       "example": "The local government decided to implement new recycling policies starting next month.",
       "example_tr": "Yerel yönetim önümüzdeki aydan itibaren yeni geri dönüşüm politikalarını uygulamaya karar verdi.",
       "first_seen": "2026-09-16T15:02:30.116093+03:00",
@@ -406,11 +430,11 @@
       "lang": "en",
       "last_answer": "known",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-16",
+      "last_shown_at": "2026-09-20",
       "level": "B2",
       "meaning_tr": "uygulamak, yürürlüğe koymak, gerçekleştirmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "implement"
     },
@@ -544,7 +568,7 @@
         "strong incentive"
       ],
       "definition_en": "Something that encourages you to work harder or start a new activity.",
-      "due": "2026-09-18",
+      "due": "2026-09-21",
       "example": "The company offers a financial incentive to employees who meet their monthly targets.",
       "example_tr": "Şirket, aylık hedeflerine ulaşan çalışanlara maddi bir teşvik sunuyor.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -552,11 +576,11 @@
       "ipa": "/ɪnˈsentɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-17",
+      "last_shown_at": "2026-09-20",
       "level": "B2",
       "meaning_tr": "teşvik, güdü, özendirici",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "incentive"
     },
@@ -682,6 +706,30 @@
       "unknown_count": 0,
       "word": "come to terms with"
     },
+    "d1245af0ac": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "subtle difference",
+        "subtle hint"
+      ],
+      "definition_en": "Not loud, bright, noticeable, or obvious in any way.",
+      "due": "2026-09-21",
+      "example": "There was a subtle change in his voice that only his mother noticed.",
+      "example_tr": "Sesinde sadece annesinin fark ettiği hafif bir değişiklik vardı.",
+      "first_seen": "2026-09-20T19:12:56.042085+03:00",
+      "id": "d1245af0ac",
+      "ipa": "/ˈsʌtl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-20",
+      "level": "B2",
+      "meaning_tr": "ince, hafif, kolay fark edilmeyen",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "subtle"
+    },
     "d1defb8ad3": {
       "answered_count": 0,
       "box": 1,
@@ -801,6 +849,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "profound"
+    },
+    "de924e4dbb": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "jeopardize safety",
+        "jeopardize a relationship"
+      ],
+      "definition_en": "To put something such as a plan or system in danger of being damaged or destroyed.",
+      "due": "2026-09-21",
+      "example": "Missing this deadline could jeopardize the entire project and cost us millions.",
+      "example_tr": "Bu teslim tarihini kaçırmak tüm projeyi tehlikeye atabilir ve bize milyonlara mal olabilir.",
+      "first_seen": "2026-09-20T19:12:56.042085+03:00",
+      "id": "de924e4dbb",
+      "ipa": "/ˈdʒepərdaɪz/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-20",
+      "level": "C1",
+      "meaning_tr": "tehlikeye atmak, riske sokmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "jeopardize"
     },
     "e406677485": {
       "answered_count": 0,
@@ -949,54 +1021,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-20T14:32:11.283311+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "inherent risk",
-        "inherent danger"
-      ],
-      "definition_en": "Existing as a natural or basic part of something.",
-      "example": "Every financial investment has an inherent risk of losing money.",
-      "example_tr": "Her finansal yatırım, para kaybetme riskini doğasında barındırır.",
-      "ipa": "/ɪnˈhɪrənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "doğasında olan, kendiliğinden var olan",
-      "pos": "adjective",
-      "word": "inherent"
-    },
-    {
-      "collocations": [
-        "subtle difference",
-        "subtle hint"
-      ],
-      "definition_en": "Not loud, bright, noticeable, or obvious in any way.",
-      "example": "There was a subtle change in his voice that only his mother noticed.",
-      "example_tr": "Sesinde sadece annesinin fark ettiği hafif bir değişiklik vardı.",
-      "ipa": "/ˈsʌtl/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "ince, hafif, kolay fark edilmeyen",
-      "pos": "adjective",
-      "word": "subtle"
-    },
-    {
-      "collocations": [
-        "jeopardize safety",
-        "jeopardize a relationship"
-      ],
-      "definition_en": "To put something such as a plan or system in danger of being damaged or destroyed.",
-      "example": "Missing this deadline could jeopardize the entire project and cost us millions.",
-      "example_tr": "Bu teslim tarihini kaçırmak tüm projeyi tehlikeye atabilir ve bize milyonlara mal olabilir.",
-      "ipa": "/ˈdʒepərdaɪz/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "tehlikeye atmak, riske sokmak",
-      "pos": "verb",
-      "word": "jeopardize"
-    }
-  ],
+  "last_sent_at": "2026-09-20T19:12:56.042085+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
