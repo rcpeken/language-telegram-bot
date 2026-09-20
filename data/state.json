@@ -32,7 +32,7 @@
         "health deteriorated"
       ],
       "definition_en": "To become worse in quality or condition over time.",
-      "due": "2026-09-19",
+      "due": "2026-09-21",
       "example": "The weather conditions began to deteriorate rapidly as the storm approached the coast.",
       "example_tr": "Fırtına kıyıya yaklaştıkça hava koşulları hızla kötüleşmeye başladı.",
       "first_seen": "2026-09-18T00:27:29.467923+03:00",
@@ -40,11 +40,11 @@
       "ipa": "/dɪˈtɪəriəreɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-20",
       "level": "C1",
       "meaning_tr": "kötüleşmek, bozulmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "deteriorate"
     },
@@ -104,7 +104,7 @@
         "oversee operations"
       ],
       "definition_en": "To watch and direct a task or project to make sure it is done correctly.",
-      "due": "2026-09-19",
+      "due": "2026-09-21",
       "example": "The newly appointed manager will oversee the entire transition to the digital platform.",
       "example_tr": "Yeni atanan müdür, dijital platforma geçiş sürecinin tamamını denetleyecek.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -112,11 +112,11 @@
       "ipa": "/ˌəʊvəˈsiː/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-20",
       "level": "B2",
       "meaning_tr": "denetlemek, yönetmek, gözetmek",
       "pos": "verb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "oversee"
     },
@@ -411,6 +411,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "feasibility"
+    },
+    "64c4b3a8ce": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "facilitate communication",
+        "facilitate growth"
+      ],
+      "definition_en": "To make an action or process easy or easier.",
+      "due": "2026-09-21",
+      "example": "The new software will facilitate communication between different departments of our company.",
+      "example_tr": "Yeni yazılım, şirketimizin farklı departmanları arasındaki iletişimi kolaylaştıracak.",
+      "first_seen": "2026-09-20T23:53:42.065471+03:00",
+      "id": "64c4b3a8ce",
+      "ipa": "/fəˈsɪlɪteɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-20",
+      "level": "B2",
+      "meaning_tr": "kolaylaştırmak, yardımcı olmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "facilitate"
     },
     "6f2293150e": {
       "answered_count": 1,
@@ -826,6 +850,30 @@
       "unknown_count": 0,
       "word": "mitigate"
     },
+    "d90da45263": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "detrimental effect",
+        "detrimental impact"
+      ],
+      "definition_en": "Causing harm or damage to something.",
+      "due": "2026-09-21",
+      "example": "Excessive consumption of sugar can have a detrimental effect on your health.",
+      "example_tr": "Aşırı şeker tüketiminin sağlığınız üzerinde zararlı bir etkisi olabilir.",
+      "first_seen": "2026-09-20T23:53:42.065471+03:00",
+      "id": "d90da45263",
+      "ipa": "/ˌdetrɪˈmentl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-20",
+      "level": "C1",
+      "meaning_tr": "zararlı, hasar veren",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "detrimental"
+    },
     "de7703e99a": {
       "answered_count": 0,
       "box": 1,
@@ -897,6 +945,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "comprehensive"
+    },
+    "e9e69aa97e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "viable alternative",
+        "viable option"
+      ],
+      "definition_en": "Capable of working successfully; feasible or practical.",
+      "due": "2026-09-21",
+      "example": "The committee is looking for a viable alternative to the current transport system.",
+      "example_tr": "Komite, mevcut ulaşım sistemine uygulanabilir bir alternatif arıyor.",
+      "first_seen": "2026-09-20T23:53:42.065471+03:00",
+      "id": "e9e69aa97e",
+      "ipa": "/ˈvaɪəbl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-20",
+      "level": "C1",
+      "meaning_tr": "uygulanabilir, geçerli, yaşayabilir",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "viable"
     },
     "ec0d180d93": {
       "answered_count": 0,
@@ -1021,8 +1093,189 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-20T19:12:56.042085+03:00",
-  "pool": [],
+  "last_sent_at": "2026-09-20T23:53:42.065471+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "highly prevalent",
+        "prevalent attitude"
+      ],
+      "definition_en": "Widely existing, accepted, or practiced in a particular place or time.",
+      "example": "Remote working has become highly prevalent in the technology sector over recent years.",
+      "example_tr": "Uzaktan çalışma, son yıllarda teknoloji sektöründe oldukça yaygın hale geldi.",
+      "ipa": "/ˈprevələnt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "yaygın, genel, hakim",
+      "pos": "adjective",
+      "word": "prevalent"
+    },
+    {
+      "collocations": [
+        "take everything for granted",
+        "take someone for granted"
+      ],
+      "definition_en": "To value something too lightly or fail to appreciate its true worth.",
+      "example": "We often take our health for granted until we actually get sick.",
+      "example_tr": "Genellikle gerçekten hastalanana kadar sağlığımızın değerini bilmeyiz.",
+      "ipa": "/teɪk fɔː(r) ˈɡrɑːntɪd/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "hafife almak, değerini bilmemek, cepte keklik görmek",
+      "pos": "phrase",
+      "word": "take for granted"
+    },
+    {
+      "collocations": [
+        "face adversity",
+        "overcome adversity"
+      ],
+      "definition_en": "A difficult or unpleasant situation or set of circumstances.",
+      "example": "She showed great courage and determination when facing adversity during her career.",
+      "example_tr": "Kariyeri boyunca zorluklarla karşılaştığında büyük bir cesaret ve kararlılık gösterdi.",
+      "ipa": "/ədˈvɜːsəti/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "zorluk, sıkıntı, talihsizlik",
+      "pos": "noun",
+      "word": "adversity"
+    },
+    {
+      "collocations": [
+        "end abruptly",
+        "stop abruptly"
+      ],
+      "definition_en": "In a sudden and unexpected way, often without warning.",
+      "example": "The presentation ended abruptly when the fire alarm suddenly started ringing.",
+      "example_tr": "Yangın alarmı aniden çalmaya başladığında sunum aniden sona erdi.",
+      "ipa": "/əˈbrʌptli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "aniden, birdenbire, pat diye",
+      "pos": "adverb",
+      "word": "abruptly"
+    },
+    {
+      "collocations": [
+        "closely scrutinize",
+        "scrutinize details"
+      ],
+      "definition_en": "To examine or inspect something very closely and thoroughly.",
+      "example": "Customers are beginning to closely scrutinize the environmental policies of major brands.",
+      "example_tr": "Müşteriler, büyük markaların çevre politikalarını dikkatle incelemeye başlıyor.",
+      "ipa": "/ˈskruːtənaɪz/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "dikkatle incelemek, mercek altına almak",
+      "pos": "verb",
+      "word": "scrutinize"
+    },
+    {
+      "collocations": [
+        "political discourse",
+        "public discourse"
+      ],
+      "definition_en": "Serious and formal speech or writing on a particular subject.",
+      "example": "Political discourse has changed significantly since the rise of popular social media platforms.",
+      "example_tr": "Siyasi söylem, popüler sosyal medya platformlarının yükselişinden bu yana önemli ölçüde değişti.",
+      "ipa": "/ˈdɪskɔːs/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "söylem, söyleşi, konuşma",
+      "pos": "noun",
+      "word": "discourse"
+    },
+    {
+      "collocations": [
+        "flawless performance",
+        "flawless skin"
+      ],
+      "definition_en": "Without any mistakes, imperfections, or weaknesses.",
+      "example": "The pianist gave a flawless performance that left the entire audience in silence.",
+      "example_tr": "Piyanist, tüm izleyicileri sessizlik içinde bırakan kusursuz bir performans sergiledi.",
+      "ipa": "/ˈflɔːləs/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "kusursuz, hatasız, mükemmel",
+      "pos": "adjective",
+      "word": "flawless"
+    },
+    {
+      "collocations": [
+        "comply with regulations",
+        "comply with laws"
+      ],
+      "definition_en": "To obey a rule, law, order, or request.",
+      "example": "All local businesses must comply with the new environmental regulations by next month.",
+      "example_tr": "Tüm yerel işletmeler önümüzdeki aya kadar yeni çevre düzenlemelerine uymak zorundadır.",
+      "ipa": "/kəmˈplaɪ/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "uymak, riayet etmek, yerine getirmek",
+      "pos": "verb",
+      "word": "comply"
+    },
+    {
+      "collocations": [
+        "cognizant of the facts",
+        "fully cognizant"
+      ],
+      "definition_en": "Having knowledge or being fully aware of something.",
+      "example": "Leaders must be cognizant of the potential risks before making major decisions.",
+      "example_tr": "Liderler, büyük kararlar almadan önce olası risklerin bilincinde olmalıdır.",
+      "ipa": "/ˈkɒɡnɪzənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "farkında, bilincinde",
+      "pos": "adjective",
+      "word": "cognizant"
+    },
+    {
+      "collocations": [
+        "major obstacle",
+        "overcome an obstacle"
+      ],
+      "definition_en": "Something that blocks your way or prevents progress.",
+      "example": "Lack of funding remains the main obstacle to starting this innovative project.",
+      "example_tr": "Finansman eksikliği, bu yenilikçi projeye başlamanın önündeki temel engel olmaya devam ediyor.",
+      "ipa": "/ˈɒbstəkl/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "engel, mani",
+      "pos": "noun",
+      "word": "obstacle"
+    },
+    {
+      "collocations": [
+        "unveil a plan",
+        "unveil a product"
+      ],
+      "definition_en": "To show or introduce a new plan, product, or system to the public.",
+      "example": "The tech giant plans to unveil its new smartphone model next week.",
+      "example_tr": "Teknoloji devi, önümüzdeki hafta yeni akıllı telefon modelini tanıtmayı planlıyor.",
+      "ipa": "/ˌʌnˈveɪl/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "tanıtmak, açığa çıkarmak, örtüsünü kaldırmak",
+      "pos": "verb",
+      "word": "unveil"
+    },
+    {
+      "collocations": [
+        "superficially similar",
+        "examine superficially"
+      ],
+      "definition_en": "In a way that is only on the surface and not deep or complete.",
+      "example": "The two cultures appear superficially similar, but they have very different core values.",
+      "example_tr": "İki kültür yüzeysel olarak benzer görünüyor, ancak çok farklı temel değerlere sahipler.",
+      "ipa": "/ˌsuːpəˈfɪʃəli/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "yüzeysel olarak, görünüşte",
+      "pos": "adverb",
+      "word": "superficially"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
