@@ -1,5 +1,29 @@
 {
   "cards": {
+    "013b1b632a": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "closely scrutinize",
+        "scrutinize details"
+      ],
+      "definition_en": "To examine or inspect something very closely and thoroughly.",
+      "due": "2026-09-22",
+      "example": "Customers are beginning to closely scrutinize the environmental policies of major brands.",
+      "example_tr": "Müşteriler, büyük markaların çevre politikalarını dikkatle incelemeye başlıyor.",
+      "first_seen": "2026-09-21T23:00:55.142227+03:00",
+      "id": "013b1b632a",
+      "ipa": "/ˈskruːtənaɪz/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-21",
+      "level": "C1",
+      "meaning_tr": "dikkatle incelemek, mercek altına almak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "scrutinize"
+    },
     "14aeea5092": {
       "answered_count": 0,
       "box": 1,
@@ -23,6 +47,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "scarcity"
+    },
+    "150bfe2fb9": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "end abruptly",
+        "stop abruptly"
+      ],
+      "definition_en": "In a sudden and unexpected way, often without warning.",
+      "due": "2026-09-22",
+      "example": "The presentation ended abruptly when the fire alarm suddenly started ringing.",
+      "example_tr": "Yangın alarmı aniden çalmaya başladığında sunum aniden sona erdi.",
+      "first_seen": "2026-09-21T23:00:55.142227+03:00",
+      "id": "150bfe2fb9",
+      "ipa": "/əˈbrʌptli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-21",
+      "level": "B2",
+      "meaning_tr": "aniden, birdenbire, pat diye",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "abruptly"
     },
     "1add7c295e": {
       "answered_count": 0,
@@ -272,7 +320,7 @@
         "mutually exclusive"
       ],
       "definition_en": "In a way that is experienced or felt by both sides.",
-      "due": "2026-09-19",
+      "due": "2026-09-22",
       "example": "The two companies reached a mutually beneficial agreement after weeks of negotiation.",
       "example_tr": "İki şirket, haftalar süren müzakerelerin ardından karşılıklı olarak faydalı bir anlaşmaya vardı.",
       "first_seen": "2026-09-18T19:30:08.439611+03:00",
@@ -280,11 +328,11 @@
       "ipa": "/ˈmjuːtʃuəli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-21",
       "level": "B2",
       "meaning_tr": "karşılıklı olarak, ortaklaşa",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "mutually"
     },
@@ -296,7 +344,7 @@
         "vague answer"
       ],
       "definition_en": "Not clearly expressed, known, described, or decided.",
-      "due": "2026-09-19",
+      "due": "2026-09-22",
       "example": "The manager gave a very vague explanation about the reasons for the delay.",
       "example_tr": "Müdür, gecikmenin nedenleri hakkında çok belirsiz bir açıklama yaptı.",
       "first_seen": "2026-09-18T00:27:29.467923+03:00",
@@ -304,11 +352,11 @@
       "ipa": "/veɪɡ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-21",
       "level": "B2",
       "meaning_tr": "belirsiz, net olmayan, muğlak",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "vague"
     },
@@ -509,6 +557,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "implement"
+    },
+    "7655beff3e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "political discourse",
+        "public discourse"
+      ],
+      "definition_en": "Serious and formal speech or writing on a particular subject.",
+      "due": "2026-09-22",
+      "example": "Political discourse has changed significantly since the rise of popular social media platforms.",
+      "example_tr": "Siyasi söylem, popüler sosyal medya platformlarının yükselişinden bu yana önemli ölçüde değişti.",
+      "first_seen": "2026-09-21T23:00:55.142227+03:00",
+      "id": "7655beff3e",
+      "ipa": "/ˈdɪskɔːs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-21",
+      "level": "C1",
+      "meaning_tr": "söylem, söyleşi, konuşma",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "discourse"
     },
     "782e5d921a": {
       "answered_count": 0,
@@ -1165,53 +1237,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-21T15:57:00.954283+03:00",
+  "last_sent_at": "2026-09-21T23:00:55.142227+03:00",
   "pool": [
-    {
-      "collocations": [
-        "end abruptly",
-        "stop abruptly"
-      ],
-      "definition_en": "In a sudden and unexpected way, often without warning.",
-      "example": "The presentation ended abruptly when the fire alarm suddenly started ringing.",
-      "example_tr": "Yangın alarmı aniden çalmaya başladığında sunum aniden sona erdi.",
-      "ipa": "/əˈbrʌptli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "aniden, birdenbire, pat diye",
-      "pos": "adverb",
-      "word": "abruptly"
-    },
-    {
-      "collocations": [
-        "closely scrutinize",
-        "scrutinize details"
-      ],
-      "definition_en": "To examine or inspect something very closely and thoroughly.",
-      "example": "Customers are beginning to closely scrutinize the environmental policies of major brands.",
-      "example_tr": "Müşteriler, büyük markaların çevre politikalarını dikkatle incelemeye başlıyor.",
-      "ipa": "/ˈskruːtənaɪz/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "dikkatle incelemek, mercek altına almak",
-      "pos": "verb",
-      "word": "scrutinize"
-    },
-    {
-      "collocations": [
-        "political discourse",
-        "public discourse"
-      ],
-      "definition_en": "Serious and formal speech or writing on a particular subject.",
-      "example": "Political discourse has changed significantly since the rise of popular social media platforms.",
-      "example_tr": "Siyasi söylem, popüler sosyal medya platformlarının yükselişinden bu yana önemli ölçüde değişti.",
-      "ipa": "/ˈdɪskɔːs/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "söylem, söyleşi, konuşma",
-      "pos": "noun",
-      "word": "discourse"
-    },
     {
       "collocations": [
         "flawless performance",
