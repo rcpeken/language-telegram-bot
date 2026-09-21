@@ -48,6 +48,30 @@
       "unknown_count": 0,
       "word": "deteriorate"
     },
+    "1f320f2e2c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "take everything for granted",
+        "take someone for granted"
+      ],
+      "definition_en": "To value something too lightly or fail to appreciate its true worth.",
+      "due": "2026-09-22",
+      "example": "We often take our health for granted until we actually get sick.",
+      "example_tr": "Genellikle gerçekten hastalanana kadar sağlığımızın değerini bilmeyiz.",
+      "first_seen": "2026-09-21T15:57:00.954283+03:00",
+      "id": "1f320f2e2c",
+      "ipa": "/teɪk fɔː(r) ˈɡrɑːntɪd/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-21",
+      "level": "B2",
+      "meaning_tr": "hafife almak, değerini bilmemek, cepte keklik görmek",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "take for granted"
+    },
     "29336dd63c": {
       "answered_count": 0,
       "box": 1,
@@ -120,6 +144,30 @@
       "unknown_count": 0,
       "word": "oversee"
     },
+    "2f973bd788": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "face adversity",
+        "overcome adversity"
+      ],
+      "definition_en": "A difficult or unpleasant situation or set of circumstances.",
+      "due": "2026-09-22",
+      "example": "She showed great courage and determination when facing adversity during her career.",
+      "example_tr": "Kariyeri boyunca zorluklarla karşılaştığında büyük bir cesaret ve kararlılık gösterdi.",
+      "first_seen": "2026-09-21T15:57:00.954283+03:00",
+      "id": "2f973bd788",
+      "ipa": "/ədˈvɜːsəti/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-21",
+      "level": "C1",
+      "meaning_tr": "zorluk, sıkıntı, talihsizlik",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "adversity"
+    },
     "340d6aa8a2": {
       "answered_count": 0,
       "box": 1,
@@ -128,7 +176,7 @@
         "seem inevitable"
       ],
       "definition_en": "Certain to happen and impossible to avoid.",
-      "due": "2026-09-19",
+      "due": "2026-09-22",
       "example": "With such heavy rain, a delay in the flight schedule was inevitable.",
       "example_tr": "Böylesine şiddetli yağmurda, uçuş planındaki bir gecikme kaçınılmazdı.",
       "first_seen": "2026-09-17T14:49:12.236690+03:00",
@@ -136,11 +184,11 @@
       "ipa": "/ɪnˈevɪtəbl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-21",
       "level": "B2",
       "meaning_tr": "kaçınılmaz",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "inevitable"
     },
@@ -176,7 +224,7 @@
         "dates coincide"
       ],
       "definition_en": "To happen at the same time as something else.",
-      "due": "2026-09-19",
+      "due": "2026-09-22",
       "example": "Our summer holiday plans coincide with the annual music festival in Paris.",
       "example_tr": "Yaz tatili planlarımız, Paris'teki yıllık müzik festivaliyle denk geliyor.",
       "first_seen": "2026-09-17T14:49:12.236690+03:00",
@@ -184,11 +232,11 @@
       "ipa": "/ˌkəʊɪnˈsaɪd/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-21",
       "level": "C1",
       "meaning_tr": "denk gelmek, uyuşmak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "coincide"
     },
@@ -535,6 +583,30 @@
       "shown_count": 3,
       "unknown_count": 1,
       "word": "resilient"
+    },
+    "a46860630b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "highly prevalent",
+        "prevalent attitude"
+      ],
+      "definition_en": "Widely existing, accepted, or practiced in a particular place or time.",
+      "due": "2026-09-22",
+      "example": "Remote working has become highly prevalent in the technology sector over recent years.",
+      "example_tr": "Uzaktan çalışma, son yıllarda teknoloji sektöründe oldukça yaygın hale geldi.",
+      "first_seen": "2026-09-21T15:57:00.954283+03:00",
+      "id": "a46860630b",
+      "ipa": "/ˈprevələnt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-21",
+      "level": "C1",
+      "meaning_tr": "yaygın, genel, hakim",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "prevalent"
     },
     "a5d9665493": {
       "answered_count": 0,
@@ -1093,53 +1165,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-20T23:53:42.065471+03:00",
+  "last_sent_at": "2026-09-21T15:57:00.954283+03:00",
   "pool": [
-    {
-      "collocations": [
-        "highly prevalent",
-        "prevalent attitude"
-      ],
-      "definition_en": "Widely existing, accepted, or practiced in a particular place or time.",
-      "example": "Remote working has become highly prevalent in the technology sector over recent years.",
-      "example_tr": "Uzaktan çalışma, son yıllarda teknoloji sektöründe oldukça yaygın hale geldi.",
-      "ipa": "/ˈprevələnt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "yaygın, genel, hakim",
-      "pos": "adjective",
-      "word": "prevalent"
-    },
-    {
-      "collocations": [
-        "take everything for granted",
-        "take someone for granted"
-      ],
-      "definition_en": "To value something too lightly or fail to appreciate its true worth.",
-      "example": "We often take our health for granted until we actually get sick.",
-      "example_tr": "Genellikle gerçekten hastalanana kadar sağlığımızın değerini bilmeyiz.",
-      "ipa": "/teɪk fɔː(r) ˈɡrɑːntɪd/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "hafife almak, değerini bilmemek, cepte keklik görmek",
-      "pos": "phrase",
-      "word": "take for granted"
-    },
-    {
-      "collocations": [
-        "face adversity",
-        "overcome adversity"
-      ],
-      "definition_en": "A difficult or unpleasant situation or set of circumstances.",
-      "example": "She showed great courage and determination when facing adversity during her career.",
-      "example_tr": "Kariyeri boyunca zorluklarla karşılaştığında büyük bir cesaret ve kararlılık gösterdi.",
-      "ipa": "/ədˈvɜːsəti/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "zorluk, sıkıntı, talihsizlik",
-      "pos": "noun",
-      "word": "adversity"
-    },
     {
       "collocations": [
         "end abruptly",
