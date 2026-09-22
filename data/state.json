@@ -360,6 +360,30 @@
       "unknown_count": 0,
       "word": "vague"
     },
+    "519ce830d2": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "comply with regulations",
+        "comply with laws"
+      ],
+      "definition_en": "To obey a rule, law, order, or request.",
+      "due": "2026-09-23",
+      "example": "All local businesses must comply with the new environmental regulations by next month.",
+      "example_tr": "Tüm yerel işletmeler önümüzdeki aya kadar yeni çevre düzenlemelerine uymak zorundadır.",
+      "first_seen": "2026-09-22T14:46:43.129810+03:00",
+      "id": "519ce830d2",
+      "ipa": "/kəmˈplaɪ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-22",
+      "level": "B2",
+      "meaning_tr": "uymak, riayet etmek, yerine getirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "comply"
+    },
     "52ce49305c": {
       "answered_count": 0,
       "box": 1,
@@ -614,7 +638,7 @@
         "know precisely"
       ],
       "definition_en": "Exactly and accurately in every detail.",
-      "due": "2026-09-19",
+      "due": "2026-09-23",
       "example": "The package arrived at precisely three o'clock, just as they had promised.",
       "example_tr": "Paket, tam olarak söz verdikleri gibi saat üçte ulaştı.",
       "first_seen": "2026-09-18T00:27:29.467923+03:00",
@@ -622,13 +646,37 @@
       "ipa": "/prɪˈsaɪsli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-22",
       "level": "B2",
       "meaning_tr": "tam olarak, kesinlikle, hassasiyetle",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "precisely"
+    },
+    "950b977354": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "cognizant of the facts",
+        "fully cognizant"
+      ],
+      "definition_en": "Having knowledge or being fully aware of something.",
+      "due": "2026-09-23",
+      "example": "Leaders must be cognizant of the potential risks before making major decisions.",
+      "example_tr": "Liderler, büyük kararlar almadan önce olası risklerin bilincinde olmalıdır.",
+      "first_seen": "2026-09-22T14:46:43.129810+03:00",
+      "id": "950b977354",
+      "ipa": "/ˈkɒɡnɪzənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-22",
+      "level": "C1",
+      "meaning_tr": "farkında, bilincinde",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "cognizant"
     },
     "9b20ce2921": {
       "answered_count": 1,
@@ -655,6 +703,30 @@
       "shown_count": 3,
       "unknown_count": 1,
       "word": "resilient"
+    },
+    "a301f8caac": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "flawless performance",
+        "flawless skin"
+      ],
+      "definition_en": "Without any mistakes, imperfections, or weaknesses.",
+      "due": "2026-09-23",
+      "example": "The pianist gave a flawless performance that left the entire audience in silence.",
+      "example_tr": "Piyanist, tüm izleyicileri sessizlik içinde bırakan kusursuz bir performans sergiledi.",
+      "first_seen": "2026-09-22T14:46:43.129810+03:00",
+      "id": "a301f8caac",
+      "ipa": "/ˈflɔːləs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-22",
+      "level": "B2",
+      "meaning_tr": "kusursuz, hatasız, mükemmel",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "flawless"
     },
     "a46860630b": {
       "answered_count": 0,
@@ -688,7 +760,7 @@
         "improve infrastructure"
       ],
       "definition_en": "The basic systems and services that a country or organization uses.",
-      "due": "2026-09-19",
+      "due": "2026-09-23",
       "example": "The government plans to invest billions of dollars in upgrading the country's transport infrastructure.",
       "example_tr": "Hükümet, ülkenin ulaşım altyapısını modernize etmek için milyarlarca dolar yatırım yapmayı planlıyor.",
       "first_seen": "2026-09-18T14:24:05.575471+03:00",
@@ -696,11 +768,11 @@
       "ipa": "/ˈɪnfrəstrʌktʃə(r)/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-22",
       "level": "B2",
       "meaning_tr": "altyapı",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "infrastructure"
     },
@@ -1237,53 +1309,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-21T23:00:55.142227+03:00",
+  "last_sent_at": "2026-09-22T14:46:43.129810+03:00",
   "pool": [
-    {
-      "collocations": [
-        "flawless performance",
-        "flawless skin"
-      ],
-      "definition_en": "Without any mistakes, imperfections, or weaknesses.",
-      "example": "The pianist gave a flawless performance that left the entire audience in silence.",
-      "example_tr": "Piyanist, tüm izleyicileri sessizlik içinde bırakan kusursuz bir performans sergiledi.",
-      "ipa": "/ˈflɔːləs/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "kusursuz, hatasız, mükemmel",
-      "pos": "adjective",
-      "word": "flawless"
-    },
-    {
-      "collocations": [
-        "comply with regulations",
-        "comply with laws"
-      ],
-      "definition_en": "To obey a rule, law, order, or request.",
-      "example": "All local businesses must comply with the new environmental regulations by next month.",
-      "example_tr": "Tüm yerel işletmeler önümüzdeki aya kadar yeni çevre düzenlemelerine uymak zorundadır.",
-      "ipa": "/kəmˈplaɪ/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "uymak, riayet etmek, yerine getirmek",
-      "pos": "verb",
-      "word": "comply"
-    },
-    {
-      "collocations": [
-        "cognizant of the facts",
-        "fully cognizant"
-      ],
-      "definition_en": "Having knowledge or being fully aware of something.",
-      "example": "Leaders must be cognizant of the potential risks before making major decisions.",
-      "example_tr": "Liderler, büyük kararlar almadan önce olası risklerin bilincinde olmalıdır.",
-      "ipa": "/ˈkɒɡnɪzənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "farkında, bilincinde",
-      "pos": "adjective",
-      "word": "cognizant"
-    },
     {
       "collocations": [
         "major obstacle",
