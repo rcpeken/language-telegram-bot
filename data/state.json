@@ -24,6 +24,30 @@
       "unknown_count": 0,
       "word": "scrutinize"
     },
+    "0c4d38188b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "superficially similar",
+        "examine superficially"
+      ],
+      "definition_en": "In a way that is only on the surface and not deep or complete.",
+      "due": "2026-09-23",
+      "example": "The two cultures appear superficially similar, but they have very different core values.",
+      "example_tr": "İki kültür yüzeysel olarak benzer görünüyor, ancak çok farklı temel değerlere sahipler.",
+      "first_seen": "2026-09-22T20:01:38.397678+03:00",
+      "id": "0c4d38188b",
+      "ipa": "/ˌsuːpəˈfɪʃəli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-22",
+      "level": "C1",
+      "meaning_tr": "yüzeysel olarak, görünüşte",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "superficially"
+    },
     "14aeea5092": {
       "answered_count": 0,
       "box": 1,
@@ -119,6 +143,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "take for granted"
+    },
+    "2392c57fb8": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "major obstacle",
+        "overcome an obstacle"
+      ],
+      "definition_en": "Something that blocks your way or prevents progress.",
+      "due": "2026-09-23",
+      "example": "Lack of funding remains the main obstacle to starting this innovative project.",
+      "example_tr": "Finansman eksikliği, bu yenilikçi projeye başlamanın önündeki temel engel olmaya devam ediyor.",
+      "first_seen": "2026-09-22T20:01:38.397678+03:00",
+      "id": "2392c57fb8",
+      "ipa": "/ˈɒbstəkl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-22",
+      "level": "B2",
+      "meaning_tr": "engel, mani",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "obstacle"
     },
     "29336dd63c": {
       "answered_count": 0,
@@ -311,6 +359,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "reluctantly"
+    },
+    "46dfa9d543": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "unveil a plan",
+        "unveil a product"
+      ],
+      "definition_en": "To show or introduce a new plan, product, or system to the public.",
+      "due": "2026-09-23",
+      "example": "The tech giant plans to unveil its new smartphone model next week.",
+      "example_tr": "Teknoloji devi, önümüzdeki hafta yeni akıllı telefon modelini tanıtmayı planlıyor.",
+      "first_seen": "2026-09-22T20:01:38.397678+03:00",
+      "id": "46dfa9d543",
+      "ipa": "/ˌʌnˈveɪl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-22",
+      "level": "B2",
+      "meaning_tr": "tanıtmak, açığa çıkarmak, örtüsünü kaldırmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "unveil"
     },
     "4ca277de59": {
       "answered_count": 0,
@@ -832,7 +904,7 @@
         "compile data"
       ],
       "definition_en": "To collect information from different places and arrange it in a book or list.",
-      "due": "2026-09-19",
+      "due": "2026-09-23",
       "example": "The research assistant spent three weeks compiling the necessary data for the report.",
       "example_tr": "Araştırma görevlisi, rapor için gerekli verileri derlemek amacıyla üç hafta harcadı.",
       "first_seen": "2026-09-18T19:30:08.439611+03:00",
@@ -840,11 +912,11 @@
       "ipa": "/kəmˈpaɪl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-22",
       "level": "B2",
       "meaning_tr": "derlemek, bir araya getirmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "compile"
     },
@@ -856,7 +928,7 @@
         "strongly advocate"
       ],
       "definition_en": "To publicly support or suggest an idea, development, or way of doing something.",
-      "due": "2026-09-19",
+      "due": "2026-09-23",
       "example": "Many environmental groups advocate using public transport to reduce carbon emissions in cities.",
       "example_tr": "Birçok çevre grubu, şehirlerdeki karbon emisyonlarını azaltmak için toplu taşıma araçlarının kullanılmasını savunuyor.",
       "first_seen": "2026-09-16T10:12:29.899891+03:00",
@@ -866,11 +938,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-22",
       "level": "C1",
       "meaning_tr": "savunmak, desteklemek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 2,
       "word": "advocate"
     },
@@ -1309,54 +1381,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-22T14:46:43.129810+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "major obstacle",
-        "overcome an obstacle"
-      ],
-      "definition_en": "Something that blocks your way or prevents progress.",
-      "example": "Lack of funding remains the main obstacle to starting this innovative project.",
-      "example_tr": "Finansman eksikliği, bu yenilikçi projeye başlamanın önündeki temel engel olmaya devam ediyor.",
-      "ipa": "/ˈɒbstəkl/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "engel, mani",
-      "pos": "noun",
-      "word": "obstacle"
-    },
-    {
-      "collocations": [
-        "unveil a plan",
-        "unveil a product"
-      ],
-      "definition_en": "To show or introduce a new plan, product, or system to the public.",
-      "example": "The tech giant plans to unveil its new smartphone model next week.",
-      "example_tr": "Teknoloji devi, önümüzdeki hafta yeni akıllı telefon modelini tanıtmayı planlıyor.",
-      "ipa": "/ˌʌnˈveɪl/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "tanıtmak, açığa çıkarmak, örtüsünü kaldırmak",
-      "pos": "verb",
-      "word": "unveil"
-    },
-    {
-      "collocations": [
-        "superficially similar",
-        "examine superficially"
-      ],
-      "definition_en": "In a way that is only on the surface and not deep or complete.",
-      "example": "The two cultures appear superficially similar, but they have very different core values.",
-      "example_tr": "İki kültür yüzeysel olarak benzer görünüyor, ancak çok farklı temel değerlere sahipler.",
-      "ipa": "/ˌsuːpəˈfɪʃəli/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "yüzeysel olarak, görünüşte",
-      "pos": "adverb",
-      "word": "superficially"
-    }
-  ],
+  "last_sent_at": "2026-09-22T20:01:38.397678+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
