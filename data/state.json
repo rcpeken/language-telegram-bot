@@ -506,6 +506,30 @@
       "unknown_count": 1,
       "word": "discrepancy"
     },
+    "563718afa2": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "empirical evidence",
+        "empirical study"
+      ],
+      "definition_en": "Based on what is experienced or seen rather than on theory or pure logic.",
+      "due": "2026-09-24",
+      "example": "We need empirical evidence to prove that this new medical treatment actually works.",
+      "example_tr": "Bu yeni tıbbi tedavinin gerçekten işe yaradığını kanıtlamak için deneysel kanıtlara ihtiyacımız var.",
+      "first_seen": "2026-09-23T00:24:19.826323+03:00",
+      "id": "563718afa2",
+      "ipa": "/ɪmˈpɪr.ɪ.kəl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-23",
+      "level": "C1",
+      "meaning_tr": "deneysel, gözleme dayalı",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "empirical"
+    },
     "56622acfb1": {
       "answered_count": 0,
       "box": 1,
@@ -776,6 +800,30 @@
       "unknown_count": 1,
       "word": "resilient"
     },
+    "a068422491": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "assess the damage",
+        "assess the situation"
+      ],
+      "definition_en": "To carefully judge or decide the amount, value, quality, or importance of something.",
+      "due": "2026-09-24",
+      "example": "The committee will assess the environmental impact of the new highway project next week.",
+      "example_tr": "Komite önümüzdeki hafta yeni otoyol projesinin çevresel etkisini değerlendirecek.",
+      "first_seen": "2026-09-23T00:24:19.826323+03:00",
+      "id": "a068422491",
+      "ipa": "/əˈses/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-23",
+      "level": "B2",
+      "meaning_tr": "değerlendirmek, değer biçmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "assess"
+    },
     "a301f8caac": {
       "answered_count": 0,
       "box": 1,
@@ -920,6 +968,30 @@
       "unknown_count": 0,
       "word": "compile"
     },
+    "ba95141045": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "unconscious bias",
+        "gender bias"
+      ],
+      "definition_en": "A personal and sometimes unreasonable judgment or prejudice for or against something.",
+      "due": "2026-09-24",
+      "example": "The reporter was accused of showing a strong bias toward the ruling political party.",
+      "example_tr": "Muhabir, iktidardaki siyasi partiye karşı güçlü bir önyargı göstermekle suçlandı.",
+      "first_seen": "2026-09-23T00:24:19.826323+03:00",
+      "id": "ba95141045",
+      "ipa": "/ˈbaɪ.əs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-23",
+      "level": "B2",
+      "meaning_tr": "önyargı, taraflılık",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "bias"
+    },
     "bb3b6440dc": {
       "answered_count": 2,
       "box": 1,
@@ -978,7 +1050,7 @@
         "ambiguous answer"
       ],
       "definition_en": "Having more than one possible meaning, which makes it confusing or unclear.",
-      "due": "2026-09-19",
+      "due": "2026-09-24",
       "example": "The instructions were so ambiguous that none of the students knew what to do.",
       "example_tr": "Yönergeler o kadar belirsizdi ki öğrencilerin hiçbiri ne yapacağını bilemedi.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -986,11 +1058,11 @@
       "ipa": "/æmˈbɪɡjuəs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-23",
       "level": "C1",
       "meaning_tr": "belirsiz, muğlak, iki anlamlı",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "ambiguous"
     },
@@ -1002,7 +1074,7 @@
         "come to terms with grief"
       ],
       "definition_en": "To gradually accept a sad or difficult situation.",
-      "due": "2026-09-19",
+      "due": "2026-09-24",
       "example": "It took her several months to come to terms with losing her job.",
       "example_tr": "İşini kaybetmeyi kabullenmesi onun birkaç ayını aldı.",
       "first_seen": "2026-09-18T14:24:05.575471+03:00",
@@ -1010,11 +1082,11 @@
       "ipa": "/kʌm tuː tɜːmz wɪð/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-23",
       "level": "C1",
       "meaning_tr": "kabullenmek, alışmak, uzlaşmak",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "come to terms with"
     },
@@ -1381,8 +1453,189 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-22T20:01:38.397678+03:00",
-  "pool": [],
+  "last_sent_at": "2026-09-23T00:24:19.826323+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "unanimous decision",
+        "unanimous support"
+      ],
+      "definition_en": "Agreed upon by everyone involved; in complete agreement.",
+      "example": "The board of directors reached a unanimous decision to appoint her as the CEO.",
+      "example_tr": "Yönetim kurulu, onu CEO olarak atamak için oybirliğiyle bir karara vardı.",
+      "ipa": "/juːˈnæn.ɪ.məs/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "oybirliğiyle alınan, müttefik",
+      "pos": "adjective",
+      "word": "unanimous"
+    },
+    {
+      "collocations": [
+        "fluctuate wildly",
+        "fluctuating prices"
+      ],
+      "definition_en": "To change continually; to shift back and forth uncertainly.",
+      "example": "Fuel prices tend to fluctuate wildly depending on global political stability.",
+      "example_tr": "Yakıt fiyatları küresel siyasi istikrara bağlı olarak çılgınca dalgalanma eğilimindedir.",
+      "ipa": "/ˈflʌk.tʃu.eɪt/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "dalgalanmak, istikrarsız olmak",
+      "pos": "verb",
+      "word": "fluctuate"
+    },
+    {
+      "collocations": [
+        "accumulate wealth",
+        "accumulate debts"
+      ],
+      "definition_en": "To collect or increase something gradually over a period of time.",
+      "example": "Dust and old papers began to accumulate in the abandoned office over the years.",
+      "example_tr": "Yıllar geçtikçe terk edilmiş ofiste toz ve eski kağıtlar birikmeye başladı.",
+      "ipa": "/əˈkjuː.mjə.leɪt/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "biriktirmek, yığılmak",
+      "pos": "verb",
+      "word": "accumulate"
+    },
+    {
+      "collocations": [
+        "make redundant",
+        "redundant employees"
+      ],
+      "definition_en": "No longer needed or useful, or having lost employment because of lack of work.",
+      "example": "The new software system made several manual data entry tasks completely redundant.",
+      "example_tr": "Yeni yazılım sistemi, birkaç manuel veri girişi görevini tamamen gereksiz hale getirdi.",
+      "ipa": "/rɪˈdʌn.dənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "gereksiz, işten çıkarılmış",
+      "pos": "adjective",
+      "word": "redundant"
+    },
+    {
+      "collocations": [
+        "predominantly female",
+        "predominantly rural"
+      ],
+      "definition_en": "Mostly or mainly; for the most part.",
+      "example": "The audience at the concert consisted predominantly of young college students.",
+      "example_tr": "Konserdeki seyirciler ağırlıklı olarak genç üniversite öğrencilerinden oluşuyordu.",
+      "ipa": "/prɪˈdɒm.ɪ.nənt.li/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "çoğunlukla, ağırlıklı olarak",
+      "pos": "adverb",
+      "word": "predominantly"
+    },
+    {
+      "collocations": [
+        "foreign counterpart",
+        "male counterpart"
+      ],
+      "definition_en": "A person or thing that has the same position or function as another in a different place.",
+      "example": "The prime minister met with his French counterpart to discuss trade relations.",
+      "example_tr": "Başbakan, ticari ilişkileri görüşmek üzere Fransız mevkidaşı ile bir araya geldi.",
+      "ipa": "/ˈkaʊn.tə.pɑːt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "mevkidaş, emsal, karşılık",
+      "pos": "noun",
+      "word": "counterpart"
+    },
+    {
+      "collocations": [
+        "plausible explanation",
+        "plausible scenario"
+      ],
+      "definition_en": "Seeming reasonable, likely, or probable; believable.",
+      "example": "She offered a highly plausible explanation for her absence from the business meeting.",
+      "example_tr": "İş toplantısına katılmayışı için son derece akla yatkın bir açıklama sundu.",
+      "ipa": "/ˈplɔː.zə.bəl/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "makul, akla yatkın",
+      "pos": "adjective",
+      "word": "plausible"
+    },
+    {
+      "collocations": [
+        "compromise on quality",
+        "reach a compromise"
+      ],
+      "definition_en": "To accept standards that are lower than desirable, or to expose something to danger.",
+      "example": "We cannot compromise on safety standards just to finish the construction project earlier.",
+      "example_tr": "Sırf inşaat projesini daha erken bitirmek için güvenlik standartlarından ödün veremeyiz.",
+      "ipa": "/ˈfɒm.prə.maɪz/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "ödün vermek, tehlikeye atmak, uzlaşmak",
+      "pos": "verb",
+      "word": "compromise"
+    },
+    {
+      "collocations": [
+        "nurture talent",
+        "nurture a relationship"
+      ],
+      "definition_en": "To feed, protect, and encourage the development of someone or something.",
+      "example": "Good teachers always nurture the creative talents of their young students.",
+      "example_tr": "İyi öğretmenler, genç öğrencilerinin yaratıcı yeteneklerini her zaman besler ve geliştirir.",
+      "ipa": "/ˈnɜː.tʃər/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "beslemek, geliştirmek, büyütmek",
+      "pos": "verb",
+      "word": "nurture"
+    },
+    {
+      "collocations": [
+        "arbitrary decision",
+        "arbitrary rule"
+      ],
+      "definition_en": "Based on random choice or personal whim, rather than any reason or system.",
+      "example": "The company's decision to ban social media seemed completely arbitrary to the employees.",
+      "example_tr": "Şirketin sosyal medyayı yasaklama kararı çalışanlara tamamen keyfi göründü.",
+      "ipa": "/ˈɑː.bɪ.trər.i/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "keyfi, rastgele",
+      "pos": "adjective",
+      "word": "arbitrary"
+    },
+    {
+      "collocations": [
+        "break the vicious cycle",
+        "vicious cycle of poverty"
+      ],
+      "definition_en": "A chain of negative events where one bad situation causes another, worse situation.",
+      "example": "Poor sleep leads to stress, which creates a vicious cycle of more insomnia.",
+      "example_tr": "Yetersiz uyku strese yol açar, bu da daha fazla uykusuzluğun olduğu bir kısır döngü yaratır.",
+      "ipa": "/ˈvɪʃ.əs ˈsaɪ.kəl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "kısır döngü",
+      "pos": "phrase",
+      "word": "vicious cycle"
+    },
+    {
+      "collocations": [
+        "effective deterrent",
+        "nuclear deterrent"
+      ],
+      "definition_en": "Something that discourages or prevents people from doing something bad.",
+      "example": "Tougher laws and higher fines act as an effective deterrent against speeding.",
+      "example_tr": "Daha sert yasalar ve daha yüksek para cezaları, hız yapmaya karşı etkili bir caydırıcı işlevi görür.",
+      "ipa": "/dɪˈter.ənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "caydırıcı, caydırıcı unsur",
+      "pos": "noun",
+      "word": "deterrent"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
