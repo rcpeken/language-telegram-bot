@@ -24,6 +24,30 @@
       "unknown_count": 0,
       "word": "scrutinize"
     },
+    "080267d173": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "unanimous decision",
+        "unanimous support"
+      ],
+      "definition_en": "Agreed upon by everyone involved; in complete agreement.",
+      "due": "2026-09-24",
+      "example": "The board of directors reached a unanimous decision to appoint her as the CEO.",
+      "example_tr": "Yönetim kurulu, onu CEO olarak atamak için oybirliğiyle bir karara vardı.",
+      "first_seen": "2026-09-23T14:45:58.827362+03:00",
+      "id": "080267d173",
+      "ipa": "/juːˈnæn.ɪ.məs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-23",
+      "level": "C1",
+      "meaning_tr": "oybirliğiyle alınan, müttefik",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "unanimous"
+    },
     "0c4d38188b": {
       "answered_count": 0,
       "box": 1,
@@ -652,6 +676,30 @@
       "unknown_count": 0,
       "word": "facilitate"
     },
+    "69902ca127": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "fluctuate wildly",
+        "fluctuating prices"
+      ],
+      "definition_en": "To change continually; to shift back and forth uncertainly.",
+      "due": "2026-09-24",
+      "example": "Fuel prices tend to fluctuate wildly depending on global political stability.",
+      "example_tr": "Yakıt fiyatları küresel siyasi istikrara bağlı olarak çılgınca dalgalanma eğilimindedir.",
+      "first_seen": "2026-09-23T14:45:58.827362+03:00",
+      "id": "69902ca127",
+      "ipa": "/ˈflʌk.tʃu.eɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-23",
+      "level": "B2",
+      "meaning_tr": "dalgalanmak, istikrarsız olmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "fluctuate"
+    },
     "6f2293150e": {
       "answered_count": 1,
       "box": 2,
@@ -725,6 +773,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "on the verge of"
+    },
+    "7d59daa732": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "accumulate wealth",
+        "accumulate debts"
+      ],
+      "definition_en": "To collect or increase something gradually over a period of time.",
+      "due": "2026-09-24",
+      "example": "Dust and old papers began to accumulate in the abandoned office over the years.",
+      "example_tr": "Yıllar geçtikçe terk edilmiş ofiste toz ve eski kağıtlar birikmeye başladı.",
+      "first_seen": "2026-09-23T14:45:58.827362+03:00",
+      "id": "7d59daa732",
+      "ipa": "/əˈkjuː.mjə.leɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-23",
+      "level": "B2",
+      "meaning_tr": "biriktirmek, yığılmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "accumulate"
     },
     "8cbb8b6e15": {
       "answered_count": 0,
@@ -1170,7 +1242,7 @@
         "substantial growth"
       ],
       "definition_en": "Large in size, value, or importance.",
-      "due": "2026-09-19",
+      "due": "2026-09-24",
       "example": "The company invested a substantial amount of money in developing the new software.",
       "example_tr": "Şirket, yeni yazılımı geliştirmek için önemli miktarda para yatırdı.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -1178,11 +1250,11 @@
       "ipa": "/səbˈstænʃl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-23",
       "level": "B2",
       "meaning_tr": "büyük, önemli, kayda değer",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "substantial"
     },
@@ -1242,7 +1314,7 @@
         "profound effect"
       ],
       "definition_en": "Showing a clear and deep understanding or having a strong effect.",
-      "due": "2026-09-19",
+      "due": "2026-09-24",
       "example": "His grandmother's wise advice had a profound influence on his career choices.",
       "example_tr": "Büyükannesinin bilgece tavsiyeleri, onun kariyer seçimleri üzerinde derin bir etki yarattı.",
       "first_seen": "2026-09-18T14:24:05.575471+03:00",
@@ -1250,11 +1322,11 @@
       "ipa": "/prəˈfaʊnd/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-23",
       "level": "C1",
       "meaning_tr": "derin, büyük, etkili",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "profound"
     },
@@ -1453,53 +1525,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-23T00:24:19.826323+03:00",
+  "last_sent_at": "2026-09-23T14:45:58.827362+03:00",
   "pool": [
-    {
-      "collocations": [
-        "unanimous decision",
-        "unanimous support"
-      ],
-      "definition_en": "Agreed upon by everyone involved; in complete agreement.",
-      "example": "The board of directors reached a unanimous decision to appoint her as the CEO.",
-      "example_tr": "Yönetim kurulu, onu CEO olarak atamak için oybirliğiyle bir karara vardı.",
-      "ipa": "/juːˈnæn.ɪ.məs/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "oybirliğiyle alınan, müttefik",
-      "pos": "adjective",
-      "word": "unanimous"
-    },
-    {
-      "collocations": [
-        "fluctuate wildly",
-        "fluctuating prices"
-      ],
-      "definition_en": "To change continually; to shift back and forth uncertainly.",
-      "example": "Fuel prices tend to fluctuate wildly depending on global political stability.",
-      "example_tr": "Yakıt fiyatları küresel siyasi istikrara bağlı olarak çılgınca dalgalanma eğilimindedir.",
-      "ipa": "/ˈflʌk.tʃu.eɪt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "dalgalanmak, istikrarsız olmak",
-      "pos": "verb",
-      "word": "fluctuate"
-    },
-    {
-      "collocations": [
-        "accumulate wealth",
-        "accumulate debts"
-      ],
-      "definition_en": "To collect or increase something gradually over a period of time.",
-      "example": "Dust and old papers began to accumulate in the abandoned office over the years.",
-      "example_tr": "Yıllar geçtikçe terk edilmiş ofiste toz ve eski kağıtlar birikmeye başladı.",
-      "ipa": "/əˈkjuː.mjə.leɪt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "biriktirmek, yığılmak",
-      "pos": "verb",
-      "word": "accumulate"
-    },
     {
       "collocations": [
         "make redundant",
