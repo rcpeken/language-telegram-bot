@@ -248,7 +248,7 @@
         "foster growth"
       ],
       "definition_en": "To encourage or promote the development of something, typically something good.",
-      "due": "2026-09-20",
+      "due": "2026-09-25",
       "example": "The teacher tried to foster a love of reading by sharing interesting stories.",
       "example_tr": "Öğretmen, ilginç hikayeler paylaşarak okuma sevgisini teşvik etmeye çalıştı.",
       "first_seen": "2026-09-19T23:47:06.679956+03:00",
@@ -256,11 +256,11 @@
       "ipa": "/ˈfɔːstər/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-24",
       "level": "B2",
       "meaning_tr": "teşvik etmek, geliştirmek, büyütmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "foster"
     },
@@ -676,6 +676,30 @@
       "unknown_count": 1,
       "word": "relevance"
     },
+    "5e7aebf62c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "compromise on quality",
+        "reach a compromise"
+      ],
+      "definition_en": "To accept standards that are lower than desirable, or to expose something to danger.",
+      "due": "2026-09-25",
+      "example": "We cannot compromise on safety standards just to finish the construction project earlier.",
+      "example_tr": "Sırf inşaat projesini daha erken bitirmek için güvenlik standartlarından ödün veremeyiz.",
+      "first_seen": "2026-09-24T00:33:57.528059+03:00",
+      "id": "5e7aebf62c",
+      "ipa": "/ˈfɒm.prə.maɪz/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-24",
+      "level": "B2",
+      "meaning_tr": "ödün vermek, tehlikeye atmak, uzlaşmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "compromise"
+    },
     "647fecee80": {
       "answered_count": 0,
       "box": 1,
@@ -869,6 +893,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "precisely"
+    },
+    "9121bb3713": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "nurture talent",
+        "nurture a relationship"
+      ],
+      "definition_en": "To feed, protect, and encourage the development of someone or something.",
+      "due": "2026-09-25",
+      "example": "Good teachers always nurture the creative talents of their young students.",
+      "example_tr": "İyi öğretmenler, genç öğrencilerinin yaratıcı yeteneklerini her zaman besler ve geliştirir.",
+      "first_seen": "2026-09-24T00:33:57.528059+03:00",
+      "id": "9121bb3713",
+      "ipa": "/ˈnɜː.tʃər/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-24",
+      "level": "C1",
+      "meaning_tr": "beslemek, geliştirmek, büyütmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "nurture"
     },
     "950b977354": {
       "answered_count": 0,
@@ -1234,6 +1282,30 @@
       "unknown_count": 0,
       "word": "counterpart"
     },
+    "d110fd0cf9": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "plausible explanation",
+        "plausible scenario"
+      ],
+      "definition_en": "Seeming reasonable, likely, or probable; believable.",
+      "due": "2026-09-25",
+      "example": "She offered a highly plausible explanation for her absence from the business meeting.",
+      "example_tr": "İş toplantısına katılmayışı için son derece akla yatkın bir açıklama sundu.",
+      "first_seen": "2026-09-24T00:33:57.528059+03:00",
+      "id": "d110fd0cf9",
+      "ipa": "/ˈplɔː.zə.bəl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-24",
+      "level": "B2",
+      "meaning_tr": "makul, akla yatkın",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "plausible"
+    },
     "d1245af0ac": {
       "answered_count": 0,
       "box": 1,
@@ -1556,7 +1628,7 @@
         "grudgingly acknowledge"
       ],
       "definition_en": "To accept or admit that something is true or exists.",
-      "due": "2026-09-19",
+      "due": "2026-09-25",
       "example": "The manager finally acknowledged that the team had made a significant contribution to the project's success.",
       "example_tr": "Yönetici nihayet ekibin projenin başarısına önemli bir katkı sağladığını kabul etti.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -1564,11 +1636,11 @@
       "ipa": "/əkˈnɒlɪdʒ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-24",
       "level": "B2",
       "meaning_tr": "kabul etmek, onaylamak, tanımak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "acknowledge"
     },
@@ -1597,53 +1669,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-23T20:10:07.316180+03:00",
+  "last_sent_at": "2026-09-24T00:33:57.528059+03:00",
   "pool": [
-    {
-      "collocations": [
-        "plausible explanation",
-        "plausible scenario"
-      ],
-      "definition_en": "Seeming reasonable, likely, or probable; believable.",
-      "example": "She offered a highly plausible explanation for her absence from the business meeting.",
-      "example_tr": "İş toplantısına katılmayışı için son derece akla yatkın bir açıklama sundu.",
-      "ipa": "/ˈplɔː.zə.bəl/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "makul, akla yatkın",
-      "pos": "adjective",
-      "word": "plausible"
-    },
-    {
-      "collocations": [
-        "compromise on quality",
-        "reach a compromise"
-      ],
-      "definition_en": "To accept standards that are lower than desirable, or to expose something to danger.",
-      "example": "We cannot compromise on safety standards just to finish the construction project earlier.",
-      "example_tr": "Sırf inşaat projesini daha erken bitirmek için güvenlik standartlarından ödün veremeyiz.",
-      "ipa": "/ˈfɒm.prə.maɪz/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "ödün vermek, tehlikeye atmak, uzlaşmak",
-      "pos": "verb",
-      "word": "compromise"
-    },
-    {
-      "collocations": [
-        "nurture talent",
-        "nurture a relationship"
-      ],
-      "definition_en": "To feed, protect, and encourage the development of someone or something.",
-      "example": "Good teachers always nurture the creative talents of their young students.",
-      "example_tr": "İyi öğretmenler, genç öğrencilerinin yaratıcı yeteneklerini her zaman besler ve geliştirir.",
-      "ipa": "/ˈnɜː.tʃər/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "beslemek, geliştirmek, büyütmek",
-      "pos": "verb",
-      "word": "nurture"
-    },
     {
       "collocations": [
         "arbitrary decision",
