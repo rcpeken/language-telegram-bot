@@ -24,6 +24,30 @@
       "unknown_count": 0,
       "word": "scrutinize"
     },
+    "024f2097f1": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "predominantly female",
+        "predominantly rural"
+      ],
+      "definition_en": "Mostly or mainly; for the most part.",
+      "due": "2026-09-24",
+      "example": "The audience at the concert consisted predominantly of young college students.",
+      "example_tr": "Konserdeki seyirciler ağırlıklı olarak genç üniversite öğrencilerinden oluşuyordu.",
+      "first_seen": "2026-09-23T20:10:07.316180+03:00",
+      "id": "024f2097f1",
+      "ipa": "/prɪˈdɒm.ɪ.nənt.li/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-23",
+      "level": "B2",
+      "meaning_tr": "çoğunlukla, ağırlıklı olarak",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "predominantly"
+    },
     "080267d173": {
       "answered_count": 0,
       "box": 1,
@@ -407,6 +431,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "unveil"
+    },
+    "46e282ef3f": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "make redundant",
+        "redundant employees"
+      ],
+      "definition_en": "No longer needed or useful, or having lost employment because of lack of work.",
+      "due": "2026-09-24",
+      "example": "The new software system made several manual data entry tasks completely redundant.",
+      "example_tr": "Yeni yazılım sistemi, birkaç manuel veri girişi görevini tamamen gereksiz hale getirdi.",
+      "first_seen": "2026-09-23T20:10:07.316180+03:00",
+      "id": "46e282ef3f",
+      "ipa": "/rɪˈdʌn.dənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-23",
+      "level": "C1",
+      "meaning_tr": "gereksiz, işten çıkarılmış",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "redundant"
     },
     "4ca277de59": {
       "answered_count": 0,
@@ -1162,6 +1210,30 @@
       "unknown_count": 0,
       "word": "come to terms with"
     },
+    "cfb3e75d63": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "foreign counterpart",
+        "male counterpart"
+      ],
+      "definition_en": "A person or thing that has the same position or function as another in a different place.",
+      "due": "2026-09-24",
+      "example": "The prime minister met with his French counterpart to discuss trade relations.",
+      "example_tr": "Başbakan, ticari ilişkileri görüşmek üzere Fransız mevkidaşı ile bir araya geldi.",
+      "first_seen": "2026-09-23T20:10:07.316180+03:00",
+      "id": "cfb3e75d63",
+      "ipa": "/ˈkaʊn.tə.pɑːt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-23",
+      "level": "C1",
+      "meaning_tr": "mevkidaş, emsal, karşılık",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "counterpart"
+    },
     "d1245af0ac": {
       "answered_count": 0,
       "box": 1,
@@ -1362,7 +1434,7 @@
         "comprehensive study"
       ],
       "definition_en": "Including all or almost all of the items, facts, or information.",
-      "due": "2026-09-19",
+      "due": "2026-09-24",
       "example": "This textbook provides a comprehensive guide to learning the basics of economics.",
       "example_tr": "Bu ders kitabı, ekonominin temellerini öğrenmek için kapsamlı bir rehber sunmaktadır.",
       "first_seen": "2026-09-18T19:30:08.439611+03:00",
@@ -1370,11 +1442,11 @@
       "ipa": "/ˌkɒmprɪˈhensɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-23",
       "level": "B2",
       "meaning_tr": "kapsamlı, detaylı",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "comprehensive"
     },
@@ -1434,7 +1506,7 @@
         "unprecedented challenge"
       ],
       "definition_en": "Never having happened or existed in the past.",
-      "due": "2026-09-19",
+      "due": "2026-09-24",
       "example": "The company experienced unprecedented growth after launching its new software worldwide.",
       "example_tr": "Şirket, yeni yazılımını dünya çapında piyasaya sürdükten sonra eşi görülmemiş bir büyüme yaşadı.",
       "first_seen": "2026-09-16T15:02:30.116093+03:00",
@@ -1444,11 +1516,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-18",
+      "last_shown_at": "2026-09-23",
       "level": "C1",
       "meaning_tr": "eşi görülmemiş, emsalsiz, benzersiz",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 1,
       "word": "unprecedented"
     },
@@ -1525,53 +1597,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-23T14:45:58.827362+03:00",
+  "last_sent_at": "2026-09-23T20:10:07.316180+03:00",
   "pool": [
-    {
-      "collocations": [
-        "make redundant",
-        "redundant employees"
-      ],
-      "definition_en": "No longer needed or useful, or having lost employment because of lack of work.",
-      "example": "The new software system made several manual data entry tasks completely redundant.",
-      "example_tr": "Yeni yazılım sistemi, birkaç manuel veri girişi görevini tamamen gereksiz hale getirdi.",
-      "ipa": "/rɪˈdʌn.dənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "gereksiz, işten çıkarılmış",
-      "pos": "adjective",
-      "word": "redundant"
-    },
-    {
-      "collocations": [
-        "predominantly female",
-        "predominantly rural"
-      ],
-      "definition_en": "Mostly or mainly; for the most part.",
-      "example": "The audience at the concert consisted predominantly of young college students.",
-      "example_tr": "Konserdeki seyirciler ağırlıklı olarak genç üniversite öğrencilerinden oluşuyordu.",
-      "ipa": "/prɪˈdɒm.ɪ.nənt.li/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "çoğunlukla, ağırlıklı olarak",
-      "pos": "adverb",
-      "word": "predominantly"
-    },
-    {
-      "collocations": [
-        "foreign counterpart",
-        "male counterpart"
-      ],
-      "definition_en": "A person or thing that has the same position or function as another in a different place.",
-      "example": "The prime minister met with his French counterpart to discuss trade relations.",
-      "example_tr": "Başbakan, ticari ilişkileri görüşmek üzere Fransız mevkidaşı ile bir araya geldi.",
-      "ipa": "/ˈkaʊn.tə.pɑːt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "mevkidaş, emsal, karşılık",
-      "pos": "noun",
-      "word": "counterpart"
-    },
     {
       "collocations": [
         "plausible explanation",
