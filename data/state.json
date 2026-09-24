@@ -634,7 +634,7 @@
         "subsequently discovered"
       ],
       "definition_en": "After something else has happened.",
-      "due": "2026-09-20",
+      "due": "2026-09-26",
       "example": "She worked hard at university and was subsequently offered a prestigious job in London.",
       "example_tr": "Üniversitede çok çalıştı ve sonrasında kendisine Londra'da prestijli bir iş teklif edildi.",
       "first_seen": "2026-09-17T20:05:50.551121+03:00",
@@ -642,11 +642,11 @@
       "ipa": "/ˈsʌbsɪkwəntli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-25",
       "level": "B2",
       "meaning_tr": "sonradan, sonrasında, daha sonra",
       "pos": "adverb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "subsequently"
     },
@@ -658,7 +658,7 @@
         "lose relevance"
       ],
       "definition_en": "The degree to which something is related or useful to what is happening.",
-      "due": "2026-09-20",
+      "due": "2026-09-26",
       "example": "The teacher explained the historical relevance of the event to modern society.",
       "example_tr": "Öğretmen, olayın modern toplumla olan tarihi ilişkisini açıkladı.",
       "first_seen": "2026-09-16T15:02:30.116093+03:00",
@@ -668,11 +668,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-25",
       "level": "B2",
       "meaning_tr": "ilgi, alaka, ilişki",
       "pos": "noun",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 1,
       "word": "relevance"
     },
@@ -1741,7 +1741,7 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-24T20:17:13.509187+03:00",
+  "last_sent_at": "2026-09-25T00:34:53.912208+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
