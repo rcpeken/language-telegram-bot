@@ -392,7 +392,7 @@
         "reluctantly accept"
       ],
       "definition_en": "In an unwilling and hesitant way.",
-      "due": "2026-09-20",
+      "due": "2026-09-25",
       "example": "She reluctantly agreed to work overtime on the weekend to finish the urgent report.",
       "example_tr": "Acil raporu bitirmek için hafta sonu fazla mesai yapmayı isteksizce kabul etti.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -400,11 +400,11 @@
       "ipa": "/rɪˈlʌktəntli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-24",
       "level": "C1",
       "meaning_tr": "isteksizce, gönülsüzce",
       "pos": "adverb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "reluctantly"
     },
@@ -536,7 +536,7 @@
         "enhance skills"
       ],
       "definition_en": "To improve the quality, amount, or strength of something.",
-      "due": "2026-09-20",
+      "due": "2026-09-25",
       "example": "Adding fresh herbs at the end of cooking will enhance the soup's flavor.",
       "example_tr": "Pişirme işleminin sonunda taze otlar eklemek çorbanın lezzetini artıracaktır.",
       "first_seen": "2026-09-17T20:05:50.551121+03:00",
@@ -544,11 +544,11 @@
       "ipa": "/ɪnˈhɑːns/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-24",
       "level": "B2",
       "meaning_tr": "artırmak, geliştirmek, iyileştirmek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "enhance"
     },
@@ -771,6 +771,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "fluctuate"
+    },
+    "6c6ecb9941": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "effective deterrent",
+        "nuclear deterrent"
+      ],
+      "definition_en": "Something that discourages or prevents people from doing something bad.",
+      "due": "2026-09-25",
+      "example": "Tougher laws and higher fines act as an effective deterrent against speeding.",
+      "example_tr": "Daha sert yasalar ve daha yüksek para cezaları, hız yapmaya karşı etkili bir caydırıcı işlevi görür.",
+      "first_seen": "2026-09-24T14:54:46.968276+03:00",
+      "id": "6c6ecb9941",
+      "ipa": "/dɪˈter.ənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-24",
+      "level": "C1",
+      "meaning_tr": "caydırıcı, caydırıcı unsur",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "deterrent"
     },
     "6f2293150e": {
       "answered_count": 1,
@@ -1039,6 +1063,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "prevalent"
+    },
+    "a4feb66e96": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "arbitrary decision",
+        "arbitrary rule"
+      ],
+      "definition_en": "Based on random choice or personal whim, rather than any reason or system.",
+      "due": "2026-09-25",
+      "example": "The company's decision to ban social media seemed completely arbitrary to the employees.",
+      "example_tr": "Şirketin sosyal medyayı yasaklama kararı çalışanlara tamamen keyfi göründü.",
+      "first_seen": "2026-09-24T14:54:46.968276+03:00",
+      "id": "a4feb66e96",
+      "ipa": "/ˈɑː.bɪ.trər.i/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-24",
+      "level": "C1",
+      "meaning_tr": "keyfi, rastgele",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "arbitrary"
     },
     "a5d9665493": {
       "answered_count": 0,
@@ -1426,6 +1474,30 @@
       "unknown_count": 0,
       "word": "mitigate"
     },
+    "d77317cabb": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "break the vicious cycle",
+        "vicious cycle of poverty"
+      ],
+      "definition_en": "A chain of negative events where one bad situation causes another, worse situation.",
+      "due": "2026-09-25",
+      "example": "Poor sleep leads to stress, which creates a vicious cycle of more insomnia.",
+      "example_tr": "Yetersiz uyku strese yol açar, bu da daha fazla uykusuzluğun olduğu bir kısır döngü yaratır.",
+      "first_seen": "2026-09-24T14:54:46.968276+03:00",
+      "id": "d77317cabb",
+      "ipa": "/ˈvɪʃ.əs ˈsaɪ.kəl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-24",
+      "level": "C1",
+      "meaning_tr": "kısır döngü",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "vicious cycle"
+    },
     "d90da45263": {
       "answered_count": 0,
       "box": 1,
@@ -1669,54 +1741,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-24T00:33:57.528059+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "arbitrary decision",
-        "arbitrary rule"
-      ],
-      "definition_en": "Based on random choice or personal whim, rather than any reason or system.",
-      "example": "The company's decision to ban social media seemed completely arbitrary to the employees.",
-      "example_tr": "Şirketin sosyal medyayı yasaklama kararı çalışanlara tamamen keyfi göründü.",
-      "ipa": "/ˈɑː.bɪ.trər.i/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "keyfi, rastgele",
-      "pos": "adjective",
-      "word": "arbitrary"
-    },
-    {
-      "collocations": [
-        "break the vicious cycle",
-        "vicious cycle of poverty"
-      ],
-      "definition_en": "A chain of negative events where one bad situation causes another, worse situation.",
-      "example": "Poor sleep leads to stress, which creates a vicious cycle of more insomnia.",
-      "example_tr": "Yetersiz uyku strese yol açar, bu da daha fazla uykusuzluğun olduğu bir kısır döngü yaratır.",
-      "ipa": "/ˈvɪʃ.əs ˈsaɪ.kəl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "kısır döngü",
-      "pos": "phrase",
-      "word": "vicious cycle"
-    },
-    {
-      "collocations": [
-        "effective deterrent",
-        "nuclear deterrent"
-      ],
-      "definition_en": "Something that discourages or prevents people from doing something bad.",
-      "example": "Tougher laws and higher fines act as an effective deterrent against speeding.",
-      "example_tr": "Daha sert yasalar ve daha yüksek para cezaları, hız yapmaya karşı etkili bir caydırıcı işlevi görür.",
-      "ipa": "/dɪˈter.ənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "caydırıcı, caydırıcı unsur",
-      "pos": "noun",
-      "word": "deterrent"
-    }
-  ],
+  "last_sent_at": "2026-09-24T14:54:46.968276+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
