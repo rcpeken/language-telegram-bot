@@ -560,7 +560,7 @@
         "discrepancy between"
       ],
       "definition_en": "A difference between two things that should be the same.",
-      "due": "2026-09-20",
+      "due": "2026-09-25",
       "example": "The accountant found a significant discrepancy between the two financial reports.",
       "example_tr": "Muhasebeci iki mali rapor arasında önemli bir tutarsızlık buldu.",
       "first_seen": "2026-09-16T10:12:29.899891+03:00",
@@ -570,11 +570,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-24",
       "level": "C1",
       "meaning_tr": "tutarsızlık, çelişki, fark",
       "pos": "noun",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 1,
       "word": "discrepancy"
     },
@@ -610,7 +610,7 @@
         "lucrative contract"
       ],
       "definition_en": "Producing a great deal of profit or wealth.",
-      "due": "2026-09-20",
+      "due": "2026-09-25",
       "example": "She decided to leave her teaching job for a more lucrative career in software sales.",
       "example_tr": "Yazılım satışlarında daha kazançlı bir kariyer için öğretmenlik işinden ayrılmaya karar verdi.",
       "first_seen": "2026-09-19T14:08:02.914222+03:00",
@@ -618,11 +618,11 @@
       "ipa": "/ˈluːkrətɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-24",
       "level": "B2",
       "meaning_tr": "karlı, kazançlı",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "lucrative"
     },
@@ -1741,7 +1741,7 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-24T14:54:46.968276+03:00",
+  "last_sent_at": "2026-09-24T20:17:13.509187+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
