@@ -264,6 +264,30 @@
       "unknown_count": 0,
       "word": "obstacle"
     },
+    "28291a2efb": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "apparent paradox",
+        "seeming paradox"
+      ],
+      "definition_en": "A situation that seems impossible because it contains opposite ideas.",
+      "due": "2026-09-27",
+      "example": "It is a strange paradox that some people eat more when dieting.",
+      "example_tr": "Bazı insanların diyet yaparken daha fazla yemesi garip bir çelişkidir.",
+      "first_seen": "2026-09-26T00:39:13.829782+03:00",
+      "id": "28291a2efb",
+      "ipa": "/ˈpærədɒks/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-26",
+      "level": "C1",
+      "meaning_tr": "çelişki, tezat, paradoks",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "paradox"
+    },
     "29336dd63c": {
       "answered_count": 0,
       "box": 1,
@@ -966,6 +990,30 @@
       "unknown_count": 0,
       "word": "on the verge of"
     },
+    "7a46926cbc": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "inadvertently omit",
+        "inadvertently cause"
+      ],
+      "definition_en": "Without intention; accidentally or unintentionally.",
+      "due": "2026-09-27",
+      "example": "He inadvertently deleted the important files while cleaning his computer drive.",
+      "example_tr": "Bilgisayar sürücüsünü temizlerken önemli dosyaları yanlışlıkla sildi.",
+      "first_seen": "2026-09-26T00:39:13.829782+03:00",
+      "id": "7a46926cbc",
+      "ipa": "/ˌɪnədˈvɜːtəntli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-26",
+      "level": "C1",
+      "meaning_tr": "istemeden, kazara, yanlışlıkla",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "inadvertently"
+    },
     "7d59daa732": {
       "answered_count": 0,
       "box": 1,
@@ -1037,6 +1085,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "nurture"
+    },
+    "91f103523d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "undermine authority",
+        "undermine confidence"
+      ],
+      "definition_en": "To make someone or something weaker or less effective.",
+      "due": "2026-09-27",
+      "example": "Constant criticism can undermine a student’s confidence in their own abilities.",
+      "example_tr": "Sürekli eleştiri, bir öğrencinin kendi yeteneklerine olan güvenini baltalayabilir.",
+      "first_seen": "2026-09-26T00:39:13.829782+03:00",
+      "id": "91f103523d",
+      "ipa": "/ˌʌndəˈmaɪn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-26",
+      "level": "B2",
+      "meaning_tr": "baltalamak, zayıflatmak, sarsmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "undermine"
     },
     "950b977354": {
       "answered_count": 0,
@@ -1578,7 +1650,7 @@
         "mitigate climate change"
       ],
       "definition_en": "To make something bad or painful less severe, serious, or painful.",
-      "due": "2026-09-20",
+      "due": "2026-09-27",
       "example": "The government introduced new measures to mitigate the economic effects of the pandemic.",
       "example_tr": "Hükümet, pandeminin ekonomik etkilerini hafifletmek için yeni önlemler uygulamaya koydu.",
       "first_seen": "2026-09-19T14:08:02.914222+03:00",
@@ -1586,11 +1658,11 @@
       "ipa": "/ˈmɪtɪɡeɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-26",
       "level": "C1",
       "meaning_tr": "hafifletmek, azaltmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "mitigate"
     },
@@ -1770,7 +1842,7 @@
         "relentless pressure"
       ],
       "definition_en": "Continuing without becoming weaker, less severe, or pausing.",
-      "due": "2026-09-20",
+      "due": "2026-09-27",
       "example": "The company's success is the result of their relentless pursuit of customer satisfaction.",
       "example_tr": "Şirketin başarısı, müşteri memnuniyetini amansızca takip etmelerinin bir sonucudur.",
       "first_seen": "2026-09-19T18:56:42.602674+03:00",
@@ -1778,11 +1850,11 @@
       "ipa": "/rɪˈlentləs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-26",
       "level": "C1",
       "meaning_tr": "amansız, aralıksız, acımasız",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "relentless"
     },
@@ -1885,53 +1957,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-25T20:17:10.652893+03:00",
+  "last_sent_at": "2026-09-26T00:39:13.829782+03:00",
   "pool": [
-    {
-      "collocations": [
-        "inadvertently omit",
-        "inadvertently cause"
-      ],
-      "definition_en": "Without intention; accidentally or unintentionally.",
-      "example": "He inadvertently deleted the important files while cleaning his computer drive.",
-      "example_tr": "Bilgisayar sürücüsünü temizlerken önemli dosyaları yanlışlıkla sildi.",
-      "ipa": "/ˌɪnədˈvɜːtəntli/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "istemeden, kazara, yanlışlıkla",
-      "pos": "adverb",
-      "word": "inadvertently"
-    },
-    {
-      "collocations": [
-        "apparent paradox",
-        "seeming paradox"
-      ],
-      "definition_en": "A situation that seems impossible because it contains opposite ideas.",
-      "example": "It is a strange paradox that some people eat more when dieting.",
-      "example_tr": "Bazı insanların diyet yaparken daha fazla yemesi garip bir çelişkidir.",
-      "ipa": "/ˈpærədɒks/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "çelişki, tezat, paradoks",
-      "pos": "noun",
-      "word": "paradox"
-    },
-    {
-      "collocations": [
-        "undermine authority",
-        "undermine confidence"
-      ],
-      "definition_en": "To make someone or something weaker or less effective.",
-      "example": "Constant criticism can undermine a student’s confidence in their own abilities.",
-      "example_tr": "Sürekli eleştiri, bir öğrencinin kendi yeteneklerine olan güvenini baltalayabilir.",
-      "ipa": "/ˌʌndəˈmaɪn/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "baltalamak, zayıflatmak, sarsmak",
-      "pos": "verb",
-      "word": "undermine"
-    },
     {
       "collocations": [
         "sustain economic growth",
