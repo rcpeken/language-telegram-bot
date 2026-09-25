@@ -96,6 +96,30 @@
       "unknown_count": 0,
       "word": "superficially"
     },
+    "1089b629f2": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "dispel doubts",
+        "dispel rumors"
+      ],
+      "definition_en": "To make a doubt, feeling, or belief disappear.",
+      "due": "2026-09-26",
+      "example": "His warm smile helped to dispel her fears about the job interview.",
+      "example_tr": "Onun sıcak gülümsemesi, iş görüşmesiyle ilgili korkularını gidermeye yardımcı oldu.",
+      "first_seen": "2026-09-25T14:56:55.788717+03:00",
+      "id": "1089b629f2",
+      "ipa": "/dɪˈspel/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-25",
+      "level": "C1",
+      "meaning_tr": "dağıtmak, gidermek, yok etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "dispel"
+    },
     "14aeea5092": {
       "answered_count": 0,
       "box": 1,
@@ -167,6 +191,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "deteriorate"
+    },
+    "1e5cfd4d2e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "alleviate poverty",
+        "alleviate suffering"
+      ],
+      "definition_en": "To make pain, worry, or a problem less severe.",
+      "due": "2026-09-26",
+      "example": "The new medicine helps to alleviate the pain in his joints quite quickly.",
+      "example_tr": "Yeni ilaç, eklemlerindeki ağrıyı oldukça hızlı bir şekilde hafifletmeye yardımcı oluyor.",
+      "first_seen": "2026-09-25T14:56:55.788717+03:00",
+      "id": "1e5cfd4d2e",
+      "ipa": "/əˈliːvieɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-25",
+      "level": "C1",
+      "meaning_tr": "hafifletmek, dindirmek, yatıştırmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "alleviate"
     },
     "1f320f2e2c": {
       "answered_count": 0,
@@ -708,7 +756,7 @@
         "assess the feasibility"
       ],
       "definition_en": "The quality of being easily or conveniently done.",
-      "due": "2026-09-20",
+      "due": "2026-09-26",
       "example": "The board of directors is currently conducting a feasibility study on the new project.",
       "example_tr": "Yönetim kurulu şu anda yeni proje üzerine bir yapılabilirlik çalışması yürütüyor.",
       "first_seen": "2026-09-17T14:49:12.236690+03:00",
@@ -716,11 +764,11 @@
       "ipa": "/ˌfiːzəˈbɪləti/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-25",
       "level": "C1",
       "meaning_tr": "yapılabilirlik, uygulanabilirlik",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "feasibility"
     },
@@ -1242,7 +1290,7 @@
         "trigger a memory"
       ],
       "definition_en": "To cause an event or situation to happen or exist.",
-      "due": "2026-09-20",
+      "due": "2026-09-26",
       "example": "The sudden increase in oil prices could trigger a global financial crisis.",
       "example_tr": "Petrol fiyatlarındaki ani artış küresel bir finansal krizi tetikleyebilir.",
       "first_seen": "2026-09-19T18:56:42.602674+03:00",
@@ -1250,11 +1298,11 @@
       "ipa": "/ˈtrɪɡər/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-25",
       "level": "B2",
       "meaning_tr": "tetiklemek, yol açmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "trigger"
     },
@@ -1594,6 +1642,30 @@
       "unknown_count": 0,
       "word": "comprehensive"
     },
+    "e9836cccde": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "coherent argument",
+        "coherent policy"
+      ],
+      "definition_en": "Logical, orderly, and easy to understand.",
+      "due": "2026-09-26",
+      "example": "She was so nervous that she could not produce a coherent explanation.",
+      "example_tr": "O kadar gergindi ki tutarlı bir açıklama yapamadı.",
+      "first_seen": "2026-09-25T14:56:55.788717+03:00",
+      "id": "e9836cccde",
+      "ipa": "/kəʊˈhɪərənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-25",
+      "level": "B2",
+      "meaning_tr": "tutarlı, uyumlu, anlaşılır",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "coherent"
+    },
     "e9e69aa97e": {
       "answered_count": 0,
       "box": 1,
@@ -1741,8 +1813,189 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-25T00:34:53.912208+03:00",
-  "pool": [],
+  "last_sent_at": "2026-09-25T14:56:55.788717+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "compelling evidence",
+        "compelling reason"
+      ],
+      "definition_en": "Strong and forceful, making you believe it or accept it.",
+      "example": "The lawyer presented a compelling argument that convinced the entire jury.",
+      "example_tr": "Avukat, tüm jüriyi ikna eden oldukça inandırıcı bir argüman sundu.",
+      "ipa": "/kəmˈpelɪŋ/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "ikna edici, zorlayıcı, ilgi uyandıran",
+      "pos": "adjective",
+      "word": "compelling"
+    },
+    {
+      "collocations": [
+        "eradicate disease",
+        "eradicate poverty"
+      ],
+      "definition_en": "To destroy or completely get rid of something bad.",
+      "example": "The government hopes to eradicate poverty through these new social programs.",
+      "example_tr": "Hükümet, bu yeni sosyal programlar aracılığıyla yoksulluğu tamamen bitirmeyi umuyor.",
+      "ipa": "/ɪˈrædɪkeɪt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "kökünü kazımak, yok etmek, tamamen bitirmek",
+      "pos": "verb",
+      "word": "eradicate"
+    },
+    {
+      "collocations": [
+        "pragmatic approach",
+        "pragmatic solution"
+      ],
+      "definition_en": "Solving problems in a sensible way that suits the conditions.",
+      "example": "We need to take a pragmatic approach to solve this budget issue.",
+      "example_tr": "Bu bütçe sorununu çözmek için gerçekçi ve uygulamacı bir yaklaşım benimsemeliyiz.",
+      "ipa": "/præɡˈmætɪk/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "pragmatik, uygulamacı, faydacı",
+      "pos": "adjective",
+      "word": "pragmatic"
+    },
+    {
+      "collocations": [
+        "inadvertently omit",
+        "inadvertently cause"
+      ],
+      "definition_en": "Without intention; accidentally or unintentionally.",
+      "example": "He inadvertently deleted the important files while cleaning his computer drive.",
+      "example_tr": "Bilgisayar sürücüsünü temizlerken önemli dosyaları yanlışlıkla sildi.",
+      "ipa": "/ˌɪnədˈvɜːtəntli/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "istemeden, kazara, yanlışlıkla",
+      "pos": "adverb",
+      "word": "inadvertently"
+    },
+    {
+      "collocations": [
+        "apparent paradox",
+        "seeming paradox"
+      ],
+      "definition_en": "A situation that seems impossible because it contains opposite ideas.",
+      "example": "It is a strange paradox that some people eat more when dieting.",
+      "example_tr": "Bazı insanların diyet yaparken daha fazla yemesi garip bir çelişkidir.",
+      "ipa": "/ˈpærədɒks/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "çelişki, tezat, paradoks",
+      "pos": "noun",
+      "word": "paradox"
+    },
+    {
+      "collocations": [
+        "undermine authority",
+        "undermine confidence"
+      ],
+      "definition_en": "To make someone or something weaker or less effective.",
+      "example": "Constant criticism can undermine a student’s confidence in their own abilities.",
+      "example_tr": "Sürekli eleştiri, bir öğrencinin kendi yeteneklerine olan güvenini baltalayabilir.",
+      "ipa": "/ˌʌndəˈmaɪn/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "baltalamak, zayıflatmak, sarsmak",
+      "pos": "verb",
+      "word": "undermine"
+    },
+    {
+      "collocations": [
+        "sustain economic growth",
+        "sustain injuries"
+      ],
+      "definition_en": "To cause or allow something to continue for a period of time.",
+      "example": "The company managed to sustain its high growth rate throughout the year.",
+      "example_tr": "Şirket, yıl boyunca yüksek büyüme oranını sürdürmeyi başardı.",
+      "ipa": "/səˈsteɪn/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "sürdürmek, ayakta tutmak, devam ettirmek",
+      "pos": "verb",
+      "word": "sustain"
+    },
+    {
+      "collocations": [
+        "abundant evidence",
+        "abundant resources"
+      ],
+      "definition_en": "Existing or available in large quantities; more than enough.",
+      "example": "The forest provides an abundant supply of fresh food for the wildlife.",
+      "example_tr": "Orman, vahşi yaşam için bol miktarda taze yiyecek kaynağı sağlar.",
+      "ipa": "/əˈbʌndənt/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "bol, bereketli, çok miktarda",
+      "pos": "adjective",
+      "word": "abundant"
+    },
+    {
+      "collocations": [
+        "budget surplus",
+        "trade surplus"
+      ],
+      "definition_en": "An amount that is more than what is needed.",
+      "example": "The country exported its surplus grain to nations facing severe food shortages.",
+      "example_tr": "Ülke, elindeki fazla tahılı ciddi gıda sıkıntısı çeken uluslara ihraç etti.",
+      "ipa": "/ˈsɜːpləs/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "fazlalık, artık, bütçe fazlası",
+      "pos": "noun",
+      "word": "surplus"
+    },
+    {
+      "collocations": [
+        "obsolete technology",
+        "obsolete equipment"
+      ],
+      "definition_en": "No longer produced or used; out of date.",
+      "example": "New computer technologies quickly make older models completely obsolete.",
+      "example_tr": "Yeni bilgisayar teknolojileri, eski modelleri hızla tamamen kullanım dışı bırakıyor.",
+      "ipa": "/ˈɒbsəliːt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "modası geçmiş, eskimiş, kullanım dışı",
+      "pos": "adjective",
+      "word": "obsolete"
+    },
+    {
+      "collocations": [
+        "invaluable experience",
+        "invaluable contribution"
+      ],
+      "definition_en": "Extremely useful; indispensable.",
+      "example": "Her advice on how to start the business was invaluable to us.",
+      "example_tr": "İşe nasıl başlanacağına dair tavsiyeleri bizim için paha biçilmezdi.",
+      "ipa": "/ɪnˈvæljuəbl/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "paha biçilmez, çok değerli",
+      "pos": "adjective",
+      "word": "invaluable"
+    },
+    {
+      "collocations": [
+        "treat with disdain",
+        "express disdain"
+      ],
+      "definition_en": "The feeling that someone or something is unworthy of respect.",
+      "example": "She treated the lazy workers with obvious disdain during the team meeting.",
+      "example_tr": "Ekip toplantısı sırasında tembel çalışanlara karşı bariz bir küçümsemeyle yaklaştı.",
+      "ipa": "/dɪsˈdeɪn/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "küçümseme, hor görme, kibir",
+      "pos": "noun",
+      "word": "disdain"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
