@@ -552,6 +552,30 @@
       "unknown_count": 0,
       "word": "vague"
     },
+    "4f33f75e17": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "compelling evidence",
+        "compelling reason"
+      ],
+      "definition_en": "Strong and forceful, making you believe it or accept it.",
+      "due": "2026-09-26",
+      "example": "The lawyer presented a compelling argument that convinced the entire jury.",
+      "example_tr": "Avukat, tüm jüriyi ikna eden oldukça inandırıcı bir argüman sundu.",
+      "first_seen": "2026-09-25T20:17:10.652893+03:00",
+      "id": "4f33f75e17",
+      "ipa": "/kəmˈpelɪŋ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-25",
+      "level": "B2",
+      "meaning_tr": "ikna edici, zorlayıcı, ilgi uyandıran",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "compelling"
+    },
     "519ce830d2": {
       "answered_count": 0,
       "box": 1,
@@ -795,6 +819,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "facilitate"
+    },
+    "66dbe656d3": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "pragmatic approach",
+        "pragmatic solution"
+      ],
+      "definition_en": "Solving problems in a sensible way that suits the conditions.",
+      "due": "2026-09-26",
+      "example": "We need to take a pragmatic approach to solve this budget issue.",
+      "example_tr": "Bu bütçe sorununu çözmek için gerçekçi ve uygulamacı bir yaklaşım benimsemeliyiz.",
+      "first_seen": "2026-09-25T20:17:10.652893+03:00",
+      "id": "66dbe656d3",
+      "ipa": "/præɡˈmætɪk/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-25",
+      "level": "B2",
+      "meaning_tr": "pragmatik, uygulamacı, faydacı",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "pragmatic"
     },
     "69902ca127": {
       "answered_count": 0,
@@ -1208,6 +1256,30 @@
       "unknown_count": 0,
       "word": "incentive"
     },
+    "abf014b522": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "eradicate disease",
+        "eradicate poverty"
+      ],
+      "definition_en": "To destroy or completely get rid of something bad.",
+      "due": "2026-09-26",
+      "example": "The government hopes to eradicate poverty through these new social programs.",
+      "example_tr": "Hükümet, bu yeni sosyal programlar aracılığıyla yoksulluğu tamamen bitirmeyi umuyor.",
+      "first_seen": "2026-09-25T20:17:10.652893+03:00",
+      "id": "abf014b522",
+      "ipa": "/ɪˈrædɪkeɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-25",
+      "level": "C1",
+      "meaning_tr": "kökünü kazımak, yok etmek, tamamen bitirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "eradicate"
+    },
     "ae7e688a8a": {
       "answered_count": 0,
       "box": 1,
@@ -1434,7 +1506,7 @@
         "reconcile accounts"
       ],
       "definition_en": "To find a way in which two opposing ideas or situations can both be true.",
-      "due": "2026-09-20",
+      "due": "2026-09-26",
       "example": "It is sometimes difficult to reconcile career ambitions with family responsibilities.",
       "example_tr": "Kariyer hedefleri ile aile sorumluluklarını uzlaştırmak bazen zordur.",
       "first_seen": "2026-09-19T23:47:06.679956+03:00",
@@ -1442,11 +1514,11 @@
       "ipa": "/ˈrekənsaɪl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-25",
       "level": "C1",
       "meaning_tr": "uzlaştırmak, arayı bulmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "reconcile"
     },
@@ -1458,7 +1530,7 @@
         "drastically reduce"
       ],
       "definition_en": "In a way that is likely to have a strong or far-reaching effect.",
-      "due": "2026-09-20",
+      "due": "2026-09-26",
       "example": "The budget was drastically reduced, forcing the department to cancel several projects.",
       "example_tr": "Bütçe büyük ölçüde düşürüldü ve bu durum departmanı birkaç projeyi iptal etmeye zorladı.",
       "first_seen": "2026-09-19T23:47:06.679956+03:00",
@@ -1466,11 +1538,11 @@
       "ipa": "/ˈdræstɪkli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-25",
       "level": "B2",
       "meaning_tr": "kökten, önemli ölçüde, büyük ölçüde",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "drastically"
     },
@@ -1813,53 +1885,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-25T14:56:55.788717+03:00",
+  "last_sent_at": "2026-09-25T20:17:10.652893+03:00",
   "pool": [
-    {
-      "collocations": [
-        "compelling evidence",
-        "compelling reason"
-      ],
-      "definition_en": "Strong and forceful, making you believe it or accept it.",
-      "example": "The lawyer presented a compelling argument that convinced the entire jury.",
-      "example_tr": "Avukat, tüm jüriyi ikna eden oldukça inandırıcı bir argüman sundu.",
-      "ipa": "/kəmˈpelɪŋ/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "ikna edici, zorlayıcı, ilgi uyandıran",
-      "pos": "adjective",
-      "word": "compelling"
-    },
-    {
-      "collocations": [
-        "eradicate disease",
-        "eradicate poverty"
-      ],
-      "definition_en": "To destroy or completely get rid of something bad.",
-      "example": "The government hopes to eradicate poverty through these new social programs.",
-      "example_tr": "Hükümet, bu yeni sosyal programlar aracılığıyla yoksulluğu tamamen bitirmeyi umuyor.",
-      "ipa": "/ɪˈrædɪkeɪt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "kökünü kazımak, yok etmek, tamamen bitirmek",
-      "pos": "verb",
-      "word": "eradicate"
-    },
-    {
-      "collocations": [
-        "pragmatic approach",
-        "pragmatic solution"
-      ],
-      "definition_en": "Solving problems in a sensible way that suits the conditions.",
-      "example": "We need to take a pragmatic approach to solve this budget issue.",
-      "example_tr": "Bu bütçe sorununu çözmek için gerçekçi ve uygulamacı bir yaklaşım benimsemeliyiz.",
-      "ipa": "/præɡˈmætɪk/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "pragmatik, uygulamacı, faydacı",
-      "pos": "adjective",
-      "word": "pragmatic"
-    },
     {
       "collocations": [
         "inadvertently omit",
