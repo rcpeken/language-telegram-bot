@@ -344,7 +344,7 @@
         "inherent danger"
       ],
       "definition_en": "Existing as a natural or basic part of something.",
-      "due": "2026-09-21",
+      "due": "2026-09-28",
       "example": "Every financial investment has an inherent risk of losing money.",
       "example_tr": "Her finansal yatırım, para kaybetme riskini doğasında barındırır.",
       "first_seen": "2026-09-20T19:12:56.042085+03:00",
@@ -352,11 +352,11 @@
       "ipa": "/ɪnˈhɪrənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-27",
       "level": "C1",
       "meaning_tr": "doğasında olan, kendiliğinden var olan",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "inherent"
     },
@@ -392,7 +392,7 @@
         "oversee operations"
       ],
       "definition_en": "To watch and direct a task or project to make sure it is done correctly.",
-      "due": "2026-09-21",
+      "due": "2026-09-28",
       "example": "The newly appointed manager will oversee the entire transition to the digital platform.",
       "example_tr": "Yeni atanan müdür, dijital platforma geçiş sürecinin tamamını denetleyecek.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -400,11 +400,11 @@
       "ipa": "/ˌəʊvəˈsiː/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-27",
       "level": "B2",
       "meaning_tr": "denetlemek, yönetmek, gözetmek",
       "pos": "verb",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 0,
       "word": "oversee"
     },
@@ -2101,7 +2101,7 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-26T19:28:39.385850+03:00",
+  "last_sent_at": "2026-09-27T00:15:35.539524+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
