@@ -1,5 +1,29 @@
 {
   "cards": {
+    "0069d3c1d0": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "invaluable experience",
+        "invaluable contribution"
+      ],
+      "definition_en": "Extremely useful; indispensable.",
+      "due": "2026-09-27",
+      "example": "Her advice on how to start the business was invaluable to us.",
+      "example_tr": "İşe nasıl başlanacağına dair tavsiyeleri bizim için paha biçilmezdi.",
+      "first_seen": "2026-09-26T19:28:39.385850+03:00",
+      "id": "0069d3c1d0",
+      "ipa": "/ɪnˈvæljuəbl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-26",
+      "level": "B2",
+      "meaning_tr": "paha biçilmez, çok değerli",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "invaluable"
+    },
     "013b1b632a": {
       "answered_count": 0,
       "box": 1,
@@ -128,7 +152,7 @@
         "water scarcity"
       ],
       "definition_en": "A situation in which there is not enough of something.",
-      "due": "2026-09-21",
+      "due": "2026-09-27",
       "example": "The scarcity of skilled workers is currently the biggest challenge for local businesses.",
       "example_tr": "Nitelikli işçi kıtlığı şu anda yerel işletmeler için en büyük zorluktur.",
       "first_seen": "2026-09-20T14:32:11.283311+03:00",
@@ -136,11 +160,11 @@
       "ipa": "/ˈskersəti/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-26",
       "level": "B2",
       "meaning_tr": "kıtlık, azlık, eksiklik",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "scarcity"
     },
@@ -176,7 +200,7 @@
         "health deteriorated"
       ],
       "definition_en": "To become worse in quality or condition over time.",
-      "due": "2026-09-21",
+      "due": "2026-09-27",
       "example": "The weather conditions began to deteriorate rapidly as the storm approached the coast.",
       "example_tr": "Fırtına kıyıya yaklaştıkça hava koşulları hızla kötüleşmeye başladı.",
       "first_seen": "2026-09-18T00:27:29.467923+03:00",
@@ -184,11 +208,11 @@
       "ipa": "/dɪˈtɪəriəreɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-26",
       "level": "C1",
       "meaning_tr": "kötüleşmek, bozulmak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "deteriorate"
     },
@@ -989,6 +1013,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "implement"
+    },
+    "7143835e73": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "obsolete technology",
+        "obsolete equipment"
+      ],
+      "definition_en": "No longer produced or used; out of date.",
+      "due": "2026-09-27",
+      "example": "New computer technologies quickly make older models completely obsolete.",
+      "example_tr": "Yeni bilgisayar teknolojileri, eski modelleri hızla tamamen kullanım dışı bırakıyor.",
+      "first_seen": "2026-09-26T19:28:39.385850+03:00",
+      "id": "7143835e73",
+      "ipa": "/ˈɒbsəliːt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-26",
+      "level": "C1",
+      "meaning_tr": "modası geçmiş, eskimiş, kullanım dışı",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "obsolete"
     },
     "7655beff3e": {
       "answered_count": 0,
@@ -2004,6 +2052,30 @@
       "unknown_count": 0,
       "word": "acknowledge"
     },
+    "fb8ff5d23c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "treat with disdain",
+        "express disdain"
+      ],
+      "definition_en": "The feeling that someone or something is unworthy of respect.",
+      "due": "2026-09-27",
+      "example": "She treated the lazy workers with obvious disdain during the team meeting.",
+      "example_tr": "Ekip toplantısı sırasında tembel çalışanlara karşı bariz bir küçümsemeyle yaklaştı.",
+      "first_seen": "2026-09-26T19:28:39.385850+03:00",
+      "id": "fb8ff5d23c",
+      "ipa": "/dɪsˈdeɪn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-26",
+      "level": "C1",
+      "meaning_tr": "küçümseme, hor görme, kibir",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "disdain"
+    },
     "fcc304639c": {
       "answered_count": 0,
       "box": 1,
@@ -2029,54 +2101,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-26T14:31:39.436666+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "obsolete technology",
-        "obsolete equipment"
-      ],
-      "definition_en": "No longer produced or used; out of date.",
-      "example": "New computer technologies quickly make older models completely obsolete.",
-      "example_tr": "Yeni bilgisayar teknolojileri, eski modelleri hızla tamamen kullanım dışı bırakıyor.",
-      "ipa": "/ˈɒbsəliːt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "modası geçmiş, eskimiş, kullanım dışı",
-      "pos": "adjective",
-      "word": "obsolete"
-    },
-    {
-      "collocations": [
-        "invaluable experience",
-        "invaluable contribution"
-      ],
-      "definition_en": "Extremely useful; indispensable.",
-      "example": "Her advice on how to start the business was invaluable to us.",
-      "example_tr": "İşe nasıl başlanacağına dair tavsiyeleri bizim için paha biçilmezdi.",
-      "ipa": "/ɪnˈvæljuəbl/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "paha biçilmez, çok değerli",
-      "pos": "adjective",
-      "word": "invaluable"
-    },
-    {
-      "collocations": [
-        "treat with disdain",
-        "express disdain"
-      ],
-      "definition_en": "The feeling that someone or something is unworthy of respect.",
-      "example": "She treated the lazy workers with obvious disdain during the team meeting.",
-      "example_tr": "Ekip toplantısı sırasında tembel çalışanlara karşı bariz bir küçümsemeyle yaklaştı.",
-      "ipa": "/dɪsˈdeɪn/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "küçümseme, hor görme, kibir",
-      "pos": "noun",
-      "word": "disdain"
-    }
-  ],
+  "last_sent_at": "2026-09-26T19:28:39.385850+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
