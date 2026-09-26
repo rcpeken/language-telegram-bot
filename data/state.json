@@ -264,6 +264,30 @@
       "unknown_count": 0,
       "word": "obstacle"
     },
+    "247045e1a3": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "sustain economic growth",
+        "sustain injuries"
+      ],
+      "definition_en": "To cause or allow something to continue for a period of time.",
+      "due": "2026-09-27",
+      "example": "The company managed to sustain its high growth rate throughout the year.",
+      "example_tr": "Şirket, yıl boyunca yüksek büyüme oranını sürdürmeyi başardı.",
+      "first_seen": "2026-09-26T14:31:39.436666+03:00",
+      "id": "247045e1a3",
+      "ipa": "/səˈsteɪn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-26",
+      "level": "B2",
+      "meaning_tr": "sürdürmek, ayakta tutmak, devam ettirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "sustain"
+    },
     "28291a2efb": {
       "answered_count": 0,
       "box": 1,
@@ -527,6 +551,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "redundant"
+    },
+    "4a65abf412": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "budget surplus",
+        "trade surplus"
+      ],
+      "definition_en": "An amount that is more than what is needed.",
+      "due": "2026-09-27",
+      "example": "The country exported its surplus grain to nations facing severe food shortages.",
+      "example_tr": "Ülke, elindeki fazla tahılı ciddi gıda sıkıntısı çeken uluslara ihraç etti.",
+      "first_seen": "2026-09-26T14:31:39.436666+03:00",
+      "id": "4a65abf412",
+      "ipa": "/ˈsɜːpləs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-26",
+      "level": "B2",
+      "meaning_tr": "fazlalık, artık, bütçe fazlası",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "surplus"
     },
     "4ca277de59": {
       "answered_count": 0,
@@ -1109,6 +1157,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "undermine"
+    },
+    "93706ce19d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "abundant evidence",
+        "abundant resources"
+      ],
+      "definition_en": "Existing or available in large quantities; more than enough.",
+      "due": "2026-09-27",
+      "example": "The forest provides an abundant supply of fresh food for the wildlife.",
+      "example_tr": "Orman, vahşi yaşam için bol miktarda taze yiyecek kaynağı sağlar.",
+      "first_seen": "2026-09-26T14:31:39.436666+03:00",
+      "id": "93706ce19d",
+      "ipa": "/əˈbʌndənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-26",
+      "level": "B2",
+      "meaning_tr": "bol, bereketli, çok miktarda",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "abundant"
     },
     "950b977354": {
       "answered_count": 0,
@@ -1892,7 +1964,7 @@
         "ethical conundrum"
       ],
       "definition_en": "A confusing and difficult problem or question.",
-      "due": "2026-09-20",
+      "due": "2026-09-27",
       "example": "Finding a balance between economic growth and environmental protection is a difficult conundrum.",
       "example_tr": "Ekonomik büyüme ile çevrenin korunması arasında bir denge bulmak zor bir bilmecedir.",
       "first_seen": "2026-09-19T18:56:42.602674+03:00",
@@ -1900,11 +1972,11 @@
       "ipa": "/kəˈnʌndrəm/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-26",
       "level": "C1",
       "meaning_tr": "bilmece, içinden çıkılmaz problem",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "conundrum"
     },
@@ -1940,7 +2012,7 @@
         "increase disposable income"
       ],
       "definition_en": "The amount of money that households have available for spending and saving after taxes.",
-      "due": "2026-09-20",
+      "due": "2026-09-27",
       "example": "Higher taxes have significantly reduced the disposable income of average families this year.",
       "example_tr": "Yüksek vergiler, bu yıl ortalama ailelerin kullanılabilir gelirini önemli ölçüde azalttı.",
       "first_seen": "2026-09-19T14:08:02.914222+03:00",
@@ -1948,62 +2020,17 @@
       "ipa": "/dɪˈspoʊzəbl ˈɪnkʌm/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-19",
+      "last_shown_at": "2026-09-26",
       "level": "B2",
       "meaning_tr": "kullanılabilir gelir, net gelir",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-26T00:39:13.829782+03:00",
+  "last_sent_at": "2026-09-26T14:31:39.436666+03:00",
   "pool": [
-    {
-      "collocations": [
-        "sustain economic growth",
-        "sustain injuries"
-      ],
-      "definition_en": "To cause or allow something to continue for a period of time.",
-      "example": "The company managed to sustain its high growth rate throughout the year.",
-      "example_tr": "Şirket, yıl boyunca yüksek büyüme oranını sürdürmeyi başardı.",
-      "ipa": "/səˈsteɪn/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "sürdürmek, ayakta tutmak, devam ettirmek",
-      "pos": "verb",
-      "word": "sustain"
-    },
-    {
-      "collocations": [
-        "abundant evidence",
-        "abundant resources"
-      ],
-      "definition_en": "Existing or available in large quantities; more than enough.",
-      "example": "The forest provides an abundant supply of fresh food for the wildlife.",
-      "example_tr": "Orman, vahşi yaşam için bol miktarda taze yiyecek kaynağı sağlar.",
-      "ipa": "/əˈbʌndənt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "bol, bereketli, çok miktarda",
-      "pos": "adjective",
-      "word": "abundant"
-    },
-    {
-      "collocations": [
-        "budget surplus",
-        "trade surplus"
-      ],
-      "definition_en": "An amount that is more than what is needed.",
-      "example": "The country exported its surplus grain to nations facing severe food shortages.",
-      "example_tr": "Ülke, elindeki fazla tahılı ciddi gıda sıkıntısı çeken uluslara ihraç etti.",
-      "ipa": "/ˈsɜːpləs/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "fazlalık, artık, bütçe fazlası",
-      "pos": "noun",
-      "word": "surplus"
-    },
     {
       "collocations": [
         "obsolete technology",
