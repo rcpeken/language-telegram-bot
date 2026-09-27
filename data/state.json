@@ -464,7 +464,7 @@
         "highly vulnerable"
       ],
       "definition_en": "Easy to hurt or attack physically, emotionally, or mentally.",
-      "due": "2026-09-21",
+      "due": "2026-09-28",
       "example": "Elderly people are often more vulnerable to extreme weather conditions during the winter.",
       "example_tr": "Yaşlı insanlar kış aylarında genellikle aşırı hava koşullarına karşı daha hassastır.",
       "first_seen": "2026-09-20T14:32:11.283311+03:00",
@@ -472,11 +472,11 @@
       "ipa": "/ˈvʌlnərəbl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-27",
       "level": "B2",
       "meaning_tr": "savunmasız, hassas, kırılgan",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "vulnerable"
     },
@@ -900,7 +900,7 @@
         "facilitate growth"
       ],
       "definition_en": "To make an action or process easy or easier.",
-      "due": "2026-09-21",
+      "due": "2026-09-28",
       "example": "The new software will facilitate communication between different departments of our company.",
       "example_tr": "Yeni yazılım, şirketimizin farklı departmanları arasındaki iletişimi kolaylaştıracak.",
       "first_seen": "2026-09-20T23:53:42.065471+03:00",
@@ -908,11 +908,11 @@
       "ipa": "/fəˈsɪlɪteɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-27",
       "level": "B2",
       "meaning_tr": "kolaylaştırmak, yardımcı olmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "facilitate"
     },
@@ -1109,6 +1109,54 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "inadvertently"
+    },
+    "7a5cb9c378": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "ubiquitous influence",
+        "ubiquitous presence"
+      ],
+      "definition_en": "Seeming to be everywhere at the same time.",
+      "due": "2026-09-28",
+      "example": "Mobile phones have become ubiquitous in almost every part of the world today.",
+      "example_tr": "Cep telefonları günümüzde dünyanın neredeyse her yerinde yaygın hale gelmiştir.",
+      "first_seen": "2026-09-27T15:10:16.946243+03:00",
+      "id": "7a5cb9c378",
+      "ipa": "/juːˈbɪkwɪtəs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-27",
+      "level": "C1",
+      "meaning_tr": "her yerde bulunan, yaygın",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "ubiquitous"
+    },
+    "7d4ceff333": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "statistical anomaly",
+        "genetic anomaly"
+      ],
+      "definition_en": "Something that is unusual or different from what is standard or expected.",
+      "due": "2026-09-28",
+      "example": "Scientists identified a temporary temperature anomaly in the historical climate data.",
+      "example_tr": "Bilim insanları, tarihi iklim verilerinde geçici bir sıcaklık sapması tespit etti.",
+      "first_seen": "2026-09-27T15:10:16.946243+03:00",
+      "id": "7d4ceff333",
+      "ipa": "/əˈnɒməli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-27",
+      "level": "C1",
+      "meaning_tr": "sapma, anormallik, düzensizlik",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "anomaly"
     },
     "7d59daa732": {
       "answered_count": 0,
@@ -1495,6 +1543,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "compile"
+    },
+    "b9e6645398": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "tend to procrastinate",
+        "procrastinate on tasks"
+      ],
+      "definition_en": "To delay doing something that you should do, usually because you do not want to do it.",
+      "due": "2026-09-28",
+      "example": "Many students procrastinate until the night before the exam to start studying.",
+      "example_tr": "Birçok öğrenci çalışmaya başlamak için sınavdan önceki geceye kadar erteler.",
+      "first_seen": "2026-09-27T15:10:16.946243+03:00",
+      "id": "b9e6645398",
+      "ipa": "/prəˈkræstɪneɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-27",
+      "level": "B2",
+      "meaning_tr": "ertelemek, ağırdan almak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "procrastinate"
     },
     "ba95141045": {
       "answered_count": 0,
@@ -2101,8 +2173,189 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-27T00:15:35.539524+03:00",
-  "pool": [],
+  "last_sent_at": "2026-09-27T15:10:16.946243+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "candid discussion",
+        "candid opinion"
+      ],
+      "definition_en": "Honest and telling the truth, especially about something difficult or painful.",
+      "example": "She gave a candid interview about her struggles as a young entrepreneur.",
+      "example_tr": "Genç bir girişimci olarak yaşadığı zorluklar hakkında samimi bir röportaj verdi.",
+      "ipa": "/ˈkændɪd/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "samimi, içten, açık sözlü",
+      "pos": "adjective",
+      "word": "candid"
+    },
+    {
+      "collocations": [
+        "consequently decided",
+        "consequently suffered"
+      ],
+      "definition_en": "As a result of something that has just been mentioned.",
+      "example": "The company lost its main client and consequently had to lay off staff.",
+      "example_tr": "Şirket ana müşterisini kaybetti ve sonuç olarak işten çıkarmalar yapmak zorunda kaldı.",
+      "ipa": "/ˈkɒnsɪkwəntli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "sonuç olarak, bu nedenle",
+      "pos": "adverb",
+      "word": "consequently"
+    },
+    {
+      "collocations": [
+        "tangible evidence",
+        "tangible results"
+      ],
+      "definition_en": "Real or concrete, and able to be clearly seen or touched.",
+      "example": "The new safety policies have produced tangible benefits for all factory employees.",
+      "example_tr": "Yeni güvenlik politikaları tüm fabrika çalışanları için somut faydalar sağladı.",
+      "ipa": "/ˈtændʒəbəl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "somut, elle tutulur, hissedilir",
+      "pos": "adjective",
+      "word": "tangible"
+    },
+    {
+      "collocations": [
+        "reach a consensus",
+        "general consensus"
+      ],
+      "definition_en": "An opinion or decision that all members of a group agree on.",
+      "example": "After hours of debate, the committee finally reached a consensus on the budget.",
+      "example_tr": "Saatler süren tartışmaların ardından komite nihayet bütçe konusunda bir fikir birliğine vardı.",
+      "ipa": "/kənˈsensəs/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "fikir birliği, mutabakat",
+      "pos": "noun",
+      "word": "consensus"
+    },
+    {
+      "collocations": [
+        "strive for perfection",
+        "strive to achieve"
+      ],
+      "definition_en": "To make a great effort to achieve or obtain something.",
+      "example": "We must constantly strive to improve our customer service standards in this industry.",
+      "example_tr": "Bu sektörde müşteri hizmetleri standartlarımızı geliştirmek için sürekli çaba göstermeliyiz.",
+      "ipa": "/straɪv/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "çabalamak, uğraşmak, gayret etmek",
+      "pos": "verb",
+      "word": "strive"
+    },
+    {
+      "collocations": [
+        "superfluous details",
+        "superfluous information"
+      ],
+      "definition_en": "More than is needed, wanted, or useful.",
+      "example": "Please edit the report to remove any superfluous details that distract the reader.",
+      "example_tr": "Lütfen okuyucunun dikkatini dağıtan gereksiz detayları kaldırmak için raporu düzenleyin.",
+      "ipa": "/suːˈpɜːfluəs/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "gereksiz, fazla, lüzumsuz",
+      "pos": "adjective",
+      "word": "superfluous"
+    },
+    {
+      "collocations": [
+        "speak on behalf of",
+        "act on behalf of"
+      ],
+      "definition_en": "As a representative of someone, or in the interest of someone.",
+      "example": "The lawyer made a brief statement on behalf of the accused family.",
+      "example_tr": "Avukat, sanık aile adına kısa bir açıklama yaptı.",
+      "ipa": "/ɒn bɪˈhɑːf ɒv/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "adına, temsilen",
+      "pos": "phrase",
+      "word": "on behalf of"
+    },
+    {
+      "collocations": [
+        "elusive goal",
+        "elusive answer"
+      ],
+      "definition_en": "Difficult to find, catch, describe, or achieve.",
+      "example": "The perfect solution to the economic crisis remains elusive for most policy makers.",
+      "example_tr": "Ekonomik krize mükemmel çözüm, çoğu politika yapıcı için bulunması zor olmaya devam ediyor.",
+      "ipa": "/iˈluːsɪv/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "bulunması zor, yakalanamaz, anlaşılmaz",
+      "pos": "adjective",
+      "word": "elusive"
+    },
+    {
+      "collocations": [
+        "negligible impact",
+        "negligible amount"
+      ],
+      "definition_en": "Too slight or small in amount to be of any importance.",
+      "example": "The cost of the new office supplies was negligible compared to the total budget.",
+      "example_tr": "Yeni ofis malzemelerinin maliyeti, toplam bütçeye kıyasla ihmal edilebilir düzeydeydi.",
+      "ipa": "/ˈneɡlɪdʒəbəl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "ihmal edilebilir, önemsiz",
+      "pos": "adjective",
+      "word": "negligible"
+    },
+    {
+      "collocations": [
+        "soothe pain",
+        "soothe nerves"
+      ],
+      "definition_en": "To make someone feel calm or to make pain less severe.",
+      "example": "The gentle music helped to soothe the crying baby after a long day.",
+      "example_tr": "Hafif müzik, uzun bir günün ardından ağlayan bebeği sakinleştirmeye yardımcı oldu.",
+      "ipa": "/suːð/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "yatıştırmak, sakinleştirmek, dindirmek",
+      "pos": "verb",
+      "word": "soothe"
+    },
+    {
+      "collocations": [
+        "unravel a mystery",
+        "unravel a plot"
+      ],
+      "definition_en": "To find the correct explanation for something that is difficult to understand.",
+      "example": "Detectives worked tirelessly to unravel the mystery behind the sudden disappearance.",
+      "example_tr": "Dedektifler, ani kayboluşun arkasındaki gizemi aydınlatmak için yorulmadan çalıştılar.",
+      "ipa": "/ʌnˈrævəl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "çözülmek, aydınlatmak, ortaya çıkarmak",
+      "pos": "verb",
+      "word": "unravel"
+    },
+    {
+      "collocations": [
+        "grow at the expense of",
+        "succeed at the expense of"
+      ],
+      "definition_en": "In a way that harms or damages something or someone else.",
+      "example": "He achieved commercial success at the expense of his own physical health.",
+      "example_tr": "Kendi fiziksel sağlığı pahasına ticari başarı elde etti.",
+      "ipa": "/æt ði ɪkˈspens ɒv/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "pahasına, zararına",
+      "pos": "phrase",
+      "word": "at the expense of"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
