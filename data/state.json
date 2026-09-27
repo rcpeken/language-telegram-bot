@@ -818,6 +818,30 @@
       "unknown_count": 0,
       "word": "subsequently"
     },
+    "5c752a9c31": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "consequently decided",
+        "consequently suffered"
+      ],
+      "definition_en": "As a result of something that has just been mentioned.",
+      "due": "2026-09-28",
+      "example": "The company lost its main client and consequently had to lay off staff.",
+      "example_tr": "Şirket ana müşterisini kaybetti ve sonuç olarak işten çıkarmalar yapmak zorunda kaldı.",
+      "first_seen": "2026-09-27T20:02:16.834307+03:00",
+      "id": "5c752a9c31",
+      "ipa": "/ˈkɒnsɪkwəntli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-27",
+      "level": "B2",
+      "meaning_tr": "sonuç olarak, bu nedenle",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "consequently"
+    },
     "5cb32c1670": {
       "answered_count": 1,
       "box": 1,
@@ -1070,7 +1094,7 @@
         "on the verge of tears"
       ],
       "definition_en": "Very close to experiencing or doing something.",
-      "due": "2026-09-21",
+      "due": "2026-09-28",
       "example": "The scientists believe that they are on the verge of discovering a cure.",
       "example_tr": "Bilim insanları bir tedavi bulmanın eşiğinde olduklarına inanıyorlar.",
       "first_seen": "2026-09-17T20:05:50.551121+03:00",
@@ -1078,11 +1102,11 @@
       "ipa": "/ɒn ðə vɜːdʒ ɒv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-27",
       "level": "B2",
       "meaning_tr": "-in eşiğinde, üzere",
       "pos": "phrase",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "on the verge of"
     },
@@ -1310,7 +1334,7 @@
         "highly resilient"
       ],
       "definition_en": "Able to quickly return to a previous good condition after a difficult situation.",
-      "due": "2026-09-21",
+      "due": "2026-09-28",
       "example": "Local businesses proved to be highly resilient during the economic crisis last year.",
       "example_tr": "Yerel işletmeler geçen yılki ekonomik kriz sırasında son derece dirençli olduklarını kanıtladılar.",
       "first_seen": "2026-09-16T10:12:29.899891+03:00",
@@ -1320,11 +1344,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-27",
       "level": "B2",
       "meaning_tr": "dirençli, esnek, güçlü",
       "pos": "adjective",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 1,
       "word": "resilient"
     },
@@ -1567,6 +1591,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "procrastinate"
+    },
+    "ba89bfecfa": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "candid discussion",
+        "candid opinion"
+      ],
+      "definition_en": "Honest and telling the truth, especially about something difficult or painful.",
+      "due": "2026-09-28",
+      "example": "She gave a candid interview about her struggles as a young entrepreneur.",
+      "example_tr": "Genç bir girişimci olarak yaşadığı zorluklar hakkında samimi bir röportaj verdi.",
+      "first_seen": "2026-09-27T20:02:16.834307+03:00",
+      "id": "ba89bfecfa",
+      "ipa": "/ˈkændɪd/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-27",
+      "level": "B2",
+      "meaning_tr": "samimi, içten, açık sözlü",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "candid"
     },
     "ba95141045": {
       "answered_count": 0,
@@ -1833,6 +1881,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "substantial"
+    },
+    "d69c7b9a62": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "tangible evidence",
+        "tangible results"
+      ],
+      "definition_en": "Real or concrete, and able to be clearly seen or touched.",
+      "due": "2026-09-28",
+      "example": "The new safety policies have produced tangible benefits for all factory employees.",
+      "example_tr": "Yeni güvenlik politikaları tüm fabrika çalışanları için somut faydalar sağladı.",
+      "first_seen": "2026-09-27T20:02:16.834307+03:00",
+      "id": "d69c7b9a62",
+      "ipa": "/ˈtændʒəbəl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-27",
+      "level": "C1",
+      "meaning_tr": "somut, elle tutulur, hissedilir",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "tangible"
     },
     "d6a9fdce24": {
       "answered_count": 0,
@@ -2173,53 +2245,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-27T15:10:16.946243+03:00",
+  "last_sent_at": "2026-09-27T20:02:16.834307+03:00",
   "pool": [
-    {
-      "collocations": [
-        "candid discussion",
-        "candid opinion"
-      ],
-      "definition_en": "Honest and telling the truth, especially about something difficult or painful.",
-      "example": "She gave a candid interview about her struggles as a young entrepreneur.",
-      "example_tr": "Genç bir girişimci olarak yaşadığı zorluklar hakkında samimi bir röportaj verdi.",
-      "ipa": "/ˈkændɪd/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "samimi, içten, açık sözlü",
-      "pos": "adjective",
-      "word": "candid"
-    },
-    {
-      "collocations": [
-        "consequently decided",
-        "consequently suffered"
-      ],
-      "definition_en": "As a result of something that has just been mentioned.",
-      "example": "The company lost its main client and consequently had to lay off staff.",
-      "example_tr": "Şirket ana müşterisini kaybetti ve sonuç olarak işten çıkarmalar yapmak zorunda kaldı.",
-      "ipa": "/ˈkɒnsɪkwəntli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "sonuç olarak, bu nedenle",
-      "pos": "adverb",
-      "word": "consequently"
-    },
-    {
-      "collocations": [
-        "tangible evidence",
-        "tangible results"
-      ],
-      "definition_en": "Real or concrete, and able to be clearly seen or touched.",
-      "example": "The new safety policies have produced tangible benefits for all factory employees.",
-      "example_tr": "Yeni güvenlik politikaları tüm fabrika çalışanları için somut faydalar sağladı.",
-      "ipa": "/ˈtændʒəbəl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "somut, elle tutulur, hissedilir",
-      "pos": "adjective",
-      "word": "tangible"
-    },
     {
       "collocations": [
         "reach a consensus",
