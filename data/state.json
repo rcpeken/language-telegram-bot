@@ -1038,6 +1038,30 @@
       "unknown_count": 0,
       "word": "implement"
     },
+    "70d5bd924e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "superfluous details",
+        "superfluous information"
+      ],
+      "definition_en": "More than is needed, wanted, or useful.",
+      "due": "2026-09-29",
+      "example": "Please edit the report to remove any superfluous details that distract the reader.",
+      "example_tr": "Lütfen okuyucunun dikkatini dağıtan gereksiz detayları kaldırmak için raporu düzenleyin.",
+      "first_seen": "2026-09-28T00:24:56.961051+03:00",
+      "id": "70d5bd924e",
+      "ipa": "/suːˈpɜːfluəs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-28",
+      "level": "C1",
+      "meaning_tr": "gereksiz, fazla, lüzumsuz",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "superfluous"
+    },
     "7143835e73": {
       "answered_count": 0,
       "box": 1,
@@ -1158,6 +1182,30 @@
       "unknown_count": 0,
       "word": "ubiquitous"
     },
+    "7c990ecad0": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "strive for perfection",
+        "strive to achieve"
+      ],
+      "definition_en": "To make a great effort to achieve or obtain something.",
+      "due": "2026-09-29",
+      "example": "We must constantly strive to improve our customer service standards in this industry.",
+      "example_tr": "Bu sektörde müşteri hizmetleri standartlarımızı geliştirmek için sürekli çaba göstermeliyiz.",
+      "first_seen": "2026-09-28T00:24:56.961051+03:00",
+      "id": "7c990ecad0",
+      "ipa": "/straɪv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-28",
+      "level": "B2",
+      "meaning_tr": "çabalamak, uğraşmak, gayret etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "strive"
+    },
     "7d4ceff333": {
       "answered_count": 0,
       "box": 1,
@@ -1205,6 +1253,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "accumulate"
+    },
+    "8b4be13af9": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "reach a consensus",
+        "general consensus"
+      ],
+      "definition_en": "An opinion or decision that all members of a group agree on.",
+      "due": "2026-09-29",
+      "example": "After hours of debate, the committee finally reached a consensus on the budget.",
+      "example_tr": "Saatler süren tartışmaların ardından komite nihayet bütçe konusunda bir fikir birliğine vardı.",
+      "first_seen": "2026-09-28T00:24:56.961051+03:00",
+      "id": "8b4be13af9",
+      "ipa": "/kənˈsensəs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-28",
+      "level": "B2",
+      "meaning_tr": "fikir birliği, mutabakat",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "consensus"
     },
     "8cbb8b6e15": {
       "answered_count": 0,
@@ -1480,7 +1552,7 @@
         "pave the way for success"
       ],
       "definition_en": "To create a situation in which it is now possible for something to happen.",
-      "due": "2026-09-21",
+      "due": "2026-09-29",
       "example": "This scientific discovery will pave the way for new treatments for heart disease.",
       "example_tr": "Bu bilimsel keşif, kalp hastalığı için yeni tedavilerin yolunu açacaktır.",
       "first_seen": "2026-09-20T14:32:11.283311+03:00",
@@ -1488,11 +1560,11 @@
       "ipa": "/peɪv ðə weɪ fɔːr/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-28",
       "level": "B2",
       "meaning_tr": "zemin hazırlamak, yolunu açmak",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "pave the way for"
     },
@@ -1504,7 +1576,7 @@
         "strong incentive"
       ],
       "definition_en": "Something that encourages you to work harder or start a new activity.",
-      "due": "2026-09-21",
+      "due": "2026-09-29",
       "example": "The company offers a financial incentive to employees who meet their monthly targets.",
       "example_tr": "Şirket, aylık hedeflerine ulaşan çalışanlara maddi bir teşvik sunuyor.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -1512,11 +1584,11 @@
       "ipa": "/ɪnˈsentɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-28",
       "level": "B2",
       "meaning_tr": "teşvik, güdü, özendirici",
       "pos": "noun",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "incentive"
     },
@@ -2245,53 +2317,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-27T20:02:16.834307+03:00",
+  "last_sent_at": "2026-09-28T00:24:56.961051+03:00",
   "pool": [
-    {
-      "collocations": [
-        "reach a consensus",
-        "general consensus"
-      ],
-      "definition_en": "An opinion or decision that all members of a group agree on.",
-      "example": "After hours of debate, the committee finally reached a consensus on the budget.",
-      "example_tr": "Saatler süren tartışmaların ardından komite nihayet bütçe konusunda bir fikir birliğine vardı.",
-      "ipa": "/kənˈsensəs/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "fikir birliği, mutabakat",
-      "pos": "noun",
-      "word": "consensus"
-    },
-    {
-      "collocations": [
-        "strive for perfection",
-        "strive to achieve"
-      ],
-      "definition_en": "To make a great effort to achieve or obtain something.",
-      "example": "We must constantly strive to improve our customer service standards in this industry.",
-      "example_tr": "Bu sektörde müşteri hizmetleri standartlarımızı geliştirmek için sürekli çaba göstermeliyiz.",
-      "ipa": "/straɪv/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "çabalamak, uğraşmak, gayret etmek",
-      "pos": "verb",
-      "word": "strive"
-    },
-    {
-      "collocations": [
-        "superfluous details",
-        "superfluous information"
-      ],
-      "definition_en": "More than is needed, wanted, or useful.",
-      "example": "Please edit the report to remove any superfluous details that distract the reader.",
-      "example_tr": "Lütfen okuyucunun dikkatini dağıtan gereksiz detayları kaldırmak için raporu düzenleyin.",
-      "ipa": "/suːˈpɜːfluəs/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "gereksiz, fazla, lüzumsuz",
-      "pos": "adjective",
-      "word": "superfluous"
-    },
     {
       "collocations": [
         "speak on behalf of",
