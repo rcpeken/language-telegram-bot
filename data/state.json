@@ -1736,6 +1736,30 @@
       "unknown_count": 0,
       "word": "candid"
     },
+    "ba9346ae23": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "unravel a mystery",
+        "unravel a plot"
+      ],
+      "definition_en": "To find the correct explanation for something that is difficult to understand.",
+      "due": "2026-09-30",
+      "example": "Detectives worked tirelessly to unravel the mystery behind the sudden disappearance.",
+      "example_tr": "Dedektifler, ani kayboluşun arkasındaki gizemi aydınlatmak için yorulmadan çalıştılar.",
+      "first_seen": "2026-09-29T00:15:48.191361+03:00",
+      "id": "ba9346ae23",
+      "ipa": "/ʌnˈrævəl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-29",
+      "level": "C1",
+      "meaning_tr": "çözülmek, aydınlatmak, ortaya çıkarmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "unravel"
+    },
     "ba95141045": {
       "answered_count": 0,
       "box": 1,
@@ -1785,6 +1809,30 @@
       "shown_count": 3,
       "unknown_count": 2,
       "word": "advocate"
+    },
+    "bd831ffb96": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "soothe pain",
+        "soothe nerves"
+      ],
+      "definition_en": "To make someone feel calm or to make pain less severe.",
+      "due": "2026-09-30",
+      "example": "The gentle music helped to soothe the crying baby after a long day.",
+      "example_tr": "Hafif müzik, uzun bir günün ardından ağlayan bebeği sakinleştirmeye yardımcı oldu.",
+      "first_seen": "2026-09-29T00:15:48.191361+03:00",
+      "id": "bd831ffb96",
+      "ipa": "/suːð/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-29",
+      "level": "B2",
+      "meaning_tr": "yatıştırmak, sakinleştirmek, dindirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "soothe"
     },
     "c1aca73cc7": {
       "answered_count": 0,
@@ -2130,7 +2178,7 @@
         "jeopardize a relationship"
       ],
       "definition_en": "To put something such as a plan or system in danger of being damaged or destroyed.",
-      "due": "2026-09-21",
+      "due": "2026-09-30",
       "example": "Missing this deadline could jeopardize the entire project and cost us millions.",
       "example_tr": "Bu teslim tarihini kaçırmak tüm projeyi tehlikeye atabilir ve bize milyonlara mal olabilir.",
       "first_seen": "2026-09-20T19:12:56.042085+03:00",
@@ -2138,11 +2186,11 @@
       "ipa": "/ˈdʒepərdaɪz/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-29",
       "level": "C1",
       "meaning_tr": "tehlikeye atmak, riske sokmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "jeopardize"
     },
@@ -2202,7 +2250,7 @@
         "viable option"
       ],
       "definition_en": "Capable of working successfully; feasible or practical.",
-      "due": "2026-09-21",
+      "due": "2026-09-30",
       "example": "The committee is looking for a viable alternative to the current transport system.",
       "example_tr": "Komite, mevcut ulaşım sistemine uygulanabilir bir alternatif arıyor.",
       "first_seen": "2026-09-20T23:53:42.065471+03:00",
@@ -2210,11 +2258,11 @@
       "ipa": "/ˈvaɪəbl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-29",
       "level": "C1",
       "meaning_tr": "uygulanabilir, geçerli, yaşayabilir",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "viable"
     },
@@ -2364,6 +2412,30 @@
       "unknown_count": 0,
       "word": "disdain"
     },
+    "fc13aee068": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "grow at the expense of",
+        "succeed at the expense of"
+      ],
+      "definition_en": "In a way that harms or damages something or someone else.",
+      "due": "2026-09-30",
+      "example": "He achieved commercial success at the expense of his own physical health.",
+      "example_tr": "Kendi fiziksel sağlığı pahasına ticari başarı elde etti.",
+      "first_seen": "2026-09-29T00:15:48.191361+03:00",
+      "id": "fc13aee068",
+      "ipa": "/æt ði ɪkˈspens ɒv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-29",
+      "level": "C1",
+      "meaning_tr": "pahasına, zararına",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "at the expense of"
+    },
     "fcc304639c": {
       "answered_count": 0,
       "box": 1,
@@ -2389,54 +2461,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-28T17:06:07.394692+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "soothe pain",
-        "soothe nerves"
-      ],
-      "definition_en": "To make someone feel calm or to make pain less severe.",
-      "example": "The gentle music helped to soothe the crying baby after a long day.",
-      "example_tr": "Hafif müzik, uzun bir günün ardından ağlayan bebeği sakinleştirmeye yardımcı oldu.",
-      "ipa": "/suːð/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "yatıştırmak, sakinleştirmek, dindirmek",
-      "pos": "verb",
-      "word": "soothe"
-    },
-    {
-      "collocations": [
-        "unravel a mystery",
-        "unravel a plot"
-      ],
-      "definition_en": "To find the correct explanation for something that is difficult to understand.",
-      "example": "Detectives worked tirelessly to unravel the mystery behind the sudden disappearance.",
-      "example_tr": "Dedektifler, ani kayboluşun arkasındaki gizemi aydınlatmak için yorulmadan çalıştılar.",
-      "ipa": "/ʌnˈrævəl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "çözülmek, aydınlatmak, ortaya çıkarmak",
-      "pos": "verb",
-      "word": "unravel"
-    },
-    {
-      "collocations": [
-        "grow at the expense of",
-        "succeed at the expense of"
-      ],
-      "definition_en": "In a way that harms or damages something or someone else.",
-      "example": "He achieved commercial success at the expense of his own physical health.",
-      "example_tr": "Kendi fiziksel sağlığı pahasına ticari başarı elde etti.",
-      "ipa": "/æt ði ɪkˈspens ɒv/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "pahasına, zararına",
-      "pos": "phrase",
-      "word": "at the expense of"
-    }
-  ],
+  "last_sent_at": "2026-09-29T00:15:48.191361+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
