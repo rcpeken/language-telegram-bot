@@ -144,6 +144,30 @@
       "unknown_count": 0,
       "word": "dispel"
     },
+    "10a2123f8d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "speak on behalf of",
+        "act on behalf of"
+      ],
+      "definition_en": "As a representative of someone, or in the interest of someone.",
+      "due": "2026-09-29",
+      "example": "The lawyer made a brief statement on behalf of the accused family.",
+      "example_tr": "Avukat, sanık aile adına kısa bir açıklama yaptı.",
+      "first_seen": "2026-09-28T17:06:07.394692+03:00",
+      "id": "10a2123f8d",
+      "ipa": "/ɒn bɪˈhɑːf ɒv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-28",
+      "level": "B2",
+      "meaning_tr": "adına, temsilen",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "on behalf of"
+    },
     "14aeea5092": {
       "answered_count": 0,
       "box": 1,
@@ -939,6 +963,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "facilitate"
+    },
+    "655f0a6a01": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "elusive goal",
+        "elusive answer"
+      ],
+      "definition_en": "Difficult to find, catch, describe, or achieve.",
+      "due": "2026-09-29",
+      "example": "The perfect solution to the economic crisis remains elusive for most policy makers.",
+      "example_tr": "Ekonomik krize mükemmel çözüm, çoğu politika yapıcı için bulunması zor olmaya devam ediyor.",
+      "first_seen": "2026-09-28T17:06:07.394692+03:00",
+      "id": "655f0a6a01",
+      "ipa": "/iˈluːsɪv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-28",
+      "level": "C1",
+      "meaning_tr": "bulunması zor, yakalanamaz, anlaşılmaz",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "elusive"
     },
     "66dbe656d3": {
       "answered_count": 0,
@@ -1866,7 +1914,7 @@
         "subtle hint"
       ],
       "definition_en": "Not loud, bright, noticeable, or obvious in any way.",
-      "due": "2026-09-21",
+      "due": "2026-09-29",
       "example": "There was a subtle change in his voice that only his mother noticed.",
       "example_tr": "Sesinde sadece annesinin fark ettiği hafif bir değişiklik vardı.",
       "first_seen": "2026-09-20T19:12:56.042085+03:00",
@@ -1874,11 +1922,11 @@
       "ipa": "/ˈsʌtl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-28",
       "level": "B2",
       "meaning_tr": "ince, hafif, kolay fark edilmeyen",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "subtle"
     },
@@ -2034,7 +2082,7 @@
         "detrimental impact"
       ],
       "definition_en": "Causing harm or damage to something.",
-      "due": "2026-09-21",
+      "due": "2026-09-29",
       "example": "Excessive consumption of sugar can have a detrimental effect on your health.",
       "example_tr": "Aşırı şeker tüketiminin sağlığınız üzerinde zararlı bir etkisi olabilir.",
       "first_seen": "2026-09-20T23:53:42.065471+03:00",
@@ -2042,11 +2090,11 @@
       "ipa": "/ˌdetrɪˈmentl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-28",
       "level": "C1",
       "meaning_tr": "zararlı, hasar veren",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "detrimental"
     },
@@ -2169,6 +2217,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "viable"
+    },
+    "ebc74f3c5f": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "negligible impact",
+        "negligible amount"
+      ],
+      "definition_en": "Too slight or small in amount to be of any importance.",
+      "due": "2026-09-29",
+      "example": "The cost of the new office supplies was negligible compared to the total budget.",
+      "example_tr": "Yeni ofis malzemelerinin maliyeti, toplam bütçeye kıyasla ihmal edilebilir düzeydeydi.",
+      "first_seen": "2026-09-28T17:06:07.394692+03:00",
+      "id": "ebc74f3c5f",
+      "ipa": "/ˈneɡlɪdʒəbəl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-09-28",
+      "level": "C1",
+      "meaning_tr": "ihmal edilebilir, önemsiz",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "negligible"
     },
     "ec0d180d93": {
       "answered_count": 0,
@@ -2317,53 +2389,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-28T00:24:56.961051+03:00",
+  "last_sent_at": "2026-09-28T17:06:07.394692+03:00",
   "pool": [
-    {
-      "collocations": [
-        "speak on behalf of",
-        "act on behalf of"
-      ],
-      "definition_en": "As a representative of someone, or in the interest of someone.",
-      "example": "The lawyer made a brief statement on behalf of the accused family.",
-      "example_tr": "Avukat, sanık aile adına kısa bir açıklama yaptı.",
-      "ipa": "/ɒn bɪˈhɑːf ɒv/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "adına, temsilen",
-      "pos": "phrase",
-      "word": "on behalf of"
-    },
-    {
-      "collocations": [
-        "elusive goal",
-        "elusive answer"
-      ],
-      "definition_en": "Difficult to find, catch, describe, or achieve.",
-      "example": "The perfect solution to the economic crisis remains elusive for most policy makers.",
-      "example_tr": "Ekonomik krize mükemmel çözüm, çoğu politika yapıcı için bulunması zor olmaya devam ediyor.",
-      "ipa": "/iˈluːsɪv/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "bulunması zor, yakalanamaz, anlaşılmaz",
-      "pos": "adjective",
-      "word": "elusive"
-    },
-    {
-      "collocations": [
-        "negligible impact",
-        "negligible amount"
-      ],
-      "definition_en": "Too slight or small in amount to be of any importance.",
-      "example": "The cost of the new office supplies was negligible compared to the total budget.",
-      "example_tr": "Yeni ofis malzemelerinin maliyeti, toplam bütçeye kıyasla ihmal edilebilir düzeydeydi.",
-      "ipa": "/ˈneɡlɪdʒəbəl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "ihmal edilebilir, önemsiz",
-      "pos": "adjective",
-      "word": "negligible"
-    },
     {
       "collocations": [
         "soothe pain",
