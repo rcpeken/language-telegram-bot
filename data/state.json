@@ -200,7 +200,7 @@
         "stop abruptly"
       ],
       "definition_en": "In a sudden and unexpected way, often without warning.",
-      "due": "2026-09-22",
+      "due": "2026-09-30",
       "example": "The presentation ended abruptly when the fire alarm suddenly started ringing.",
       "example_tr": "Yangın alarmı aniden çalmaya başladığında sunum aniden sona erdi.",
       "first_seen": "2026-09-21T23:00:55.142227+03:00",
@@ -208,11 +208,11 @@
       "ipa": "/əˈbrʌptli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-21",
+      "last_shown_at": "2026-09-29",
       "level": "B2",
       "meaning_tr": "aniden, birdenbire, pat diye",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "abruptly"
     },
@@ -272,7 +272,7 @@
         "take someone for granted"
       ],
       "definition_en": "To value something too lightly or fail to appreciate its true worth.",
-      "due": "2026-09-22",
+      "due": "2026-09-30",
       "example": "We often take our health for granted until we actually get sick.",
       "example_tr": "Genellikle gerçekten hastalanana kadar sağlığımızın değerini bilmeyiz.",
       "first_seen": "2026-09-21T15:57:00.954283+03:00",
@@ -280,11 +280,11 @@
       "ipa": "/teɪk fɔː(r) ˈɡrɑːntɪd/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-21",
+      "last_shown_at": "2026-09-29",
       "level": "B2",
       "meaning_tr": "hafife almak, değerini bilmemek, cepte keklik görmek",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "take for granted"
     },
@@ -2461,7 +2461,7 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-29T16:01:11.565003+03:00",
+  "last_sent_at": "2026-09-29T23:01:32.043697+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
