@@ -32,7 +32,7 @@
         "scrutinize details"
       ],
       "definition_en": "To examine or inspect something very closely and thoroughly.",
-      "due": "2026-09-22",
+      "due": "2026-09-30",
       "example": "Customers are beginning to closely scrutinize the environmental policies of major brands.",
       "example_tr": "Müşteriler, büyük markaların çevre politikalarını dikkatle incelemeye başlıyor.",
       "first_seen": "2026-09-21T23:00:55.142227+03:00",
@@ -40,11 +40,11 @@
       "ipa": "/ˈskruːtənaɪz/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-21",
+      "last_shown_at": "2026-09-29",
       "level": "C1",
       "meaning_tr": "dikkatle incelemek, mercek altına almak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "scrutinize"
     },
@@ -1068,7 +1068,7 @@
         "implement changes"
       ],
       "definition_en": "To start using a plan, system, or decision.",
-      "due": "2026-09-21",
+      "due": "2026-09-30",
       "example": "The local government decided to implement new recycling policies starting next month.",
       "example_tr": "Yerel yönetim önümüzdeki aydan itibaren yeni geri dönüşüm politikalarını uygulamaya karar verdi.",
       "first_seen": "2026-09-16T15:02:30.116093+03:00",
@@ -1078,11 +1078,11 @@
       "lang": "en",
       "last_answer": "known",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-20",
+      "last_shown_at": "2026-09-29",
       "level": "B2",
       "meaning_tr": "uygulamak, yürürlüğe koymak, gerçekleştirmek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "implement"
     },
@@ -2461,7 +2461,7 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-29T00:15:48.191361+03:00",
+  "last_sent_at": "2026-09-29T16:01:11.565003+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
