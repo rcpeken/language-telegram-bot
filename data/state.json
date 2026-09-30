@@ -512,7 +512,7 @@
         "dates coincide"
       ],
       "definition_en": "To happen at the same time as something else.",
-      "due": "2026-09-22",
+      "due": "2026-10-01",
       "example": "Our summer holiday plans coincide with the annual music festival in Paris.",
       "example_tr": "Yaz tatili planlarımız, Paris'teki yıllık müzik festivaliyle denk geliyor.",
       "first_seen": "2026-09-17T14:49:12.236690+03:00",
@@ -520,11 +520,11 @@
       "ipa": "/ˌkəʊɪnˈsaɪd/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-21",
+      "last_shown_at": "2026-09-30",
       "level": "C1",
       "meaning_tr": "denk gelmek, uyuşmak",
       "pos": "verb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "coincide"
     },
@@ -632,7 +632,7 @@
         "mutually exclusive"
       ],
       "definition_en": "In a way that is experienced or felt by both sides.",
-      "due": "2026-09-22",
+      "due": "2026-10-01",
       "example": "The two companies reached a mutually beneficial agreement after weeks of negotiation.",
       "example_tr": "İki şirket, haftalar süren müzakerelerin ardından karşılıklı olarak faydalı bir anlaşmaya vardı.",
       "first_seen": "2026-09-18T19:30:08.439611+03:00",
@@ -640,11 +640,11 @@
       "ipa": "/ˈmjuːtʃuəli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-21",
+      "last_shown_at": "2026-09-30",
       "level": "B2",
       "meaning_tr": "karşılıklı olarak, ortaklaşa",
       "pos": "adverb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "mutually"
     },
@@ -2461,7 +2461,7 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-30T15:43:33.734750+03:00",
+  "last_sent_at": "2026-09-30T23:05:23.816361+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
