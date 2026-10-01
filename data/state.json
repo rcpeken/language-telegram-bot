@@ -120,6 +120,30 @@
       "unknown_count": 0,
       "word": "superficially"
     },
+    "0da13a9e66": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "deviate from",
+        "deviate significantly"
+      ],
+      "definition_en": "To do something that is different from the usual or common way of behaving.",
+      "due": "2026-10-02",
+      "example": "We should not deviate from our original plan unless it is absolutely necessary.",
+      "example_tr": "Kesinlikle gerekli olmadıkça orijinal planımızdan sapmamalıyız.",
+      "first_seen": "2026-10-01T16:27:32.506890+03:00",
+      "id": "0da13a9e66",
+      "ipa": "/ˈdiːvieɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-01",
+      "level": "C1",
+      "meaning_tr": "sapmak, yönünü değiştirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "deviate"
+    },
     "1089b629f2": {
       "answered_count": 0,
       "box": 1,
@@ -552,6 +576,31 @@
       "unknown_count": 0,
       "word": "reluctantly"
     },
+    "45b25898ad": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "economic disparity",
+        "growing disparity",
+        "disparity between"
+      ],
+      "definition_en": "A noticeable and usually unfair difference or lack of similarity between two things.",
+      "due": "2026-10-02",
+      "example": "There is still a significant economic disparity between the northern and southern regions.",
+      "example_tr": "Kuzey ve güney bölgeleri arasında hala önemli bir ekonomik eşitsizlik var.",
+      "first_seen": "2026-10-01T16:27:32.506890+03:00",
+      "id": "45b25898ad",
+      "ipa": "/dɪˈspærəti/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-01",
+      "level": "C1",
+      "meaning_tr": "eşitsizlik, farklılık, uçurum",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "disparity"
+    },
     "46dfa9d543": {
       "answered_count": 0,
       "box": 1,
@@ -656,7 +705,7 @@
         "vague answer"
       ],
       "definition_en": "Not clearly expressed, known, described, or decided.",
-      "due": "2026-09-22",
+      "due": "2026-10-02",
       "example": "The manager gave a very vague explanation about the reasons for the delay.",
       "example_tr": "Müdür, gecikmenin nedenleri hakkında çok belirsiz bir açıklama yaptı.",
       "first_seen": "2026-09-18T00:27:29.467923+03:00",
@@ -664,11 +713,11 @@
       "ipa": "/veɪɡ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-21",
+      "last_shown_at": "2026-10-01",
       "level": "B2",
       "meaning_tr": "belirsiz, net olmayan, muğlak",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "vague"
     },
@@ -1142,7 +1191,7 @@
         "public discourse"
       ],
       "definition_en": "Serious and formal speech or writing on a particular subject.",
-      "due": "2026-09-22",
+      "due": "2026-10-02",
       "example": "Political discourse has changed significantly since the rise of popular social media platforms.",
       "example_tr": "Siyasi söylem, popüler sosyal medya platformlarının yükselişinden bu yana önemli ölçüde değişti.",
       "first_seen": "2026-09-21T23:00:55.142227+03:00",
@@ -1150,11 +1199,11 @@
       "ipa": "/ˈdɪskɔːs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-21",
+      "last_shown_at": "2026-10-01",
       "level": "C1",
       "meaning_tr": "söylem, söyleşi, konuşma",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "discourse"
     },
@@ -1834,6 +1883,30 @@
       "unknown_count": 0,
       "word": "soothe"
     },
+    "bea2838c7e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "perplexed look",
+        "utterly perplexed"
+      ],
+      "definition_en": "Confused and anxious because you are unable to understand something.",
+      "due": "2026-10-02",
+      "example": "The teacher looked perplexed when none of the students could answer the simple question.",
+      "example_tr": "Öğrencilerin hiçbiri basit soruyu cevaplayamadığında öğretmen şaşkın görünüyordu.",
+      "first_seen": "2026-10-01T16:27:32.506890+03:00",
+      "id": "bea2838c7e",
+      "ipa": "/pəˈplekst/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-01",
+      "level": "B2",
+      "meaning_tr": "şaşkın, kafası karışmış",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "perplexed"
+    },
     "c1aca73cc7": {
       "answered_count": 0,
       "box": 1,
@@ -2461,8 +2534,198 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-09-30T23:05:23.816361+03:00",
-  "pool": [],
+  "last_sent_at": "2026-10-01T16:27:32.506890+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "virtually impossible",
+        "virtually identical",
+        "virtually eliminated"
+      ],
+      "definition_en": "Almost or nearly; for all practical purposes.",
+      "example": "It is virtually impossible to complete this complex project in just one day.",
+      "example_tr": "Bu karmaşık projeyi sadece bir günde tamamlamak neredeyse imkansızdır.",
+      "ipa": "/ˈvɜːtʃuəli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "neredeyse, hemen hemen, sanal olarak",
+      "pos": "adverb",
+      "word": "virtually"
+    },
+    {
+      "collocations": [
+        "shed light on the issue",
+        "shed light on the mystery"
+      ],
+      "definition_en": "To provide information or an explanation that makes something easier to understand.",
+      "example": "This new scientific study will hopefully shed light on the causes of the disease.",
+      "example_tr": "Bu yeni bilimsel çalışma umuyoruz ki hastalığın nedenlerine ışık tutacak.",
+      "ipa": "/ʃed laɪt ɒn/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "ışık tutmak, aydınlatmak, açıklık getirmek",
+      "pos": "phrase",
+      "word": "shed light on"
+    },
+    {
+      "collocations": [
+        "retrieve data",
+        "retrieve information",
+        "retrieve lost files"
+      ],
+      "definition_en": "To find and bring back something, especially from a place where it was lost.",
+      "example": "The software allows users to easily retrieve deleted files from their hard drives.",
+      "example_tr": "Yazılım, kullanıcıların silinen dosyaları sabit disklerinden kolayca geri almasını sağlar.",
+      "ipa": "/rɪˈtriːv/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "geri almak, kurtarmak, erişmek",
+      "pos": "verb",
+      "word": "retrieve"
+    },
+    {
+      "collocations": [
+        "indispensable tool",
+        "indispensable part",
+        "indispensable to"
+      ],
+      "definition_en": "Absolutely necessary or essential, so that you cannot do without it.",
+      "example": "Computers have become an indispensable tool for modern businesses and educational institutions.",
+      "example_tr": "Bilgisayarlar modern işletmeler ve eğitim kurumları için vazgeçilmez bir araç haline geldi.",
+      "ipa": "/ˌɪndɪˈspensəbəl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "vazgeçilmez, kaçınılmaz, çok gerekli",
+      "pos": "adjective",
+      "word": "indispensable"
+    },
+    {
+      "collocations": [
+        "speech impediment",
+        "serious impediment",
+        "impediment to progress"
+      ],
+      "definition_en": "Something that makes development, movement, or progress difficult or impossible.",
+      "example": "High interest rates can be a major impediment to economic growth and investment.",
+      "example_tr": "Yüksek faiz oranları, ekonomik büyüme ve yatırımın önünde büyük bir engel olabilir.",
+      "ipa": "/ɪmˈpedɪmənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "engel, ayak bağı, mani",
+      "pos": "noun",
+      "word": "impediment"
+    },
+    {
+      "collocations": [
+        "seemingly endless",
+        "seemingly impossible",
+        "seemingly simple"
+      ],
+      "definition_en": "In a way that appears to be true, even though it may not be.",
+      "example": "They managed to solve the seemingly impossible puzzle in less than ten minutes.",
+      "example_tr": "Görünüşte imkansız olan bulmacayı on dakikadan kısa sürede çözmeyi başardılar.",
+      "ipa": "/ˈsiːmɪŋli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "görünüşte, görünüşe bakılırsa",
+      "pos": "adverb",
+      "word": "seemingly"
+    },
+    {
+      "collocations": [
+        "beneficial in the long run",
+        "cheaper in the long run"
+      ],
+      "definition_en": "At a time that is far in the future, rather than in the present.",
+      "example": "Investing in renewable energy will save a lot of money in the long run.",
+      "example_tr": "Yenilenebilir enerjiye yatırım yapmak uzun vadede çok para kazandıracaktır.",
+      "ipa": "/ɪn ðə lɒŋ rʌn/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "uzun vadede, eninde sonunda",
+      "pos": "phrase",
+      "word": "in the long run"
+    },
+    {
+      "collocations": [
+        "validate data",
+        "validate a theory",
+        "validate feelings"
+      ],
+      "definition_en": "To prove that something is true, correct, or logically sound.",
+      "example": "The laboratory results helped to validate the researcher's theory about the new medicine.",
+      "example_tr": "Laboratuvar sonuçları, araştırmacının yeni ilaç hakkındaki teorisini doğrulamaya yardımcı oldu.",
+      "ipa": "/ˈvælɪdeɪt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "doğrulamak, onaylamak, geçerli kılmak",
+      "pos": "verb",
+      "word": "validate"
+    },
+    {
+      "collocations": [
+        "hazardous waste",
+        "hazardous conditions",
+        "highly hazardous"
+      ],
+      "definition_en": "Dangerous and involving risk, especially to someone's health or safety.",
+      "example": "Workers wear protective clothing because they handle highly hazardous chemical substances daily.",
+      "example_tr": "İşçiler, günlük olarak son derece tehlikeli kimyasal maddelerle çalıştıkları için koruyucu kıyafet giyerler.",
+      "ipa": "/ˈhæzədəs/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "tehlikeli, riskli",
+      "pos": "adjective",
+      "word": "hazardous"
+    },
+    {
+      "collocations": [
+        "with apprehension",
+        "grow with apprehension",
+        "deep apprehension"
+      ],
+      "definition_en": "Worry or fear about what might happen in the future.",
+      "example": "She felt a deep sense of apprehension before walking onto the stage to speak.",
+      "example_tr": "Konuşma yapmak için sahneye çıkmadan önce derin bir endişe hissetti.",
+      "ipa": "/ˌæprɪˈhenʃən/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "endise, kaygı, korku",
+      "pos": "noun",
+      "word": "apprehension"
+    },
+    {
+      "collocations": [
+        "merely a coincidence",
+        "merely a scratch",
+        "not merely but also"
+      ],
+      "definition_en": "Used to emphasize that something is only what you say and not better or more important.",
+      "example": "I am merely pointing out that we do not have enough budget for this project.",
+      "example_tr": "Sadece bu proje için yeterli bütçemiz olmadığını belirtiyorum.",
+      "ipa": "/ˈmɪəli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "yalnızca, sadece",
+      "pos": "adverb",
+      "word": "merely"
+    },
+    {
+      "collocations": [
+        "bear in mind that",
+        "keep/bear in mind"
+      ],
+      "definition_en": "To remember and consider a particular piece of information when making a decision.",
+      "example": "When planning the outdoor event, you must bear in mind that it might rain.",
+      "example_tr": "Açık hava etkinliğini planlarken, yağmur yağabileceğini aklınızda bulundurmalısınız.",
+      "ipa": "/beər ɪn maɪnd/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "aklında tutmak, hesaba katmak, unutmamak",
+      "pos": "phrase",
+      "word": "bear in mind"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
