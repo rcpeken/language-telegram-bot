@@ -104,7 +104,7 @@
         "examine superficially"
       ],
       "definition_en": "In a way that is only on the surface and not deep or complete.",
-      "due": "2026-09-23",
+      "due": "2026-10-02",
       "example": "The two cultures appear superficially similar, but they have very different core values.",
       "example_tr": "İki kültür yüzeysel olarak benzer görünüyor, ancak çok farklı temel değerlere sahipler.",
       "first_seen": "2026-09-22T20:01:38.397678+03:00",
@@ -112,11 +112,11 @@
       "ipa": "/ˌsuːpəˈfɪʃəli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-22",
+      "last_shown_at": "2026-10-01",
       "level": "C1",
       "meaning_tr": "yüzeysel olarak, görünüşte",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "superficially"
     },
@@ -1471,6 +1471,31 @@
       "unknown_count": 0,
       "word": "abundant"
     },
+    "94438a36ea": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "retrieve data",
+        "retrieve information",
+        "retrieve lost files"
+      ],
+      "definition_en": "To find and bring back something, especially from a place where it was lost.",
+      "due": "2026-10-02",
+      "example": "The software allows users to easily retrieve deleted files from their hard drives.",
+      "example_tr": "Yazılım, kullanıcıların silinen dosyaları sabit disklerinden kolayca geri almasını sağlar.",
+      "first_seen": "2026-10-01T23:22:20.246454+03:00",
+      "id": "94438a36ea",
+      "ipa": "/rɪˈtriːv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-01",
+      "level": "C1",
+      "meaning_tr": "geri almak, kurtarmak, erişmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "retrieve"
+    },
     "950b977354": {
       "answered_count": 0,
       "box": 1,
@@ -1577,7 +1602,7 @@
         "prevalent attitude"
       ],
       "definition_en": "Widely existing, accepted, or practiced in a particular place or time.",
-      "due": "2026-09-22",
+      "due": "2026-10-02",
       "example": "Remote working has become highly prevalent in the technology sector over recent years.",
       "example_tr": "Uzaktan çalışma, son yıllarda teknoloji sektöründe oldukça yaygın hale geldi.",
       "first_seen": "2026-09-21T15:57:00.954283+03:00",
@@ -1585,11 +1610,11 @@
       "ipa": "/ˈprevələnt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-21",
+      "last_shown_at": "2026-10-01",
       "level": "C1",
       "meaning_tr": "yaygın, genel, hakim",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "prevalent"
     },
@@ -1736,6 +1761,31 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "compile"
+    },
+    "b7a7d14eed": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "virtually impossible",
+        "virtually identical",
+        "virtually eliminated"
+      ],
+      "definition_en": "Almost or nearly; for all practical purposes.",
+      "due": "2026-10-02",
+      "example": "It is virtually impossible to complete this complex project in just one day.",
+      "example_tr": "Bu karmaşık projeyi sadece bir günde tamamlamak neredeyse imkansızdır.",
+      "first_seen": "2026-10-01T23:22:20.246454+03:00",
+      "id": "b7a7d14eed",
+      "ipa": "/ˈvɜːtʃuəli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-01",
+      "level": "B2",
+      "meaning_tr": "neredeyse, hemen hemen, sanal olarak",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "virtually"
     },
     "b9e6645398": {
       "answered_count": 0,
@@ -1978,6 +2028,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "come to terms with"
+    },
+    "cccfd39527": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "shed light on the issue",
+        "shed light on the mystery"
+      ],
+      "definition_en": "To provide information or an explanation that makes something easier to understand.",
+      "due": "2026-10-02",
+      "example": "This new scientific study will hopefully shed light on the causes of the disease.",
+      "example_tr": "Bu yeni bilimsel çalışma umuyoruz ki hastalığın nedenlerine ışık tutacak.",
+      "first_seen": "2026-10-01T23:22:20.246454+03:00",
+      "id": "cccfd39527",
+      "ipa": "/ʃed laɪt ɒn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-01",
+      "level": "C1",
+      "meaning_tr": "ışık tutmak, aydınlatmak, açıklık getirmek",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "shed light on"
     },
     "cfb3e75d63": {
       "answered_count": 0,
@@ -2534,55 +2608,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-01T16:27:32.506890+03:00",
+  "last_sent_at": "2026-10-01T23:22:20.246454+03:00",
   "pool": [
-    {
-      "collocations": [
-        "virtually impossible",
-        "virtually identical",
-        "virtually eliminated"
-      ],
-      "definition_en": "Almost or nearly; for all practical purposes.",
-      "example": "It is virtually impossible to complete this complex project in just one day.",
-      "example_tr": "Bu karmaşık projeyi sadece bir günde tamamlamak neredeyse imkansızdır.",
-      "ipa": "/ˈvɜːtʃuəli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "neredeyse, hemen hemen, sanal olarak",
-      "pos": "adverb",
-      "word": "virtually"
-    },
-    {
-      "collocations": [
-        "shed light on the issue",
-        "shed light on the mystery"
-      ],
-      "definition_en": "To provide information or an explanation that makes something easier to understand.",
-      "example": "This new scientific study will hopefully shed light on the causes of the disease.",
-      "example_tr": "Bu yeni bilimsel çalışma umuyoruz ki hastalığın nedenlerine ışık tutacak.",
-      "ipa": "/ʃed laɪt ɒn/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "ışık tutmak, aydınlatmak, açıklık getirmek",
-      "pos": "phrase",
-      "word": "shed light on"
-    },
-    {
-      "collocations": [
-        "retrieve data",
-        "retrieve information",
-        "retrieve lost files"
-      ],
-      "definition_en": "To find and bring back something, especially from a place where it was lost.",
-      "example": "The software allows users to easily retrieve deleted files from their hard drives.",
-      "example_tr": "Yazılım, kullanıcıların silinen dosyaları sabit disklerinden kolayca geri almasını sağlar.",
-      "ipa": "/rɪˈtriːv/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "geri almak, kurtarmak, erişmek",
-      "pos": "verb",
-      "word": "retrieve"
-    },
     {
       "collocations": [
         "indispensable tool",
