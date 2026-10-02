@@ -96,6 +96,30 @@
       "unknown_count": 0,
       "word": "unanimous"
     },
+    "0b37a808d8": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "beneficial in the long run",
+        "cheaper in the long run"
+      ],
+      "definition_en": "At a time that is far in the future, rather than in the present.",
+      "due": "2026-10-03",
+      "example": "Investing in renewable energy will save a lot of money in the long run.",
+      "example_tr": "Yenilenebilir enerjiye yatırım yapmak uzun vadede çok para kazandıracaktır.",
+      "first_seen": "2026-10-02T22:58:31.006943+03:00",
+      "id": "0b37a808d8",
+      "ipa": "/ɪn ðə lɒŋ rʌn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-02",
+      "level": "B2",
+      "meaning_tr": "uzun vadede, eninde sonunda",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in the long run"
+    },
     "0c4d38188b": {
       "answered_count": 0,
       "box": 1,
@@ -480,6 +504,31 @@
       "unknown_count": 0,
       "word": "adversity"
     },
+    "3001b0ffdc": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "validate data",
+        "validate a theory",
+        "validate feelings"
+      ],
+      "definition_en": "To prove that something is true, correct, or logically sound.",
+      "due": "2026-10-03",
+      "example": "The laboratory results helped to validate the researcher's theory about the new medicine.",
+      "example_tr": "Laboratuvar sonuçları, araştırmacının yeni ilaç hakkındaki teorisini doğrulamaya yardımcı oldu.",
+      "first_seen": "2026-10-02T22:58:31.006943+03:00",
+      "id": "3001b0ffdc",
+      "ipa": "/ˈvælɪdeɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-02",
+      "level": "C1",
+      "meaning_tr": "doğrulamak, onaylamak, geçerli kılmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "validate"
+    },
     "340d6aa8a2": {
       "answered_count": 0,
       "box": 1,
@@ -575,6 +624,31 @@
       "shown_count": 4,
       "unknown_count": 0,
       "word": "reluctantly"
+    },
+    "43047e6fb3": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "hazardous waste",
+        "hazardous conditions",
+        "highly hazardous"
+      ],
+      "definition_en": "Dangerous and involving risk, especially to someone's health or safety.",
+      "due": "2026-10-03",
+      "example": "Workers wear protective clothing because they handle highly hazardous chemical substances daily.",
+      "example_tr": "İşçiler, günlük olarak son derece tehlikeli kimyasal maddelerle çalıştıkları için koruyucu kıyafet giyerler.",
+      "first_seen": "2026-10-02T22:58:31.006943+03:00",
+      "id": "43047e6fb3",
+      "ipa": "/ˈhæzədəs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-02",
+      "level": "B2",
+      "meaning_tr": "tehlikeli, riskli",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "hazardous"
     },
     "45b25898ad": {
       "answered_count": 0,
@@ -753,7 +827,7 @@
         "comply with laws"
       ],
       "definition_en": "To obey a rule, law, order, or request.",
-      "due": "2026-09-23",
+      "due": "2026-10-03",
       "example": "All local businesses must comply with the new environmental regulations by next month.",
       "example_tr": "Tüm yerel işletmeler önümüzdeki aya kadar yeni çevre düzenlemelerine uymak zorundadır.",
       "first_seen": "2026-09-22T14:46:43.129810+03:00",
@@ -761,11 +835,11 @@
       "ipa": "/kəmˈplaɪ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-22",
+      "last_shown_at": "2026-10-02",
       "level": "B2",
       "meaning_tr": "uymak, riayet etmek, yerine getirmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "comply"
     },
@@ -1433,7 +1507,7 @@
         "know precisely"
       ],
       "definition_en": "Exactly and accurately in every detail.",
-      "due": "2026-09-23",
+      "due": "2026-10-03",
       "example": "The package arrived at precisely three o'clock, just as they had promised.",
       "example_tr": "Paket, tam olarak söz verdikleri gibi saat üçte ulaştı.",
       "first_seen": "2026-09-18T00:27:29.467923+03:00",
@@ -1441,11 +1515,11 @@
       "ipa": "/prɪˈsaɪsli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-22",
+      "last_shown_at": "2026-10-02",
       "level": "B2",
       "meaning_tr": "tam olarak, kesinlikle, hassasiyetle",
       "pos": "adverb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "precisely"
     },
@@ -2683,55 +2757,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-02T15:46:02.087448+03:00",
+  "last_sent_at": "2026-10-02T22:58:31.006943+03:00",
   "pool": [
-    {
-      "collocations": [
-        "beneficial in the long run",
-        "cheaper in the long run"
-      ],
-      "definition_en": "At a time that is far in the future, rather than in the present.",
-      "example": "Investing in renewable energy will save a lot of money in the long run.",
-      "example_tr": "Yenilenebilir enerjiye yatırım yapmak uzun vadede çok para kazandıracaktır.",
-      "ipa": "/ɪn ðə lɒŋ rʌn/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "uzun vadede, eninde sonunda",
-      "pos": "phrase",
-      "word": "in the long run"
-    },
-    {
-      "collocations": [
-        "validate data",
-        "validate a theory",
-        "validate feelings"
-      ],
-      "definition_en": "To prove that something is true, correct, or logically sound.",
-      "example": "The laboratory results helped to validate the researcher's theory about the new medicine.",
-      "example_tr": "Laboratuvar sonuçları, araştırmacının yeni ilaç hakkındaki teorisini doğrulamaya yardımcı oldu.",
-      "ipa": "/ˈvælɪdeɪt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "doğrulamak, onaylamak, geçerli kılmak",
-      "pos": "verb",
-      "word": "validate"
-    },
-    {
-      "collocations": [
-        "hazardous waste",
-        "hazardous conditions",
-        "highly hazardous"
-      ],
-      "definition_en": "Dangerous and involving risk, especially to someone's health or safety.",
-      "example": "Workers wear protective clothing because they handle highly hazardous chemical substances daily.",
-      "example_tr": "İşçiler, günlük olarak son derece tehlikeli kimyasal maddelerle çalıştıkları için koruyucu kıyafet giyerler.",
-      "ipa": "/ˈhæzədəs/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "tehlikeli, riskli",
-      "pos": "adjective",
-      "word": "hazardous"
-    },
     {
       "collocations": [
         "with apprehension",
