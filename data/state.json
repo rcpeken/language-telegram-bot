@@ -320,7 +320,7 @@
         "overcome an obstacle"
       ],
       "definition_en": "Something that blocks your way or prevents progress.",
-      "due": "2026-09-23",
+      "due": "2026-10-03",
       "example": "Lack of funding remains the main obstacle to starting this innovative project.",
       "example_tr": "Finansman eksikliği, bu yenilikçi projeye başlamanın önündeki temel engel olmaya devam ediyor.",
       "first_seen": "2026-09-22T20:01:38.397678+03:00",
@@ -328,11 +328,11 @@
       "ipa": "/ˈɒbstəkl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-22",
+      "last_shown_at": "2026-10-02",
       "level": "B2",
       "meaning_tr": "engel, mani",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "obstacle"
     },
@@ -609,7 +609,7 @@
         "unveil a product"
       ],
       "definition_en": "To show or introduce a new plan, product, or system to the public.",
-      "due": "2026-09-23",
+      "due": "2026-10-03",
       "example": "The tech giant plans to unveil its new smartphone model next week.",
       "example_tr": "Teknoloji devi, önümüzdeki hafta yeni akıllı telefon modelini tanıtmayı planlıyor.",
       "first_seen": "2026-09-22T20:01:38.397678+03:00",
@@ -617,11 +617,11 @@
       "ipa": "/ˌʌnˈveɪl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-22",
+      "last_shown_at": "2026-10-02",
       "level": "B2",
       "meaning_tr": "tanıtmak, açığa çıkarmak, örtüsünü kaldırmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "unveil"
     },
@@ -1182,6 +1182,56 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "obsolete"
+    },
+    "73f9d8b4cb": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "speech impediment",
+        "serious impediment",
+        "impediment to progress"
+      ],
+      "definition_en": "Something that makes development, movement, or progress difficult or impossible.",
+      "due": "2026-10-03",
+      "example": "High interest rates can be a major impediment to economic growth and investment.",
+      "example_tr": "Yüksek faiz oranları, ekonomik büyüme ve yatırımın önünde büyük bir engel olabilir.",
+      "first_seen": "2026-10-02T15:46:02.087448+03:00",
+      "id": "73f9d8b4cb",
+      "ipa": "/ɪmˈpedɪmənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-02",
+      "level": "C1",
+      "meaning_tr": "engel, ayak bağı, mani",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "impediment"
+    },
+    "762f3d5ae8": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "seemingly endless",
+        "seemingly impossible",
+        "seemingly simple"
+      ],
+      "definition_en": "In a way that appears to be true, even though it may not be.",
+      "due": "2026-10-03",
+      "example": "They managed to solve the seemingly impossible puzzle in less than ten minutes.",
+      "example_tr": "Görünüşte imkansız olan bulmacayı on dakikadan kısa sürede çözmeyi başardılar.",
+      "first_seen": "2026-10-02T15:46:02.087448+03:00",
+      "id": "762f3d5ae8",
+      "ipa": "/ˈsiːmɪŋli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-02",
+      "level": "B2",
+      "meaning_tr": "görünüşte, görünüşe bakılırsa",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "seemingly"
     },
     "7655beff3e": {
       "answered_count": 0,
@@ -2341,6 +2391,31 @@
       "unknown_count": 0,
       "word": "jeopardize"
     },
+    "e2bf20affa": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "indispensable tool",
+        "indispensable part",
+        "indispensable to"
+      ],
+      "definition_en": "Absolutely necessary or essential, so that you cannot do without it.",
+      "due": "2026-10-03",
+      "example": "Computers have become an indispensable tool for modern businesses and educational institutions.",
+      "example_tr": "Bilgisayarlar modern işletmeler ve eğitim kurumları için vazgeçilmez bir araç haline geldi.",
+      "first_seen": "2026-10-02T15:46:02.087448+03:00",
+      "id": "e2bf20affa",
+      "ipa": "/ˌɪndɪˈspensəbəl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-02",
+      "level": "C1",
+      "meaning_tr": "vazgeçilmez, kaçınılmaz, çok gerekli",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "indispensable"
+    },
     "e406677485": {
       "answered_count": 0,
       "box": 1,
@@ -2608,56 +2683,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-01T23:22:20.246454+03:00",
+  "last_sent_at": "2026-10-02T15:46:02.087448+03:00",
   "pool": [
-    {
-      "collocations": [
-        "indispensable tool",
-        "indispensable part",
-        "indispensable to"
-      ],
-      "definition_en": "Absolutely necessary or essential, so that you cannot do without it.",
-      "example": "Computers have become an indispensable tool for modern businesses and educational institutions.",
-      "example_tr": "Bilgisayarlar modern işletmeler ve eğitim kurumları için vazgeçilmez bir araç haline geldi.",
-      "ipa": "/ˌɪndɪˈspensəbəl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "vazgeçilmez, kaçınılmaz, çok gerekli",
-      "pos": "adjective",
-      "word": "indispensable"
-    },
-    {
-      "collocations": [
-        "speech impediment",
-        "serious impediment",
-        "impediment to progress"
-      ],
-      "definition_en": "Something that makes development, movement, or progress difficult or impossible.",
-      "example": "High interest rates can be a major impediment to economic growth and investment.",
-      "example_tr": "Yüksek faiz oranları, ekonomik büyüme ve yatırımın önünde büyük bir engel olabilir.",
-      "ipa": "/ɪmˈpedɪmənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "engel, ayak bağı, mani",
-      "pos": "noun",
-      "word": "impediment"
-    },
-    {
-      "collocations": [
-        "seemingly endless",
-        "seemingly impossible",
-        "seemingly simple"
-      ],
-      "definition_en": "In a way that appears to be true, even though it may not be.",
-      "example": "They managed to solve the seemingly impossible puzzle in less than ten minutes.",
-      "example_tr": "Görünüşte imkansız olan bulmacayı on dakikadan kısa sürede çözmeyi başardılar.",
-      "ipa": "/ˈsiːmɪŋli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "görünüşte, görünüşe bakılırsa",
-      "pos": "adverb",
-      "word": "seemingly"
-    },
     {
       "collocations": [
         "beneficial in the long run",
