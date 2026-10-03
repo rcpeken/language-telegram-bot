@@ -1848,7 +1848,7 @@
         "improve infrastructure"
       ],
       "definition_en": "The basic systems and services that a country or organization uses.",
-      "due": "2026-09-23",
+      "due": "2026-10-04",
       "example": "The government plans to invest billions of dollars in upgrading the country's transport infrastructure.",
       "example_tr": "Hükümet, ülkenin ulaşım altyapısını modernize etmek için milyarlarca dolar yatırım yapmayı planlıyor.",
       "first_seen": "2026-09-18T14:24:05.575471+03:00",
@@ -1856,11 +1856,11 @@
       "ipa": "/ˈɪnfrəstrʌktʃə(r)/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-22",
+      "last_shown_at": "2026-10-03",
       "level": "B2",
       "meaning_tr": "altyapı",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "infrastructure"
     },
@@ -1944,7 +1944,7 @@
         "compile data"
       ],
       "definition_en": "To collect information from different places and arrange it in a book or list.",
-      "due": "2026-09-23",
+      "due": "2026-10-04",
       "example": "The research assistant spent three weeks compiling the necessary data for the report.",
       "example_tr": "Araştırma görevlisi, rapor için gerekli verileri derlemek amacıyla üç hafta harcadı.",
       "first_seen": "2026-09-18T19:30:08.439611+03:00",
@@ -1952,11 +1952,11 @@
       "ipa": "/kəmˈpaɪl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-22",
+      "last_shown_at": "2026-10-03",
       "level": "B2",
       "meaning_tr": "derlemek, bir araya getirmek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "compile"
     },
@@ -2831,7 +2831,7 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-03T14:46:38.395159+03:00",
+  "last_sent_at": "2026-10-03T19:27:29.769577+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
