@@ -1039,6 +1039,55 @@
       "unknown_count": 0,
       "word": "compromise"
     },
+    "5e93198648": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "with apprehension",
+        "grow with apprehension",
+        "deep apprehension"
+      ],
+      "definition_en": "Worry or fear about what might happen in the future.",
+      "due": "2026-10-04",
+      "example": "She felt a deep sense of apprehension before walking onto the stage to speak.",
+      "example_tr": "Konuşma yapmak için sahneye çıkmadan önce derin bir endişe hissetti.",
+      "first_seen": "2026-10-03T14:46:38.395159+03:00",
+      "id": "5e93198648",
+      "ipa": "/ˌæprɪˈhenʃən/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-03",
+      "level": "C1",
+      "meaning_tr": "endise, kaygı, korku",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "apprehension"
+    },
+    "6022443cd2": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "bear in mind that",
+        "keep/bear in mind"
+      ],
+      "definition_en": "To remember and consider a particular piece of information when making a decision.",
+      "due": "2026-10-04",
+      "example": "When planning the outdoor event, you must bear in mind that it might rain.",
+      "example_tr": "Açık hava etkinliğini planlarken, yağmur yağabileceğini aklınızda bulundurmalısınız.",
+      "first_seen": "2026-10-03T14:46:38.395159+03:00",
+      "id": "6022443cd2",
+      "ipa": "/beər ɪn maɪnd/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-03",
+      "level": "B2",
+      "meaning_tr": "aklında tutmak, hesaba katmak, unutmamak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "bear in mind"
+    },
     "647fecee80": {
       "answered_count": 0,
       "box": 1,
@@ -1628,7 +1677,7 @@
         "fully cognizant"
       ],
       "definition_en": "Having knowledge or being fully aware of something.",
-      "due": "2026-09-23",
+      "due": "2026-10-04",
       "example": "Leaders must be cognizant of the potential risks before making major decisions.",
       "example_tr": "Liderler, büyük kararlar almadan önce olası risklerin bilincinde olmalıdır.",
       "first_seen": "2026-09-22T14:46:43.129810+03:00",
@@ -1636,13 +1685,38 @@
       "ipa": "/ˈkɒɡnɪzənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-22",
+      "last_shown_at": "2026-10-03",
       "level": "C1",
       "meaning_tr": "farkında, bilincinde",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "cognizant"
+    },
+    "9720873c32": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "merely a coincidence",
+        "merely a scratch",
+        "not merely but also"
+      ],
+      "definition_en": "Used to emphasize that something is only what you say and not better or more important.",
+      "due": "2026-10-04",
+      "example": "I am merely pointing out that we do not have enough budget for this project.",
+      "example_tr": "Sadece bu proje için yeterli bütçemiz olmadığını belirtiyorum.",
+      "first_seen": "2026-10-03T14:46:38.395159+03:00",
+      "id": "9720873c32",
+      "ipa": "/ˈmɪəli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-03",
+      "level": "B2",
+      "meaning_tr": "yalnızca, sadece",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "merely"
     },
     "9b20ce2921": {
       "answered_count": 1,
@@ -1702,7 +1776,7 @@
         "flawless skin"
       ],
       "definition_en": "Without any mistakes, imperfections, or weaknesses.",
-      "due": "2026-09-23",
+      "due": "2026-10-04",
       "example": "The pianist gave a flawless performance that left the entire audience in silence.",
       "example_tr": "Piyanist, tüm izleyicileri sessizlik içinde bırakan kusursuz bir performans sergiledi.",
       "first_seen": "2026-09-22T14:46:43.129810+03:00",
@@ -1710,11 +1784,11 @@
       "ipa": "/ˈflɔːləs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-22",
+      "last_shown_at": "2026-10-03",
       "level": "B2",
       "meaning_tr": "kusursuz, hatasız, mükemmel",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "flawless"
     },
@@ -2757,56 +2831,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-02T22:58:31.006943+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "with apprehension",
-        "grow with apprehension",
-        "deep apprehension"
-      ],
-      "definition_en": "Worry or fear about what might happen in the future.",
-      "example": "She felt a deep sense of apprehension before walking onto the stage to speak.",
-      "example_tr": "Konuşma yapmak için sahneye çıkmadan önce derin bir endişe hissetti.",
-      "ipa": "/ˌæprɪˈhenʃən/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "endise, kaygı, korku",
-      "pos": "noun",
-      "word": "apprehension"
-    },
-    {
-      "collocations": [
-        "merely a coincidence",
-        "merely a scratch",
-        "not merely but also"
-      ],
-      "definition_en": "Used to emphasize that something is only what you say and not better or more important.",
-      "example": "I am merely pointing out that we do not have enough budget for this project.",
-      "example_tr": "Sadece bu proje için yeterli bütçemiz olmadığını belirtiyorum.",
-      "ipa": "/ˈmɪəli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "yalnızca, sadece",
-      "pos": "adverb",
-      "word": "merely"
-    },
-    {
-      "collocations": [
-        "bear in mind that",
-        "keep/bear in mind"
-      ],
-      "definition_en": "To remember and consider a particular piece of information when making a decision.",
-      "example": "When planning the outdoor event, you must bear in mind that it might rain.",
-      "example_tr": "Açık hava etkinliğini planlarken, yağmur yağabileceğini aklınızda bulundurmalısınız.",
-      "ipa": "/beər ɪn maɪnd/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "aklında tutmak, hesaba katmak, unutmamak",
-      "pos": "phrase",
-      "word": "bear in mind"
-    }
-  ],
+  "last_sent_at": "2026-10-03T14:46:38.395159+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
