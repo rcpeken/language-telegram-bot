@@ -1508,7 +1508,7 @@
         "accumulate debts"
       ],
       "definition_en": "To collect or increase something gradually over a period of time.",
-      "due": "2026-09-24",
+      "due": "2026-10-06",
       "example": "Dust and old papers began to accumulate in the abandoned office over the years.",
       "example_tr": "Yıllar geçtikçe terk edilmiş ofiste toz ve eski kağıtlar birikmeye başladı.",
       "first_seen": "2026-09-23T14:45:58.827362+03:00",
@@ -1516,11 +1516,11 @@
       "ipa": "/əˈkjuː.mjə.leɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-23",
+      "last_shown_at": "2026-10-05",
       "level": "B2",
       "meaning_tr": "biriktirmek, yığılmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "accumulate"
     },
@@ -1752,7 +1752,7 @@
         "assess the situation"
       ],
       "definition_en": "To carefully judge or decide the amount, value, quality, or importance of something.",
-      "due": "2026-09-24",
+      "due": "2026-10-06",
       "example": "The committee will assess the environmental impact of the new highway project next week.",
       "example_tr": "Komite önümüzdeki hafta yeni otoyol projesinin çevresel etkisini değerlendirecek.",
       "first_seen": "2026-09-23T00:24:19.826323+03:00",
@@ -1760,11 +1760,11 @@
       "ipa": "/əˈses/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-23",
+      "last_shown_at": "2026-10-05",
       "level": "B2",
       "meaning_tr": "değerlendirmek, değer biçmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "assess"
     },
@@ -2831,7 +2831,7 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-04T20:51:42.044221+03:00",
+  "last_sent_at": "2026-10-05T01:32:37.382251+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
