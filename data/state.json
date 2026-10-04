@@ -80,7 +80,7 @@
         "unanimous support"
       ],
       "definition_en": "Agreed upon by everyone involved; in complete agreement.",
-      "due": "2026-09-24",
+      "due": "2026-10-05",
       "example": "The board of directors reached a unanimous decision to appoint her as the CEO.",
       "example_tr": "Yönetim kurulu, onu CEO olarak atamak için oybirliğiyle bir karara vardı.",
       "first_seen": "2026-09-23T14:45:58.827362+03:00",
@@ -88,11 +88,11 @@
       "ipa": "/juːˈnæn.ɪ.məs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-23",
+      "last_shown_at": "2026-10-04",
       "level": "C1",
       "meaning_tr": "oybirliğiyle alınan, müttefik",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "unanimous"
     },
@@ -707,7 +707,7 @@
         "redundant employees"
       ],
       "definition_en": "No longer needed or useful, or having lost employment because of lack of work.",
-      "due": "2026-09-24",
+      "due": "2026-10-05",
       "example": "The new software system made several manual data entry tasks completely redundant.",
       "example_tr": "Yeni yazılım sistemi, birkaç manuel veri girişi görevini tamamen gereksiz hale getirdi.",
       "first_seen": "2026-09-23T20:10:07.316180+03:00",
@@ -715,11 +715,11 @@
       "ipa": "/rɪˈdʌn.dənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-23",
+      "last_shown_at": "2026-10-04",
       "level": "C1",
       "meaning_tr": "gereksiz, işten çıkarılmış",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "redundant"
     },
@@ -2831,7 +2831,7 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-04T00:23:48.667000+03:00",
+  "last_sent_at": "2026-10-04T15:29:28.704342+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
