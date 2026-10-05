@@ -1160,6 +1160,30 @@
       "unknown_count": 0,
       "word": "elusive"
     },
+    "655f5aa5ac": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in light of new evidence",
+        "in light of recent events"
+      ],
+      "definition_en": "Drawing knowledge or information from; taking something into consideration.",
+      "due": "2026-10-07",
+      "example": "In light of recent security concerns, the school has decided to install new security cameras.",
+      "example_tr": "Son güvenlik endişelerinin ışığında, okul yeni güvenlik kameraları kurmaya karar verdi.",
+      "first_seen": "2026-10-06T01:03:26.765655+03:00",
+      "id": "655f5aa5ac",
+      "ipa": "/ɪn laɪt ɒv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-06",
+      "level": "C1",
+      "meaning_tr": "göz önünde bulundurulduğunda, ışığında",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in light of"
+    },
     "66dbe656d3": {
       "answered_count": 0,
       "box": 1,
@@ -1523,6 +1547,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "accumulate"
+    },
+    "81ee8caa2d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "curtail spending",
+        "curtail freedom"
+      ],
+      "definition_en": "To reduce, limit, or restrict something, especially before it is finished.",
+      "due": "2026-10-07",
+      "example": "The government decided to curtail public spending in order to reduce the national budget deficit.",
+      "example_tr": "Hükümet, ulusal bütçe açığını azaltmak amacıyla kamu harcamalarını kısmaya karar verdi.",
+      "first_seen": "2026-10-06T01:03:26.765655+03:00",
+      "id": "81ee8caa2d",
+      "ipa": "/kəˈteɪl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-06",
+      "level": "C1",
+      "meaning_tr": "kısmak, kısıtlamak, azaltmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "curtail"
     },
     "8b4be13af9": {
       "answered_count": 0,
@@ -2259,7 +2307,7 @@
         "come to terms with grief"
       ],
       "definition_en": "To gradually accept a sad or difficult situation.",
-      "due": "2026-09-24",
+      "due": "2026-10-07",
       "example": "It took her several months to come to terms with losing her job.",
       "example_tr": "İşini kaybetmeyi kabullenmesi onun birkaç ayını aldı.",
       "first_seen": "2026-09-18T14:24:05.575471+03:00",
@@ -2267,13 +2315,37 @@
       "ipa": "/kʌm tuː tɜːmz wɪð/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-23",
+      "last_shown_at": "2026-10-06",
       "level": "C1",
       "meaning_tr": "kabullenmek, alışmak, uzlaşmak",
       "pos": "phrase",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "come to terms with"
+    },
+    "ca16a83281": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "notably absent",
+        "most notably"
+      ],
+      "definition_en": "In a way that is easily noticed or especially true; particularly.",
+      "due": "2026-10-07",
+      "example": "Several countries, notably Spain and Italy, have seen a major rise in tourism this summer.",
+      "example_tr": "Başta İspanya ve İtalya olmak üzere birçok ülke, bu yaz turizmde büyük bir artış gördü.",
+      "first_seen": "2026-10-06T01:03:26.765655+03:00",
+      "id": "ca16a83281",
+      "ipa": "/ˈnoʊ.tə.bli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-06",
+      "level": "B2",
+      "meaning_tr": "özellikle, bilhassa, göze çarpan derecede",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "notably"
     },
     "cccfd39527": {
       "answered_count": 0,
@@ -2307,7 +2379,7 @@
         "male counterpart"
       ],
       "definition_en": "A person or thing that has the same position or function as another in a different place.",
-      "due": "2026-09-24",
+      "due": "2026-10-07",
       "example": "The prime minister met with his French counterpart to discuss trade relations.",
       "example_tr": "Başbakan, ticari ilişkileri görüşmek üzere Fransız mevkidaşı ile bir araya geldi.",
       "first_seen": "2026-09-23T20:10:07.316180+03:00",
@@ -2315,11 +2387,11 @@
       "ipa": "/ˈkaʊn.tə.pɑːt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-23",
+      "last_shown_at": "2026-10-06",
       "level": "C1",
       "meaning_tr": "mevkidaş, emsal, karşılık",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "counterpart"
     },
@@ -2903,53 +2975,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-05T17:51:35.175720+03:00",
+  "last_sent_at": "2026-10-06T01:03:26.765655+03:00",
   "pool": [
-    {
-      "collocations": [
-        "notably absent",
-        "most notably"
-      ],
-      "definition_en": "In a way that is easily noticed or especially true; particularly.",
-      "example": "Several countries, notably Spain and Italy, have seen a major rise in tourism this summer.",
-      "example_tr": "Başta İspanya ve İtalya olmak üzere birçok ülke, bu yaz turizmde büyük bir artış gördü.",
-      "ipa": "/ˈnoʊ.tə.bli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "özellikle, bilhassa, göze çarpan derecede",
-      "pos": "adverb",
-      "word": "notably"
-    },
-    {
-      "collocations": [
-        "in light of new evidence",
-        "in light of recent events"
-      ],
-      "definition_en": "Drawing knowledge or information from; taking something into consideration.",
-      "example": "In light of recent security concerns, the school has decided to install new security cameras.",
-      "example_tr": "Son güvenlik endişelerinin ışığında, okul yeni güvenlik kameraları kurmaya karar verdi.",
-      "ipa": "/ɪn laɪt ɒv/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "göz önünde bulundurulduğunda, ışığında",
-      "pos": "phrase",
-      "word": "in light of"
-    },
-    {
-      "collocations": [
-        "curtail spending",
-        "curtail freedom"
-      ],
-      "definition_en": "To reduce, limit, or restrict something, especially before it is finished.",
-      "example": "The government decided to curtail public spending in order to reduce the national budget deficit.",
-      "example_tr": "Hükümet, ulusal bütçe açığını azaltmak amacıyla kamu harcamalarını kısmaya karar verdi.",
-      "ipa": "/kəˈteɪl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "kısmak, kısıtlamak, azaltmak",
-      "pos": "verb",
-      "word": "curtail"
-    },
     {
       "collocations": [
         "leverage resources",
