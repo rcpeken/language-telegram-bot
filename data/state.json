@@ -336,6 +336,30 @@
       "unknown_count": 0,
       "word": "take for granted"
     },
+    "20a8c52650": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "yield results",
+        "high yield"
+      ],
+      "definition_en": "To produce or provide a natural, agricultural, or industrial product, or a result.",
+      "due": "2026-10-07",
+      "example": "The new agricultural methods are expected to yield a much larger harvest this coming autumn.",
+      "example_tr": "Yeni tarım yöntemlerinin önümüzdeki sonbaharda çok daha büyük bir ürün vermesi bekleniyor.",
+      "first_seen": "2026-10-06T16:24:10.893530+03:00",
+      "id": "20a8c52650",
+      "ipa": "/jiːld/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-06",
+      "level": "B2",
+      "meaning_tr": "ürün vermek, sağlamak, boyun eğmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "yield"
+    },
     "2392c57fb8": {
       "answered_count": 0,
       "box": 1,
@@ -1572,6 +1596,30 @@
       "unknown_count": 0,
       "word": "curtail"
     },
+    "8a2e3bd9e6": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "resolute determination",
+        "remain resolute"
+      ],
+      "definition_en": "Admirably purposeful, determined, and unwavering in one's decisions or opinions.",
+      "due": "2026-10-07",
+      "example": "Despite receiving numerous complaints, the committee remained resolute in their decision to close the park.",
+      "example_tr": "Sayısız şikayet almasına rağmen, komite parkı kapatma kararlarında kararlı kaldı.",
+      "first_seen": "2026-10-06T16:24:10.893530+03:00",
+      "id": "8a2e3bd9e6",
+      "ipa": "/ˈrez.ə.luːt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-06",
+      "level": "C1",
+      "meaning_tr": "kararlı, azimli, tavizsiz",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "resolute"
+    },
     "8b4be13af9": {
       "answered_count": 0,
       "box": 1,
@@ -1791,6 +1839,30 @@
       "shown_count": 4,
       "unknown_count": 1,
       "word": "resilient"
+    },
+    "9cf683654a": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "leverage resources",
+        "leverage technology"
+      ],
+      "definition_en": "To use something to maximum advantage to achieve a desired result.",
+      "due": "2026-10-07",
+      "example": "Successful businesses leverage social media to reach a broader audience and build brand loyalty.",
+      "example_tr": "Başarılı işletmeler, daha geniş bir kitleye ulaşmak ve marka bağlılığı oluşturmak için sosyal medyayı etkili kullanır.",
+      "first_seen": "2026-10-06T16:24:10.893530+03:00",
+      "id": "9cf683654a",
+      "ipa": "/ˈlev.ər.ɪdʒ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-06",
+      "level": "C1",
+      "meaning_tr": "yararlanmak, kaldıraç olarak kullanmak, etkili kullanmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "leverage"
     },
     "a068422491": {
       "answered_count": 0,
@@ -2499,7 +2571,7 @@
         "substantial growth"
       ],
       "definition_en": "Large in size, value, or importance.",
-      "due": "2026-09-24",
+      "due": "2026-10-07",
       "example": "The company invested a substantial amount of money in developing the new software.",
       "example_tr": "Şirket, yeni yazılımı geliştirmek için önemli miktarda para yatırdı.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -2507,11 +2579,11 @@
       "ipa": "/səbˈstænʃl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-23",
+      "last_shown_at": "2026-10-06",
       "level": "B2",
       "meaning_tr": "büyük, önemli, kayda değer",
       "pos": "adjective",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "substantial"
     },
@@ -2643,7 +2715,7 @@
         "profound effect"
       ],
       "definition_en": "Showing a clear and deep understanding or having a strong effect.",
-      "due": "2026-09-24",
+      "due": "2026-10-07",
       "example": "His grandmother's wise advice had a profound influence on his career choices.",
       "example_tr": "Büyükannesinin bilgece tavsiyeleri, onun kariyer seçimleri üzerinde derin bir etki yarattı.",
       "first_seen": "2026-09-18T14:24:05.575471+03:00",
@@ -2651,11 +2723,11 @@
       "ipa": "/prəˈfaʊnd/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-23",
+      "last_shown_at": "2026-10-06",
       "level": "C1",
       "meaning_tr": "derin, büyük, etkili",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "profound"
     },
@@ -2975,53 +3047,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-06T01:03:26.765655+03:00",
+  "last_sent_at": "2026-10-06T16:24:10.893530+03:00",
   "pool": [
-    {
-      "collocations": [
-        "leverage resources",
-        "leverage technology"
-      ],
-      "definition_en": "To use something to maximum advantage to achieve a desired result.",
-      "example": "Successful businesses leverage social media to reach a broader audience and build brand loyalty.",
-      "example_tr": "Başarılı işletmeler, daha geniş bir kitleye ulaşmak ve marka bağlılığı oluşturmak için sosyal medyayı etkili kullanır.",
-      "ipa": "/ˈlev.ər.ɪdʒ/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "yararlanmak, kaldıraç olarak kullanmak, etkili kullanmak",
-      "pos": "verb",
-      "word": "leverage"
-    },
-    {
-      "collocations": [
-        "resolute determination",
-        "remain resolute"
-      ],
-      "definition_en": "Admirably purposeful, determined, and unwavering in one's decisions or opinions.",
-      "example": "Despite receiving numerous complaints, the committee remained resolute in their decision to close the park.",
-      "example_tr": "Sayısız şikayet almasına rağmen, komite parkı kapatma kararlarında kararlı kaldı.",
-      "ipa": "/ˈrez.ə.luːt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "kararlı, azimli, tavizsiz",
-      "pos": "adjective",
-      "word": "resolute"
-    },
-    {
-      "collocations": [
-        "yield results",
-        "high yield"
-      ],
-      "definition_en": "To produce or provide a natural, agricultural, or industrial product, or a result.",
-      "example": "The new agricultural methods are expected to yield a much larger harvest this coming autumn.",
-      "example_tr": "Yeni tarım yöntemlerinin önümüzdeki sonbaharda çok daha büyük bir ürün vermesi bekleniyor.",
-      "ipa": "/jiːld/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "ürün vermek, sağlamak, boyun eğmek",
-      "pos": "verb",
-      "word": "yield"
-    },
     {
       "collocations": [
         "pervasive influence",
