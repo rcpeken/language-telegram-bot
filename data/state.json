@@ -577,6 +577,30 @@
       "unknown_count": 0,
       "word": "inevitable"
     },
+    "360a7ccb21": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "pervasive influence",
+        "pervasive smell"
+      ],
+      "definition_en": "Existing or spreading everywhere, especially in a way that is difficult to ignore.",
+      "due": "2026-10-07",
+      "example": "Smartphones have a pervasive influence on the daily lives of teenagers and young adults today.",
+      "example_tr": "Akıllı telefonların günümüzde gençlerin ve genç yetişkinlerin günlük yaşamları üzerinde yaygın bir etkisi vardır.",
+      "first_seen": "2026-10-06T23:22:01.297193+03:00",
+      "id": "360a7ccb21",
+      "ipa": "/pəˈveɪ.sɪv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-06",
+      "level": "C1",
+      "meaning_tr": "yaygın, her tarafa yayılmış, nüfuz eden",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "pervasive"
+    },
     "394c86cd7c": {
       "answered_count": 0,
       "box": 1,
@@ -1814,6 +1838,30 @@
       "unknown_count": 0,
       "word": "merely"
     },
+    "98f5111248": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "set a precedent",
+        "without precedent"
+      ],
+      "definition_en": "An earlier event or action that is regarded as an example or guide for future cases.",
+      "due": "2026-10-07",
+      "example": "The judge's historic ruling set a crucial precedent for future cases involving environmental damage.",
+      "example_tr": "Yargıcın tarihi kararı, çevreye verilen zararı içeren gelecekteki davalar için önemli bir emsal oluşturdu.",
+      "first_seen": "2026-10-06T23:22:01.297193+03:00",
+      "id": "98f5111248",
+      "ipa": "/ˈpres.ɪ.dənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-06",
+      "level": "C1",
+      "meaning_tr": "emsal, geçmiş örnek, gelenek",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "precedent"
+    },
     "9b20ce2921": {
       "answered_count": 1,
       "box": 1,
@@ -2755,6 +2803,30 @@
       "unknown_count": 0,
       "word": "jeopardize"
     },
+    "e16f549664": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "major stumbling block",
+        "overcome a stumbling block"
+      ],
+      "definition_en": "An obstacle or circumstance that prevents progress or agreement.",
+      "due": "2026-10-07",
+      "example": "Lack of funding proved to be the main stumbling block in completing the research project.",
+      "example_tr": "Finansman eksikliği, araştırma projesinin tamamlanmasında ana engel oldu.",
+      "first_seen": "2026-10-06T23:22:01.297193+03:00",
+      "id": "e16f549664",
+      "ipa": "/ˈstʌm.bəl.ɪŋ ˌblɒk/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-06",
+      "level": "B2",
+      "meaning_tr": "engel, pürüz, aşılması zor güçlük",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "stumbling block"
+    },
     "e2bf20affa": {
       "answered_count": 0,
       "box": 1,
@@ -2788,7 +2860,7 @@
         "comprehensive study"
       ],
       "definition_en": "Including all or almost all of the items, facts, or information.",
-      "due": "2026-09-24",
+      "due": "2026-10-07",
       "example": "This textbook provides a comprehensive guide to learning the basics of economics.",
       "example_tr": "Bu ders kitabı, ekonominin temellerini öğrenmek için kapsamlı bir rehber sunmaktadır.",
       "first_seen": "2026-09-18T19:30:08.439611+03:00",
@@ -2796,11 +2868,11 @@
       "ipa": "/ˌkɒmprɪˈhensɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-23",
+      "last_shown_at": "2026-10-06",
       "level": "B2",
       "meaning_tr": "kapsamlı, detaylı",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "comprehensive"
     },
@@ -2908,7 +2980,7 @@
         "unprecedented challenge"
       ],
       "definition_en": "Never having happened or existed in the past.",
-      "due": "2026-09-24",
+      "due": "2026-10-07",
       "example": "The company experienced unprecedented growth after launching its new software worldwide.",
       "example_tr": "Şirket, yeni yazılımını dünya çapında piyasaya sürdükten sonra eşi görülmemiş bir büyüme yaşadı.",
       "first_seen": "2026-09-16T15:02:30.116093+03:00",
@@ -2918,11 +2990,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-23",
+      "last_shown_at": "2026-10-06",
       "level": "C1",
       "meaning_tr": "eşi görülmemiş, emsalsiz, benzersiz",
       "pos": "adjective",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 1,
       "word": "unprecedented"
     },
@@ -3047,53 +3119,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-06T16:24:10.893530+03:00",
+  "last_sent_at": "2026-10-06T23:22:01.297193+03:00",
   "pool": [
-    {
-      "collocations": [
-        "pervasive influence",
-        "pervasive smell"
-      ],
-      "definition_en": "Existing or spreading everywhere, especially in a way that is difficult to ignore.",
-      "example": "Smartphones have a pervasive influence on the daily lives of teenagers and young adults today.",
-      "example_tr": "Akıllı telefonların günümüzde gençlerin ve genç yetişkinlerin günlük yaşamları üzerinde yaygın bir etkisi vardır.",
-      "ipa": "/pəˈveɪ.sɪv/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "yaygın, her tarafa yayılmış, nüfuz eden",
-      "pos": "adjective",
-      "word": "pervasive"
-    },
-    {
-      "collocations": [
-        "major stumbling block",
-        "overcome a stumbling block"
-      ],
-      "definition_en": "An obstacle or circumstance that prevents progress or agreement.",
-      "example": "Lack of funding proved to be the main stumbling block in completing the research project.",
-      "example_tr": "Finansman eksikliği, araştırma projesinin tamamlanmasında ana engel oldu.",
-      "ipa": "/ˈstʌm.bəl.ɪŋ ˌblɒk/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "engel, pürüz, aşılması zor güçlük",
-      "pos": "noun",
-      "word": "stumbling block"
-    },
-    {
-      "collocations": [
-        "set a precedent",
-        "without precedent"
-      ],
-      "definition_en": "An earlier event or action that is regarded as an example or guide for future cases.",
-      "example": "The judge's historic ruling set a crucial precedent for future cases involving environmental damage.",
-      "example_tr": "Yargıcın tarihi kararı, çevreye verilen zararı içeren gelecekteki davalar için önemli bir emsal oluşturdu.",
-      "ipa": "/ˈpres.ɪ.dənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "emsal, geçmiş örnek, gelenek",
-      "pos": "noun",
-      "word": "precedent"
-    },
     {
       "collocations": [
         "confront a problem",
