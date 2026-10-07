@@ -264,6 +264,30 @@
       "unknown_count": 0,
       "word": "abruptly"
     },
+    "179590019c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "presumably because",
+        "presumably dead"
+      ],
+      "definition_en": "Used to say what you think is the most likely truth or reason.",
+      "due": "2026-10-08",
+      "example": "The store is closed today, presumably because it is a national holiday across the country.",
+      "example_tr": "Mağaza bugün kapalı, muhtemelen ülke genelinde resmi tatil olduğu için.",
+      "first_seen": "2026-10-07T16:33:09.689390+03:00",
+      "id": "179590019c",
+      "ipa": "/prɪˈzjuː.mə.bli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-07",
+      "level": "B2",
+      "meaning_tr": "muhtemelen, galiba, büyük ihtimalle",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "presumably"
+    },
     "1add7c295e": {
       "answered_count": 0,
       "box": 1,
@@ -464,7 +488,7 @@
         "foster growth"
       ],
       "definition_en": "To encourage or promote the development of something, typically something good.",
-      "due": "2026-09-25",
+      "due": "2026-10-08",
       "example": "The teacher tried to foster a love of reading by sharing interesting stories.",
       "example_tr": "Öğretmen, ilginç hikayeler paylaşarak okuma sevgisini teşvik etmeye çalıştı.",
       "first_seen": "2026-09-19T23:47:06.679956+03:00",
@@ -472,11 +496,11 @@
       "ipa": "/ˈfɔːstər/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-24",
+      "last_shown_at": "2026-10-07",
       "level": "B2",
       "meaning_tr": "teşvik etmek, geliştirmek, büyütmek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "foster"
     },
@@ -657,7 +681,7 @@
         "reluctantly accept"
       ],
       "definition_en": "In an unwilling and hesitant way.",
-      "due": "2026-09-25",
+      "due": "2026-10-08",
       "example": "She reluctantly agreed to work overtime on the weekend to finish the urgent report.",
       "example_tr": "Acil raporu bitirmek için hafta sonu fazla mesai yapmayı isteksizce kabul etti.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -665,11 +689,11 @@
       "ipa": "/rɪˈlʌktəntli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-24",
+      "last_shown_at": "2026-10-07",
       "level": "C1",
       "meaning_tr": "isteksizce, gönülsüzce",
       "pos": "adverb",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 0,
       "word": "reluctantly"
     },
@@ -2104,6 +2128,30 @@
       "unknown_count": 0,
       "word": "eradicate"
     },
+    "ae40c15cfb": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "indifferent to",
+        "remain indifferent"
+      ],
+      "definition_en": "Having no particular interest or sympathy; unconcerned.",
+      "due": "2026-10-08",
+      "example": "Many citizens appeared completely indifferent to the results of the local elections held last week.",
+      "example_tr": "Pek çok vatandaş, geçen hafta yapılan yerel seçimlerin sonuçlarına tamamen kayıtsız göründü.",
+      "first_seen": "2026-10-07T16:33:09.689390+03:00",
+      "id": "ae40c15cfb",
+      "ipa": "/ɪnˈdɪf.ər.ənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-07",
+      "level": "B2",
+      "meaning_tr": "kayıtsız, umursamaz, ilgisiz",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "indifferent"
+    },
     "ae7e688a8a": {
       "answered_count": 0,
       "box": 1,
@@ -2972,6 +3020,30 @@
       "unknown_count": 0,
       "word": "relentless"
     },
+    "ecc6cfc2ad": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "confront a problem",
+        "be confronted with"
+      ],
+      "definition_en": "To face, meet, or deal with a difficult situation or person directly.",
+      "due": "2026-10-08",
+      "example": "Leaders must confront these economic challenges immediately to prevent further decline in the coming months.",
+      "example_tr": "Liderler, önümüzdeki aylarda daha fazla düşüşü önlemek için bu ekonomik zorluklarla hemen yüzleşmelidir.",
+      "first_seen": "2026-10-07T16:33:09.689390+03:00",
+      "id": "ecc6cfc2ad",
+      "ipa": "/kənˈfrʌnt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-07",
+      "level": "B2",
+      "meaning_tr": "yüzleşmek, karşı karşıya kalmak, göğüs germek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "confront"
+    },
     "f09deb610d": {
       "answered_count": 1,
       "box": 1,
@@ -3119,54 +3191,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-06T23:22:01.297193+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "confront a problem",
-        "be confronted with"
-      ],
-      "definition_en": "To face, meet, or deal with a difficult situation or person directly.",
-      "example": "Leaders must confront these economic challenges immediately to prevent further decline in the coming months.",
-      "example_tr": "Liderler, önümüzdeki aylarda daha fazla düşüşü önlemek için bu ekonomik zorluklarla hemen yüzleşmelidir.",
-      "ipa": "/kənˈfrʌnt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "yüzleşmek, karşı karşıya kalmak, göğüs germek",
-      "pos": "verb",
-      "word": "confront"
-    },
-    {
-      "collocations": [
-        "indifferent to",
-        "remain indifferent"
-      ],
-      "definition_en": "Having no particular interest or sympathy; unconcerned.",
-      "example": "Many citizens appeared completely indifferent to the results of the local elections held last week.",
-      "example_tr": "Pek çok vatandaş, geçen hafta yapılan yerel seçimlerin sonuçlarına tamamen kayıtsız göründü.",
-      "ipa": "/ɪnˈdɪf.ər.ənt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "kayıtsız, umursamaz, ilgisiz",
-      "pos": "adjective",
-      "word": "indifferent"
-    },
-    {
-      "collocations": [
-        "presumably because",
-        "presumably dead"
-      ],
-      "definition_en": "Used to say what you think is the most likely truth or reason.",
-      "example": "The store is closed today, presumably because it is a national holiday across the country.",
-      "example_tr": "Mağaza bugün kapalı, muhtemelen ülke genelinde resmi tatil olduğu için.",
-      "ipa": "/prɪˈzjuː.mə.bli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "muhtemelen, galiba, büyük ihtimalle",
-      "pos": "adverb",
-      "word": "presumably"
-    }
-  ],
+  "last_sent_at": "2026-10-07T16:33:09.689390+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
