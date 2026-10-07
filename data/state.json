@@ -923,7 +923,7 @@
         "enhance skills"
       ],
       "definition_en": "To improve the quality, amount, or strength of something.",
-      "due": "2026-09-25",
+      "due": "2026-10-08",
       "example": "Adding fresh herbs at the end of cooking will enhance the soup's flavor.",
       "example_tr": "Pişirme işleminin sonunda taze otlar eklemek çorbanın lezzetini artıracaktır.",
       "first_seen": "2026-09-17T20:05:50.551121+03:00",
@@ -931,13 +931,37 @@
       "ipa": "/ɪnˈhɑːns/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-24",
+      "last_shown_at": "2026-10-07",
       "level": "B2",
       "meaning_tr": "artırmak, geliştirmek, iyileştirmek",
       "pos": "verb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "enhance"
+    },
+    "541ac8f885": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "tenuous connection",
+        "tenuous grasp"
+      ],
+      "definition_en": "Very weak, slight, or uncertain.",
+      "due": "2026-10-08",
+      "example": "The police only have a tenuous link between the suspect and the crime.",
+      "example_tr": "Polisin şüpheli ile suç arasında sadece zayıf bir bağlantısı var.",
+      "first_seen": "2026-10-07T23:39:29.733976+03:00",
+      "id": "541ac8f885",
+      "ipa": "/ˈtenjuəs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-07",
+      "level": "C1",
+      "meaning_tr": "zayıf, eğreti, ince",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "tenuous"
     },
     "5605b53981": {
       "answered_count": 1,
@@ -947,7 +971,7 @@
         "discrepancy between"
       ],
       "definition_en": "A difference between two things that should be the same.",
-      "due": "2026-09-25",
+      "due": "2026-10-08",
       "example": "The accountant found a significant discrepancy between the two financial reports.",
       "example_tr": "Muhasebeci iki mali rapor arasında önemli bir tutarsızlık buldu.",
       "first_seen": "2026-09-16T10:12:29.899891+03:00",
@@ -957,11 +981,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-24",
+      "last_shown_at": "2026-10-07",
       "level": "C1",
       "meaning_tr": "tutarsızlık, çelişki, fark",
       "pos": "noun",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 1,
       "word": "discrepancy"
     },
@@ -1135,6 +1159,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "apprehension"
+    },
+    "5f32afa636": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "assert authority",
+        "assert dominance"
+      ],
+      "definition_en": "To state a fact or belief confidently and forcefully.",
+      "due": "2026-10-08",
+      "example": "The lawyer had to assert his client's innocence during the trial.",
+      "example_tr": "Avukat, duruşma sırasında müvekkilinin masumiyetini ileri sürmek zorunda kaldı.",
+      "first_seen": "2026-10-07T23:39:29.733976+03:00",
+      "id": "5f32afa636",
+      "ipa": "/əˈsɜːrt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-07",
+      "level": "B2",
+      "meaning_tr": "iddia etmek, ileri sürmek, savunmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "assert"
     },
     "6022443cd2": {
       "answered_count": 0,
@@ -2924,6 +2972,30 @@
       "unknown_count": 0,
       "word": "comprehensive"
     },
+    "e4b1811993": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "converge on",
+        "paths converge"
+      ],
+      "definition_en": "To come from different directions and meet at a single point.",
+      "due": "2026-10-08",
+      "example": "Thousands of supporters will converge on the city center for the rally tomorrow.",
+      "example_tr": "Binlerce destekçi yarınki miting için şehir merkezinde toplanacak.",
+      "first_seen": "2026-10-07T23:39:29.733976+03:00",
+      "id": "e4b1811993",
+      "ipa": "/kənˈvɜːrdʒ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-07",
+      "level": "C1",
+      "meaning_tr": "birleşmek, yakınsamak, toplanmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "converge"
+    },
     "e9836cccde": {
       "answered_count": 0,
       "box": 1,
@@ -3191,8 +3263,189 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-07T16:33:09.689390+03:00",
-  "pool": [],
+  "last_sent_at": "2026-10-07T23:39:29.733976+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "adverse effects",
+        "adverse conditions"
+      ],
+      "definition_en": "Preventing success or development; harmful or unfavorable.",
+      "example": "The outdoor concert was canceled due to adverse weather conditions.",
+      "example_tr": "Açık hava konseri, olumsuz hava koşulları nedeniyle iptal edildi.",
+      "ipa": "/ˈædvɜːrs/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "olumsuz, ters, kötü",
+      "pos": "adjective",
+      "word": "adverse"
+    },
+    {
+      "collocations": [
+        "cultivate a relationship",
+        "cultivate a habit"
+      ],
+      "definition_en": "To try to acquire or develop a quality, skill, or relationship.",
+      "example": "She worked hard to cultivate good relationships with her new clients.",
+      "example_tr": "Yeni müşterileriyle iyi ilişkiler geliştirmek için çok çalıştı.",
+      "ipa": "/ˈkʌltɪveɪt/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "geliştirmek, büyütmek, yetiştirmek",
+      "pos": "verb",
+      "word": "cultivate"
+    },
+    {
+      "collocations": [
+        "act as a catalyst",
+        "catalyst for change"
+      ],
+      "definition_en": "A person or thing that precipitates an event or change.",
+      "example": "The new government policy acted as a catalyst for economic growth.",
+      "example_tr": "Yeni hükümet politikası, ekonomik büyüme için bir tetikleyici işlevi gördü.",
+      "ipa": "/ˈkætəlɪst/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "katalizör, tetikleyici, hızlandırıcı",
+      "pos": "noun",
+      "word": "catalyst"
+    },
+    {
+      "collocations": [
+        "glaring inconsistency",
+        "inconsistency in data"
+      ],
+      "definition_en": "The state of being unstable, variable, or containing conflicting elements.",
+      "example": "The investigator noticed a major inconsistency in the witness's statement.",
+      "example_tr": "Müfettiş, tanığın ifadesinde büyük bir tutarsızlık fark etti.",
+      "ipa": "/ˌɪnkənˈsɪstənsi/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "tutarsızlık, çelişki",
+      "pos": "noun",
+      "word": "inconsistency"
+    },
+    {
+      "collocations": [
+        "vary considerably",
+        "improve considerably"
+      ],
+      "definition_en": "By a notably large amount or to a great degree.",
+      "example": "The quality of the service has improved considerably over the past year.",
+      "example_tr": "Hizmetin kalitesi geçen yıl boyunca önemli ölçüde gelişti.",
+      "ipa": "/kənˈsɪdərəbli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "epey, oldukça, önemli ölçüde",
+      "pos": "adverb",
+      "word": "considerably"
+    },
+    {
+      "collocations": [
+        "grudgingly accept",
+        "grudgingly admit"
+      ],
+      "definition_en": "Done in an unwilling or reluctant manner.",
+      "example": "He grudgingly admitted that his rival had made a valid point.",
+      "example_tr": "Rakibinin haklı bir noktaya değindiğini isteksizce kabul etti.",
+      "ipa": "/ˈɡrʌdʒɪŋli/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "isteksizce, zoraki, gönülsüzce",
+      "pos": "adverb",
+      "word": "grudgingly"
+    },
+    {
+      "collocations": [
+        "by virtue of position",
+        "by virtue of experience"
+      ],
+      "definition_en": "Because of or by means of something.",
+      "example": "She got the job by virtue of her extensive experience in finance.",
+      "example_tr": "Finans alanındaki geniş deneyimi sayesinde işe kabul edildi.",
+      "ipa": "/baɪ ˈvɜːrtʃuː əv/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "-den dolayı, sayesinde, yardımıyla",
+      "pos": "phrase",
+      "word": "by virtue of"
+    },
+    {
+      "collocations": [
+        "appraise performance",
+        "appraise property"
+      ],
+      "definition_en": "To assess the value, quality, or performance of something.",
+      "example": "Employers regularly appraise their staff to determine yearly bonuses and promotions.",
+      "example_tr": "İşverenler, yıllık primleri ve terfileri belirlemek için personellerini düzenli olarak değerlendirir.",
+      "ipa": "/əˈpreɪz/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "değerlendirmek, değer biçmek",
+      "pos": "verb",
+      "word": "appraise"
+    },
+    {
+      "collocations": [
+        "susceptible to disease",
+        "highly susceptible"
+      ],
+      "definition_en": "Likely or liable to be influenced or harmed by a particular thing.",
+      "example": "Young children are more susceptible to infections during the winter months.",
+      "example_tr": "Küçük çocuklar kış aylarında enfeksiyonlara karşı daha hassastır.",
+      "ipa": "/səˈseptəbl/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "hassas, kolay etkilenen, duyarlı",
+      "pos": "adjective",
+      "word": "susceptible"
+    },
+    {
+      "collocations": [
+        "appease anger",
+        "appease critics"
+      ],
+      "definition_en": "To pacify someone by acceding to their demands.",
+      "example": "The company made minor concessions to appease the angry union members.",
+      "example_tr": "Şirket, öfkeli sendika üyelerini yatıştırmak için ufak tavizler verdi.",
+      "ipa": "/əˈpiːz/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "yatıştırmak, taviz vererek sakinleştirmek",
+      "pos": "verb",
+      "word": "appease"
+    },
+    {
+      "collocations": [
+        "permeate the air",
+        "permeate society"
+      ],
+      "definition_en": "To spread throughout something, filling every part of it.",
+      "example": "The warm smell of freshly baked bread began to permeate the kitchen.",
+      "example_tr": "Taze pişmiş ekmeğin sıcak kokusu mutfağa yayılmaya başladı.",
+      "ipa": "/ˈpɜːrmieɪt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "nüfuz etmek, içine işlemek, yayılmak",
+      "pos": "verb",
+      "word": "permeate"
+    },
+    {
+      "collocations": [
+        "in terms of cost",
+        "in terms of quality"
+      ],
+      "definition_en": "With regard to the specific aspect or subject being discussed.",
+      "example": "The project was a massive success in terms of public relations.",
+      "example_tr": "Proje, halkla ilişkiler açısından muazzam bir başarıydı.",
+      "ipa": "/ɪn tɜːrmz əv/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "bakımından, açısından, yönünden",
+      "pos": "phrase",
+      "word": "in terms of"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
