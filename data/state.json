@@ -673,6 +673,30 @@
       "unknown_count": 0,
       "word": "coincide"
     },
+    "3fea813ee8": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "adverse effects",
+        "adverse conditions"
+      ],
+      "definition_en": "Preventing success or development; harmful or unfavorable.",
+      "due": "2026-10-09",
+      "example": "The outdoor concert was canceled due to adverse weather conditions.",
+      "example_tr": "Açık hava konseri, olumsuz hava koşulları nedeniyle iptal edildi.",
+      "first_seen": "2026-10-08T16:38:54.409710+03:00",
+      "id": "3fea813ee8",
+      "ipa": "/ˈædvɜːrs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-08",
+      "level": "B2",
+      "meaning_tr": "olumsuz, ters, kötü",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "adverse"
+    },
     "40fdfd0765": {
       "answered_count": 0,
       "box": 1,
@@ -1021,7 +1045,7 @@
         "lucrative contract"
       ],
       "definition_en": "Producing a great deal of profit or wealth.",
-      "due": "2026-09-25",
+      "due": "2026-10-09",
       "example": "She decided to leave her teaching job for a more lucrative career in software sales.",
       "example_tr": "Yazılım satışlarında daha kazançlı bir kariyer için öğretmenlik işinden ayrılmaya karar verdi.",
       "first_seen": "2026-09-19T14:08:02.914222+03:00",
@@ -1029,11 +1053,11 @@
       "ipa": "/ˈluːkrətɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-24",
+      "last_shown_at": "2026-10-08",
       "level": "B2",
       "meaning_tr": "karlı, kazançlı",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "lucrative"
     },
@@ -1119,7 +1143,7 @@
         "reach a compromise"
       ],
       "definition_en": "To accept standards that are lower than desirable, or to expose something to danger.",
-      "due": "2026-09-25",
+      "due": "2026-10-09",
       "example": "We cannot compromise on safety standards just to finish the construction project earlier.",
       "example_tr": "Sırf inşaat projesini daha erken bitirmek için güvenlik standartlarından ödün veremeyiz.",
       "first_seen": "2026-09-24T00:33:57.528059+03:00",
@@ -1127,11 +1151,11 @@
       "ipa": "/ˈfɒm.prə.maɪz/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-24",
+      "last_shown_at": "2026-10-08",
       "level": "B2",
       "meaning_tr": "ödün vermek, tehlikeye atmak, uzlaşmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "compromise"
     },
@@ -1207,6 +1231,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "bear in mind"
+    },
+    "631e04e74b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "act as a catalyst",
+        "catalyst for change"
+      ],
+      "definition_en": "A person or thing that precipitates an event or change.",
+      "due": "2026-10-09",
+      "example": "The new government policy acted as a catalyst for economic growth.",
+      "example_tr": "Yeni hükümet politikası, ekonomik büyüme için bir tetikleyici işlevi gördü.",
+      "first_seen": "2026-10-08T16:38:54.409710+03:00",
+      "id": "631e04e74b",
+      "ipa": "/ˈkætəlɪst/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-08",
+      "level": "C1",
+      "meaning_tr": "katalizör, tetikleyici, hızlandırıcı",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "catalyst"
     },
     "647fecee80": {
       "answered_count": 0,
@@ -2467,6 +2515,30 @@
       "unknown_count": 0,
       "word": "perplexed"
     },
+    "c089ce348b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "cultivate a relationship",
+        "cultivate a habit"
+      ],
+      "definition_en": "To try to acquire or develop a quality, skill, or relationship.",
+      "due": "2026-10-09",
+      "example": "She worked hard to cultivate good relationships with her new clients.",
+      "example_tr": "Yeni müşterileriyle iyi ilişkiler geliştirmek için çok çalıştı.",
+      "first_seen": "2026-10-08T16:38:54.409710+03:00",
+      "id": "c089ce348b",
+      "ipa": "/ˈkʌltɪveɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-08",
+      "level": "B2",
+      "meaning_tr": "geliştirmek, büyütmek, yetiştirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "cultivate"
+    },
     "c1aca73cc7": {
       "answered_count": 0,
       "box": 1,
@@ -3263,53 +3335,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-07T23:39:29.733976+03:00",
+  "last_sent_at": "2026-10-08T16:38:54.409710+03:00",
   "pool": [
-    {
-      "collocations": [
-        "adverse effects",
-        "adverse conditions"
-      ],
-      "definition_en": "Preventing success or development; harmful or unfavorable.",
-      "example": "The outdoor concert was canceled due to adverse weather conditions.",
-      "example_tr": "Açık hava konseri, olumsuz hava koşulları nedeniyle iptal edildi.",
-      "ipa": "/ˈædvɜːrs/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "olumsuz, ters, kötü",
-      "pos": "adjective",
-      "word": "adverse"
-    },
-    {
-      "collocations": [
-        "cultivate a relationship",
-        "cultivate a habit"
-      ],
-      "definition_en": "To try to acquire or develop a quality, skill, or relationship.",
-      "example": "She worked hard to cultivate good relationships with her new clients.",
-      "example_tr": "Yeni müşterileriyle iyi ilişkiler geliştirmek için çok çalıştı.",
-      "ipa": "/ˈkʌltɪveɪt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "geliştirmek, büyütmek, yetiştirmek",
-      "pos": "verb",
-      "word": "cultivate"
-    },
-    {
-      "collocations": [
-        "act as a catalyst",
-        "catalyst for change"
-      ],
-      "definition_en": "A person or thing that precipitates an event or change.",
-      "example": "The new government policy acted as a catalyst for economic growth.",
-      "example_tr": "Yeni hükümet politikası, ekonomik büyüme için bir tetikleyici işlevi gördü.",
-      "ipa": "/ˈkætəlɪst/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "katalizör, tetikleyici, hızlandırıcı",
-      "pos": "noun",
-      "word": "catalyst"
-    },
     {
       "collocations": [
         "glaring inconsistency",
