@@ -746,6 +746,30 @@
       "unknown_count": 0,
       "word": "hazardous"
     },
+    "4454f9d7f8": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "glaring inconsistency",
+        "inconsistency in data"
+      ],
+      "definition_en": "The state of being unstable, variable, or containing conflicting elements.",
+      "due": "2026-10-09",
+      "example": "The investigator noticed a major inconsistency in the witness's statement.",
+      "example_tr": "Müfettiş, tanığın ifadesinde büyük bir tutarsızlık fark etti.",
+      "first_seen": "2026-10-08T23:42:49.184382+03:00",
+      "id": "4454f9d7f8",
+      "ipa": "/ˌɪnkənˈsɪstənsi/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-08",
+      "level": "B2",
+      "meaning_tr": "tutarsızlık, çelişki",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "inconsistency"
+    },
     "45b25898ad": {
       "answered_count": 0,
       "box": 1,
@@ -866,6 +890,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "mutually"
+    },
+    "4ecdf8c38c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "vary considerably",
+        "improve considerably"
+      ],
+      "definition_en": "By a notably large amount or to a great degree.",
+      "due": "2026-10-09",
+      "example": "The quality of the service has improved considerably over the past year.",
+      "example_tr": "Hizmetin kalitesi geçen yıl boyunca önemli ölçüde gelişti.",
+      "first_seen": "2026-10-08T23:42:49.184382+03:00",
+      "id": "4ecdf8c38c",
+      "ipa": "/kənˈsɪdərəbli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-08",
+      "level": "B2",
+      "meaning_tr": "epey, oldukça, önemli ölçüde",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "considerably"
     },
     "4f1b8d11a9": {
       "answered_count": 0,
@@ -1408,7 +1456,7 @@
         "nuclear deterrent"
       ],
       "definition_en": "Something that discourages or prevents people from doing something bad.",
-      "due": "2026-09-25",
+      "due": "2026-10-09",
       "example": "Tougher laws and higher fines act as an effective deterrent against speeding.",
       "example_tr": "Daha sert yasalar ve daha yüksek para cezaları, hız yapmaya karşı etkili bir caydırıcı işlevi görür.",
       "first_seen": "2026-09-24T14:54:46.968276+03:00",
@@ -1416,11 +1464,11 @@
       "ipa": "/dɪˈter.ənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-24",
+      "last_shown_at": "2026-10-08",
       "level": "C1",
       "meaning_tr": "caydırıcı, caydırıcı unsur",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "deterrent"
     },
@@ -1449,6 +1497,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "implement"
+    },
+    "6f2451119c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "grudgingly accept",
+        "grudgingly admit"
+      ],
+      "definition_en": "Done in an unwilling or reluctant manner.",
+      "due": "2026-10-09",
+      "example": "He grudgingly admitted that his rival had made a valid point.",
+      "example_tr": "Rakibinin haklı bir noktaya değindiğini isteksizce kabul etti.",
+      "first_seen": "2026-10-08T23:42:49.184382+03:00",
+      "id": "6f2451119c",
+      "ipa": "/ˈɡrʌdʒɪŋli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-08",
+      "level": "C1",
+      "meaning_tr": "isteksizce, zoraki, gönülsüzce",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "grudgingly"
     },
     "70d5bd924e": {
       "answered_count": 0,
@@ -1820,7 +1892,7 @@
         "nurture a relationship"
       ],
       "definition_en": "To feed, protect, and encourage the development of someone or something.",
-      "due": "2026-09-25",
+      "due": "2026-10-09",
       "example": "Good teachers always nurture the creative talents of their young students.",
       "example_tr": "İyi öğretmenler, genç öğrencilerinin yaratıcı yeteneklerini her zaman besler ve geliştirir.",
       "first_seen": "2026-09-24T00:33:57.528059+03:00",
@@ -1828,11 +1900,11 @@
       "ipa": "/ˈnɜː.tʃər/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-24",
+      "last_shown_at": "2026-10-08",
       "level": "C1",
       "meaning_tr": "beslemek, geliştirmek, büyütmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "nurture"
     },
@@ -3335,53 +3407,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-08T16:38:54.409710+03:00",
+  "last_sent_at": "2026-10-08T23:42:49.184382+03:00",
   "pool": [
-    {
-      "collocations": [
-        "glaring inconsistency",
-        "inconsistency in data"
-      ],
-      "definition_en": "The state of being unstable, variable, or containing conflicting elements.",
-      "example": "The investigator noticed a major inconsistency in the witness's statement.",
-      "example_tr": "Müfettiş, tanığın ifadesinde büyük bir tutarsızlık fark etti.",
-      "ipa": "/ˌɪnkənˈsɪstənsi/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "tutarsızlık, çelişki",
-      "pos": "noun",
-      "word": "inconsistency"
-    },
-    {
-      "collocations": [
-        "vary considerably",
-        "improve considerably"
-      ],
-      "definition_en": "By a notably large amount or to a great degree.",
-      "example": "The quality of the service has improved considerably over the past year.",
-      "example_tr": "Hizmetin kalitesi geçen yıl boyunca önemli ölçüde gelişti.",
-      "ipa": "/kənˈsɪdərəbli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "epey, oldukça, önemli ölçüde",
-      "pos": "adverb",
-      "word": "considerably"
-    },
-    {
-      "collocations": [
-        "grudgingly accept",
-        "grudgingly admit"
-      ],
-      "definition_en": "Done in an unwilling or reluctant manner.",
-      "example": "He grudgingly admitted that his rival had made a valid point.",
-      "example_tr": "Rakibinin haklı bir noktaya değindiğini isteksizce kabul etti.",
-      "ipa": "/ˈɡrʌdʒɪŋli/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "isteksizce, zoraki, gönülsüzce",
-      "pos": "adverb",
-      "word": "grudgingly"
-    },
     {
       "collocations": [
         "by virtue of position",
