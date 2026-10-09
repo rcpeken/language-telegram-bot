@@ -2416,6 +2416,30 @@
       "unknown_count": 0,
       "word": "anticipate"
     },
+    "b396723cbb": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "appease anger",
+        "appease critics"
+      ],
+      "definition_en": "To pacify someone by acceding to their demands.",
+      "due": "2026-10-10",
+      "example": "The company made minor concessions to appease the angry union members.",
+      "example_tr": "Şirket, öfkeli sendika üyelerini yatıştırmak için ufak tavizler verdi.",
+      "first_seen": "2026-10-09T23:08:14.389622+03:00",
+      "id": "b396723cbb",
+      "ipa": "/əˈpiːz/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-09",
+      "level": "C1",
+      "meaning_tr": "yatıştırmak, taviz vererek sakinleştirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "appease"
+    },
     "b7a7d14eed": {
       "answered_count": 0,
       "box": 1,
@@ -2536,6 +2560,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "bias"
+    },
+    "bacc6fba02": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "permeate the air",
+        "permeate society"
+      ],
+      "definition_en": "To spread throughout something, filling every part of it.",
+      "due": "2026-10-10",
+      "example": "The warm smell of freshly baked bread began to permeate the kitchen.",
+      "example_tr": "Taze pişmiş ekmeğin sıcak kokusu mutfağa yayılmaya başladı.",
+      "first_seen": "2026-10-09T23:08:14.389622+03:00",
+      "id": "bacc6fba02",
+      "ipa": "/ˈpɜːrmieɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-09",
+      "level": "C1",
+      "meaning_tr": "nüfuz etmek, içine işlemek, yayılmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "permeate"
     },
     "bb3b6440dc": {
       "answered_count": 2,
@@ -3003,7 +3051,7 @@
         "vicious cycle of poverty"
       ],
       "definition_en": "A chain of negative events where one bad situation causes another, worse situation.",
-      "due": "2026-09-25",
+      "due": "2026-10-10",
       "example": "Poor sleep leads to stress, which creates a vicious cycle of more insomnia.",
       "example_tr": "Yetersiz uyku strese yol açar, bu da daha fazla uykusuzluğun olduğu bir kısır döngü yaratır.",
       "first_seen": "2026-09-24T14:54:46.968276+03:00",
@@ -3011,11 +3059,11 @@
       "ipa": "/ˈvɪʃ.əs ˈsaɪ.kəl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-24",
+      "last_shown_at": "2026-10-09",
       "level": "C1",
       "meaning_tr": "kısır döngü",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "vicious cycle"
     },
@@ -3332,6 +3380,30 @@
       "unknown_count": 0,
       "word": "confront"
     },
+    "f06d5aa47b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in terms of cost",
+        "in terms of quality"
+      ],
+      "definition_en": "With regard to the specific aspect or subject being discussed.",
+      "due": "2026-10-10",
+      "example": "The project was a massive success in terms of public relations.",
+      "example_tr": "Proje, halkla ilişkiler açısından muazzam bir başarıydı.",
+      "first_seen": "2026-10-09T23:08:14.389622+03:00",
+      "id": "f06d5aa47b",
+      "ipa": "/ɪn tɜːrmz əv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-09",
+      "level": "B2",
+      "meaning_tr": "bakımından, açısından, yönünden",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in terms of"
+    },
     "f09deb610d": {
       "answered_count": 1,
       "box": 1,
@@ -3390,7 +3462,7 @@
         "grudgingly acknowledge"
       ],
       "definition_en": "To accept or admit that something is true or exists.",
-      "due": "2026-09-25",
+      "due": "2026-10-10",
       "example": "The manager finally acknowledged that the team had made a significant contribution to the project's success.",
       "example_tr": "Yönetici nihayet ekibin projenin başarısına önemli bir katkı sağladığını kabul etti.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -3398,11 +3470,11 @@
       "ipa": "/əkˈnɒlɪdʒ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-24",
+      "last_shown_at": "2026-10-09",
       "level": "B2",
       "meaning_tr": "kabul etmek, onaylamak, tanımak",
       "pos": "verb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "acknowledge"
     },
@@ -3479,54 +3551,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-09T16:25:01.065070+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "appease anger",
-        "appease critics"
-      ],
-      "definition_en": "To pacify someone by acceding to their demands.",
-      "example": "The company made minor concessions to appease the angry union members.",
-      "example_tr": "Şirket, öfkeli sendika üyelerini yatıştırmak için ufak tavizler verdi.",
-      "ipa": "/əˈpiːz/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "yatıştırmak, taviz vererek sakinleştirmek",
-      "pos": "verb",
-      "word": "appease"
-    },
-    {
-      "collocations": [
-        "permeate the air",
-        "permeate society"
-      ],
-      "definition_en": "To spread throughout something, filling every part of it.",
-      "example": "The warm smell of freshly baked bread began to permeate the kitchen.",
-      "example_tr": "Taze pişmiş ekmeğin sıcak kokusu mutfağa yayılmaya başladı.",
-      "ipa": "/ˈpɜːrmieɪt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "nüfuz etmek, içine işlemek, yayılmak",
-      "pos": "verb",
-      "word": "permeate"
-    },
-    {
-      "collocations": [
-        "in terms of cost",
-        "in terms of quality"
-      ],
-      "definition_en": "With regard to the specific aspect or subject being discussed.",
-      "example": "The project was a massive success in terms of public relations.",
-      "example_tr": "Proje, halkla ilişkiler açısından muazzam bir başarıydı.",
-      "ipa": "/ɪn tɜːrmz əv/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "bakımından, açısından, yönünden",
-      "pos": "phrase",
-      "word": "in terms of"
-    }
-  ],
+  "last_sent_at": "2026-10-09T23:08:14.389622+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
