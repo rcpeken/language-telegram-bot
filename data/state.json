@@ -963,6 +963,30 @@
       "unknown_count": 0,
       "word": "compelling"
     },
+    "50c35be3b8": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "by virtue of position",
+        "by virtue of experience"
+      ],
+      "definition_en": "Because of or by means of something.",
+      "due": "2026-10-10",
+      "example": "She got the job by virtue of her extensive experience in finance.",
+      "example_tr": "Finans alanındaki geniş deneyimi sayesinde işe kabul edildi.",
+      "first_seen": "2026-10-09T16:25:01.065070+03:00",
+      "id": "50c35be3b8",
+      "ipa": "/baɪ ˈvɜːrtʃuː əv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-09",
+      "level": "C1",
+      "meaning_tr": "-den dolayı, sayesinde, yardımıyla",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "by virtue of"
+    },
     "519ce830d2": {
       "answered_count": 0,
       "box": 1,
@@ -2128,6 +2152,30 @@
       "unknown_count": 0,
       "word": "assess"
     },
+    "a1c84c5902": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "appraise performance",
+        "appraise property"
+      ],
+      "definition_en": "To assess the value, quality, or performance of something.",
+      "due": "2026-10-10",
+      "example": "Employers regularly appraise their staff to determine yearly bonuses and promotions.",
+      "example_tr": "İşverenler, yıllık primleri ve terfileri belirlemek için personellerini düzenli olarak değerlendirir.",
+      "first_seen": "2026-10-09T16:25:01.065070+03:00",
+      "id": "a1c84c5902",
+      "ipa": "/əˈpreɪz/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-09",
+      "level": "C1",
+      "meaning_tr": "değerlendirmek, değer biçmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "appraise"
+    },
     "a301f8caac": {
       "answered_count": 0,
       "box": 1,
@@ -2184,7 +2232,7 @@
         "arbitrary rule"
       ],
       "definition_en": "Based on random choice or personal whim, rather than any reason or system.",
-      "due": "2026-09-25",
+      "due": "2026-10-10",
       "example": "The company's decision to ban social media seemed completely arbitrary to the employees.",
       "example_tr": "Şirketin sosyal medyayı yasaklama kararı çalışanlara tamamen keyfi göründü.",
       "first_seen": "2026-09-24T14:54:46.968276+03:00",
@@ -2192,11 +2240,11 @@
       "ipa": "/ˈɑː.bɪ.trər.i/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-24",
+      "last_shown_at": "2026-10-09",
       "level": "C1",
       "meaning_tr": "keyfi, rastgele",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "arbitrary"
     },
@@ -2659,6 +2707,30 @@
       "unknown_count": 0,
       "word": "ambiguous"
     },
+    "c506fd11e1": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "susceptible to disease",
+        "highly susceptible"
+      ],
+      "definition_en": "Likely or liable to be influenced or harmed by a particular thing.",
+      "due": "2026-10-10",
+      "example": "Young children are more susceptible to infections during the winter months.",
+      "example_tr": "Küçük çocuklar kış aylarında enfeksiyonlara karşı daha hassastır.",
+      "first_seen": "2026-10-09T16:25:01.065070+03:00",
+      "id": "c506fd11e1",
+      "ipa": "/səˈseptəbl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-09",
+      "level": "B2",
+      "meaning_tr": "hassas, kolay etkilenen, duyarlı",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "susceptible"
+    },
     "c7603a9262": {
       "answered_count": 0,
       "box": 1,
@@ -2763,7 +2835,7 @@
         "plausible scenario"
       ],
       "definition_en": "Seeming reasonable, likely, or probable; believable.",
-      "due": "2026-09-25",
+      "due": "2026-10-10",
       "example": "She offered a highly plausible explanation for her absence from the business meeting.",
       "example_tr": "İş toplantısına katılmayışı için son derece akla yatkın bir açıklama sundu.",
       "first_seen": "2026-09-24T00:33:57.528059+03:00",
@@ -2771,11 +2843,11 @@
       "ipa": "/ˈplɔː.zə.bəl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-24",
+      "last_shown_at": "2026-10-09",
       "level": "B2",
       "meaning_tr": "makul, akla yatkın",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "plausible"
     },
@@ -3407,53 +3479,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-08T23:42:49.184382+03:00",
+  "last_sent_at": "2026-10-09T16:25:01.065070+03:00",
   "pool": [
-    {
-      "collocations": [
-        "by virtue of position",
-        "by virtue of experience"
-      ],
-      "definition_en": "Because of or by means of something.",
-      "example": "She got the job by virtue of her extensive experience in finance.",
-      "example_tr": "Finans alanındaki geniş deneyimi sayesinde işe kabul edildi.",
-      "ipa": "/baɪ ˈvɜːrtʃuː əv/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "-den dolayı, sayesinde, yardımıyla",
-      "pos": "phrase",
-      "word": "by virtue of"
-    },
-    {
-      "collocations": [
-        "appraise performance",
-        "appraise property"
-      ],
-      "definition_en": "To assess the value, quality, or performance of something.",
-      "example": "Employers regularly appraise their staff to determine yearly bonuses and promotions.",
-      "example_tr": "İşverenler, yıllık primleri ve terfileri belirlemek için personellerini düzenli olarak değerlendirir.",
-      "ipa": "/əˈpreɪz/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "değerlendirmek, değer biçmek",
-      "pos": "verb",
-      "word": "appraise"
-    },
-    {
-      "collocations": [
-        "susceptible to disease",
-        "highly susceptible"
-      ],
-      "definition_en": "Likely or liable to be influenced or harmed by a particular thing.",
-      "example": "Young children are more susceptible to infections during the winter months.",
-      "example_tr": "Küçük çocuklar kış aylarında enfeksiyonlara karşı daha hassastır.",
-      "ipa": "/səˈseptəbl/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "hassas, kolay etkilenen, duyarlı",
-      "pos": "adjective",
-      "word": "susceptible"
-    },
     {
       "collocations": [
         "appease anger",
