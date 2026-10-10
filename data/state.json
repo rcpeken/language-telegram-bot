@@ -96,6 +96,30 @@
       "unknown_count": 0,
       "word": "unanimous"
     },
+    "080441b886": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "at somebody's discretion",
+        "use discretion"
+      ],
+      "definition_en": "the freedom to decide what should be done in a particular situation",
+      "due": "2026-10-11",
+      "example": "Managers have the discretion to grant extra leave to employees in emergency situations.",
+      "example_tr": "Yöneticilerin acil durumlarda çalışanlara ekstra izin verme takdir yetkisi bulunmaktadır.",
+      "first_seen": "2026-10-10T22:19:32.631895+03:00",
+      "id": "080441b886",
+      "ipa": "/dɪˈskreʃn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-10",
+      "level": "C1",
+      "meaning_tr": "takdir yetkisi, gizlilik, basiret",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "discretion"
+    },
     "0b37a808d8": {
       "answered_count": 0,
       "box": 1,
@@ -947,7 +971,7 @@
         "compelling reason"
       ],
       "definition_en": "Strong and forceful, making you believe it or accept it.",
-      "due": "2026-09-26",
+      "due": "2026-10-11",
       "example": "The lawyer presented a compelling argument that convinced the entire jury.",
       "example_tr": "Avukat, tüm jüriyi ikna eden oldukça inandırıcı bir argüman sundu.",
       "first_seen": "2026-09-25T20:17:10.652893+03:00",
@@ -955,11 +979,11 @@
       "ipa": "/kəmˈpelɪŋ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-25",
+      "last_shown_at": "2026-10-10",
       "level": "B2",
       "meaning_tr": "ikna edici, zorlayıcı, ilgi uyandıran",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "compelling"
     },
@@ -1141,7 +1165,7 @@
         "subsequently discovered"
       ],
       "definition_en": "After something else has happened.",
-      "due": "2026-09-26",
+      "due": "2026-10-11",
       "example": "She worked hard at university and was subsequently offered a prestigious job in London.",
       "example_tr": "Üniversitede çok çalıştı ve sonrasında kendisine Londra'da prestijli bir iş teklif edildi.",
       "first_seen": "2026-09-17T20:05:50.551121+03:00",
@@ -1149,11 +1173,11 @@
       "ipa": "/ˈsʌbsɪkwəntli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-25",
+      "last_shown_at": "2026-10-10",
       "level": "B2",
       "meaning_tr": "sonradan, sonrasında, daha sonra",
       "pos": "adverb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "subsequently"
     },
@@ -2248,6 +2272,30 @@
       "unknown_count": 0,
       "word": "arbitrary"
     },
+    "a53e819cbf": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "rigorous testing",
+        "rigorous standards"
+      ],
+      "definition_en": "extremely thorough, exhaustive, or accurate",
+      "due": "2026-10-11",
+      "example": "The candidates must undergo a rigorous selection process before being hired by the firm.",
+      "example_tr": "Adayların firma tarafından işe alınmadan önce titiz bir seçim sürecinden geçmeleri gerekmektedir.",
+      "first_seen": "2026-10-10T22:19:32.631895+03:00",
+      "id": "a53e819cbf",
+      "ipa": "/ˈrɪɡərəs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-10",
+      "level": "B2",
+      "meaning_tr": "titiz, sıkı, sert",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "rigorous"
+    },
     "a5d9665493": {
       "answered_count": 0,
       "box": 1,
@@ -3187,6 +3235,30 @@
       "unknown_count": 0,
       "word": "stumbling block"
     },
+    "e221165fd0": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "consolidate power",
+        "consolidate position"
+      ],
+      "definition_en": "to combine several things into a single more effective or coherent whole",
+      "due": "2026-10-11",
+      "example": "The company plans to consolidate its regional offices into one central headquarters next year.",
+      "example_tr": "Şirket, önümüzdeki yıl bölge ofislerini tek bir merkezi genel merkezde birleştirmeyi planlıyor.",
+      "first_seen": "2026-10-10T22:19:32.631895+03:00",
+      "id": "e221165fd0",
+      "ipa": "/kənˈsɒlɪdeɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-10",
+      "level": "C1",
+      "meaning_tr": "sağlamlaştırmak, birleştirmek, pekiştirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "consolidate"
+    },
     "e2bf20affa": {
       "answered_count": 0,
       "box": 1,
@@ -3551,8 +3623,189 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-10T15:40:15.162884+03:00",
-  "pool": [],
+  "last_sent_at": "2026-10-10T22:19:32.631895+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "invariably leads to",
+        "invariably results in"
+      ],
+      "definition_en": "in every case or on every occasion; always",
+      "example": "The train service is invariably delayed whenever there is heavy rainfall in the morning.",
+      "example_tr": "Sabahları şiddetli yağmur yağdığında tren seferleri her zaman gecikir.",
+      "ipa": "/ɪnˈveəriəbli/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "daima, her zaman, değişmez şekilde",
+      "pos": "adverb",
+      "word": "invariably"
+    },
+    {
+      "collocations": [
+        "in the wake of crisis",
+        "in the wake of disaster"
+      ],
+      "definition_en": "happening after a particular event, often as a result of it",
+      "example": "New safety regulations were introduced in the wake of the severe industrial accident.",
+      "example_tr": "Ciddi sanayi kazasının ardından yeni güvenlik düzenlemeleri yürürlüğe kondu.",
+      "ipa": "/ɪn ðə weɪk əv/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "-in ardından, -in sonucunda",
+      "pos": "phrase",
+      "word": "in the wake of"
+    },
+    {
+      "collocations": [
+        "ethical dilemma",
+        "face a dilemma"
+      ],
+      "definition_en": "a situation in which a difficult choice has to be made between two alternatives",
+      "example": "She faced a difficult dilemma between pursuing her career abroad and staying with her family.",
+      "example_tr": "Kariyerini yurtdışında sürdürmek ile ailesiyle kalmak arasında zor bir ikilemle karşı karşıya kaldı.",
+      "ipa": "/daɪˈlemə/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "ikilem, çıkmaz, tereddüt",
+      "pos": "noun",
+      "word": "dilemma"
+    },
+    {
+      "collocations": [
+        "storm subsides",
+        "pain subsides"
+      ],
+      "definition_en": "to become less intense, violent, or severe",
+      "example": "The heavy storm began to subside after midnight, leaving the streets flooded with water.",
+      "example_tr": "Şiddetli fırtına gece yarısından sonra yatışmaya başladı ve sokakları sular altında bıraktı.",
+      "ipa": "/səbˈsaɪd/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "yatışmak, azalmak, çekilmek",
+      "pos": "verb",
+      "word": "subside"
+    },
+    {
+      "collocations": [
+        "imminent danger",
+        "imminent threat"
+      ],
+      "definition_en": "about to happen very soon",
+      "example": "The dark clouds in the sky suggest that a heavy rainfall is imminent today.",
+      "example_tr": "Gökyüzündeki koyu bulutlar bugün şiddetli bir yağmurun eli kulağında olduğunu gösteriyor.",
+      "ipa": "/ˈɪmɪnənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "eli kulağında, yakın, her an olabilecek",
+      "pos": "adjective",
+      "word": "imminent"
+    },
+    {
+      "collocations": [
+        "public backlash",
+        "face a backlash"
+      ],
+      "definition_en": "a strong negative reaction by a large number of people to a decision",
+      "example": "The government faced a public backlash after announcing the sudden tax increase last week.",
+      "example_tr": "Hükümet, geçen hafta aniden vergi artışını açıkladıktan sonra kamuoyunun tepkisiyle karşılaştı.",
+      "ipa": "/ˈbæklæʃ/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "tepki, sert karşı tepki",
+      "pos": "noun",
+      "word": "backlash"
+    },
+    {
+      "collocations": [
+        "arguably the best",
+        "arguably the most"
+      ],
+      "definition_en": "used when giving an opinion that you think can be supported by facts",
+      "example": "This new technology is arguably the most important invention of the twenty-first century.",
+      "example_tr": "Bu yeni teknoloji, muhtemelen yirmi birinci yüzyılın en önemli icadıdır.",
+      "ipa": "/ˈɑːɡjuəbli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "muhtemelen, iddia edilebilir ki",
+      "pos": "adverb",
+      "word": "arguably"
+    },
+    {
+      "collocations": [
+        "stem from the fact",
+        "problems stem from"
+      ],
+      "definition_en": "to be the result of something",
+      "example": "Most of the financial problems stem from poor management during the previous decade.",
+      "example_tr": "Finansal sorunların çoğu, önceki on yıldaki kötü yönetimden kaynaklanmaktadır.",
+      "ipa": "/stem frəm/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "-den kaynaklanmak, -den ileri gelmek",
+      "pos": "phrase",
+      "word": "stem from"
+    },
+    {
+      "collocations": [
+        "amplify the voice",
+        "amplify the impact"
+      ],
+      "definition_en": "to increase the strength, volume, or amount of something",
+      "example": "Social media platforms can amplify minor disagreements into major public conflicts within hours.",
+      "example_tr": "Sosyal medya platformları, küçük anlaşmazlıkları saatler içinde büyük kamuoyu çatışmalarına dönüştürebilir.",
+      "ipa": "/ˈæmplɪfaɪ/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "güçlendirmek, artırmak, büyütmek",
+      "pos": "verb",
+      "word": "amplify"
+    },
+    {
+      "collocations": [
+        "stringent rules",
+        "stringent measures"
+      ],
+      "definition_en": "very strict and that must be obeyed",
+      "example": "The university applied stringent requirements for admission to its international master's degree program.",
+      "example_tr": "Üniversite, uluslararası yüksek lisans programına kabul için katı şartlar uyguladı.",
+      "ipa": "/ˈstrɪndʒənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "katı, sıkı, zorunlu",
+      "pos": "adjective",
+      "word": "stringent"
+    },
+    {
+      "collocations": [
+        "create a bottleneck",
+        "resolve a bottleneck"
+      ],
+      "definition_en": "a problem that delays progress or slows down a process",
+      "example": "Lack of skilled workers created a major bottleneck in the production line this month.",
+      "example_tr": "Vasıflı işçi eksikliği bu ay üretim hattında büyük bir darboğaz oluşturdu.",
+      "ipa": "/ˈbɒtlnek/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "darboğaz, tıkanıklık, engel",
+      "pos": "noun",
+      "word": "bottleneck"
+    },
+    {
+      "collocations": [
+        "transcend boundaries",
+        "transcend limitations"
+      ],
+      "definition_en": "to go beyond the usual limits of something",
+      "example": "Great works of art can transcend cultural boundaries and resonate with people worldwide.",
+      "example_tr": "Harika sanat eserleri kültürel sınırları aşabilir ve dünya çapındaki insanlarda yankı uyandırabilir.",
+      "ipa": "/trænˈsend/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "aşmak, ötesine geçmek",
+      "pos": "verb",
+      "word": "transcend"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
