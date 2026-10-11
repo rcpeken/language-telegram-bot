@@ -336,6 +336,30 @@
       "unknown_count": 0,
       "word": "presumably"
     },
+    "180942ef38": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "storm subsides",
+        "pain subsides"
+      ],
+      "definition_en": "to become less intense, violent, or severe",
+      "due": "2026-10-12",
+      "example": "The heavy storm began to subside after midnight, leaving the streets flooded with water.",
+      "example_tr": "Şiddetli fırtına gece yarısından sonra yatışmaya başladı ve sokakları sular altında bıraktı.",
+      "first_seen": "2026-10-11T22:35:20.654983+03:00",
+      "id": "180942ef38",
+      "ipa": "/səbˈsaɪd/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-11",
+      "level": "C1",
+      "meaning_tr": "yatışmak, azalmak, çekilmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "subside"
+    },
     "1add7c295e": {
       "answered_count": 0,
       "box": 1,
@@ -939,6 +963,30 @@
       "unknown_count": 0,
       "word": "redundant"
     },
+    "48265753ac": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "public backlash",
+        "face a backlash"
+      ],
+      "definition_en": "a strong negative reaction by a large number of people to a decision",
+      "due": "2026-10-12",
+      "example": "The government faced a public backlash after announcing the sudden tax increase last week.",
+      "example_tr": "Hükümet, geçen hafta aniden vergi artışını açıkladıktan sonra kamuoyunun tepkisiyle karşılaştı.",
+      "first_seen": "2026-10-11T22:35:20.654983+03:00",
+      "id": "48265753ac",
+      "ipa": "/ˈbæklæʃ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-11",
+      "level": "C1",
+      "meaning_tr": "tepki, sert karşı tepki",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "backlash"
+    },
     "4a65abf412": {
       "answered_count": 0,
       "box": 1,
@@ -1528,7 +1576,7 @@
         "pragmatic solution"
       ],
       "definition_en": "Solving problems in a sensible way that suits the conditions.",
-      "due": "2026-09-26",
+      "due": "2026-10-12",
       "example": "We need to take a pragmatic approach to solve this budget issue.",
       "example_tr": "Bu bütçe sorununu çözmek için gerçekçi ve uygulamacı bir yaklaşım benimsemeliyiz.",
       "first_seen": "2026-09-25T20:17:10.652893+03:00",
@@ -1536,11 +1584,11 @@
       "ipa": "/præɡˈmætɪk/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-25",
+      "last_shown_at": "2026-10-11",
       "level": "B2",
       "meaning_tr": "pragmatik, uygulamacı, faydacı",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "pragmatic"
     },
@@ -2448,7 +2496,7 @@
         "eradicate poverty"
       ],
       "definition_en": "To destroy or completely get rid of something bad.",
-      "due": "2026-09-26",
+      "due": "2026-10-12",
       "example": "The government hopes to eradicate poverty through these new social programs.",
       "example_tr": "Hükümet, bu yeni sosyal programlar aracılığıyla yoksulluğu tamamen bitirmeyi umuyor.",
       "first_seen": "2026-09-25T20:17:10.652893+03:00",
@@ -2456,11 +2504,11 @@
       "ipa": "/ɪˈrædɪkeɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-25",
+      "last_shown_at": "2026-10-11",
       "level": "C1",
       "meaning_tr": "kökünü kazımak, yok etmek, tamamen bitirmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "eradicate"
     },
@@ -2584,6 +2632,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "virtually"
+    },
+    "b8466b4745": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "imminent danger",
+        "imminent threat"
+      ],
+      "definition_en": "about to happen very soon",
+      "due": "2026-10-12",
+      "example": "The dark clouds in the sky suggest that a heavy rainfall is imminent today.",
+      "example_tr": "Gökyüzündeki koyu bulutlar bugün şiddetli bir yağmurun eli kulağında olduğunu gösteriyor.",
+      "first_seen": "2026-10-11T22:35:20.654983+03:00",
+      "id": "b8466b4745",
+      "ipa": "/ˈɪmɪnənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-11",
+      "level": "C1",
+      "meaning_tr": "eli kulağında, yakın, her an olabilecek",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "imminent"
     },
     "b9e6645398": {
       "answered_count": 0,
@@ -3695,53 +3767,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-11T16:00:29.344680+03:00",
+  "last_sent_at": "2026-10-11T22:35:20.654983+03:00",
   "pool": [
-    {
-      "collocations": [
-        "storm subsides",
-        "pain subsides"
-      ],
-      "definition_en": "to become less intense, violent, or severe",
-      "example": "The heavy storm began to subside after midnight, leaving the streets flooded with water.",
-      "example_tr": "Şiddetli fırtına gece yarısından sonra yatışmaya başladı ve sokakları sular altında bıraktı.",
-      "ipa": "/səbˈsaɪd/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "yatışmak, azalmak, çekilmek",
-      "pos": "verb",
-      "word": "subside"
-    },
-    {
-      "collocations": [
-        "imminent danger",
-        "imminent threat"
-      ],
-      "definition_en": "about to happen very soon",
-      "example": "The dark clouds in the sky suggest that a heavy rainfall is imminent today.",
-      "example_tr": "Gökyüzündeki koyu bulutlar bugün şiddetli bir yağmurun eli kulağında olduğunu gösteriyor.",
-      "ipa": "/ˈɪmɪnənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "eli kulağında, yakın, her an olabilecek",
-      "pos": "adjective",
-      "word": "imminent"
-    },
-    {
-      "collocations": [
-        "public backlash",
-        "face a backlash"
-      ],
-      "definition_en": "a strong negative reaction by a large number of people to a decision",
-      "example": "The government faced a public backlash after announcing the sudden tax increase last week.",
-      "example_tr": "Hükümet, geçen hafta aniden vergi artışını açıkladıktan sonra kamuoyunun tepkisiyle karşılaştı.",
-      "ipa": "/ˈbæklæʃ/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "tepki, sert karşı tepki",
-      "pos": "noun",
-      "word": "backlash"
-    },
     {
       "collocations": [
         "arguably the best",
