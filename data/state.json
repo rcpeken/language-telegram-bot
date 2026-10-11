@@ -288,6 +288,30 @@
       "unknown_count": 0,
       "word": "abruptly"
     },
+    "16a66aad9c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "ethical dilemma",
+        "face a dilemma"
+      ],
+      "definition_en": "a situation in which a difficult choice has to be made between two alternatives",
+      "due": "2026-10-12",
+      "example": "She faced a difficult dilemma between pursuing her career abroad and staying with her family.",
+      "example_tr": "Kariyerini yurtdışında sürdürmek ile ailesiyle kalmak arasında zor bir ikilemle karşı karşıya kaldı.",
+      "first_seen": "2026-10-11T16:00:29.344680+03:00",
+      "id": "16a66aad9c",
+      "ipa": "/daɪˈlemə/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-11",
+      "level": "B2",
+      "meaning_tr": "ikilem, çıkmaz, tereddüt",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "dilemma"
+    },
     "179590019c": {
       "answered_count": 0,
       "box": 1,
@@ -407,6 +431,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "yield"
+    },
+    "21b20b3594": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in the wake of crisis",
+        "in the wake of disaster"
+      ],
+      "definition_en": "happening after a particular event, often as a result of it",
+      "due": "2026-10-12",
+      "example": "New safety regulations were introduced in the wake of the severe industrial accident.",
+      "example_tr": "Ciddi sanayi kazasının ardından yeni güvenlik düzenlemeleri yürürlüğe kondu.",
+      "first_seen": "2026-10-11T16:00:29.344680+03:00",
+      "id": "21b20b3594",
+      "ipa": "/ɪn ðə weɪk əv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-11",
+      "level": "C1",
+      "meaning_tr": "-in ardından, -in sonucunda",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in the wake of"
     },
     "2392c57fb8": {
       "answered_count": 0,
@@ -744,6 +792,30 @@
       "shown_count": 5,
       "unknown_count": 0,
       "word": "reluctantly"
+    },
+    "42ee255826": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "invariably leads to",
+        "invariably results in"
+      ],
+      "definition_en": "in every case or on every occasion; always",
+      "due": "2026-10-12",
+      "example": "The train service is invariably delayed whenever there is heavy rainfall in the morning.",
+      "example_tr": "Sabahları şiddetli yağmur yağdığında tren seferleri her zaman gecikir.",
+      "first_seen": "2026-10-11T16:00:29.344680+03:00",
+      "id": "42ee255826",
+      "ipa": "/ɪnˈveəriəbli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-11",
+      "level": "C1",
+      "meaning_tr": "daima, her zaman, değişmez şekilde",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "invariably"
     },
     "43047e6fb3": {
       "answered_count": 0,
@@ -1213,7 +1285,7 @@
         "lose relevance"
       ],
       "definition_en": "The degree to which something is related or useful to what is happening.",
-      "due": "2026-09-26",
+      "due": "2026-10-12",
       "example": "The teacher explained the historical relevance of the event to modern society.",
       "example_tr": "Öğretmen, olayın modern toplumla olan tarihi ilişkisini açıkladı.",
       "first_seen": "2026-09-16T15:02:30.116093+03:00",
@@ -1223,11 +1295,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-25",
+      "last_shown_at": "2026-10-11",
       "level": "B2",
       "meaning_tr": "ilgi, alaka, ilişki",
       "pos": "noun",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 1,
       "word": "relevance"
     },
@@ -1360,7 +1432,7 @@
         "assess the feasibility"
       ],
       "definition_en": "The quality of being easily or conveniently done.",
-      "due": "2026-09-26",
+      "due": "2026-10-12",
       "example": "The board of directors is currently conducting a feasibility study on the new project.",
       "example_tr": "Yönetim kurulu şu anda yeni proje üzerine bir yapılabilirlik çalışması yürütüyor.",
       "first_seen": "2026-09-17T14:49:12.236690+03:00",
@@ -1368,11 +1440,11 @@
       "ipa": "/ˌfiːzəˈbɪləti/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-25",
+      "last_shown_at": "2026-10-11",
       "level": "C1",
       "meaning_tr": "yapılabilirlik, uygulanabilirlik",
       "pos": "noun",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "feasibility"
     },
@@ -3623,53 +3695,8 @@
       "word": "disposable income"
     }
   },
-  "last_sent_at": "2026-10-10T22:19:32.631895+03:00",
+  "last_sent_at": "2026-10-11T16:00:29.344680+03:00",
   "pool": [
-    {
-      "collocations": [
-        "invariably leads to",
-        "invariably results in"
-      ],
-      "definition_en": "in every case or on every occasion; always",
-      "example": "The train service is invariably delayed whenever there is heavy rainfall in the morning.",
-      "example_tr": "Sabahları şiddetli yağmur yağdığında tren seferleri her zaman gecikir.",
-      "ipa": "/ɪnˈveəriəbli/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "daima, her zaman, değişmez şekilde",
-      "pos": "adverb",
-      "word": "invariably"
-    },
-    {
-      "collocations": [
-        "in the wake of crisis",
-        "in the wake of disaster"
-      ],
-      "definition_en": "happening after a particular event, often as a result of it",
-      "example": "New safety regulations were introduced in the wake of the severe industrial accident.",
-      "example_tr": "Ciddi sanayi kazasının ardından yeni güvenlik düzenlemeleri yürürlüğe kondu.",
-      "ipa": "/ɪn ðə weɪk əv/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "-in ardından, -in sonucunda",
-      "pos": "phrase",
-      "word": "in the wake of"
-    },
-    {
-      "collocations": [
-        "ethical dilemma",
-        "face a dilemma"
-      ],
-      "definition_en": "a situation in which a difficult choice has to be made between two alternatives",
-      "example": "She faced a difficult dilemma between pursuing her career abroad and staying with her family.",
-      "example_tr": "Kariyerini yurtdışında sürdürmek ile ailesiyle kalmak arasında zor bir ikilemle karşı karşıya kaldı.",
-      "ipa": "/daɪˈlemə/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "ikilem, çıkmaz, tereddüt",
-      "pos": "noun",
-      "word": "dilemma"
-    },
     {
       "collocations": [
         "storm subsides",
