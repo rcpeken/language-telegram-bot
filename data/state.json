@@ -2198,6 +2198,30 @@
       "unknown_count": 0,
       "word": "merely"
     },
+    "9816d5c3dc": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "arguably the best",
+        "arguably the most"
+      ],
+      "definition_en": "used when giving an opinion that you think can be supported by facts",
+      "due": "2026-10-13",
+      "example": "This new technology is arguably the most important invention of the twenty-first century.",
+      "example_tr": "Bu yeni teknoloji, muhtemelen yirmi birinci yüzyılın en önemli icadıdır.",
+      "first_seen": "2026-10-12T18:38:35.703245+03:00",
+      "id": "9816d5c3dc",
+      "ipa": "/ˈɑːɡjuəbli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-12",
+      "level": "B2",
+      "meaning_tr": "muhtemelen, iddia edilebilir ki",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "arguably"
+    },
     "98f5111248": {
       "answered_count": 0,
       "box": 1,
@@ -2487,6 +2511,30 @@
       "shown_count": 4,
       "unknown_count": 0,
       "word": "incentive"
+    },
+    "aa01b76a61": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "stem from the fact",
+        "problems stem from"
+      ],
+      "definition_en": "to be the result of something",
+      "due": "2026-10-13",
+      "example": "Most of the financial problems stem from poor management during the previous decade.",
+      "example_tr": "Finansal sorunların çoğu, önceki on yıldaki kötü yönetimden kaynaklanmaktadır.",
+      "first_seen": "2026-10-12T18:38:35.703245+03:00",
+      "id": "aa01b76a61",
+      "ipa": "/stem frəm/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-12",
+      "level": "B2",
+      "meaning_tr": "-den kaynaklanmak, -den ileri gelmek",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "stem from"
     },
     "abf014b522": {
       "answered_count": 0,
@@ -2907,7 +2955,7 @@
         "trigger a memory"
       ],
       "definition_en": "To cause an event or situation to happen or exist.",
-      "due": "2026-09-26",
+      "due": "2026-10-13",
       "example": "The sudden increase in oil prices could trigger a global financial crisis.",
       "example_tr": "Petrol fiyatlarındaki ani artış küresel bir finansal krizi tetikleyebilir.",
       "first_seen": "2026-09-19T18:56:42.602674+03:00",
@@ -2915,11 +2963,11 @@
       "ipa": "/ˈtrɪɡər/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-25",
+      "last_shown_at": "2026-10-12",
       "level": "B2",
       "meaning_tr": "tetiklemek, yol açmak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "trigger"
     },
@@ -3123,7 +3171,7 @@
         "reconcile accounts"
       ],
       "definition_en": "To find a way in which two opposing ideas or situations can both be true.",
-      "due": "2026-09-26",
+      "due": "2026-10-13",
       "example": "It is sometimes difficult to reconcile career ambitions with family responsibilities.",
       "example_tr": "Kariyer hedefleri ile aile sorumluluklarını uzlaştırmak bazen zordur.",
       "first_seen": "2026-09-19T23:47:06.679956+03:00",
@@ -3131,11 +3179,11 @@
       "ipa": "/ˈrekənsaɪl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-25",
+      "last_shown_at": "2026-10-12",
       "level": "C1",
       "meaning_tr": "uzlaştırmak, arayı bulmak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "reconcile"
     },
@@ -3765,55 +3813,34 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "disposable income"
-    }
-  },
-  "last_sent_at": "2026-10-11T22:35:20.654983+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "arguably the best",
-        "arguably the most"
-      ],
-      "definition_en": "used when giving an opinion that you think can be supported by facts",
-      "example": "This new technology is arguably the most important invention of the twenty-first century.",
-      "example_tr": "Bu yeni teknoloji, muhtemelen yirmi birinci yüzyılın en önemli icadıdır.",
-      "ipa": "/ˈɑːɡjuəbli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "muhtemelen, iddia edilebilir ki",
-      "pos": "adverb",
-      "word": "arguably"
     },
-    {
-      "collocations": [
-        "stem from the fact",
-        "problems stem from"
-      ],
-      "definition_en": "to be the result of something",
-      "example": "Most of the financial problems stem from poor management during the previous decade.",
-      "example_tr": "Finansal sorunların çoğu, önceki on yıldaki kötü yönetimden kaynaklanmaktadır.",
-      "ipa": "/stem frəm/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "-den kaynaklanmak, -den ileri gelmek",
-      "pos": "phrase",
-      "word": "stem from"
-    },
-    {
+    "fea41d3de4": {
+      "answered_count": 0,
+      "box": 1,
       "collocations": [
         "amplify the voice",
         "amplify the impact"
       ],
       "definition_en": "to increase the strength, volume, or amount of something",
+      "due": "2026-10-13",
       "example": "Social media platforms can amplify minor disagreements into major public conflicts within hours.",
       "example_tr": "Sosyal medya platformları, küçük anlaşmazlıkları saatler içinde büyük kamuoyu çatışmalarına dönüştürebilir.",
+      "first_seen": "2026-10-12T18:38:35.703245+03:00",
+      "id": "fea41d3de4",
       "ipa": "/ˈæmplɪfaɪ/",
+      "known_count": 0,
       "lang": "en",
+      "last_shown_at": "2026-10-12",
       "level": "B2",
       "meaning_tr": "güçlendirmek, artırmak, büyütmek",
       "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
       "word": "amplify"
-    },
+    }
+  },
+  "last_sent_at": "2026-10-12T18:38:35.703245+03:00",
+  "pool": [
     {
       "collocations": [
         "stringent rules",
