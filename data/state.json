@@ -8,7 +8,7 @@
         "invaluable contribution"
       ],
       "definition_en": "Extremely useful; indispensable.",
-      "due": "2026-09-27",
+      "due": "2026-10-14",
       "example": "Her advice on how to start the business was invaluable to us.",
       "example_tr": "İşe nasıl başlanacağına dair tavsiyeleri bizim için paha biçilmezdi.",
       "first_seen": "2026-09-26T19:28:39.385850+03:00",
@@ -16,11 +16,11 @@
       "ipa": "/ɪnˈvæljuəbl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-26",
+      "last_shown_at": "2026-10-13",
       "level": "B2",
       "meaning_tr": "paha biçilmez, çok değerli",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "invaluable"
     },
@@ -248,7 +248,7 @@
         "water scarcity"
       ],
       "definition_en": "A situation in which there is not enough of something.",
-      "due": "2026-09-27",
+      "due": "2026-10-14",
       "example": "The scarcity of skilled workers is currently the biggest challenge for local businesses.",
       "example_tr": "Nitelikli işçi kıtlığı şu anda yerel işletmeler için en büyük zorluktur.",
       "first_seen": "2026-09-20T14:32:11.283311+03:00",
@@ -256,11 +256,11 @@
       "ipa": "/ˈskersəti/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-26",
+      "last_shown_at": "2026-10-13",
       "level": "B2",
       "meaning_tr": "kıtlık, azlık, eksiklik",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "scarcity"
     },
@@ -3911,7 +3911,7 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-13T03:47:36.884580+03:00",
+  "last_sent_at": "2026-10-13T17:19:54.278771+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
