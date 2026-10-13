@@ -2052,6 +2052,30 @@
       "unknown_count": 0,
       "word": "precisely"
     },
+    "90e14d2864": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "transcend boundaries",
+        "transcend limitations"
+      ],
+      "definition_en": "to go beyond the usual limits of something",
+      "due": "2026-10-14",
+      "example": "Great works of art can transcend cultural boundaries and resonate with people worldwide.",
+      "example_tr": "Harika sanat eserleri kültürel sınırları aşabilir ve dünya çapındaki insanlarda yankı uyandırabilir.",
+      "first_seen": "2026-10-13T03:47:36.884580+03:00",
+      "id": "90e14d2864",
+      "ipa": "/trænˈsend/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-13",
+      "level": "C1",
+      "meaning_tr": "aşmak, ötesine geçmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "transcend"
+    },
     "9121bb3713": {
       "answered_count": 0,
       "box": 1,
@@ -2295,6 +2319,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "leverage"
+    },
+    "9e1e0070b9": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "create a bottleneck",
+        "resolve a bottleneck"
+      ],
+      "definition_en": "a problem that delays progress or slows down a process",
+      "due": "2026-10-14",
+      "example": "Lack of skilled workers created a major bottleneck in the production line this month.",
+      "example_tr": "Vasıflı işçi eksikliği bu ay üretim hattında büyük bir darboğaz oluşturdu.",
+      "first_seen": "2026-10-13T03:47:36.884580+03:00",
+      "id": "9e1e0070b9",
+      "ipa": "/ˈbɒtlnek/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-13",
+      "level": "B2",
+      "meaning_tr": "darboğaz, tıkanıklık, engel",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "bottleneck"
     },
     "a068422491": {
       "answered_count": 0,
@@ -3067,6 +3115,30 @@
       "unknown_count": 0,
       "word": "notably"
     },
+    "cc7f60c717": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "stringent rules",
+        "stringent measures"
+      ],
+      "definition_en": "very strict and that must be obeyed",
+      "due": "2026-10-14",
+      "example": "The university applied stringent requirements for admission to its international master's degree program.",
+      "example_tr": "Üniversite, uluslararası yüksek lisans programına kabul için katı şartlar uyguladı.",
+      "first_seen": "2026-10-13T03:47:36.884580+03:00",
+      "id": "cc7f60c717",
+      "ipa": "/ˈstrɪndʒənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-13",
+      "level": "C1",
+      "meaning_tr": "katı, sıkı, zorunlu",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "stringent"
+    },
     "cccfd39527": {
       "answered_count": 0,
       "box": 1,
@@ -3195,7 +3267,7 @@
         "drastically reduce"
       ],
       "definition_en": "In a way that is likely to have a strong or far-reaching effect.",
-      "due": "2026-09-26",
+      "due": "2026-10-14",
       "example": "The budget was drastically reduced, forcing the department to cancel several projects.",
       "example_tr": "Bütçe büyük ölçüde düşürüldü ve bu durum departmanı birkaç projeyi iptal etmeye zorladı.",
       "first_seen": "2026-09-19T23:47:06.679956+03:00",
@@ -3203,11 +3275,11 @@
       "ipa": "/ˈdræstɪkli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-25",
+      "last_shown_at": "2026-10-13",
       "level": "B2",
       "meaning_tr": "kökten, önemli ölçüde, büyük ölçüde",
       "pos": "adverb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "drastically"
     },
@@ -3532,7 +3604,7 @@
         "coherent policy"
       ],
       "definition_en": "Logical, orderly, and easy to understand.",
-      "due": "2026-09-26",
+      "due": "2026-10-14",
       "example": "She was so nervous that she could not produce a coherent explanation.",
       "example_tr": "O kadar gergindi ki tutarlı bir açıklama yapamadı.",
       "first_seen": "2026-09-25T14:56:55.788717+03:00",
@@ -3540,11 +3612,11 @@
       "ipa": "/kəʊˈhɪərənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-25",
+      "last_shown_at": "2026-10-13",
       "level": "B2",
       "meaning_tr": "tutarlı, uyumlu, anlaşılır",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "coherent"
     },
@@ -3839,54 +3911,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-12T18:38:35.703245+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "stringent rules",
-        "stringent measures"
-      ],
-      "definition_en": "very strict and that must be obeyed",
-      "example": "The university applied stringent requirements for admission to its international master's degree program.",
-      "example_tr": "Üniversite, uluslararası yüksek lisans programına kabul için katı şartlar uyguladı.",
-      "ipa": "/ˈstrɪndʒənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "katı, sıkı, zorunlu",
-      "pos": "adjective",
-      "word": "stringent"
-    },
-    {
-      "collocations": [
-        "create a bottleneck",
-        "resolve a bottleneck"
-      ],
-      "definition_en": "a problem that delays progress or slows down a process",
-      "example": "Lack of skilled workers created a major bottleneck in the production line this month.",
-      "example_tr": "Vasıflı işçi eksikliği bu ay üretim hattında büyük bir darboğaz oluşturdu.",
-      "ipa": "/ˈbɒtlnek/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "darboğaz, tıkanıklık, engel",
-      "pos": "noun",
-      "word": "bottleneck"
-    },
-    {
-      "collocations": [
-        "transcend boundaries",
-        "transcend limitations"
-      ],
-      "definition_en": "to go beyond the usual limits of something",
-      "example": "Great works of art can transcend cultural boundaries and resonate with people worldwide.",
-      "example_tr": "Harika sanat eserleri kültürel sınırları aşabilir ve dünya çapındaki insanlarda yankı uyandırabilir.",
-      "ipa": "/trænˈsend/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "aşmak, ötesine geçmek",
-      "pos": "verb",
-      "word": "transcend"
-    }
-  ],
+  "last_sent_at": "2026-10-13T03:47:36.884580+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
