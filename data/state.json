@@ -536,7 +536,7 @@
         "seeming paradox"
       ],
       "definition_en": "A situation that seems impossible because it contains opposite ideas.",
-      "due": "2026-09-27",
+      "due": "2026-10-15",
       "example": "It is a strange paradox that some people eat more when dieting.",
       "example_tr": "Bazı insanların diyet yaparken daha fazla yemesi garip bir çelişkidir.",
       "first_seen": "2026-09-26T00:39:13.829782+03:00",
@@ -544,11 +544,11 @@
       "ipa": "/ˈpærədɒks/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-26",
+      "last_shown_at": "2026-10-14",
       "level": "C1",
       "meaning_tr": "çelişki, tezat, paradoks",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "paradox"
     },
@@ -995,7 +995,7 @@
         "trade surplus"
       ],
       "definition_en": "An amount that is more than what is needed.",
-      "due": "2026-09-27",
+      "due": "2026-10-15",
       "example": "The country exported its surplus grain to nations facing severe food shortages.",
       "example_tr": "Ülke, elindeki fazla tahılı ciddi gıda sıkıntısı çeken uluslara ihraç etti.",
       "first_seen": "2026-09-26T14:31:39.436666+03:00",
@@ -1003,11 +1003,11 @@
       "ipa": "/ˈsɜːpləs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-26",
+      "last_shown_at": "2026-10-14",
       "level": "B2",
       "meaning_tr": "fazlalık, artık, bütçe fazlası",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "surplus"
     },
@@ -3911,7 +3911,7 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-13T23:43:15.971277+03:00",
+  "last_sent_at": "2026-10-14T15:01:38.517195+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
