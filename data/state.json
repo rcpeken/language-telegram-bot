@@ -2108,7 +2108,7 @@
         "undermine confidence"
       ],
       "definition_en": "To make someone or something weaker or less effective.",
-      "due": "2026-09-27",
+      "due": "2026-10-16",
       "example": "Constant criticism can undermine a student’s confidence in their own abilities.",
       "example_tr": "Sürekli eleştiri, bir öğrencinin kendi yeteneklerine olan güvenini baltalayabilir.",
       "first_seen": "2026-09-26T00:39:13.829782+03:00",
@@ -2116,11 +2116,11 @@
       "ipa": "/ˌʌndəˈmaɪn/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-26",
+      "last_shown_at": "2026-10-15",
       "level": "B2",
       "meaning_tr": "baltalamak, zayıflatmak, sarsmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "undermine"
     },
@@ -2132,7 +2132,7 @@
         "abundant resources"
       ],
       "definition_en": "Existing or available in large quantities; more than enough.",
-      "due": "2026-09-27",
+      "due": "2026-10-16",
       "example": "The forest provides an abundant supply of fresh food for the wildlife.",
       "example_tr": "Orman, vahşi yaşam için bol miktarda taze yiyecek kaynağı sağlar.",
       "first_seen": "2026-09-26T14:31:39.436666+03:00",
@@ -2140,11 +2140,11 @@
       "ipa": "/əˈbʌndənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-26",
+      "last_shown_at": "2026-10-15",
       "level": "B2",
       "meaning_tr": "bol, bereketli, çok miktarda",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "abundant"
     },
@@ -3911,7 +3911,7 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-14T20:18:11.407206+03:00",
+  "last_sent_at": "2026-10-15T00:46:27.452077+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
