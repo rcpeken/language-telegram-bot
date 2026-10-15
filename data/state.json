@@ -3774,7 +3774,7 @@
         "ethical conundrum"
       ],
       "definition_en": "A confusing and difficult problem or question.",
-      "due": "2026-09-27",
+      "due": "2026-10-16",
       "example": "Finding a balance between economic growth and environmental protection is a difficult conundrum.",
       "example_tr": "Ekonomik büyüme ile çevrenin korunması arasında bir denge bulmak zor bir bilmecedir.",
       "first_seen": "2026-09-19T18:56:42.602674+03:00",
@@ -3782,11 +3782,11 @@
       "ipa": "/kəˈnʌndrəm/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-26",
+      "last_shown_at": "2026-10-15",
       "level": "C1",
       "meaning_tr": "bilmece, içinden çıkılmaz problem",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "conundrum"
     },
@@ -3822,7 +3822,7 @@
         "express disdain"
       ],
       "definition_en": "The feeling that someone or something is unworthy of respect.",
-      "due": "2026-09-27",
+      "due": "2026-10-16",
       "example": "She treated the lazy workers with obvious disdain during the team meeting.",
       "example_tr": "Ekip toplantısı sırasında tembel çalışanlara karşı bariz bir küçümsemeyle yaklaştı.",
       "first_seen": "2026-09-26T19:28:39.385850+03:00",
@@ -3830,11 +3830,11 @@
       "ipa": "/dɪsˈdeɪn/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-26",
+      "last_shown_at": "2026-10-15",
       "level": "C1",
       "meaning_tr": "küçümseme, hor görme, kibir",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "disdain"
     },
@@ -3911,7 +3911,7 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-15T14:39:01.680934+03:00",
+  "last_sent_at": "2026-10-15T20:07:15.939101+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
