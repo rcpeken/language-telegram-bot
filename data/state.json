@@ -3339,7 +3339,7 @@
         "mitigate climate change"
       ],
       "definition_en": "To make something bad or painful less severe, serious, or painful.",
-      "due": "2026-09-27",
+      "due": "2026-10-16",
       "example": "The government introduced new measures to mitigate the economic effects of the pandemic.",
       "example_tr": "Hükümet, pandeminin ekonomik etkilerini hafifletmek için yeni önlemler uygulamaya koydu.",
       "first_seen": "2026-09-19T14:08:02.914222+03:00",
@@ -3347,11 +3347,11 @@
       "ipa": "/ˈmɪtɪɡeɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-26",
+      "last_shown_at": "2026-10-15",
       "level": "C1",
       "meaning_tr": "hafifletmek, azaltmak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "mitigate"
     },
@@ -3676,7 +3676,7 @@
         "relentless pressure"
       ],
       "definition_en": "Continuing without becoming weaker, less severe, or pausing.",
-      "due": "2026-09-27",
+      "due": "2026-10-16",
       "example": "The company's success is the result of their relentless pursuit of customer satisfaction.",
       "example_tr": "Şirketin başarısı, müşteri memnuniyetini amansızca takip etmelerinin bir sonucudur.",
       "first_seen": "2026-09-19T18:56:42.602674+03:00",
@@ -3684,11 +3684,11 @@
       "ipa": "/rɪˈlentləs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-26",
+      "last_shown_at": "2026-10-15",
       "level": "C1",
       "meaning_tr": "amansız, aralıksız, acımasız",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "relentless"
     },
@@ -3911,7 +3911,7 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-15T00:46:27.452077+03:00",
+  "last_sent_at": "2026-10-15T14:39:01.680934+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
