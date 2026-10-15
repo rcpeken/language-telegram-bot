@@ -336,6 +336,30 @@
       "unknown_count": 0,
       "word": "presumably"
     },
+    "17c33eaafe": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "streamline processes",
+        "streamline operations"
+      ],
+      "definition_en": "To make a system or process more efficient and effective by simplifying it.",
+      "due": "2026-10-17",
+      "example": "The company decided to streamline its operational processes to reduce unnecessary expenses.",
+      "example_tr": "Şirket, gereksiz masrafları azaltmak için operasyonel süreçlerini basitleştirmeye karar verdi.",
+      "first_seen": "2026-10-16T00:29:19.542873+03:00",
+      "id": "17c33eaafe",
+      "ipa": "/ˈstriːmlaɪn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-16",
+      "level": "B2",
+      "meaning_tr": "basitleştirmek, verimli hale getirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "streamline"
+    },
     "180942ef38": {
       "answered_count": 0,
       "box": 1,
@@ -560,7 +584,7 @@
         "inherent danger"
       ],
       "definition_en": "Existing as a natural or basic part of something.",
-      "due": "2026-09-28",
+      "due": "2026-10-17",
       "example": "Every financial investment has an inherent risk of losing money.",
       "example_tr": "Her finansal yatırım, para kaybetme riskini doğasında barındırır.",
       "first_seen": "2026-09-20T19:12:56.042085+03:00",
@@ -568,11 +592,11 @@
       "ipa": "/ɪnˈhɪrənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-27",
+      "last_shown_at": "2026-10-16",
       "level": "C1",
       "meaning_tr": "doğasında olan, kendiliğinden var olan",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "inherent"
     },
@@ -1955,6 +1979,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "accumulate"
+    },
+    "7da0a4e33a": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "political turmoil",
+        "economic turmoil"
+      ],
+      "definition_en": "A state of great disturbance, confusion, or uncertainty.",
+      "due": "2026-10-17",
+      "example": "The country experienced political turmoil following the unexpected resignation of the prime minister.",
+      "example_tr": "Ülke, başbakanın beklenmedik istifasının ardından siyasi bir kargaşa yaşadı.",
+      "first_seen": "2026-10-16T00:29:19.542873+03:00",
+      "id": "7da0a4e33a",
+      "ipa": "/ˈtɜːmɔɪl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-16",
+      "level": "C1",
+      "meaning_tr": "kargaşa, çalkantı, kaos",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "turmoil"
     },
     "81ee8caa2d": {
       "answered_count": 0,
@@ -3548,6 +3596,30 @@
       "unknown_count": 0,
       "word": "indispensable"
     },
+    "e331263ab0": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "meticulous research",
+        "meticulous planning"
+      ],
+      "definition_en": "Showing great attention to detail and being very careful and precise.",
+      "due": "2026-10-17",
+      "example": "She conducted meticulous research before writing the final report for the committee.",
+      "example_tr": "Komite için nihai raporu yazmadan önce titiz bir araştırma yürüttü.",
+      "first_seen": "2026-10-16T00:29:19.542873+03:00",
+      "id": "e331263ab0",
+      "ipa": "/məˈtɪkjələs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-16",
+      "level": "C1",
+      "meaning_tr": "titiz, özenli, detaycı",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "meticulous"
+    },
     "e406677485": {
       "answered_count": 0,
       "box": 1,
@@ -3870,7 +3942,7 @@
         "increase disposable income"
       ],
       "definition_en": "The amount of money that households have available for spending and saving after taxes.",
-      "due": "2026-09-27",
+      "due": "2026-10-17",
       "example": "Higher taxes have significantly reduced the disposable income of average families this year.",
       "example_tr": "Yüksek vergiler, bu yıl ortalama ailelerin kullanılabilir gelirini önemli ölçüde azalttı.",
       "first_seen": "2026-09-19T14:08:02.914222+03:00",
@@ -3878,11 +3950,11 @@
       "ipa": "/dɪˈspoʊzəbl ˈɪnkʌm/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-26",
+      "last_shown_at": "2026-10-16",
       "level": "B2",
       "meaning_tr": "kullanılabilir gelir, net gelir",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "disposable income"
     },
@@ -3911,8 +3983,189 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-15T20:07:15.939101+03:00",
-  "pool": [],
+  "last_sent_at": "2026-10-16T00:29:19.542873+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "admittedly difficult",
+        "admittedly true"
+      ],
+      "definition_en": "Used to express that something is true, even if you do not want to admit it.",
+      "example": "The new project is admittedly risky, but the potential rewards are very high.",
+      "example_tr": "Yeni proje itiraf etmek gerekirse riskli, ancak potansiyel ödülleri çok yüksek.",
+      "ipa": "/ədˈmɪtɪdli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "itiraf etmek gerekirse, kuşkusuz",
+      "pos": "adverb",
+      "word": "admittedly"
+    },
+    {
+      "collocations": [
+        "in response to demand",
+        "in response to feedback"
+      ],
+      "definition_en": "As a reaction or answer to something that has happened or been said.",
+      "example": "The government lowered interest rates in response to growing economic difficulties.",
+      "example_tr": "Hükümet, büyüyen ekonomik zorluklara yanıt olarak faiz oranlarını düşürdü.",
+      "ipa": "/ɪn rɪˈspɒns tuː/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "yanıt olarak, tepki olarak",
+      "pos": "phrase",
+      "word": "in response to"
+    },
+    {
+      "collocations": [
+        "contingency plan",
+        "contingency fund"
+      ],
+      "definition_en": "A future event or circumstance that is possible but cannot be predicted with certainty.",
+      "example": "Every firm needs a contingency plan to handle sudden disruptions in the supply chain.",
+      "example_tr": "Her firmanın tedarik zincirindeki ani aksamaları yönetmek için bir acil durum planına ihtiyacı vardır.",
+      "ipa": "/kənˈtɪndʒənsi/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "olası durum, beklenmedik olay",
+      "pos": "noun",
+      "word": "contingency"
+    },
+    {
+      "collocations": [
+        "dismantle a system",
+        "dismantle machinery"
+      ],
+      "definition_en": "To take a structure or system apart into separate pieces.",
+      "example": "Engineers worked together to dismantle the old factory machinery safely and efficiently.",
+      "example_tr": "Mühendisler, eski fabrika makinelerini güvenli ve verimli bir şekilde sökmek için birlikte çalıştılar.",
+      "ipa": "/dɪsˈmæntl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "sökmek, parçalamak, ortadan kaldırmak",
+      "pos": "verb",
+      "word": "dismantle"
+    },
+    {
+      "collocations": [
+        "versatile player",
+        "versatile tool"
+      ],
+      "definition_en": "Able to adapt or be adapted to many different functions or activities.",
+      "example": "He is a versatile actor who can play both comedy and dramatic roles skillfully.",
+      "example_tr": "O, hem komedi hem de dramatik rolleri beceriyle oynayabilen çok yönlü bir oyuncudur.",
+      "ipa": "/ˈvɜːsətaɪl/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "çok yönlü, becerikli",
+      "pos": "adjective",
+      "word": "versatile"
+    },
+    {
+      "collocations": [
+        "fundamentally different",
+        "fundamentally flawed"
+      ],
+      "definition_en": "In a way that relates to the essential nature of something.",
+      "example": "The two theories are fundamentally different in their assumptions about human behavior.",
+      "example_tr": "İki teori, insan davranışı hakkındaki varsayımlarında temelde farklıdır.",
+      "ipa": "/ˌfʌndəˈmentəli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "esas olarak, temelde",
+      "pos": "adverb",
+      "word": "fundamentally"
+    },
+    {
+      "collocations": [
+        "intervene directly",
+        "intervene in a dispute"
+      ],
+      "definition_en": "To intentionally become involved in a difficult situation to improve or prevent it.",
+      "example": "The central bank had to intervene to stabilize the rapidly falling national currency.",
+      "example_tr": "Merkez bankası, hızla düşen ulusal para birimini istikrara kavuşturmak için müdahale etmek zorunda kaldı.",
+      "ipa": "/ˌɪntəˈviːn/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "müdahale etmek, araya girmek",
+      "pos": "verb",
+      "word": "intervene"
+    },
+    {
+      "collocations": [
+        "cause friction",
+        "reduce friction"
+      ],
+      "definition_en": "Conflict or animosity caused by a clash of wills or temperament.",
+      "example": "Cultural differences can sometimes cause friction between team members during international projects.",
+      "example_tr": "Kültürel farklılıklar, uluslararası projelerde bazen ekip üyeleri arasında sürtüşmeye neden olabilir.",
+      "ipa": "/ˈfrɪkʃn/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "sürtüşme, anlaşmazlık, gerilim",
+      "pos": "noun",
+      "word": "friction"
+    },
+    {
+      "collocations": [
+        "intricate detail",
+        "intricate pattern"
+      ],
+      "definition_en": "Very complicated or detailed in design or structure.",
+      "example": "The watchmaker spent months repairing the intricate mechanism of the ancient clock.",
+      "example_tr": "Saatçi, antik saatin karmaşık mekanizmasını tamir etmek için aylar harcadı.",
+      "ipa": "/ˈɪntrɪkət/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "karmaşık, çetrefilli, detaylı",
+      "pos": "adjective",
+      "word": "intricate"
+    },
+    {
+      "collocations": [
+        "give rise to concerns",
+        "give rise to rumors"
+      ],
+      "definition_en": "To cause something to happen or exist.",
+      "example": "Heavy industrial pollution can give rise to serious environmental and health problems.",
+      "example_tr": "Ağır sanayi kirliliği, ciddi çevre ve sağlık sorunlarına yol açabilir.",
+      "ipa": "/ɡɪv raɪz tuː/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "yol açmak, sebep olmak",
+      "pos": "phrase",
+      "word": "give rise to"
+    },
+    {
+      "collocations": [
+        "endorse a candidate",
+        "endorse a product"
+      ],
+      "definition_en": "To publicly declare approval or support for someone or something.",
+      "example": "Several famous athletes agreed to endorse the new brand of sports equipment.",
+      "example_tr": "Birkaç ünlü sporcu, yeni spor ekipmanı markasını desteklemeyi kabul etti.",
+      "ipa": "/ɪnˈdɔːs/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "onaylamak, desteklemek",
+      "pos": "verb",
+      "word": "endorse"
+    },
+    {
+      "collocations": [
+        "holding someone accountable",
+        "lack of accountability"
+      ],
+      "definition_en": "The state of being responsible to someone for actions and decisions.",
+      "example": "Public officials must demonstrate greater accountability regarding how tax dollars are spent.",
+      "example_tr": "Kamu görevlileri, vergi gelirlerinin nasıl harcandığına dair daha fazla hesap verebilirlik göstermelidir.",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "sorumluluk, hesap verebilirlik",
+      "pos": "noun",
+      "word": "accountability"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
