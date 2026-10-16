@@ -288,6 +288,30 @@
       "unknown_count": 0,
       "word": "abruptly"
     },
+    "1627fa3972": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "intervene directly",
+        "intervene in a dispute"
+      ],
+      "definition_en": "To intentionally become involved in a difficult situation to improve or prevent it.",
+      "due": "2026-10-18",
+      "example": "The central bank had to intervene to stabilize the rapidly falling national currency.",
+      "example_tr": "Merkez bankası, hızla düşen ulusal para birimini istikrara kavuşturmak için müdahale etmek zorunda kaldı.",
+      "first_seen": "2026-10-17T00:18:21.330081+03:00",
+      "id": "1627fa3972",
+      "ipa": "/ˌɪntəˈviːn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-17",
+      "level": "B2",
+      "meaning_tr": "müdahale etmek, araya girmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "intervene"
+    },
     "16a66aad9c": {
       "answered_count": 0,
       "box": 1,
@@ -623,6 +647,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "inherent"
+    },
+    "2a9e8e98f3": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "cause friction",
+        "reduce friction"
+      ],
+      "definition_en": "Conflict or animosity caused by a clash of wills or temperament.",
+      "due": "2026-10-18",
+      "example": "Cultural differences can sometimes cause friction between team members during international projects.",
+      "example_tr": "Kültürel farklılıklar, uluslararası projelerde bazen ekip üyeleri arasında sürtüşmeye neden olabilir.",
+      "first_seen": "2026-10-17T00:18:21.330081+03:00",
+      "id": "2a9e8e98f3",
+      "ipa": "/ˈfrɪkʃn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-17",
+      "level": "C1",
+      "meaning_tr": "sürtüşme, anlaşmazlık, gerilim",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "friction"
     },
     "2c66b21f25": {
       "answered_count": 0,
@@ -1520,6 +1568,30 @@
       "unknown_count": 0,
       "word": "bear in mind"
     },
+    "629b2fde2a": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "intricate detail",
+        "intricate pattern"
+      ],
+      "definition_en": "Very complicated or detailed in design or structure.",
+      "due": "2026-10-18",
+      "example": "The watchmaker spent months repairing the intricate mechanism of the ancient clock.",
+      "example_tr": "Saatçi, antik saatin karmaşık mekanizmasını tamir etmek için aylar harcadı.",
+      "first_seen": "2026-10-17T00:18:21.330081+03:00",
+      "id": "629b2fde2a",
+      "ipa": "/ˈɪntrɪkət/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-17",
+      "level": "C1",
+      "meaning_tr": "karmaşık, çetrefilli, detaylı",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "intricate"
+    },
     "631e04e74b": {
       "answered_count": 0,
       "box": 1,
@@ -1892,7 +1964,7 @@
         "on the verge of tears"
       ],
       "definition_en": "Very close to experiencing or doing something.",
-      "due": "2026-09-28",
+      "due": "2026-10-18",
       "example": "The scientists believe that they are on the verge of discovering a cure.",
       "example_tr": "Bilim insanları bir tedavi bulmanın eşiğinde olduklarına inanıyorlar.",
       "first_seen": "2026-09-17T20:05:50.551121+03:00",
@@ -1900,11 +1972,11 @@
       "ipa": "/ɒn ðə vɜːdʒ ɒv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-27",
+      "last_shown_at": "2026-10-17",
       "level": "B2",
       "meaning_tr": "-in eşiğinde, üzere",
       "pos": "phrase",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "on the verge of"
     },
@@ -1940,7 +2012,7 @@
         "ubiquitous presence"
       ],
       "definition_en": "Seeming to be everywhere at the same time.",
-      "due": "2026-09-28",
+      "due": "2026-10-18",
       "example": "Mobile phones have become ubiquitous in almost every part of the world today.",
       "example_tr": "Cep telefonları günümüzde dünyanın neredeyse her yerinde yaygın hale gelmiştir.",
       "first_seen": "2026-09-27T15:10:16.946243+03:00",
@@ -1948,11 +2020,11 @@
       "ipa": "/juːˈbɪkwɪtəs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-27",
+      "last_shown_at": "2026-10-17",
       "level": "C1",
       "meaning_tr": "her yerde bulunan, yaygın",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "ubiquitous"
     },
@@ -4127,53 +4199,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-16T19:44:33.703721+03:00",
+  "last_sent_at": "2026-10-17T00:18:21.330081+03:00",
   "pool": [
-    {
-      "collocations": [
-        "intervene directly",
-        "intervene in a dispute"
-      ],
-      "definition_en": "To intentionally become involved in a difficult situation to improve or prevent it.",
-      "example": "The central bank had to intervene to stabilize the rapidly falling national currency.",
-      "example_tr": "Merkez bankası, hızla düşen ulusal para birimini istikrara kavuşturmak için müdahale etmek zorunda kaldı.",
-      "ipa": "/ˌɪntəˈviːn/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "müdahale etmek, araya girmek",
-      "pos": "verb",
-      "word": "intervene"
-    },
-    {
-      "collocations": [
-        "cause friction",
-        "reduce friction"
-      ],
-      "definition_en": "Conflict or animosity caused by a clash of wills or temperament.",
-      "example": "Cultural differences can sometimes cause friction between team members during international projects.",
-      "example_tr": "Kültürel farklılıklar, uluslararası projelerde bazen ekip üyeleri arasında sürtüşmeye neden olabilir.",
-      "ipa": "/ˈfrɪkʃn/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "sürtüşme, anlaşmazlık, gerilim",
-      "pos": "noun",
-      "word": "friction"
-    },
-    {
-      "collocations": [
-        "intricate detail",
-        "intricate pattern"
-      ],
-      "definition_en": "Very complicated or detailed in design or structure.",
-      "example": "The watchmaker spent months repairing the intricate mechanism of the ancient clock.",
-      "example_tr": "Saatçi, antik saatin karmaşık mekanizmasını tamir etmek için aylar harcadı.",
-      "ipa": "/ˈɪntrɪkət/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "karmaşık, çetrefilli, detaylı",
-      "pos": "adjective",
-      "word": "intricate"
-    },
     {
       "collocations": [
         "give rise to concerns",
