@@ -384,6 +384,30 @@
       "unknown_count": 0,
       "word": "subside"
     },
+    "180d174f46": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "fundamentally different",
+        "fundamentally flawed"
+      ],
+      "definition_en": "In a way that relates to the essential nature of something.",
+      "due": "2026-10-17",
+      "example": "The two theories are fundamentally different in their assumptions about human behavior.",
+      "example_tr": "İki teori, insan davranışı hakkındaki varsayımlarında temelde farklıdır.",
+      "first_seen": "2026-10-16T19:44:33.703721+03:00",
+      "id": "180d174f46",
+      "ipa": "/ˌfʌndəˈmentəli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-16",
+      "level": "B2",
+      "meaning_tr": "esas olarak, temelde",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "fundamentally"
+    },
     "1add7c295e": {
       "answered_count": 0,
       "box": 1,
@@ -1357,7 +1381,7 @@
         "consequently suffered"
       ],
       "definition_en": "As a result of something that has just been mentioned.",
-      "due": "2026-09-28",
+      "due": "2026-10-17",
       "example": "The company lost its main client and consequently had to lay off staff.",
       "example_tr": "Şirket ana müşterisini kaybetti ve sonuç olarak işten çıkarmalar yapmak zorunda kaldı.",
       "first_seen": "2026-09-27T20:02:16.834307+03:00",
@@ -1365,11 +1389,11 @@
       "ipa": "/ˈkɒnsɪkwəntli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-27",
+      "last_shown_at": "2026-10-16",
       "level": "B2",
       "meaning_tr": "sonuç olarak, bu nedenle",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "consequently"
     },
@@ -1552,7 +1576,7 @@
         "facilitate growth"
       ],
       "definition_en": "To make an action or process easy or easier.",
-      "due": "2026-09-28",
+      "due": "2026-10-17",
       "example": "The new software will facilitate communication between different departments of our company.",
       "example_tr": "Yeni yazılım, şirketimizin farklı departmanları arasındaki iletişimi kolaylaştıracak.",
       "first_seen": "2026-09-20T23:53:42.065471+03:00",
@@ -1560,11 +1584,11 @@
       "ipa": "/fəˈsɪlɪteɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-27",
+      "last_shown_at": "2026-10-16",
       "level": "B2",
       "meaning_tr": "kolaylaştırmak, yardımcı olmak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "facilitate"
     },
@@ -2219,6 +2243,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "abundant"
+    },
+    "9378d24457": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "dismantle a system",
+        "dismantle machinery"
+      ],
+      "definition_en": "To take a structure or system apart into separate pieces.",
+      "due": "2026-10-17",
+      "example": "Engineers worked together to dismantle the old factory machinery safely and efficiently.",
+      "example_tr": "Mühendisler, eski fabrika makinelerini güvenli ve verimli bir şekilde sökmek için birlikte çalıştılar.",
+      "first_seen": "2026-10-16T19:44:33.703721+03:00",
+      "id": "9378d24457",
+      "ipa": "/dɪsˈmæntl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-16",
+      "level": "C1",
+      "meaning_tr": "sökmek, parçalamak, ortadan kaldırmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "dismantle"
     },
     "94438a36ea": {
       "answered_count": 0,
@@ -2970,6 +3018,30 @@
       "shown_count": 4,
       "unknown_count": 2,
       "word": "advocate"
+    },
+    "bd11cad60c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "versatile player",
+        "versatile tool"
+      ],
+      "definition_en": "Able to adapt or be adapted to many different functions or activities.",
+      "due": "2026-10-17",
+      "example": "He is a versatile actor who can play both comedy and dramatic roles skillfully.",
+      "example_tr": "O, hem komedi hem de dramatik rolleri beceriyle oynayabilen çok yönlü bir oyuncudur.",
+      "first_seen": "2026-10-16T19:44:33.703721+03:00",
+      "id": "bd11cad60c",
+      "ipa": "/ˈvɜːsətaɪl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-16",
+      "level": "B2",
+      "meaning_tr": "çok yönlü, becerikli",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "versatile"
     },
     "bd831ffb96": {
       "answered_count": 0,
@@ -4055,53 +4127,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-16T14:32:40.654105+03:00",
+  "last_sent_at": "2026-10-16T19:44:33.703721+03:00",
   "pool": [
-    {
-      "collocations": [
-        "dismantle a system",
-        "dismantle machinery"
-      ],
-      "definition_en": "To take a structure or system apart into separate pieces.",
-      "example": "Engineers worked together to dismantle the old factory machinery safely and efficiently.",
-      "example_tr": "Mühendisler, eski fabrika makinelerini güvenli ve verimli bir şekilde sökmek için birlikte çalıştılar.",
-      "ipa": "/dɪsˈmæntl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "sökmek, parçalamak, ortadan kaldırmak",
-      "pos": "verb",
-      "word": "dismantle"
-    },
-    {
-      "collocations": [
-        "versatile player",
-        "versatile tool"
-      ],
-      "definition_en": "Able to adapt or be adapted to many different functions or activities.",
-      "example": "He is a versatile actor who can play both comedy and dramatic roles skillfully.",
-      "example_tr": "O, hem komedi hem de dramatik rolleri beceriyle oynayabilen çok yönlü bir oyuncudur.",
-      "ipa": "/ˈvɜːsətaɪl/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "çok yönlü, becerikli",
-      "pos": "adjective",
-      "word": "versatile"
-    },
-    {
-      "collocations": [
-        "fundamentally different",
-        "fundamentally flawed"
-      ],
-      "definition_en": "In a way that relates to the essential nature of something.",
-      "example": "The two theories are fundamentally different in their assumptions about human behavior.",
-      "example_tr": "İki teori, insan davranışı hakkındaki varsayımlarında temelde farklıdır.",
-      "ipa": "/ˌfʌndəˈmentəli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "esas olarak, temelde",
-      "pos": "adverb",
-      "word": "fundamentally"
-    },
     {
       "collocations": [
         "intervene directly",
