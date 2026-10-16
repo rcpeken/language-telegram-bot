@@ -632,7 +632,7 @@
         "oversee operations"
       ],
       "definition_en": "To watch and direct a task or project to make sure it is done correctly.",
-      "due": "2026-09-28",
+      "due": "2026-10-17",
       "example": "The newly appointed manager will oversee the entire transition to the digital platform.",
       "example_tr": "Yeni atanan müdür, dijital platforma geçiş sürecinin tamamını denetleyecek.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -640,11 +640,11 @@
       "ipa": "/ˌəʊvəˈsiː/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-27",
+      "last_shown_at": "2026-10-16",
       "level": "B2",
       "meaning_tr": "denetlemek, yönetmek, gözetmek",
       "pos": "verb",
-      "shown_count": 5,
+      "shown_count": 6,
       "unknown_count": 0,
       "word": "oversee"
     },
@@ -753,7 +753,7 @@
         "highly vulnerable"
       ],
       "definition_en": "Easy to hurt or attack physically, emotionally, or mentally.",
-      "due": "2026-09-28",
+      "due": "2026-10-17",
       "example": "Elderly people are often more vulnerable to extreme weather conditions during the winter.",
       "example_tr": "Yaşlı insanlar kış aylarında genellikle aşırı hava koşullarına karşı daha hassastır.",
       "first_seen": "2026-09-20T14:32:11.283311+03:00",
@@ -761,13 +761,37 @@
       "ipa": "/ˈvʌlnərəbl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-27",
+      "last_shown_at": "2026-10-16",
       "level": "B2",
       "meaning_tr": "savunmasız, hassas, kırılgan",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "vulnerable"
+    },
+    "3ab735fc96": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "contingency plan",
+        "contingency fund"
+      ],
+      "definition_en": "A future event or circumstance that is possible but cannot be predicted with certainty.",
+      "due": "2026-10-17",
+      "example": "Every firm needs a contingency plan to handle sudden disruptions in the supply chain.",
+      "example_tr": "Her firmanın tedarik zincirindeki ani aksamaları yönetmek için bir acil durum planına ihtiyacı vardır.",
+      "first_seen": "2026-10-16T14:32:40.654105+03:00",
+      "id": "3ab735fc96",
+      "ipa": "/kənˈtɪndʒənsi/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-16",
+      "level": "C1",
+      "meaning_tr": "olası durum, beklenmedik olay",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "contingency"
     },
     "3edc8309ee": {
       "answered_count": 0,
@@ -3091,6 +3115,30 @@
       "unknown_count": 0,
       "word": "ambiguous"
     },
+    "c3d110db11": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in response to demand",
+        "in response to feedback"
+      ],
+      "definition_en": "As a reaction or answer to something that has happened or been said.",
+      "due": "2026-10-17",
+      "example": "The government lowered interest rates in response to growing economic difficulties.",
+      "example_tr": "Hükümet, büyüyen ekonomik zorluklara yanıt olarak faiz oranlarını düşürdü.",
+      "first_seen": "2026-10-16T14:32:40.654105+03:00",
+      "id": "c3d110db11",
+      "ipa": "/ɪn rɪˈspɒns tuː/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-16",
+      "level": "B2",
+      "meaning_tr": "yanıt olarak, tepki olarak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in response to"
+    },
     "c506fd11e1": {
       "answered_count": 0,
       "box": 1,
@@ -3910,6 +3958,30 @@
       "unknown_count": 0,
       "word": "disdain"
     },
+    "fbf67ebce5": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "admittedly difficult",
+        "admittedly true"
+      ],
+      "definition_en": "Used to express that something is true, even if you do not want to admit it.",
+      "due": "2026-10-17",
+      "example": "The new project is admittedly risky, but the potential rewards are very high.",
+      "example_tr": "Yeni proje itiraf etmek gerekirse riskli, ancak potansiyel ödülleri çok yüksek.",
+      "first_seen": "2026-10-16T14:32:40.654105+03:00",
+      "id": "fbf67ebce5",
+      "ipa": "/ədˈmɪtɪdli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-16",
+      "level": "B2",
+      "meaning_tr": "itiraf etmek gerekirse, kuşkusuz",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "admittedly"
+    },
     "fc13aee068": {
       "answered_count": 0,
       "box": 1,
@@ -3983,53 +4055,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-16T00:29:19.542873+03:00",
+  "last_sent_at": "2026-10-16T14:32:40.654105+03:00",
   "pool": [
-    {
-      "collocations": [
-        "admittedly difficult",
-        "admittedly true"
-      ],
-      "definition_en": "Used to express that something is true, even if you do not want to admit it.",
-      "example": "The new project is admittedly risky, but the potential rewards are very high.",
-      "example_tr": "Yeni proje itiraf etmek gerekirse riskli, ancak potansiyel ödülleri çok yüksek.",
-      "ipa": "/ədˈmɪtɪdli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "itiraf etmek gerekirse, kuşkusuz",
-      "pos": "adverb",
-      "word": "admittedly"
-    },
-    {
-      "collocations": [
-        "in response to demand",
-        "in response to feedback"
-      ],
-      "definition_en": "As a reaction or answer to something that has happened or been said.",
-      "example": "The government lowered interest rates in response to growing economic difficulties.",
-      "example_tr": "Hükümet, büyüyen ekonomik zorluklara yanıt olarak faiz oranlarını düşürdü.",
-      "ipa": "/ɪn rɪˈspɒns tuː/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "yanıt olarak, tepki olarak",
-      "pos": "phrase",
-      "word": "in response to"
-    },
-    {
-      "collocations": [
-        "contingency plan",
-        "contingency fund"
-      ],
-      "definition_en": "A future event or circumstance that is possible but cannot be predicted with certainty.",
-      "example": "Every firm needs a contingency plan to handle sudden disruptions in the supply chain.",
-      "example_tr": "Her firmanın tedarik zincirindeki ani aksamaları yönetmek için bir acil durum planına ihtiyacı vardır.",
-      "ipa": "/kənˈtɪndʒənsi/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "olası durum, beklenmedik olay",
-      "pos": "noun",
-      "word": "contingency"
-    },
     {
       "collocations": [
         "dismantle a system",
