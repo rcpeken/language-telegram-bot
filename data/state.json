@@ -224,7 +224,7 @@
         "act on behalf of"
       ],
       "definition_en": "As a representative of someone, or in the interest of someone.",
-      "due": "2026-09-29",
+      "due": "2026-10-18",
       "example": "The lawyer made a brief statement on behalf of the accused family.",
       "example_tr": "Avukat, sanık aile adına kısa bir açıklama yaptı.",
       "first_seen": "2026-09-28T17:06:07.394692+03:00",
@@ -232,11 +232,11 @@
       "ipa": "/ɒn bɪˈhɑːf ɒv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-28",
+      "last_shown_at": "2026-10-17",
       "level": "B2",
       "meaning_tr": "adına, temsilen",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "on behalf of"
     },
@@ -3627,7 +3627,7 @@
         "tangible results"
       ],
       "definition_en": "Real or concrete, and able to be clearly seen or touched.",
-      "due": "2026-09-28",
+      "due": "2026-10-18",
       "example": "The new safety policies have produced tangible benefits for all factory employees.",
       "example_tr": "Yeni güvenlik politikaları tüm fabrika çalışanları için somut faydalar sağladı.",
       "first_seen": "2026-09-27T20:02:16.834307+03:00",
@@ -3635,11 +3635,11 @@
       "ipa": "/ˈtændʒəbəl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-27",
+      "last_shown_at": "2026-10-17",
       "level": "C1",
       "meaning_tr": "somut, elle tutulur, hissedilir",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "tangible"
     },
@@ -4271,7 +4271,7 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-17T18:41:30.671286+03:00",
+  "last_sent_at": "2026-10-17T21:52:12.858118+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
