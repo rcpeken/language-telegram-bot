@@ -1696,7 +1696,7 @@
         "elusive answer"
       ],
       "definition_en": "Difficult to find, catch, describe, or achieve.",
-      "due": "2026-09-29",
+      "due": "2026-10-19",
       "example": "The perfect solution to the economic crisis remains elusive for most policy makers.",
       "example_tr": "Ekonomik krize mükemmel çözüm, çoğu politika yapıcı için bulunması zor olmaya devam ediyor.",
       "first_seen": "2026-09-28T17:06:07.394692+03:00",
@@ -1704,11 +1704,11 @@
       "ipa": "/iˈluːsɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-28",
+      "last_shown_at": "2026-10-18",
       "level": "C1",
       "meaning_tr": "bulunması zor, yakalanamaz, anlaşılmaz",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "elusive"
     },
@@ -1866,7 +1866,7 @@
         "superfluous information"
       ],
       "definition_en": "More than is needed, wanted, or useful.",
-      "due": "2026-09-29",
+      "due": "2026-10-19",
       "example": "Please edit the report to remove any superfluous details that distract the reader.",
       "example_tr": "Lütfen okuyucunun dikkatini dağıtan gereksiz detayları kaldırmak için raporu düzenleyin.",
       "first_seen": "2026-09-28T00:24:56.961051+03:00",
@@ -1874,11 +1874,11 @@
       "ipa": "/suːˈpɜːfluəs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-28",
+      "last_shown_at": "2026-10-18",
       "level": "C1",
       "meaning_tr": "gereksiz, fazla, lüzumsuz",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "superfluous"
     },
@@ -4271,7 +4271,7 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-17T21:52:12.858118+03:00",
+  "last_sent_at": "2026-10-18T00:46:20.098118+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
