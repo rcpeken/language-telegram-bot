@@ -552,6 +552,30 @@
       "unknown_count": 0,
       "word": "in the wake of"
     },
+    "222029b663": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "give rise to concerns",
+        "give rise to rumors"
+      ],
+      "definition_en": "To cause something to happen or exist.",
+      "due": "2026-10-18",
+      "example": "Heavy industrial pollution can give rise to serious environmental and health problems.",
+      "example_tr": "Ağır sanayi kirliliği, ciddi çevre ve sağlık sorunlarına yol açabilir.",
+      "first_seen": "2026-10-17T13:52:54.582116+03:00",
+      "id": "222029b663",
+      "ipa": "/ɡɪv raɪz tuː/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-17",
+      "level": "C1",
+      "meaning_tr": "yol açmak, sebep olmak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "give rise to"
+    },
     "2392c57fb8": {
       "answered_count": 0,
       "box": 1,
@@ -2060,7 +2084,7 @@
         "genetic anomaly"
       ],
       "definition_en": "Something that is unusual or different from what is standard or expected.",
-      "due": "2026-09-28",
+      "due": "2026-10-18",
       "example": "Scientists identified a temporary temperature anomaly in the historical climate data.",
       "example_tr": "Bilim insanları, tarihi iklim verilerinde geçici bir sıcaklık sapması tespit etti.",
       "first_seen": "2026-09-27T15:10:16.946243+03:00",
@@ -2068,11 +2092,11 @@
       "ipa": "/əˈnɒməli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-27",
+      "last_shown_at": "2026-10-17",
       "level": "C1",
       "meaning_tr": "sapma, anormallik, düzensizlik",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "anomaly"
     },
@@ -2147,6 +2171,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "curtail"
+    },
+    "822b635e73": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "endorse a candidate",
+        "endorse a product"
+      ],
+      "definition_en": "To publicly declare approval or support for someone or something.",
+      "due": "2026-10-18",
+      "example": "Several famous athletes agreed to endorse the new brand of sports equipment.",
+      "example_tr": "Birkaç ünlü sporcu, yeni spor ekipmanı markasını desteklemeyi kabul etti.",
+      "first_seen": "2026-10-17T13:52:54.582116+03:00",
+      "id": "822b635e73",
+      "ipa": "/ɪnˈdɔːs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-17",
+      "level": "C1",
+      "meaning_tr": "onaylamak, desteklemek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "endorse"
     },
     "8a2e3bd9e6": {
       "answered_count": 0,
@@ -2462,6 +2510,30 @@
       "unknown_count": 0,
       "word": "precedent"
     },
+    "9a74f5df09": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "holding someone accountable",
+        "lack of accountability"
+      ],
+      "definition_en": "The state of being responsible to someone for actions and decisions.",
+      "due": "2026-10-18",
+      "example": "Public officials must demonstrate greater accountability regarding how tax dollars are spent.",
+      "example_tr": "Kamu görevlileri, vergi gelirlerinin nasıl harcandığına dair daha fazla hesap verebilirlik göstermelidir.",
+      "first_seen": "2026-10-17T13:52:54.582116+03:00",
+      "id": "9a74f5df09",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-17",
+      "level": "C1",
+      "meaning_tr": "sorumluluk, hesap verebilirlik",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "accountability"
+    },
     "9b20ce2921": {
       "answered_count": 1,
       "box": 1,
@@ -2470,7 +2542,7 @@
         "highly resilient"
       ],
       "definition_en": "Able to quickly return to a previous good condition after a difficult situation.",
-      "due": "2026-09-28",
+      "due": "2026-10-18",
       "example": "Local businesses proved to be highly resilient during the economic crisis last year.",
       "example_tr": "Yerel işletmeler geçen yılki ekonomik kriz sırasında son derece dirençli olduklarını kanıtladılar.",
       "first_seen": "2026-09-16T10:12:29.899891+03:00",
@@ -2480,11 +2552,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-27",
+      "last_shown_at": "2026-10-17",
       "level": "B2",
       "meaning_tr": "dirençli, esnek, güçlü",
       "pos": "adjective",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 1,
       "word": "resilient"
     },
@@ -4199,54 +4271,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-17T00:18:21.330081+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "give rise to concerns",
-        "give rise to rumors"
-      ],
-      "definition_en": "To cause something to happen or exist.",
-      "example": "Heavy industrial pollution can give rise to serious environmental and health problems.",
-      "example_tr": "Ağır sanayi kirliliği, ciddi çevre ve sağlık sorunlarına yol açabilir.",
-      "ipa": "/ɡɪv raɪz tuː/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "yol açmak, sebep olmak",
-      "pos": "phrase",
-      "word": "give rise to"
-    },
-    {
-      "collocations": [
-        "endorse a candidate",
-        "endorse a product"
-      ],
-      "definition_en": "To publicly declare approval or support for someone or something.",
-      "example": "Several famous athletes agreed to endorse the new brand of sports equipment.",
-      "example_tr": "Birkaç ünlü sporcu, yeni spor ekipmanı markasını desteklemeyi kabul etti.",
-      "ipa": "/ɪnˈdɔːs/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "onaylamak, desteklemek",
-      "pos": "verb",
-      "word": "endorse"
-    },
-    {
-      "collocations": [
-        "holding someone accountable",
-        "lack of accountability"
-      ],
-      "definition_en": "The state of being responsible to someone for actions and decisions.",
-      "example": "Public officials must demonstrate greater accountability regarding how tax dollars are spent.",
-      "example_tr": "Kamu görevlileri, vergi gelirlerinin nasıl harcandığına dair daha fazla hesap verebilirlik göstermelidir.",
-      "ipa": "/əˌkaʊntəˈbɪləti/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "sorumluluk, hesap verebilirlik",
-      "pos": "noun",
-      "word": "accountability"
-    }
-  ],
+  "last_sent_at": "2026-10-17T13:52:54.582116+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
