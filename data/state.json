@@ -3025,7 +3025,7 @@
         "procrastinate on tasks"
       ],
       "definition_en": "To delay doing something that you should do, usually because you do not want to do it.",
-      "due": "2026-09-28",
+      "due": "2026-10-18",
       "example": "Many students procrastinate until the night before the exam to start studying.",
       "example_tr": "Birçok öğrenci çalışmaya başlamak için sınavdan önceki geceye kadar erteler.",
       "first_seen": "2026-09-27T15:10:16.946243+03:00",
@@ -3033,11 +3033,11 @@
       "ipa": "/prəˈkræstɪneɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-27",
+      "last_shown_at": "2026-10-17",
       "level": "B2",
       "meaning_tr": "ertelemek, ağırdan almak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "procrastinate"
     },
@@ -3049,7 +3049,7 @@
         "candid opinion"
       ],
       "definition_en": "Honest and telling the truth, especially about something difficult or painful.",
-      "due": "2026-09-28",
+      "due": "2026-10-18",
       "example": "She gave a candid interview about her struggles as a young entrepreneur.",
       "example_tr": "Genç bir girişimci olarak yaşadığı zorluklar hakkında samimi bir röportaj verdi.",
       "first_seen": "2026-09-27T20:02:16.834307+03:00",
@@ -3057,11 +3057,11 @@
       "ipa": "/ˈkændɪd/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-27",
+      "last_shown_at": "2026-10-17",
       "level": "B2",
       "meaning_tr": "samimi, içten, açık sözlü",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "candid"
     },
@@ -4271,7 +4271,7 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-17T13:52:54.582116+03:00",
+  "last_sent_at": "2026-10-17T18:41:30.671286+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
