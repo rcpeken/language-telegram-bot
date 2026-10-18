@@ -360,6 +360,30 @@
       "unknown_count": 0,
       "word": "presumably"
     },
+    "179bce379e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "impartial advice",
+        "remain impartial"
+      ],
+      "definition_en": "not supporting one person or group more than another",
+      "due": "2026-10-19",
+      "example": "A judge must remain impartial throughout the entire legal trial process.",
+      "example_tr": "Bir yargıç tüm yasal dava süreci boyunca tarafsız kalmalıdır.",
+      "first_seen": "2026-10-18T23:51:36.184580+03:00",
+      "id": "179bce379e",
+      "ipa": "/ɪmˈpɑː.ʃəl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-18",
+      "level": "B2",
+      "meaning_tr": "tarafsız, adil, nesnel",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "impartial"
+    },
     "17c33eaafe": {
       "answered_count": 0,
       "box": 1,
@@ -3283,6 +3307,30 @@
       "unknown_count": 0,
       "word": "implication"
     },
+    "bc4f75fddf": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "growing divergence",
+        "divergence of opinion"
+      ],
+      "definition_en": "a difference or variation between two or more things",
+      "due": "2026-10-19",
+      "example": "There is a growing divergence between public opinion and government policies.",
+      "example_tr": "Kamuoyu ile hükümet politikaları arasında büyüyen bir farklılaşma var.",
+      "first_seen": "2026-10-18T23:51:36.184580+03:00",
+      "id": "bc4f75fddf",
+      "ipa": "/daɪˈvɜː.dʒəns/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-18",
+      "level": "C1",
+      "meaning_tr": "farklılaşma, ayrışma, sapma",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "divergence"
+    },
     "bd11cad60c": {
       "answered_count": 0,
       "box": 1,
@@ -3651,7 +3699,7 @@
         "subtle hint"
       ],
       "definition_en": "Not loud, bright, noticeable, or obvious in any way.",
-      "due": "2026-09-29",
+      "due": "2026-10-19",
       "example": "There was a subtle change in his voice that only his mother noticed.",
       "example_tr": "Sesinde sadece annesinin fark ettiği hafif bir değişiklik vardı.",
       "first_seen": "2026-09-20T19:12:56.042085+03:00",
@@ -3659,11 +3707,11 @@
       "ipa": "/ˈsʌtl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-28",
+      "last_shown_at": "2026-10-18",
       "level": "B2",
       "meaning_tr": "ince, hafif, kolay fark edilmeyen",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "subtle"
     },
@@ -3738,6 +3786,30 @@
       "shown_count": 4,
       "unknown_count": 0,
       "word": "substantial"
+    },
+    "d657c6658d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "solicit feedback",
+        "solicit donations"
+      ],
+      "definition_en": "to ask someone for money, information, help, or support",
+      "due": "2026-10-19",
+      "example": "The organization is actively trying to solicit feedback from all its users.",
+      "example_tr": "Kuruluş, tüm kullanıcılarından aktif olarak geri bildirim talep etmeye çalışıyor.",
+      "first_seen": "2026-10-18T23:51:36.184580+03:00",
+      "id": "d657c6658d",
+      "ipa": "/səˈlɪs.ɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-18",
+      "level": "C1",
+      "meaning_tr": "talep etmek, istemek, rica etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "solicit"
     },
     "d69c7b9a62": {
       "answered_count": 0,
@@ -3843,7 +3915,7 @@
         "detrimental impact"
       ],
       "definition_en": "Causing harm or damage to something.",
-      "due": "2026-09-29",
+      "due": "2026-10-19",
       "example": "Excessive consumption of sugar can have a detrimental effect on your health.",
       "example_tr": "Aşırı şeker tüketiminin sağlığınız üzerinde zararlı bir etkisi olabilir.",
       "first_seen": "2026-09-20T23:53:42.065471+03:00",
@@ -3851,11 +3923,11 @@
       "ipa": "/ˌdetrɪˈmentl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-28",
+      "last_shown_at": "2026-10-18",
       "level": "C1",
       "meaning_tr": "zararlı, hasar veren",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "detrimental"
     },
@@ -4415,53 +4487,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-18T18:56:19.655746+03:00",
+  "last_sent_at": "2026-10-18T23:51:36.184580+03:00",
   "pool": [
-    {
-      "collocations": [
-        "solicit feedback",
-        "solicit donations"
-      ],
-      "definition_en": "to ask someone for money, information, help, or support",
-      "example": "The organization is actively trying to solicit feedback from all its users.",
-      "example_tr": "Kuruluş, tüm kullanıcılarından aktif olarak geri bildirim talep etmeye çalışıyor.",
-      "ipa": "/səˈlɪs.ɪt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "talep etmek, istemek, rica etmek",
-      "pos": "verb",
-      "word": "solicit"
-    },
-    {
-      "collocations": [
-        "impartial advice",
-        "remain impartial"
-      ],
-      "definition_en": "not supporting one person or group more than another",
-      "example": "A judge must remain impartial throughout the entire legal trial process.",
-      "example_tr": "Bir yargıç tüm yasal dava süreci boyunca tarafsız kalmalıdır.",
-      "ipa": "/ɪmˈpɑː.ʃəl/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "tarafsız, adil, nesnel",
-      "pos": "adjective",
-      "word": "impartial"
-    },
-    {
-      "collocations": [
-        "growing divergence",
-        "divergence of opinion"
-      ],
-      "definition_en": "a difference or variation between two or more things",
-      "example": "There is a growing divergence between public opinion and government policies.",
-      "example_tr": "Kamuoyu ile hükümet politikaları arasında büyüyen bir farklılaşma var.",
-      "ipa": "/daɪˈvɜː.dʒəns/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "farklılaşma, ayrışma, sapma",
-      "pos": "noun",
-      "word": "divergence"
-    },
     {
       "collocations": [
         "clearly delineate",
