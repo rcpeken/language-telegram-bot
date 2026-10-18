@@ -456,6 +456,30 @@
       "unknown_count": 0,
       "word": "deteriorate"
     },
+    "1b81b6814c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "move inexorably",
+        "lead inexorably"
+      ],
+      "definition_en": "in a way that is impossible to stop or prevent",
+      "due": "2026-10-19",
+      "example": "The technology industry is moving inexorably toward total automation in production.",
+      "example_tr": "Teknoloji sektörü kaçınılmaz şekilde üretimde tam otomasyona doğru ilerliyor.",
+      "first_seen": "2026-10-18T18:56:19.655746+03:00",
+      "id": "1b81b6814c",
+      "ipa": "/ɪnˈek.sər.ə.bli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-18",
+      "level": "C1",
+      "meaning_tr": "kaçınılmaz şekilde, amansızca",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "inexorably"
+    },
     "1e5cfd4d2e": {
       "answered_count": 0,
       "box": 1,
@@ -479,6 +503,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "alleviate"
+    },
+    "1ede10f22e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in the pipeline",
+        "projects in the pipeline"
+      ],
+      "definition_en": "being planned, prepared, or developed for future release",
+      "due": "2026-10-19",
+      "example": "Several innovative software updates are currently in the pipeline for next year.",
+      "example_tr": "Gelecek yıl için şu anda hazırlanmakta olan birkaç yenilikçi yazılım güncellemesi var.",
+      "first_seen": "2026-10-18T18:56:19.655746+03:00",
+      "id": "1ede10f22e",
+      "ipa": "/ɪn ðə ˈpaɪp.laɪn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-18",
+      "level": "C1",
+      "meaning_tr": "yolda, hazırlanmakta, plan aşamasında",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in the pipeline"
     },
     "1f320f2e2c": {
       "answered_count": 0,
@@ -2172,6 +2220,30 @@
       "unknown_count": 0,
       "word": "turmoil"
     },
+    "801c10b9b2": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "lead to complacency",
+        "avoid complacency"
+      ],
+      "definition_en": "a feeling of quiet satisfaction with oneself while unaware of danger",
+      "due": "2026-10-19",
+      "example": "Economic success can sometimes lead to complacency among corporate business leaders.",
+      "example_tr": "Ekonomik başarı bazen kurumsal iş liderleri arasında rehavete yol açabilir.",
+      "first_seen": "2026-10-18T18:56:19.655746+03:00",
+      "id": "801c10b9b2",
+      "ipa": "/kəmˈpleɪ.sən.si/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-18",
+      "level": "C1",
+      "meaning_tr": "rehavet, kendinden memnun olma",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "complacency"
+    },
     "81ee8caa2d": {
       "answered_count": 0,
       "box": 1,
@@ -2808,7 +2880,7 @@
         "pave the way for success"
       ],
       "definition_en": "To create a situation in which it is now possible for something to happen.",
-      "due": "2026-09-29",
+      "due": "2026-10-19",
       "example": "This scientific discovery will pave the way for new treatments for heart disease.",
       "example_tr": "Bu bilimsel keşif, kalp hastalığı için yeni tedavilerin yolunu açacaktır.",
       "first_seen": "2026-09-20T14:32:11.283311+03:00",
@@ -2816,11 +2888,11 @@
       "ipa": "/peɪv ðə weɪ fɔːr/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-28",
+      "last_shown_at": "2026-10-18",
       "level": "B2",
       "meaning_tr": "zemin hazırlamak, yolunu açmak",
       "pos": "phrase",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "pave the way for"
     },
@@ -2832,7 +2904,7 @@
         "strong incentive"
       ],
       "definition_en": "Something that encourages you to work harder or start a new activity.",
-      "due": "2026-09-29",
+      "due": "2026-10-19",
       "example": "The company offers a financial incentive to employees who meet their monthly targets.",
       "example_tr": "Şirket, aylık hedeflerine ulaşan çalışanlara maddi bir teşvik sunuyor.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -2840,11 +2912,11 @@
       "ipa": "/ɪnˈsentɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-28",
+      "last_shown_at": "2026-10-18",
       "level": "B2",
       "meaning_tr": "teşvik, güdü, özendirici",
       "pos": "noun",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 0,
       "word": "incentive"
     },
@@ -4343,53 +4415,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-18T14:17:48.400327+03:00",
+  "last_sent_at": "2026-10-18T18:56:19.655746+03:00",
   "pool": [
-    {
-      "collocations": [
-        "move inexorably",
-        "lead inexorably"
-      ],
-      "definition_en": "in a way that is impossible to stop or prevent",
-      "example": "The technology industry is moving inexorably toward total automation in production.",
-      "example_tr": "Teknoloji sektörü kaçınılmaz şekilde üretimde tam otomasyona doğru ilerliyor.",
-      "ipa": "/ɪnˈek.sər.ə.bli/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "kaçınılmaz şekilde, amansızca",
-      "pos": "adverb",
-      "word": "inexorably"
-    },
-    {
-      "collocations": [
-        "in the pipeline",
-        "projects in the pipeline"
-      ],
-      "definition_en": "being planned, prepared, or developed for future release",
-      "example": "Several innovative software updates are currently in the pipeline for next year.",
-      "example_tr": "Gelecek yıl için şu anda hazırlanmakta olan birkaç yenilikçi yazılım güncellemesi var.",
-      "ipa": "/ɪn ðə ˈpaɪp.laɪn/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "yolda, hazırlanmakta, plan aşamasında",
-      "pos": "phrase",
-      "word": "in the pipeline"
-    },
-    {
-      "collocations": [
-        "lead to complacency",
-        "avoid complacency"
-      ],
-      "definition_en": "a feeling of quiet satisfaction with oneself while unaware of danger",
-      "example": "Economic success can sometimes lead to complacency among corporate business leaders.",
-      "example_tr": "Ekonomik başarı bazen kurumsal iş liderleri arasında rehavete yol açabilir.",
-      "ipa": "/kəmˈpleɪ.sən.si/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "rehavet, kendinden memnun olma",
-      "pos": "noun",
-      "word": "complacency"
-    },
     {
       "collocations": [
         "solicit feedback",
