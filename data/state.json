@@ -528,6 +528,30 @@
       "unknown_count": 0,
       "word": "yield"
     },
+    "21120f5022": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "pivotal role",
+        "pivotal moment"
+      ],
+      "definition_en": "of crucial importance in relation to the development of something",
+      "due": "2026-10-19",
+      "example": "Technology played a pivotal role in keeping businesses connected during the lockdown.",
+      "example_tr": "Karantina sırasında işletmelerin iletişimde kalmasında teknoloji kilit bir rol oynadı.",
+      "first_seen": "2026-10-18T14:17:48.400327+03:00",
+      "id": "21120f5022",
+      "ipa": "/ˈpɪv.ə.təl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-18",
+      "level": "C1",
+      "meaning_tr": "kilit, çok önemli, hayati",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "pivotal"
+    },
     "21b20b3594": {
       "answered_count": 0,
       "box": 1,
@@ -2060,7 +2084,7 @@
         "strive to achieve"
       ],
       "definition_en": "To make a great effort to achieve or obtain something.",
-      "due": "2026-09-29",
+      "due": "2026-10-19",
       "example": "We must constantly strive to improve our customer service standards in this industry.",
       "example_tr": "Bu sektörde müşteri hizmetleri standartlarımızı geliştirmek için sürekli çaba göstermeliyiz.",
       "first_seen": "2026-09-28T00:24:56.961051+03:00",
@@ -2068,11 +2092,11 @@
       "ipa": "/straɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-28",
+      "last_shown_at": "2026-10-18",
       "level": "B2",
       "meaning_tr": "çabalamak, uğraşmak, gayret etmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "strive"
     },
@@ -2228,7 +2252,7 @@
         "general consensus"
       ],
       "definition_en": "An opinion or decision that all members of a group agree on.",
-      "due": "2026-09-29",
+      "due": "2026-10-19",
       "example": "After hours of debate, the committee finally reached a consensus on the budget.",
       "example_tr": "Saatler süren tartışmaların ardından komite nihayet bütçe konusunda bir fikir birliğine vardı.",
       "first_seen": "2026-09-28T00:24:56.961051+03:00",
@@ -2236,11 +2260,11 @@
       "ipa": "/kənˈsensəs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-28",
+      "last_shown_at": "2026-10-18",
       "level": "B2",
       "meaning_tr": "fikir birliği, mutabakat",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "consensus"
     },
@@ -3163,6 +3187,30 @@
       "unknown_count": 2,
       "word": "advocate"
     },
+    "bc2a06ec61": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "serious implications",
+        "future implications"
+      ],
+      "definition_en": "a possible effect or result of an action or decision",
+      "due": "2026-10-19",
+      "example": "The company needs to consider the financial implications before expanding overseas.",
+      "example_tr": "Şirket, yurtdışına açılmadan önce finansal sonuçları dikkate almalıdır.",
+      "first_seen": "2026-10-18T14:17:48.400327+03:00",
+      "id": "bc2a06ec61",
+      "ipa": "/ˌɪm.plɪˈkeɪ.ʃən/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-18",
+      "level": "B2",
+      "meaning_tr": "olası sonuç, ima, çıkarım",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "implication"
+    },
     "bd11cad60c": {
       "answered_count": 0,
       "box": 1,
@@ -4052,6 +4100,30 @@
       "unknown_count": 0,
       "word": "confront"
     },
+    "eeb2e3a51b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "exacerbate the situation",
+        "exacerbate tension"
+      ],
+      "definition_en": "to make a problem or bad situation worse",
+      "due": "2026-10-19",
+      "example": "The heavy rain will exacerbate the already severe traffic problems in the city.",
+      "example_tr": "Şiddetli yağmur, şehirdeki zaten ciddi olan trafik sorunlarını kötüleştirecek.",
+      "first_seen": "2026-10-18T14:17:48.400327+03:00",
+      "id": "eeb2e3a51b",
+      "ipa": "/ɪɡˈzæs.ə.beɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-18",
+      "level": "C1",
+      "meaning_tr": "kötüleştirmek, şiddetlendirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "exacerbate"
+    },
     "f06d5aa47b": {
       "answered_count": 0,
       "box": 1,
@@ -4271,8 +4343,189 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-18T00:46:20.098118+03:00",
-  "pool": [],
+  "last_sent_at": "2026-10-18T14:17:48.400327+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "move inexorably",
+        "lead inexorably"
+      ],
+      "definition_en": "in a way that is impossible to stop or prevent",
+      "example": "The technology industry is moving inexorably toward total automation in production.",
+      "example_tr": "Teknoloji sektörü kaçınılmaz şekilde üretimde tam otomasyona doğru ilerliyor.",
+      "ipa": "/ɪnˈek.sər.ə.bli/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "kaçınılmaz şekilde, amansızca",
+      "pos": "adverb",
+      "word": "inexorably"
+    },
+    {
+      "collocations": [
+        "in the pipeline",
+        "projects in the pipeline"
+      ],
+      "definition_en": "being planned, prepared, or developed for future release",
+      "example": "Several innovative software updates are currently in the pipeline for next year.",
+      "example_tr": "Gelecek yıl için şu anda hazırlanmakta olan birkaç yenilikçi yazılım güncellemesi var.",
+      "ipa": "/ɪn ðə ˈpaɪp.laɪn/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "yolda, hazırlanmakta, plan aşamasında",
+      "pos": "phrase",
+      "word": "in the pipeline"
+    },
+    {
+      "collocations": [
+        "lead to complacency",
+        "avoid complacency"
+      ],
+      "definition_en": "a feeling of quiet satisfaction with oneself while unaware of danger",
+      "example": "Economic success can sometimes lead to complacency among corporate business leaders.",
+      "example_tr": "Ekonomik başarı bazen kurumsal iş liderleri arasında rehavete yol açabilir.",
+      "ipa": "/kəmˈpleɪ.sən.si/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "rehavet, kendinden memnun olma",
+      "pos": "noun",
+      "word": "complacency"
+    },
+    {
+      "collocations": [
+        "solicit feedback",
+        "solicit donations"
+      ],
+      "definition_en": "to ask someone for money, information, help, or support",
+      "example": "The organization is actively trying to solicit feedback from all its users.",
+      "example_tr": "Kuruluş, tüm kullanıcılarından aktif olarak geri bildirim talep etmeye çalışıyor.",
+      "ipa": "/səˈlɪs.ɪt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "talep etmek, istemek, rica etmek",
+      "pos": "verb",
+      "word": "solicit"
+    },
+    {
+      "collocations": [
+        "impartial advice",
+        "remain impartial"
+      ],
+      "definition_en": "not supporting one person or group more than another",
+      "example": "A judge must remain impartial throughout the entire legal trial process.",
+      "example_tr": "Bir yargıç tüm yasal dava süreci boyunca tarafsız kalmalıdır.",
+      "ipa": "/ɪmˈpɑː.ʃəl/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "tarafsız, adil, nesnel",
+      "pos": "adjective",
+      "word": "impartial"
+    },
+    {
+      "collocations": [
+        "growing divergence",
+        "divergence of opinion"
+      ],
+      "definition_en": "a difference or variation between two or more things",
+      "example": "There is a growing divergence between public opinion and government policies.",
+      "example_tr": "Kamuoyu ile hükümet politikaları arasında büyüyen bir farklılaşma var.",
+      "ipa": "/daɪˈvɜː.dʒəns/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "farklılaşma, ayrışma, sapma",
+      "pos": "noun",
+      "word": "divergence"
+    },
+    {
+      "collocations": [
+        "clearly delineate",
+        "delineate boundaries"
+      ],
+      "definition_en": "to describe or portray something precisely in detail",
+      "example": "The document clearly delineates the duties and responsibilities of each team member.",
+      "example_tr": "Belge, her bir takım üyesinin görev ve sorumluluklarını açıkça tanımlamaktadır.",
+      "ipa": "/dɪˈlɪn.i.eɪt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "anlatmak, hatlarını çizmek, betimlemek",
+      "pos": "verb",
+      "word": "delineate"
+    },
+    {
+      "collocations": [
+        "paradigm shift",
+        "dominant paradigm"
+      ],
+      "definition_en": "a typical example, pattern, or model of something",
+      "example": "The rise of remote work represents a major paradigm shift in business.",
+      "example_tr": "Uzaktan çalışmanın yükselişi, iş dünyasında büyük bir paradigma değişimini temsil ediyor.",
+      "ipa": "/ˈpær.ə.daɪm/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "model, örnek, paradigma",
+      "pos": "noun",
+      "word": "paradigm"
+    },
+    {
+      "collocations": [
+        "react spontaneously",
+        "occur spontaneously"
+      ],
+      "definition_en": "in a way that is natural and not planned ahead",
+      "example": "The audience started clapping spontaneously at the end of the powerful performance.",
+      "example_tr": "Seyirciler, etkileyici performansın sonunda kendiliğinden alkışlamaya başladılar.",
+      "ipa": "/spɒnˈteɪ.ni.əs.li/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "kendiliğinden, aniden, içten geldiği gibi",
+      "pos": "adverb",
+      "word": "spontaneously"
+    },
+    {
+      "collocations": [
+        "put it in a nutshell",
+        "in a nutshell"
+      ],
+      "definition_en": "stated in very few words, briefly and clearly",
+      "example": "In a nutshell, the proposed project will reduce costs and save time.",
+      "example_tr": "Özetle, önerilen proje maliyetleri düşürecek ve zaman kazandıracak.",
+      "ipa": "/ɪn ə ˈnʌt.ʃel/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "özetle, kısacası",
+      "pos": "phrase",
+      "word": "in a nutshell"
+    },
+    {
+      "collocations": [
+        "instigate reform",
+        "instigate an investigation"
+      ],
+      "definition_en": "to bring about or initiate an action or event",
+      "example": "The board decided to instigate a full investigation into the matter.",
+      "example_tr": "Yönetim kurulu konuyla ilgili tam bir soruşturma başlatmaya karar verdi.",
+      "ipa": "/ˈɪn.stɪ.ɡeɪt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "başlatmak, körüklemek, teşvik etmek",
+      "pos": "verb",
+      "word": "instigate"
+    },
+    {
+      "collocations": [
+        "astute observation",
+        "astute investor"
+      ],
+      "definition_en": "having an ability to accurately assess situations to one's advantage",
+      "example": "Her astute business decisions helped the small startup become highly profitable.",
+      "example_tr": "Onun zekice iş kararları, küçük girişim şirketinin oldukça karlı hale gelmesine yardımcı oldu.",
+      "ipa": "/əˈstjuːt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "zekice, ferasetli, öngörülü",
+      "pos": "adjective",
+      "word": "astute"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
