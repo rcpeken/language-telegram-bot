@@ -32,7 +32,7 @@
         "scrutinize details"
       ],
       "definition_en": "To examine or inspect something very closely and thoroughly.",
-      "due": "2026-09-30",
+      "due": "2026-10-20",
       "example": "Customers are beginning to closely scrutinize the environmental policies of major brands.",
       "example_tr": "Müşteriler, büyük markaların çevre politikalarını dikkatle incelemeye başlıyor.",
       "first_seen": "2026-09-21T23:00:55.142227+03:00",
@@ -40,11 +40,11 @@
       "ipa": "/ˈskruːtənaɪz/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-29",
+      "last_shown_at": "2026-10-19",
       "level": "C1",
       "meaning_tr": "dikkatle incelemek, mercek altına almak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "scrutinize"
     },
@@ -1760,6 +1760,30 @@
       "unknown_count": 0,
       "word": "feasibility"
     },
+    "64a1dab359": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "paradigm shift",
+        "dominant paradigm"
+      ],
+      "definition_en": "a typical example, pattern, or model of something",
+      "due": "2026-10-20",
+      "example": "The rise of remote work represents a major paradigm shift in business.",
+      "example_tr": "Uzaktan çalışmanın yükselişi, iş dünyasında büyük bir paradigma değişimini temsil ediyor.",
+      "first_seen": "2026-10-19T16:30:11.649625+03:00",
+      "id": "64a1dab359",
+      "ipa": "/ˈpær.ə.daɪm/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-19",
+      "level": "C1",
+      "meaning_tr": "model, örnek, paradigma",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "paradigm"
+    },
     "64c4b3a8ce": {
       "answered_count": 0,
       "box": 1,
@@ -2727,6 +2751,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "bottleneck"
+    },
+    "9e2cecd348": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "clearly delineate",
+        "delineate boundaries"
+      ],
+      "definition_en": "to describe or portray something precisely in detail",
+      "due": "2026-10-20",
+      "example": "The document clearly delineates the duties and responsibilities of each team member.",
+      "example_tr": "Belge, her bir takım üyesinin görev ve sorumluluklarını açıkça tanımlamaktadır.",
+      "first_seen": "2026-10-19T16:30:11.649625+03:00",
+      "id": "9e2cecd348",
+      "ipa": "/dɪˈlɪn.i.eɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-19",
+      "level": "C1",
+      "meaning_tr": "anlatmak, hatlarını çizmek, betimlemek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "delineate"
     },
     "a068422491": {
       "answered_count": 0,
@@ -4100,6 +4148,30 @@
       "unknown_count": 0,
       "word": "comprehensive"
     },
+    "e46126300b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "react spontaneously",
+        "occur spontaneously"
+      ],
+      "definition_en": "in a way that is natural and not planned ahead",
+      "due": "2026-10-20",
+      "example": "The audience started clapping spontaneously at the end of the powerful performance.",
+      "example_tr": "Seyirciler, etkileyici performansın sonunda kendiliğinden alkışlamaya başladılar.",
+      "first_seen": "2026-10-19T16:30:11.649625+03:00",
+      "id": "e46126300b",
+      "ipa": "/spɒnˈteɪ.ni.əs.li/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-19",
+      "level": "B2",
+      "meaning_tr": "kendiliğinden, aniden, içten geldiği gibi",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "spontaneously"
+    },
     "e4b1811993": {
       "answered_count": 0,
       "box": 1,
@@ -4180,7 +4252,7 @@
         "negligible amount"
       ],
       "definition_en": "Too slight or small in amount to be of any importance.",
-      "due": "2026-09-29",
+      "due": "2026-10-20",
       "example": "The cost of the new office supplies was negligible compared to the total budget.",
       "example_tr": "Yeni ofis malzemelerinin maliyeti, toplam bütçeye kıyasla ihmal edilebilir düzeydeydi.",
       "first_seen": "2026-09-28T17:06:07.394692+03:00",
@@ -4188,11 +4260,11 @@
       "ipa": "/ˈneɡlɪdʒəbəl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-28",
+      "last_shown_at": "2026-10-19",
       "level": "C1",
       "meaning_tr": "ihmal edilebilir, önemsiz",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "negligible"
     },
@@ -4487,53 +4559,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-18T23:51:36.184580+03:00",
+  "last_sent_at": "2026-10-19T16:30:11.649625+03:00",
   "pool": [
-    {
-      "collocations": [
-        "clearly delineate",
-        "delineate boundaries"
-      ],
-      "definition_en": "to describe or portray something precisely in detail",
-      "example": "The document clearly delineates the duties and responsibilities of each team member.",
-      "example_tr": "Belge, her bir takım üyesinin görev ve sorumluluklarını açıkça tanımlamaktadır.",
-      "ipa": "/dɪˈlɪn.i.eɪt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "anlatmak, hatlarını çizmek, betimlemek",
-      "pos": "verb",
-      "word": "delineate"
-    },
-    {
-      "collocations": [
-        "paradigm shift",
-        "dominant paradigm"
-      ],
-      "definition_en": "a typical example, pattern, or model of something",
-      "example": "The rise of remote work represents a major paradigm shift in business.",
-      "example_tr": "Uzaktan çalışmanın yükselişi, iş dünyasında büyük bir paradigma değişimini temsil ediyor.",
-      "ipa": "/ˈpær.ə.daɪm/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "model, örnek, paradigma",
-      "pos": "noun",
-      "word": "paradigm"
-    },
-    {
-      "collocations": [
-        "react spontaneously",
-        "occur spontaneously"
-      ],
-      "definition_en": "in a way that is natural and not planned ahead",
-      "example": "The audience started clapping spontaneously at the end of the powerful performance.",
-      "example_tr": "Seyirciler, etkileyici performansın sonunda kendiliğinden alkışlamaya başladılar.",
-      "ipa": "/spɒnˈteɪ.ni.əs.li/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "kendiliğinden, aniden, içten geldiği gibi",
-      "pos": "adverb",
-      "word": "spontaneously"
-    },
     {
       "collocations": [
         "put it in a nutshell",
