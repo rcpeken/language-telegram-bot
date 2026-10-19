@@ -272,7 +272,7 @@
         "stop abruptly"
       ],
       "definition_en": "In a sudden and unexpected way, often without warning.",
-      "due": "2026-09-30",
+      "due": "2026-10-20",
       "example": "The presentation ended abruptly when the fire alarm suddenly started ringing.",
       "example_tr": "Yangın alarmı aniden çalmaya başladığında sunum aniden sona erdi.",
       "first_seen": "2026-09-21T23:00:55.142227+03:00",
@@ -280,11 +280,11 @@
       "ipa": "/əˈbrʌptli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-29",
+      "last_shown_at": "2026-10-19",
       "level": "B2",
       "meaning_tr": "aniden, birdenbire, pat diye",
       "pos": "adverb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "abruptly"
     },
@@ -560,7 +560,7 @@
         "take someone for granted"
       ],
       "definition_en": "To value something too lightly or fail to appreciate its true worth.",
-      "due": "2026-09-30",
+      "due": "2026-10-20",
       "example": "We often take our health for granted until we actually get sick.",
       "example_tr": "Genellikle gerçekten hastalanana kadar sağlığımızın değerini bilmeyiz.",
       "first_seen": "2026-09-21T15:57:00.954283+03:00",
@@ -568,11 +568,11 @@
       "ipa": "/teɪk fɔː(r) ˈɡrɑːntɪd/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-29",
+      "last_shown_at": "2026-10-19",
       "level": "B2",
       "meaning_tr": "hafife almak, değerini bilmemek, cepte keklik görmek",
       "pos": "phrase",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "take for granted"
     },
@@ -791,6 +791,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "friction"
+    },
+    "2bd9225010": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "instigate reform",
+        "instigate an investigation"
+      ],
+      "definition_en": "to bring about or initiate an action or event",
+      "due": "2026-10-20",
+      "example": "The board decided to instigate a full investigation into the matter.",
+      "example_tr": "Yönetim kurulu konuyla ilgili tam bir soruşturma başlatmaya karar verdi.",
+      "first_seen": "2026-10-19T23:37:13.492061+03:00",
+      "id": "2bd9225010",
+      "ipa": "/ˈɪn.stɪ.ɡeɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-19",
+      "level": "C1",
+      "meaning_tr": "başlatmak, körüklemek, teşvik etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "instigate"
     },
     "2c66b21f25": {
       "answered_count": 0,
@@ -1590,6 +1614,30 @@
       "shown_count": 5,
       "unknown_count": 1,
       "word": "relevance"
+    },
+    "5dfd3b67eb": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "put it in a nutshell",
+        "in a nutshell"
+      ],
+      "definition_en": "stated in very few words, briefly and clearly",
+      "due": "2026-10-20",
+      "example": "In a nutshell, the proposed project will reduce costs and save time.",
+      "example_tr": "Özetle, önerilen proje maliyetleri düşürecek ve zaman kazandıracak.",
+      "first_seen": "2026-10-19T23:37:13.492061+03:00",
+      "id": "5dfd3b67eb",
+      "ipa": "/ɪn ə ˈnʌt.ʃel/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-19",
+      "level": "B2",
+      "meaning_tr": "özetle, kısacası",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in a nutshell"
     },
     "5e7aebf62c": {
       "answered_count": 0,
@@ -3691,6 +3739,30 @@
       "unknown_count": 0,
       "word": "shed light on"
     },
+    "ccf2d48eab": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "astute observation",
+        "astute investor"
+      ],
+      "definition_en": "having an ability to accurately assess situations to one's advantage",
+      "due": "2026-10-20",
+      "example": "Her astute business decisions helped the small startup become highly profitable.",
+      "example_tr": "Onun zekice iş kararları, küçük girişim şirketinin oldukça karlı hale gelmesine yardımcı oldu.",
+      "first_seen": "2026-10-19T23:37:13.492061+03:00",
+      "id": "ccf2d48eab",
+      "ipa": "/əˈstjuːt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-19",
+      "level": "C1",
+      "meaning_tr": "zekice, ferasetli, öngörülü",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "astute"
+    },
     "cfb3e75d63": {
       "answered_count": 0,
       "box": 1,
@@ -4559,54 +4631,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-19T16:30:11.649625+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "put it in a nutshell",
-        "in a nutshell"
-      ],
-      "definition_en": "stated in very few words, briefly and clearly",
-      "example": "In a nutshell, the proposed project will reduce costs and save time.",
-      "example_tr": "Özetle, önerilen proje maliyetleri düşürecek ve zaman kazandıracak.",
-      "ipa": "/ɪn ə ˈnʌt.ʃel/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "özetle, kısacası",
-      "pos": "phrase",
-      "word": "in a nutshell"
-    },
-    {
-      "collocations": [
-        "instigate reform",
-        "instigate an investigation"
-      ],
-      "definition_en": "to bring about or initiate an action or event",
-      "example": "The board decided to instigate a full investigation into the matter.",
-      "example_tr": "Yönetim kurulu konuyla ilgili tam bir soruşturma başlatmaya karar verdi.",
-      "ipa": "/ˈɪn.stɪ.ɡeɪt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "başlatmak, körüklemek, teşvik etmek",
-      "pos": "verb",
-      "word": "instigate"
-    },
-    {
-      "collocations": [
-        "astute observation",
-        "astute investor"
-      ],
-      "definition_en": "having an ability to accurately assess situations to one's advantage",
-      "example": "Her astute business decisions helped the small startup become highly profitable.",
-      "example_tr": "Onun zekice iş kararları, küçük girişim şirketinin oldukça karlı hale gelmesine yardımcı oldu.",
-      "ipa": "/əˈstjuːt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "zekice, ferasetli, öngörülü",
-      "pos": "adjective",
-      "word": "astute"
-    }
-  ],
+  "last_sent_at": "2026-10-19T23:37:13.492061+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
