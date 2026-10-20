@@ -1984,7 +1984,7 @@
         "implement changes"
       ],
       "definition_en": "To start using a plan, system, or decision.",
-      "due": "2026-09-30",
+      "due": "2026-10-22",
       "example": "The local government decided to implement new recycling policies starting next month.",
       "example_tr": "Yerel yönetim önümüzdeki aydan itibaren yeni geri dönüşüm politikalarını uygulamaya karar verdi.",
       "first_seen": "2026-09-16T15:02:30.116093+03:00",
@@ -1994,11 +1994,11 @@
       "lang": "en",
       "last_answer": "known",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-09-29",
+      "last_shown_at": "2026-10-21",
       "level": "B2",
       "meaning_tr": "uygulamak, yürürlüğe koymak, gerçekleştirmek",
       "pos": "verb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "implement"
     },
@@ -4566,7 +4566,7 @@
         "succeed at the expense of"
       ],
       "definition_en": "In a way that harms or damages something or someone else.",
-      "due": "2026-09-30",
+      "due": "2026-10-22",
       "example": "He achieved commercial success at the expense of his own physical health.",
       "example_tr": "Kendi fiziksel sağlığı pahasına ticari başarı elde etti.",
       "first_seen": "2026-09-29T00:15:48.191361+03:00",
@@ -4574,11 +4574,11 @@
       "ipa": "/æt ði ɪkˈspens ɒv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-29",
+      "last_shown_at": "2026-10-21",
       "level": "C1",
       "meaning_tr": "pahasına, zararına",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "at the expense of"
     },
@@ -4631,7 +4631,7 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-20T20:16:16.232078+03:00",
+  "last_sent_at": "2026-10-21T00:41:54.532578+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
