@@ -3289,7 +3289,7 @@
         "unravel a plot"
       ],
       "definition_en": "To find the correct explanation for something that is difficult to understand.",
-      "due": "2026-09-30",
+      "due": "2026-10-21",
       "example": "Detectives worked tirelessly to unravel the mystery behind the sudden disappearance.",
       "example_tr": "Dedektifler, ani kayboluşun arkasındaki gizemi aydınlatmak için yorulmadan çalıştılar.",
       "first_seen": "2026-09-29T00:15:48.191361+03:00",
@@ -3297,11 +3297,11 @@
       "ipa": "/ʌnˈrævəl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-29",
+      "last_shown_at": "2026-10-20",
       "level": "C1",
       "meaning_tr": "çözülmek, aydınlatmak, ortaya çıkarmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "unravel"
     },
@@ -3459,7 +3459,7 @@
         "soothe nerves"
       ],
       "definition_en": "To make someone feel calm or to make pain less severe.",
-      "due": "2026-09-30",
+      "due": "2026-10-21",
       "example": "The gentle music helped to soothe the crying baby after a long day.",
       "example_tr": "Hafif müzik, uzun bir günün ardından ağlayan bebeği sakinleştirmeye yardımcı oldu.",
       "first_seen": "2026-09-29T00:15:48.191361+03:00",
@@ -3467,11 +3467,11 @@
       "ipa": "/suːð/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-29",
+      "last_shown_at": "2026-10-20",
       "level": "B2",
       "meaning_tr": "yatıştırmak, sakinleştirmek, dindirmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "soothe"
     },
@@ -4631,7 +4631,7 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-19T23:37:13.492061+03:00",
+  "last_sent_at": "2026-10-20T14:46:57.189957+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
