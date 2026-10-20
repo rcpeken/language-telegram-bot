@@ -4083,7 +4083,7 @@
         "jeopardize a relationship"
       ],
       "definition_en": "To put something such as a plan or system in danger of being damaged or destroyed.",
-      "due": "2026-09-30",
+      "due": "2026-10-21",
       "example": "Missing this deadline could jeopardize the entire project and cost us millions.",
       "example_tr": "Bu teslim tarihini kaçırmak tüm projeyi tehlikeye atabilir ve bize milyonlara mal olabilir.",
       "first_seen": "2026-09-20T19:12:56.042085+03:00",
@@ -4091,11 +4091,11 @@
       "ipa": "/ˈdʒepərdaɪz/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-29",
+      "last_shown_at": "2026-10-20",
       "level": "C1",
       "meaning_tr": "tehlikeye atmak, riske sokmak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "jeopardize"
     },
@@ -4300,7 +4300,7 @@
         "viable option"
       ],
       "definition_en": "Capable of working successfully; feasible or practical.",
-      "due": "2026-09-30",
+      "due": "2026-10-21",
       "example": "The committee is looking for a viable alternative to the current transport system.",
       "example_tr": "Komite, mevcut ulaşım sistemine uygulanabilir bir alternatif arıyor.",
       "first_seen": "2026-09-20T23:53:42.065471+03:00",
@@ -4308,11 +4308,11 @@
       "ipa": "/ˈvaɪəbl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-09-29",
+      "last_shown_at": "2026-10-20",
       "level": "C1",
       "meaning_tr": "uygulanabilir, geçerli, yaşayabilir",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "viable"
     },
@@ -4631,7 +4631,7 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-20T14:46:57.189957+03:00",
+  "last_sent_at": "2026-10-20T20:16:16.232078+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
