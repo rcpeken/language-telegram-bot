@@ -152,7 +152,7 @@
         "examine superficially"
       ],
       "definition_en": "In a way that is only on the surface and not deep or complete.",
-      "due": "2026-10-02",
+      "due": "2026-10-23",
       "example": "The two cultures appear superficially similar, but they have very different core values.",
       "example_tr": "İki kültür yüzeysel olarak benzer görünüyor, ancak çok farklı temel değerlere sahipler.",
       "first_seen": "2026-09-22T20:01:38.397678+03:00",
@@ -160,11 +160,11 @@
       "ipa": "/ˌsuːpəˈfɪʃəli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-01",
+      "last_shown_at": "2026-10-22",
       "level": "C1",
       "meaning_tr": "yüzeysel olarak, görünüşte",
       "pos": "adverb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "superficially"
     },
@@ -176,7 +176,7 @@
         "deviate significantly"
       ],
       "definition_en": "To do something that is different from the usual or common way of behaving.",
-      "due": "2026-10-02",
+      "due": "2026-10-23",
       "example": "We should not deviate from our original plan unless it is absolutely necessary.",
       "example_tr": "Kesinlikle gerekli olmadıkça orijinal planımızdan sapmamalıyız.",
       "first_seen": "2026-10-01T16:27:32.506890+03:00",
@@ -184,11 +184,11 @@
       "ipa": "/ˈdiːvieɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-01",
+      "last_shown_at": "2026-10-22",
       "level": "C1",
       "meaning_tr": "sapmak, yönünü değiştirmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "deviate"
     },
@@ -1975,6 +1975,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "deterrent"
+    },
+    "6df1184ec1": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "easy in retrospect",
+        "seem obvious in retrospect"
+      ],
+      "definition_en": "thinking about a past event with a new understanding",
+      "due": "2026-10-23",
+      "example": "In retrospect, we should have spent more time planning the project before launching it.",
+      "example_tr": "Geriye dönüp bakıldığında, projeyi başlatmadan önce planlamaya daha fazla zaman ayırmalıydık.",
+      "first_seen": "2026-10-22T00:47:42.910778+03:00",
+      "id": "6df1184ec1",
+      "ipa": "/ɪn ˈret.rə.spekt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-22",
+      "level": "C1",
+      "meaning_tr": "geriye dönüp bakıldığında, geçmişe bakılırsa",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in retrospect"
     },
     "6f2293150e": {
       "answered_count": 1,
@@ -4099,6 +4123,30 @@
       "unknown_count": 0,
       "word": "jeopardize"
     },
+    "e05f49f831": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "disrupt traffic",
+        "disrupt plans"
+      ],
+      "definition_en": "to interrupt an event, activity, or process by causing disturbance",
+      "due": "2026-10-23",
+      "example": "Heavy snowfall began to disrupt public transportation across the city early this morning.",
+      "example_tr": "Yoğun kar yağışı bu sabah erken saatlerde şehir genelinde toplu taşımayı aksatmaya başladı.",
+      "first_seen": "2026-10-22T00:47:42.910778+03:00",
+      "id": "e05f49f831",
+      "ipa": "/dɪsˈrʌpt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-22",
+      "level": "B2",
+      "meaning_tr": "bozmak, aksatmak, kesintiye uğratmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "disrupt"
+    },
     "e16f549664": {
       "answered_count": 0,
       "box": 1,
@@ -4195,6 +4243,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "meticulous"
+    },
+    "e401f6665c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "show perseverance",
+        "great perseverance"
+      ],
+      "definition_en": "continued effort to do something despite difficulties or delays",
+      "due": "2026-10-23",
+      "example": "Through hard work and perseverance, she finally achieved her goal of becoming a surgeon.",
+      "example_tr": "Çok çalışma ve azim sayesinde nihayet cerrah olma hedefine ulaştı.",
+      "first_seen": "2026-10-22T00:47:42.910778+03:00",
+      "id": "e401f6665c",
+      "ipa": "/ˌpɜː.sɪˈvɪə.rəns/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-22",
+      "level": "B2",
+      "meaning_tr": "azim, kararlılık, sebat",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "perseverance"
     },
     "e406677485": {
       "answered_count": 0,
@@ -4631,8 +4703,189 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-21T20:18:45.575439+03:00",
-  "pool": [],
+  "last_sent_at": "2026-10-22T00:47:42.910778+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "act swiftly",
+        "move swiftly"
+      ],
+      "definition_en": "moving or happening with high speed and efficiency",
+      "example": "The emergency services reacted swiftly to minimize the damage caused by the sudden flood.",
+      "example_tr": "Acil servisler, ani selin neden olduğu hasarı en aza indirmek için hızla harekete geçti.",
+      "ipa": "/ˈswɪft.li/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "hızla, süratle, çabucak",
+      "pos": "adverb",
+      "word": "swiftly"
+    },
+    {
+      "collocations": [
+        "affluent society",
+        "affluent area"
+      ],
+      "definition_en": "having a lot of money or owning many expensive things",
+      "example": "The company decided to open its luxury store in an affluent neighborhood of London.",
+      "example_tr": "Şirket, lüks mağazasını Londra'nın varlıklı bir semtinde açmaya karar verdi.",
+      "ipa": "/ˈæf.lu.ənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "zengin, refah içinde, varlıklı",
+      "pos": "adjective",
+      "word": "affluent"
+    },
+    {
+      "collocations": [
+        "voter turnout",
+        "high turnout"
+      ],
+      "definition_en": "the number of people who attend an event or vote in an election",
+      "example": "The election saw a remarkably high turnout despite the terrible weather conditions yesterday.",
+      "example_tr": "Dünkü berbat hava koşullarına rağmen seçimde oldukça yüksek bir katılım oranı görüldü.",
+      "ipa": "/ˈtɜːn.aʊt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "katılım oranı, kalabalık, katılanlar",
+      "pos": "noun",
+      "word": "turnout"
+    },
+    {
+      "collocations": [
+        "surpass expectations",
+        "surpass limits"
+      ],
+      "definition_en": "to become better, greater, or stronger than someone or something else",
+      "example": "Our annual profits managed to surpass all initial expectations set by the board members.",
+      "example_tr": "Yıllık kârımız, yönetim kurulu üyeleri tarafından belirlenen ilk beklentilerin hepsini aşmayı başardı.",
+      "ipa": "/səˈpɑːs/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "aşmak, geride bırakmak, üstün gelmek",
+      "pos": "verb",
+      "word": "surpass"
+    },
+    {
+      "collocations": [
+        "stand at a crossroads",
+        "be at a crossroads"
+      ],
+      "definition_en": "at a point where an important decision must be made",
+      "example": "After finishing university, David felt he was at a crossroads regarding his future career.",
+      "example_tr": "Üniversiteyi bitirdikten sonra David, gelecekteki kariyeri konusunda bir dönüm noktasında olduğunu hissetti.",
+      "ipa": "/æt ə ˈkrɒs.rəʊdz/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "karar aşamasında, dönüm noktasında",
+      "pos": "phrase",
+      "word": "at a crossroads"
+    },
+    {
+      "collocations": [
+        "hesitant about",
+        "feel hesitant"
+      ],
+      "definition_en": "slow to act or speak because of uncertainty or unwillingness",
+      "example": "She was initially hesitant to accept the job offer because of the long commute.",
+      "example_tr": "Uzak yoldan gidip gelme yüzünden iş teklifini kabul etme konusunda başlangıçta tereddütlüydü.",
+      "ipa": "/ˈhez.ɪ.tənt/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "tereddütlü, kararsız, çekimser",
+      "pos": "adjective",
+      "word": "hesitant"
+    },
+    {
+      "collocations": [
+        "cultural preconceptions",
+        "challenge preconceptions"
+      ],
+      "definition_en": "an idea formed before having full knowledge or evidence about something",
+      "example": "Traveling abroad helped him challenge many of his original preconceptions about other cultures.",
+      "example_tr": "Yurtdışına seyahat etmek, diğer kültürler hakkındaki birçok asılsız peşin fikrini sorgulamasına yardımcı oldu.",
+      "ipa": "/ˌpriː.kənˈsep.ʃən/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "peşin fikir, önyargı, ön kabul",
+      "pos": "noun",
+      "word": "preconception"
+    },
+    {
+      "collocations": [
+        "underlying cause",
+        "underlying issue"
+      ],
+      "definition_en": "real but not immediately obvious base of a situation or problem",
+      "example": "Doctors are working to identify the underlying cause of her sudden physical illness.",
+      "example_tr": "Doktorlar, onun ani fiziksel rahatsızlığının altında yatan nedeni belirlemek için çalışıyorlar.",
+      "ipa": "/ˌʌn.dəˈlaɪ.ɪŋ/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "altında yatan, temel, asıl",
+      "pos": "adjective",
+      "word": "underlying"
+    },
+    {
+      "collocations": [
+        "take factors into account",
+        "fail to take into account"
+      ],
+      "definition_en": "to consider a particular factor when judging a situation or making plans",
+      "example": "You must take into account all additional expenses before agreeing to the business proposal.",
+      "example_tr": "İş teklifini kabul etmeden önce tüm ek masrafları hesaba katmalısınız.",
+      "ipa": "/teɪk ˈɪn.tuː əˈkaʊnt/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "dikkate almak, hesaba katmak",
+      "pos": "phrase",
+      "word": "take into account"
+    },
+    {
+      "collocations": [
+        "thoroughly enjoy",
+        "investigate thoroughly"
+      ],
+      "definition_en": "completely, meticulously, and with great attention to detail",
+      "example": "The police investigated the scene thoroughly to collect all possible pieces of evidence.",
+      "example_tr": "Polis, olası tüm kanıt parçalarını toplamak için olay yerini etraflıca inceledi.",
+      "ipa": "/ˈθʌr.ə.li/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "etraflıca, tamamen, iyice",
+      "pos": "adverb",
+      "word": "thoroughly"
+    },
+    {
+      "collocations": [
+        "stagnant economy",
+        "stagnant wages"
+      ],
+      "definition_en": "showing no activity, growth, movement, or development",
+      "example": "The economy remained largely stagnant throughout the third quarter of this fiscal year.",
+      "example_tr": "Ekonomi, bu mali yılın üçüncü çeyreği boyunca büyük ölçüde durgun kaldı.",
+      "ipa": "/ˈstæɡ.nənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "durgun, gelişmeyen, hareketsiz",
+      "pos": "adjective",
+      "word": "stagnant"
+    },
+    {
+      "collocations": [
+        "relocate business",
+        "relocate abroad"
+      ],
+      "definition_en": "to move to a new place to live or conduct business",
+      "example": "The firm decided to relocate its regional headquarters to a larger facility downtown.",
+      "example_tr": "Firma, bölge merkezini şehir merkezindeki daha büyük bir tesise taşımaya karar verdi.",
+      "ipa": "/ˌriː.ləʊˈkeɪt/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "taşınmak, yerini değiştirmek",
+      "pos": "verb",
+      "word": "relocate"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
