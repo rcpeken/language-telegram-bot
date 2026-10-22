@@ -2170,6 +2170,30 @@
       "unknown_count": 0,
       "word": "superfluous"
     },
+    "7119ac9af4": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "take factors into account",
+        "fail to take into account"
+      ],
+      "definition_en": "to consider a particular factor when judging a situation or making plans",
+      "due": "2026-10-24",
+      "example": "You must take into account all additional expenses before agreeing to the business proposal.",
+      "example_tr": "İş teklifini kabul etmeden önce tüm ek masrafları hesaba katmalısınız.",
+      "first_seen": "2026-10-23T00:42:24.192696+03:00",
+      "id": "7119ac9af4",
+      "ipa": "/teɪk ˈɪn.tuː əˈkaʊnt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-23",
+      "level": "B2",
+      "meaning_tr": "dikkate almak, hesaba katmak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "take into account"
+    },
     "7143835e73": {
       "answered_count": 0,
       "box": 1,
@@ -2507,6 +2531,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "endorse"
+    },
+    "84a597f294": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "underlying cause",
+        "underlying issue"
+      ],
+      "definition_en": "real but not immediately obvious base of a situation or problem",
+      "due": "2026-10-24",
+      "example": "Doctors are working to identify the underlying cause of her sudden physical illness.",
+      "example_tr": "Doktorlar, onun ani fiziksel rahatsızlığının altında yatan nedeni belirlemek için çalışıyorlar.",
+      "first_seen": "2026-10-23T00:42:24.192696+03:00",
+      "id": "84a597f294",
+      "ipa": "/ˌʌn.dəˈlaɪ.ɪŋ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-23",
+      "level": "B2",
+      "meaning_tr": "altında yatan, temel, asıl",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "underlying"
     },
     "8a2e3bd9e6": {
       "answered_count": 0,
@@ -2896,6 +2944,30 @@
       "unknown_count": 1,
       "word": "resilient"
     },
+    "9b981a0041": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "cultural preconceptions",
+        "challenge preconceptions"
+      ],
+      "definition_en": "an idea formed before having full knowledge or evidence about something",
+      "due": "2026-10-24",
+      "example": "Traveling abroad helped him challenge many of his original preconceptions about other cultures.",
+      "example_tr": "Yurtdışına seyahat etmek, diğer kültürler hakkındaki birçok asılsız peşin fikrini sorgulamasına yardımcı oldu.",
+      "first_seen": "2026-10-23T00:42:24.192696+03:00",
+      "id": "9b981a0041",
+      "ipa": "/ˌpriː.kənˈsep.ʃən/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-23",
+      "level": "C1",
+      "meaning_tr": "peşin fikir, önyargı, ön kabul",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "preconception"
+    },
     "9cf683654a": {
       "answered_count": 0,
       "box": 1,
@@ -3048,7 +3120,7 @@
         "prevalent attitude"
       ],
       "definition_en": "Widely existing, accepted, or practiced in a particular place or time.",
-      "due": "2026-10-02",
+      "due": "2026-10-24",
       "example": "Remote working has become highly prevalent in the technology sector over recent years.",
       "example_tr": "Uzaktan çalışma, son yıllarda teknoloji sektöründe oldukça yaygın hale geldi.",
       "first_seen": "2026-09-21T15:57:00.954283+03:00",
@@ -3056,11 +3128,11 @@
       "ipa": "/ˈprevələnt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-01",
+      "last_shown_at": "2026-10-23",
       "level": "C1",
       "meaning_tr": "yaygın, genel, hakim",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "prevalent"
     },
@@ -3361,7 +3433,7 @@
         "virtually eliminated"
       ],
       "definition_en": "Almost or nearly; for all practical purposes.",
-      "due": "2026-10-02",
+      "due": "2026-10-24",
       "example": "It is virtually impossible to complete this complex project in just one day.",
       "example_tr": "Bu karmaşık projeyi sadece bir günde tamamlamak neredeyse imkansızdır.",
       "first_seen": "2026-10-01T23:22:20.246454+03:00",
@@ -3369,11 +3441,11 @@
       "ipa": "/ˈvɜːtʃuəli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-01",
+      "last_shown_at": "2026-10-23",
       "level": "B2",
       "meaning_tr": "neredeyse, hemen hemen, sanal olarak",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "virtually"
     },
@@ -4847,53 +4919,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-22T20:16:36.571567+03:00",
+  "last_sent_at": "2026-10-23T00:42:24.192696+03:00",
   "pool": [
-    {
-      "collocations": [
-        "cultural preconceptions",
-        "challenge preconceptions"
-      ],
-      "definition_en": "an idea formed before having full knowledge or evidence about something",
-      "example": "Traveling abroad helped him challenge many of his original preconceptions about other cultures.",
-      "example_tr": "Yurtdışına seyahat etmek, diğer kültürler hakkındaki birçok asılsız peşin fikrini sorgulamasına yardımcı oldu.",
-      "ipa": "/ˌpriː.kənˈsep.ʃən/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "peşin fikir, önyargı, ön kabul",
-      "pos": "noun",
-      "word": "preconception"
-    },
-    {
-      "collocations": [
-        "underlying cause",
-        "underlying issue"
-      ],
-      "definition_en": "real but not immediately obvious base of a situation or problem",
-      "example": "Doctors are working to identify the underlying cause of her sudden physical illness.",
-      "example_tr": "Doktorlar, onun ani fiziksel rahatsızlığının altında yatan nedeni belirlemek için çalışıyorlar.",
-      "ipa": "/ˌʌn.dəˈlaɪ.ɪŋ/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "altında yatan, temel, asıl",
-      "pos": "adjective",
-      "word": "underlying"
-    },
-    {
-      "collocations": [
-        "take factors into account",
-        "fail to take into account"
-      ],
-      "definition_en": "to consider a particular factor when judging a situation or making plans",
-      "example": "You must take into account all additional expenses before agreeing to the business proposal.",
-      "example_tr": "İş teklifini kabul etmeden önce tüm ek masrafları hesaba katmalısınız.",
-      "ipa": "/teɪk ˈɪn.tuː əˈkaʊnt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "dikkate almak, hesaba katmak",
-      "pos": "phrase",
-      "word": "take into account"
-    },
     {
       "collocations": [
         "thoroughly enjoy",
