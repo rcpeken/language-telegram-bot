@@ -264,6 +264,30 @@
       "unknown_count": 0,
       "word": "scarcity"
     },
+    "14b4a00f87": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "affluent society",
+        "affluent area"
+      ],
+      "definition_en": "having a lot of money or owning many expensive things",
+      "due": "2026-10-23",
+      "example": "The company decided to open its luxury store in an affluent neighborhood of London.",
+      "example_tr": "Şirket, lüks mağazasını Londra'nın varlıklı bir semtinde açmaya karar verdi.",
+      "first_seen": "2026-10-22T15:01:25.254389+03:00",
+      "id": "14b4a00f87",
+      "ipa": "/ˈæf.lu.ənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-22",
+      "level": "C1",
+      "meaning_tr": "zengin, refah içinde, varlıklı",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "affluent"
+    },
     "150bfe2fb9": {
       "answered_count": 0,
       "box": 1,
@@ -1163,7 +1187,7 @@
         "disparity between"
       ],
       "definition_en": "A noticeable and usually unfair difference or lack of similarity between two things.",
-      "due": "2026-10-02",
+      "due": "2026-10-23",
       "example": "There is still a significant economic disparity between the northern and southern regions.",
       "example_tr": "Kuzey ve güney bölgeleri arasında hala önemli bir ekonomik eşitsizlik var.",
       "first_seen": "2026-10-01T16:27:32.506890+03:00",
@@ -1171,11 +1195,11 @@
       "ipa": "/dɪˈspærəti/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-01",
+      "last_shown_at": "2026-10-22",
       "level": "C1",
       "meaning_tr": "eşitsizlik, farklılık, uçurum",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "disparity"
     },
@@ -1331,7 +1355,7 @@
         "vague answer"
       ],
       "definition_en": "Not clearly expressed, known, described, or decided.",
-      "due": "2026-10-02",
+      "due": "2026-10-23",
       "example": "The manager gave a very vague explanation about the reasons for the delay.",
       "example_tr": "Müdür, gecikmenin nedenleri hakkında çok belirsiz bir açıklama yaptı.",
       "first_seen": "2026-09-18T00:27:29.467923+03:00",
@@ -1339,11 +1363,11 @@
       "ipa": "/veɪɡ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-01",
+      "last_shown_at": "2026-10-22",
       "level": "B2",
       "meaning_tr": "belirsiz, net olmayan, muğlak",
       "pos": "adjective",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "vague"
     },
@@ -1540,6 +1564,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "lucrative"
+    },
+    "579d11ea71": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "act swiftly",
+        "move swiftly"
+      ],
+      "definition_en": "moving or happening with high speed and efficiency",
+      "due": "2026-10-23",
+      "example": "The emergency services reacted swiftly to minimize the damage caused by the sudden flood.",
+      "example_tr": "Acil servisler, ani selin neden olduğu hasarı en aza indirmek için hızla harekete geçti.",
+      "first_seen": "2026-10-22T15:01:25.254389+03:00",
+      "id": "579d11ea71",
+      "ipa": "/ˈswɪft.li/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-22",
+      "level": "B2",
+      "meaning_tr": "hızla, süratle, çabucak",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "swiftly"
     },
     "580c00e545": {
       "answered_count": 0,
@@ -3160,6 +3208,30 @@
       "unknown_count": 0,
       "word": "compile"
     },
+    "ae96b5b213": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "voter turnout",
+        "high turnout"
+      ],
+      "definition_en": "the number of people who attend an event or vote in an election",
+      "due": "2026-10-23",
+      "example": "The election saw a remarkably high turnout despite the terrible weather conditions yesterday.",
+      "example_tr": "Dünkü berbat hava koşullarına rağmen seçimde oldukça yüksek bir katılım oranı görüldü.",
+      "first_seen": "2026-10-22T15:01:25.254389+03:00",
+      "id": "ae96b5b213",
+      "ipa": "/ˈtɜːn.aʊt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-22",
+      "level": "C1",
+      "meaning_tr": "katılım oranı, kalabalık, katılanlar",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "turnout"
+    },
     "aefbe1fd79": {
       "answered_count": 0,
       "box": 1,
@@ -4703,53 +4775,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-22T00:47:42.910778+03:00",
+  "last_sent_at": "2026-10-22T15:01:25.254389+03:00",
   "pool": [
-    {
-      "collocations": [
-        "act swiftly",
-        "move swiftly"
-      ],
-      "definition_en": "moving or happening with high speed and efficiency",
-      "example": "The emergency services reacted swiftly to minimize the damage caused by the sudden flood.",
-      "example_tr": "Acil servisler, ani selin neden olduğu hasarı en aza indirmek için hızla harekete geçti.",
-      "ipa": "/ˈswɪft.li/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "hızla, süratle, çabucak",
-      "pos": "adverb",
-      "word": "swiftly"
-    },
-    {
-      "collocations": [
-        "affluent society",
-        "affluent area"
-      ],
-      "definition_en": "having a lot of money or owning many expensive things",
-      "example": "The company decided to open its luxury store in an affluent neighborhood of London.",
-      "example_tr": "Şirket, lüks mağazasını Londra'nın varlıklı bir semtinde açmaya karar verdi.",
-      "ipa": "/ˈæf.lu.ənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "zengin, refah içinde, varlıklı",
-      "pos": "adjective",
-      "word": "affluent"
-    },
-    {
-      "collocations": [
-        "voter turnout",
-        "high turnout"
-      ],
-      "definition_en": "the number of people who attend an event or vote in an election",
-      "example": "The election saw a remarkably high turnout despite the terrible weather conditions yesterday.",
-      "example_tr": "Dünkü berbat hava koşullarına rağmen seçimde oldukça yüksek bir katılım oranı görüldü.",
-      "ipa": "/ˈtɜːn.aʊt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "katılım oranı, kalabalık, katılanlar",
-      "pos": "noun",
-      "word": "turnout"
-    },
     {
       "collocations": [
         "surpass expectations",
