@@ -1347,6 +1347,30 @@
       "unknown_count": 0,
       "word": "surplus"
     },
+    "4ca072aa63": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "thoroughly enjoy",
+        "investigate thoroughly"
+      ],
+      "definition_en": "completely, meticulously, and with great attention to detail",
+      "due": "2026-10-24",
+      "example": "The police investigated the scene thoroughly to collect all possible pieces of evidence.",
+      "example_tr": "Polis, olası tüm kanıt parçalarını toplamak için olay yerini etraflıca inceledi.",
+      "first_seen": "2026-10-23T14:46:59.531636+03:00",
+      "id": "4ca072aa63",
+      "ipa": "/ˈθʌr.ə.li/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-23",
+      "level": "B2",
+      "meaning_tr": "etraflıca, tamamen, iyice",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "thoroughly"
+    },
     "4ca277de59": {
       "answered_count": 0,
       "box": 1,
@@ -2484,6 +2508,30 @@
       "unknown_count": 0,
       "word": "complacency"
     },
+    "818123e40b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "stagnant economy",
+        "stagnant wages"
+      ],
+      "definition_en": "showing no activity, growth, movement, or development",
+      "due": "2026-10-24",
+      "example": "The economy remained largely stagnant throughout the third quarter of this fiscal year.",
+      "example_tr": "Ekonomi, bu mali yılın üçüncü çeyreği boyunca büyük ölçüde durgun kaldı.",
+      "first_seen": "2026-10-23T14:46:59.531636+03:00",
+      "id": "818123e40b",
+      "ipa": "/ˈstæɡ.nənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-23",
+      "level": "C1",
+      "meaning_tr": "durgun, gelişmeyen, hareketsiz",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "stagnant"
+    },
     "81ee8caa2d": {
       "answered_count": 0,
       "box": 1,
@@ -3256,6 +3304,30 @@
       "unknown_count": 0,
       "word": "incentive"
     },
+    "a901a3542e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "relocate business",
+        "relocate abroad"
+      ],
+      "definition_en": "to move to a new place to live or conduct business",
+      "due": "2026-10-24",
+      "example": "The firm decided to relocate its regional headquarters to a larger facility downtown.",
+      "example_tr": "Firma, bölge merkezini şehir merkezindeki daha büyük bir tesise taşımaya karar verdi.",
+      "first_seen": "2026-10-23T14:46:59.531636+03:00",
+      "id": "a901a3542e",
+      "ipa": "/ˌriː.ləʊˈkeɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-23",
+      "level": "B2",
+      "meaning_tr": "taşınmak, yerini değiştirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "relocate"
+    },
     "aa01b76a61": {
       "answered_count": 0,
       "box": 1,
@@ -3747,7 +3819,7 @@
         "utterly perplexed"
       ],
       "definition_en": "Confused and anxious because you are unable to understand something.",
-      "due": "2026-10-02",
+      "due": "2026-10-24",
       "example": "The teacher looked perplexed when none of the students could answer the simple question.",
       "example_tr": "Öğrencilerin hiçbiri basit soruyu cevaplayamadığında öğretmen şaşkın görünüyordu.",
       "first_seen": "2026-10-01T16:27:32.506890+03:00",
@@ -3755,11 +3827,11 @@
       "ipa": "/pəˈplekst/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-01",
+      "last_shown_at": "2026-10-23",
       "level": "B2",
       "meaning_tr": "şaşkın, kafası karışmış",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "perplexed"
     },
@@ -3963,7 +4035,7 @@
         "shed light on the mystery"
       ],
       "definition_en": "To provide information or an explanation that makes something easier to understand.",
-      "due": "2026-10-02",
+      "due": "2026-10-24",
       "example": "This new scientific study will hopefully shed light on the causes of the disease.",
       "example_tr": "Bu yeni bilimsel çalışma umuyoruz ki hastalığın nedenlerine ışık tutacak.",
       "first_seen": "2026-10-01T23:22:20.246454+03:00",
@@ -3971,11 +4043,11 @@
       "ipa": "/ʃed laɪt ɒn/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-01",
+      "last_shown_at": "2026-10-23",
       "level": "C1",
       "meaning_tr": "ışık tutmak, aydınlatmak, açıklık getirmek",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "shed light on"
     },
@@ -4919,54 +4991,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-23T00:42:24.192696+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "thoroughly enjoy",
-        "investigate thoroughly"
-      ],
-      "definition_en": "completely, meticulously, and with great attention to detail",
-      "example": "The police investigated the scene thoroughly to collect all possible pieces of evidence.",
-      "example_tr": "Polis, olası tüm kanıt parçalarını toplamak için olay yerini etraflıca inceledi.",
-      "ipa": "/ˈθʌr.ə.li/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "etraflıca, tamamen, iyice",
-      "pos": "adverb",
-      "word": "thoroughly"
-    },
-    {
-      "collocations": [
-        "stagnant economy",
-        "stagnant wages"
-      ],
-      "definition_en": "showing no activity, growth, movement, or development",
-      "example": "The economy remained largely stagnant throughout the third quarter of this fiscal year.",
-      "example_tr": "Ekonomi, bu mali yılın üçüncü çeyreği boyunca büyük ölçüde durgun kaldı.",
-      "ipa": "/ˈstæɡ.nənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "durgun, gelişmeyen, hareketsiz",
-      "pos": "adjective",
-      "word": "stagnant"
-    },
-    {
-      "collocations": [
-        "relocate business",
-        "relocate abroad"
-      ],
-      "definition_en": "to move to a new place to live or conduct business",
-      "example": "The firm decided to relocate its regional headquarters to a larger facility downtown.",
-      "example_tr": "Firma, bölge merkezini şehir merkezindeki daha büyük bir tesise taşımaya karar verdi.",
-      "ipa": "/ˌriː.ləʊˈkeɪt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "taşınmak, yerini değiştirmek",
-      "pos": "verb",
-      "word": "relocate"
-    }
-  ],
+  "last_sent_at": "2026-10-23T14:46:59.531636+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
