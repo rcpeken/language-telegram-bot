@@ -128,7 +128,7 @@
         "cheaper in the long run"
       ],
       "definition_en": "At a time that is far in the future, rather than in the present.",
-      "due": "2026-10-03",
+      "due": "2026-10-24",
       "example": "Investing in renewable energy will save a lot of money in the long run.",
       "example_tr": "Yenilenebilir enerjiye yatırım yapmak uzun vadede çok para kazandıracaktır.",
       "first_seen": "2026-10-02T22:58:31.006943+03:00",
@@ -136,11 +136,11 @@
       "ipa": "/ɪn ðə lɒŋ rʌn/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-02",
+      "last_shown_at": "2026-10-23",
       "level": "B2",
       "meaning_tr": "uzun vadede, eninde sonunda",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "in the long run"
     },
@@ -728,7 +728,7 @@
         "overcome an obstacle"
       ],
       "definition_en": "Something that blocks your way or prevents progress.",
-      "due": "2026-10-03",
+      "due": "2026-10-24",
       "example": "Lack of funding remains the main obstacle to starting this innovative project.",
       "example_tr": "Finansman eksikliği, bu yenilikçi projeye başlamanın önündeki temel engel olmaya devam ediyor.",
       "first_seen": "2026-09-22T20:01:38.397678+03:00",
@@ -736,11 +736,11 @@
       "ipa": "/ˈɒbstəkl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-02",
+      "last_shown_at": "2026-10-23",
       "level": "B2",
       "meaning_tr": "engel, mani",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "obstacle"
     },
@@ -2604,6 +2604,30 @@
       "unknown_count": 0,
       "word": "underlying"
     },
+    "884da07cc2": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "imperative task",
+        "morally imperative"
+      ],
+      "definition_en": "Extremely important or urgent, needing immediate attention.",
+      "due": "2026-10-24",
+      "example": "It is imperative that we reach a decision before the deadline tomorrow.",
+      "example_tr": "Yarınki son teslim tarihinden önce bir karara varmamız son derece önemlidir.",
+      "first_seen": "2026-10-23T20:14:26.555271+03:00",
+      "id": "884da07cc2",
+      "ipa": "/ɪmˈperətɪv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-23",
+      "level": "C1",
+      "meaning_tr": "zorunlu, çok önemli, hayati",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "imperative"
+    },
     "8a2e3bd9e6": {
       "answered_count": 0,
       "box": 1,
@@ -4075,6 +4099,30 @@
       "unknown_count": 0,
       "word": "astute"
     },
+    "ccf6b48a4e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "employee retention",
+        "customer retention"
+      ],
+      "definition_en": "The continued possession, use, or control of something.",
+      "due": "2026-10-24",
+      "example": "The company introduced new benefits to improve employee retention rates.",
+      "example_tr": "Şirket, çalışanları elde tutma oranlarını artırmak için yeni yan haklar sundu.",
+      "first_seen": "2026-10-23T20:14:26.555271+03:00",
+      "id": "ccf6b48a4e",
+      "ipa": "/rɪˈtenʃn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-23",
+      "level": "C1",
+      "meaning_tr": "elde tutma, muhafaza etme",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "retention"
+    },
     "cfb3e75d63": {
       "answered_count": 0,
       "box": 1,
@@ -4362,6 +4410,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "detrimental"
+    },
+    "dd971b9cb9": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "allocate resources",
+        "allocate budget"
+      ],
+      "definition_en": "To set apart or give a portion of something for a specific purpose.",
+      "due": "2026-10-24",
+      "example": "The government decided to allocate more funds to public education this year.",
+      "example_tr": "Hükümet bu yıl kamu eğitimine daha fazla fon tahsis etmeye karar verdi.",
+      "first_seen": "2026-10-23T20:14:26.555271+03:00",
+      "id": "dd971b9cb9",
+      "ipa": "/ˈæləkeɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-23",
+      "level": "B2",
+      "meaning_tr": "tahsis etmek, ayırmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "allocate"
     },
     "de7703e99a": {
       "answered_count": 0,
@@ -4991,8 +5063,189 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-23T14:46:59.531636+03:00",
-  "pool": [],
+  "last_sent_at": "2026-10-23T20:14:26.555271+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "tentatively scheduled",
+        "tentatively agree"
+      ],
+      "definition_en": "Subject to further change or not fully agreed upon yet.",
+      "example": "The two companies tentatively agreed on a merger plan next month.",
+      "example_tr": "İki şirket gelecek ay birleşme planı üzerinde geçici olarak anlaştı.",
+      "ipa": "/ˈtentətɪvli/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "geçici olarak, tereddütle",
+      "pos": "adverb",
+      "word": "tentatively"
+    },
+    {
+      "collocations": [
+        "in the course of time",
+        "in the course of discussion"
+      ],
+      "definition_en": "During the specified process or period of time.",
+      "example": "Several unexpected problems arose in the course of the research project.",
+      "example_tr": "Araştırma projesi esnasında beklenmedik birkaç sorun ortaya çıktı.",
+      "ipa": "/ɪn ðə kɔːs əv/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "sırasında, esnasında",
+      "pos": "phrase",
+      "word": "in the course of"
+    },
+    {
+      "collocations": [
+        "enforce regulations",
+        "enforce compliance"
+      ],
+      "definition_en": "To cause a law or rule to be obeyed and followed.",
+      "example": "The police had to enforce strict traffic regulations during the heavy snowfall.",
+      "example_tr": "Polis, yoğun kar yağışı sırasında katı trafik kurallarını uygulamak zorunda kaldı.",
+      "ipa": "/ɪnˈfɔːs/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "uygulamak, yürürlüğe koymak",
+      "pos": "verb",
+      "word": "enforce"
+    },
+    {
+      "collocations": [
+        "to the detriment of",
+        "without detriment to"
+      ],
+      "definition_en": "The state of being harmed, damaged, or disadvantaged by something.",
+      "example": "Working late every night will eventually be to the detriment of your health.",
+      "example_tr": "Her gece geç saatlere kadar çalışmak sonunda sağlığınızın zararına olacaktır.",
+      "ipa": "/ˈdetrɪmənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "zarar, ziyan, dezavantaj",
+      "pos": "noun",
+      "word": "detriment"
+    },
+    {
+      "collocations": [
+        "prospective client",
+        "prospective buyer"
+      ],
+      "definition_en": "Expected or likely to happen or become something in the future.",
+      "example": "The real estate agent showed the apartment to three prospective buyers yesterday.",
+      "example_tr": "Emlakçı dün daireyi üç olası alıcıya gösterdi.",
+      "ipa": "/prəˈspektɪv/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "muhtemel, olası, aday",
+      "pos": "adjective",
+      "word": "prospective"
+    },
+    {
+      "collocations": [
+        "depict accurately",
+        "vividly depict"
+      ],
+      "definition_en": "To represent or show someone or something in a picture or story.",
+      "example": "The documentary accurately depicts the challenges faced by small business owners.",
+      "example_tr": "Belgesel, küçük işletme sahiplerinin karşılaştığı zorlukları doğru bir şekilde tasvir ediyor.",
+      "ipa": "/dɪˈpɪkt/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "betimlemek, tasvir etmek, resmetmek",
+      "pos": "verb",
+      "word": "depict"
+    },
+    {
+      "collocations": [
+        "for the sake of clarity",
+        "for the sake of simplicity"
+      ],
+      "definition_en": "Out of consideration for, or in order to help or improve.",
+      "example": "They decided to move to the countryside for the sake of their children.",
+      "example_tr": "Çocuklarının hatırına kırsala taşınmaya karar verdiler.",
+      "ipa": "/fə ðə seɪk əv/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "uğruna, hatırına, adına",
+      "pos": "phrase",
+      "word": "for the sake of"
+    },
+    {
+      "collocations": [
+        "formidable challenge",
+        "formidable opponent"
+      ],
+      "definition_en": "Inspiring respect or fear through being impressively large, powerful, or capable.",
+      "example": "The young athlete faced a formidable opponent in the final round of tournament.",
+      "example_tr": "Genç sporcu, turnuvanın son turunda zorlu bir rakiple karşılaştı.",
+      "ipa": "/ˈfɔːrmɪdəbl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "zorlu, heybetli, korkutan",
+      "pos": "adjective",
+      "word": "formidable"
+    },
+    {
+      "collocations": [
+        "annual turnover",
+        "high staff turnover"
+      ],
+      "definition_en": "The total amount of money taken in by a business over a period.",
+      "example": "The company reported a significant increase in annual financial turnover this year.",
+      "example_tr": "Şirket bu yıl yıllık finansal cirosunda önemli bir artış bildirdi.",
+      "ipa": "/ˈtɜːrnəʊvər/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "ciro, personel devir hızı",
+      "pos": "noun",
+      "word": "turnover"
+    },
+    {
+      "collocations": [
+        "conversely, it can be argued",
+        "or conversely"
+      ],
+      "definition_en": "Used to introduce a statement that contrasts with a previous statement.",
+      "example": "Some people enjoy cold weather; conversely, others prefer warm summer temperatures.",
+      "example_tr": "Bazı insanlar soğuk havaları sever; aksine, diğerleri sıcak yaz sıcaklıklarını tercih eder.",
+      "ipa": "/ˈkɒnvɜːsli/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "aksine, bunun tersine",
+      "pos": "adverb",
+      "word": "conversely"
+    },
+    {
+      "collocations": [
+        "subsidize costs",
+        "heavily subsidize"
+      ],
+      "definition_en": "To support an organization or activity financially to reduce costs.",
+      "example": "The local council agreed to subsidize public transport for elderly citizens.",
+      "example_tr": "Yerel meclis, yaşlı vatandaşlar için toplu taşımaya mali destek sağlamayı kabul etti.",
+      "ipa": "/ˈsʌbsɪdaɪz/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "sübvanse etmek, mali destek sağlamak",
+      "pos": "verb",
+      "word": "subsidize"
+    },
+    {
+      "collocations": [
+        "regulatory framework",
+        "conceptual framework"
+      ],
+      "definition_en": "A basic structure underlying a system, concept, or text.",
+      "example": "The team established a solid legal framework before launching the international project.",
+      "example_tr": "Ekip, uluslararası projeyi başlatmadan önce sağlam bir yasal çerçeve oluşturdu.",
+      "ipa": "/ˈfreɪmwɜːrk/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "çerçeve, çatı, sistem",
+      "pos": "noun",
+      "word": "framework"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
