@@ -945,7 +945,7 @@
         "validate feelings"
       ],
       "definition_en": "To prove that something is true, correct, or logically sound.",
-      "due": "2026-10-03",
+      "due": "2026-10-25",
       "example": "The laboratory results helped to validate the researcher's theory about the new medicine.",
       "example_tr": "Laboratuvar sonuçları, araştırmacının yeni ilaç hakkındaki teorisini doğrulamaya yardımcı oldu.",
       "first_seen": "2026-10-02T22:58:31.006943+03:00",
@@ -953,11 +953,11 @@
       "ipa": "/ˈvælɪdeɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-02",
+      "last_shown_at": "2026-10-24",
       "level": "C1",
       "meaning_tr": "doğrulamak, onaylamak, geçerli kılmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "validate"
     },
@@ -1162,7 +1162,7 @@
         "highly hazardous"
       ],
       "definition_en": "Dangerous and involving risk, especially to someone's health or safety.",
-      "due": "2026-10-03",
+      "due": "2026-10-25",
       "example": "Workers wear protective clothing because they handle highly hazardous chemical substances daily.",
       "example_tr": "İşçiler, günlük olarak son derece tehlikeli kimyasal maddelerle çalıştıkları için koruyucu kıyafet giyerler.",
       "first_seen": "2026-10-02T22:58:31.006943+03:00",
@@ -1170,11 +1170,11 @@
       "ipa": "/ˈhæzədəs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-02",
+      "last_shown_at": "2026-10-24",
       "level": "B2",
       "meaning_tr": "tehlikeli, riskli",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "hazardous"
     },
@@ -1685,6 +1685,30 @@
       "unknown_count": 0,
       "word": "subsequently"
     },
+    "5aa8cd8469": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "enforce regulations",
+        "enforce compliance"
+      ],
+      "definition_en": "To cause a law or rule to be obeyed and followed.",
+      "due": "2026-10-25",
+      "example": "The police had to enforce strict traffic regulations during the heavy snowfall.",
+      "example_tr": "Polis, yoğun kar yağışı sırasında katı trafik kurallarını uygulamak zorunda kaldı.",
+      "first_seen": "2026-10-24T00:29:05.090500+03:00",
+      "id": "5aa8cd8469",
+      "ipa": "/ɪnˈfɔːs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-24",
+      "level": "B2",
+      "meaning_tr": "uygulamak, yürürlüğe koymak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "enforce"
+    },
     "5c752a9c31": {
       "answered_count": 0,
       "box": 1,
@@ -1734,6 +1758,30 @@
       "shown_count": 5,
       "unknown_count": 1,
       "word": "relevance"
+    },
+    "5cb64d7289": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in the course of time",
+        "in the course of discussion"
+      ],
+      "definition_en": "During the specified process or period of time.",
+      "due": "2026-10-25",
+      "example": "Several unexpected problems arose in the course of the research project.",
+      "example_tr": "Araştırma projesi esnasında beklenmedik birkaç sorun ortaya çıktı.",
+      "first_seen": "2026-10-24T00:29:05.090500+03:00",
+      "id": "5cb64d7289",
+      "ipa": "/ɪn ðə kɔːs əv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-24",
+      "level": "B2",
+      "meaning_tr": "sırasında, esnasında",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in the course of"
     },
     "5dfd3b67eb": {
       "answered_count": 0,
@@ -2483,6 +2531,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "turmoil"
+    },
+    "7fbed1ec7d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "tentatively scheduled",
+        "tentatively agree"
+      ],
+      "definition_en": "Subject to further change or not fully agreed upon yet.",
+      "due": "2026-10-25",
+      "example": "The two companies tentatively agreed on a merger plan next month.",
+      "example_tr": "İki şirket gelecek ay birleşme planı üzerinde geçici olarak anlaştı.",
+      "first_seen": "2026-10-24T00:29:05.090500+03:00",
+      "id": "7fbed1ec7d",
+      "ipa": "/ˈtentətɪvli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-24",
+      "level": "C1",
+      "meaning_tr": "geçici olarak, tereddütle",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "tentatively"
     },
     "801c10b9b2": {
       "answered_count": 0,
@@ -5063,53 +5135,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-23T20:14:26.555271+03:00",
+  "last_sent_at": "2026-10-24T00:29:05.090500+03:00",
   "pool": [
-    {
-      "collocations": [
-        "tentatively scheduled",
-        "tentatively agree"
-      ],
-      "definition_en": "Subject to further change or not fully agreed upon yet.",
-      "example": "The two companies tentatively agreed on a merger plan next month.",
-      "example_tr": "İki şirket gelecek ay birleşme planı üzerinde geçici olarak anlaştı.",
-      "ipa": "/ˈtentətɪvli/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "geçici olarak, tereddütle",
-      "pos": "adverb",
-      "word": "tentatively"
-    },
-    {
-      "collocations": [
-        "in the course of time",
-        "in the course of discussion"
-      ],
-      "definition_en": "During the specified process or period of time.",
-      "example": "Several unexpected problems arose in the course of the research project.",
-      "example_tr": "Araştırma projesi esnasında beklenmedik birkaç sorun ortaya çıktı.",
-      "ipa": "/ɪn ðə kɔːs əv/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "sırasında, esnasında",
-      "pos": "phrase",
-      "word": "in the course of"
-    },
-    {
-      "collocations": [
-        "enforce regulations",
-        "enforce compliance"
-      ],
-      "definition_en": "To cause a law or rule to be obeyed and followed.",
-      "example": "The police had to enforce strict traffic regulations during the heavy snowfall.",
-      "example_tr": "Polis, yoğun kar yağışı sırasında katı trafik kurallarını uygulamak zorunda kaldı.",
-      "ipa": "/ɪnˈfɔːs/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "uygulamak, yürürlüğe koymak",
-      "pos": "verb",
-      "word": "enforce"
-    },
     {
       "collocations": [
         "to the detriment of",
