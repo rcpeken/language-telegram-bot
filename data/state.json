@@ -1057,6 +1057,30 @@
       "unknown_count": 0,
       "word": "contingency"
     },
+    "3b716c0240": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "depict accurately",
+        "vividly depict"
+      ],
+      "definition_en": "To represent or show someone or something in a picture or story.",
+      "due": "2026-10-25",
+      "example": "The documentary accurately depicts the challenges faced by small business owners.",
+      "example_tr": "Belgesel, küçük işletme sahiplerinin karşılaştığı zorlukları doğru bir şekilde tasvir ediyor.",
+      "first_seen": "2026-10-24T14:12:19.067752+03:00",
+      "id": "3b716c0240",
+      "ipa": "/dɪˈpɪkt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-24",
+      "level": "B2",
+      "meaning_tr": "betimlemek, tasvir etmek, resmetmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "depict"
+    },
     "3edc8309ee": {
       "answered_count": 0,
       "box": 1,
@@ -1235,7 +1259,7 @@
         "unveil a product"
       ],
       "definition_en": "To show or introduce a new plan, product, or system to the public.",
-      "due": "2026-10-03",
+      "due": "2026-10-25",
       "example": "The tech giant plans to unveil its new smartphone model next week.",
       "example_tr": "Teknoloji devi, önümüzdeki hafta yeni akıllı telefon modelini tanıtmayı planlıyor.",
       "first_seen": "2026-09-22T20:01:38.397678+03:00",
@@ -1243,11 +1267,11 @@
       "ipa": "/ˌʌnˈveɪl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-02",
+      "last_shown_at": "2026-10-24",
       "level": "B2",
       "meaning_tr": "tanıtmak, açığa çıkarmak, örtüsünü kaldırmak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "unveil"
     },
@@ -1499,7 +1523,7 @@
         "comply with laws"
       ],
       "definition_en": "To obey a rule, law, order, or request.",
-      "due": "2026-10-03",
+      "due": "2026-10-25",
       "example": "All local businesses must comply with the new environmental regulations by next month.",
       "example_tr": "Tüm yerel işletmeler önümüzdeki aya kadar yeni çevre düzenlemelerine uymak zorundadır.",
       "first_seen": "2026-09-22T14:46:43.129810+03:00",
@@ -1507,11 +1531,11 @@
       "ipa": "/kəmˈplaɪ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-02",
+      "last_shown_at": "2026-10-24",
       "level": "B2",
       "meaning_tr": "uymak, riayet etmek, yerine getirmek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "comply"
     },
@@ -3472,6 +3496,30 @@
       "unknown_count": 0,
       "word": "eradicate"
     },
+    "ac1ccb121f": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "prospective client",
+        "prospective buyer"
+      ],
+      "definition_en": "Expected or likely to happen or become something in the future.",
+      "due": "2026-10-25",
+      "example": "The real estate agent showed the apartment to three prospective buyers yesterday.",
+      "example_tr": "Emlakçı dün daireyi üç olası alıcıya gösterdi.",
+      "first_seen": "2026-10-24T14:12:19.067752+03:00",
+      "id": "ac1ccb121f",
+      "ipa": "/prəˈspektɪv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-24",
+      "level": "C1",
+      "meaning_tr": "muhtemel, olası, aday",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "prospective"
+    },
     "ae40c15cfb": {
       "answered_count": 0,
       "box": 1,
@@ -4820,6 +4868,30 @@
       "unknown_count": 0,
       "word": "viable"
     },
+    "ea4a539225": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "to the detriment of",
+        "without detriment to"
+      ],
+      "definition_en": "The state of being harmed, damaged, or disadvantaged by something.",
+      "due": "2026-10-25",
+      "example": "Working late every night will eventually be to the detriment of your health.",
+      "example_tr": "Her gece geç saatlere kadar çalışmak sonunda sağlığınızın zararına olacaktır.",
+      "first_seen": "2026-10-24T14:12:19.067752+03:00",
+      "id": "ea4a539225",
+      "ipa": "/ˈdetrɪmənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-24",
+      "level": "C1",
+      "meaning_tr": "zarar, ziyan, dezavantaj",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "detriment"
+    },
     "ebc74f3c5f": {
       "answered_count": 0,
       "box": 1,
@@ -5135,53 +5207,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-24T00:29:05.090500+03:00",
+  "last_sent_at": "2026-10-24T14:12:19.067752+03:00",
   "pool": [
-    {
-      "collocations": [
-        "to the detriment of",
-        "without detriment to"
-      ],
-      "definition_en": "The state of being harmed, damaged, or disadvantaged by something.",
-      "example": "Working late every night will eventually be to the detriment of your health.",
-      "example_tr": "Her gece geç saatlere kadar çalışmak sonunda sağlığınızın zararına olacaktır.",
-      "ipa": "/ˈdetrɪmənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "zarar, ziyan, dezavantaj",
-      "pos": "noun",
-      "word": "detriment"
-    },
-    {
-      "collocations": [
-        "prospective client",
-        "prospective buyer"
-      ],
-      "definition_en": "Expected or likely to happen or become something in the future.",
-      "example": "The real estate agent showed the apartment to three prospective buyers yesterday.",
-      "example_tr": "Emlakçı dün daireyi üç olası alıcıya gösterdi.",
-      "ipa": "/prəˈspektɪv/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "muhtemel, olası, aday",
-      "pos": "adjective",
-      "word": "prospective"
-    },
-    {
-      "collocations": [
-        "depict accurately",
-        "vividly depict"
-      ],
-      "definition_en": "To represent or show someone or something in a picture or story.",
-      "example": "The documentary accurately depicts the challenges faced by small business owners.",
-      "example_tr": "Belgesel, küçük işletme sahiplerinin karşılaştığı zorlukları doğru bir şekilde tasvir ediyor.",
-      "ipa": "/dɪˈpɪkt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "betimlemek, tasvir etmek, resmetmek",
-      "pos": "verb",
-      "word": "depict"
-    },
     {
       "collocations": [
         "for the sake of clarity",
