@@ -1491,6 +1491,30 @@
       "unknown_count": 0,
       "word": "compelling"
     },
+    "50b270897b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "formidable challenge",
+        "formidable opponent"
+      ],
+      "definition_en": "Inspiring respect or fear through being impressively large, powerful, or capable.",
+      "due": "2026-10-25",
+      "example": "The young athlete faced a formidable opponent in the final round of tournament.",
+      "example_tr": "Genç sporcu, turnuvanın son turunda zorlu bir rakiple karşılaştı.",
+      "first_seen": "2026-10-24T19:02:05.566628+03:00",
+      "id": "50b270897b",
+      "ipa": "/ˈfɔːrmɪdəbl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-24",
+      "level": "C1",
+      "meaning_tr": "zorlu, heybetli, korkutan",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "formidable"
+    },
     "50c35be3b8": {
       "answered_count": 0,
       "box": 1,
@@ -2120,6 +2144,30 @@
       "unknown_count": 0,
       "word": "pragmatic"
     },
+    "68bb15393f": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "annual turnover",
+        "high staff turnover"
+      ],
+      "definition_en": "The total amount of money taken in by a business over a period.",
+      "due": "2026-10-25",
+      "example": "The company reported a significant increase in annual financial turnover this year.",
+      "example_tr": "Şirket bu yıl yıllık finansal cirosunda önemli bir artış bildirdi.",
+      "first_seen": "2026-10-24T19:02:05.566628+03:00",
+      "id": "68bb15393f",
+      "ipa": "/ˈtɜːrnəʊvər/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-24",
+      "level": "B2",
+      "meaning_tr": "ciro, personel devir hızı",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "turnover"
+    },
     "69902ca127": {
       "answered_count": 0,
       "box": 1,
@@ -2323,7 +2371,7 @@
         "impediment to progress"
       ],
       "definition_en": "Something that makes development, movement, or progress difficult or impossible.",
-      "due": "2026-10-03",
+      "due": "2026-10-25",
       "example": "High interest rates can be a major impediment to economic growth and investment.",
       "example_tr": "Yüksek faiz oranları, ekonomik büyüme ve yatırımın önünde büyük bir engel olabilir.",
       "first_seen": "2026-10-02T15:46:02.087448+03:00",
@@ -2331,11 +2379,11 @@
       "ipa": "/ɪmˈpedɪmənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-02",
+      "last_shown_at": "2026-10-24",
       "level": "C1",
       "meaning_tr": "engel, ayak bağı, mani",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "impediment"
     },
@@ -2348,7 +2396,7 @@
         "seemingly simple"
       ],
       "definition_en": "In a way that appears to be true, even though it may not be.",
-      "due": "2026-10-03",
+      "due": "2026-10-25",
       "example": "They managed to solve the seemingly impossible puzzle in less than ten minutes.",
       "example_tr": "Görünüşte imkansız olan bulmacayı on dakikadan kısa sürede çözmeyi başardılar.",
       "first_seen": "2026-10-02T15:46:02.087448+03:00",
@@ -2356,11 +2404,11 @@
       "ipa": "/ˈsiːmɪŋli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-02",
+      "last_shown_at": "2026-10-24",
       "level": "B2",
       "meaning_tr": "görünüşte, görünüşe bakılırsa",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "seemingly"
     },
@@ -5038,6 +5086,30 @@
       "unknown_count": 1,
       "word": "unprecedented"
     },
+    "f4ea203b86": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "for the sake of clarity",
+        "for the sake of simplicity"
+      ],
+      "definition_en": "Out of consideration for, or in order to help or improve.",
+      "due": "2026-10-25",
+      "example": "They decided to move to the countryside for the sake of their children.",
+      "example_tr": "Çocuklarının hatırına kırsala taşınmaya karar verdiler.",
+      "first_seen": "2026-10-24T19:02:05.566628+03:00",
+      "id": "f4ea203b86",
+      "ipa": "/fə ðə seɪk əv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-24",
+      "level": "B2",
+      "meaning_tr": "uğruna, hatırına, adına",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "for the sake of"
+    },
     "f7d5304b86": {
       "answered_count": 0,
       "box": 1,
@@ -5207,53 +5279,8 @@
       "word": "amplify"
     }
   },
-  "last_sent_at": "2026-10-24T14:12:19.067752+03:00",
+  "last_sent_at": "2026-10-24T19:02:05.566628+03:00",
   "pool": [
-    {
-      "collocations": [
-        "for the sake of clarity",
-        "for the sake of simplicity"
-      ],
-      "definition_en": "Out of consideration for, or in order to help or improve.",
-      "example": "They decided to move to the countryside for the sake of their children.",
-      "example_tr": "Çocuklarının hatırına kırsala taşınmaya karar verdiler.",
-      "ipa": "/fə ðə seɪk əv/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "uğruna, hatırına, adına",
-      "pos": "phrase",
-      "word": "for the sake of"
-    },
-    {
-      "collocations": [
-        "formidable challenge",
-        "formidable opponent"
-      ],
-      "definition_en": "Inspiring respect or fear through being impressively large, powerful, or capable.",
-      "example": "The young athlete faced a formidable opponent in the final round of tournament.",
-      "example_tr": "Genç sporcu, turnuvanın son turunda zorlu bir rakiple karşılaştı.",
-      "ipa": "/ˈfɔːrmɪdəbl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "zorlu, heybetli, korkutan",
-      "pos": "adjective",
-      "word": "formidable"
-    },
-    {
-      "collocations": [
-        "annual turnover",
-        "high staff turnover"
-      ],
-      "definition_en": "The total amount of money taken in by a business over a period.",
-      "example": "The company reported a significant increase in annual financial turnover this year.",
-      "example_tr": "Şirket bu yıl yıllık finansal cirosunda önemli bir artış bildirdi.",
-      "ipa": "/ˈtɜːrnəʊvər/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "ciro, personel devir hızı",
-      "pos": "noun",
-      "word": "turnover"
-    },
     {
       "collocations": [
         "conversely, it can be argued",
