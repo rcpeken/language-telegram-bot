@@ -985,6 +985,30 @@
       "unknown_count": 0,
       "word": "inevitable"
     },
+    "352baa2f0b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "regulatory framework",
+        "conceptual framework"
+      ],
+      "definition_en": "A basic structure underlying a system, concept, or text.",
+      "due": "2026-10-25",
+      "example": "The team established a solid legal framework before launching the international project.",
+      "example_tr": "Ekip, uluslararası projeyi başlatmadan önce sağlam bir yasal çerçeve oluşturdu.",
+      "first_seen": "2026-10-24T23:56:11.700077+03:00",
+      "id": "352baa2f0b",
+      "ipa": "/ˈfreɪmwɜːrk/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-24",
+      "level": "B2",
+      "meaning_tr": "çerçeve, çatı, sistem",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "framework"
+    },
     "360a7ccb21": {
       "answered_count": 0,
       "box": 1,
@@ -2828,7 +2852,7 @@
         "know precisely"
       ],
       "definition_en": "Exactly and accurately in every detail.",
-      "due": "2026-10-03",
+      "due": "2026-10-25",
       "example": "The package arrived at precisely three o'clock, just as they had promised.",
       "example_tr": "Paket, tam olarak söz verdikleri gibi saat üçte ulaştı.",
       "first_seen": "2026-09-18T00:27:29.467923+03:00",
@@ -2836,11 +2860,11 @@
       "ipa": "/prɪˈsaɪsli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-02",
+      "last_shown_at": "2026-10-24",
       "level": "B2",
       "meaning_tr": "tam olarak, kesinlikle, hassasiyetle",
       "pos": "adverb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "precisely"
     },
@@ -4732,7 +4756,7 @@
         "indispensable to"
       ],
       "definition_en": "Absolutely necessary or essential, so that you cannot do without it.",
-      "due": "2026-10-03",
+      "due": "2026-10-25",
       "example": "Computers have become an indispensable tool for modern businesses and educational institutions.",
       "example_tr": "Bilgisayarlar modern işletmeler ve eğitim kurumları için vazgeçilmez bir araç haline geldi.",
       "first_seen": "2026-10-02T15:46:02.087448+03:00",
@@ -4740,11 +4764,11 @@
       "ipa": "/ˌɪndɪˈspensəbəl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-02",
+      "last_shown_at": "2026-10-24",
       "level": "C1",
       "meaning_tr": "vazgeçilmez, kaçınılmaz, çok gerekli",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "indispensable"
     },
@@ -4891,6 +4915,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "coherent"
+    },
+    "e9e13b5c8f": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "subsidize costs",
+        "heavily subsidize"
+      ],
+      "definition_en": "To support an organization or activity financially to reduce costs.",
+      "due": "2026-10-25",
+      "example": "The local council agreed to subsidize public transport for elderly citizens.",
+      "example_tr": "Yerel meclis, yaşlı vatandaşlar için toplu taşımaya mali destek sağlamayı kabul etti.",
+      "first_seen": "2026-10-24T23:56:11.700077+03:00",
+      "id": "e9e13b5c8f",
+      "ipa": "/ˈsʌbsɪdaɪz/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-24",
+      "level": "C1",
+      "meaning_tr": "sübvanse etmek, mali destek sağlamak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "subsidize"
     },
     "e9e69aa97e": {
       "answered_count": 0,
@@ -5277,56 +5325,34 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "amplify"
-    }
-  },
-  "last_sent_at": "2026-10-24T19:02:05.566628+03:00",
-  "pool": [
-    {
+    },
+    "ffdcf98a96": {
+      "answered_count": 0,
+      "box": 1,
       "collocations": [
         "conversely, it can be argued",
         "or conversely"
       ],
       "definition_en": "Used to introduce a statement that contrasts with a previous statement.",
+      "due": "2026-10-25",
       "example": "Some people enjoy cold weather; conversely, others prefer warm summer temperatures.",
       "example_tr": "Bazı insanlar soğuk havaları sever; aksine, diğerleri sıcak yaz sıcaklıklarını tercih eder.",
+      "first_seen": "2026-10-24T23:56:11.700077+03:00",
+      "id": "ffdcf98a96",
       "ipa": "/ˈkɒnvɜːsli/",
+      "known_count": 0,
       "lang": "en",
+      "last_shown_at": "2026-10-24",
       "level": "C1",
       "meaning_tr": "aksine, bunun tersine",
       "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
       "word": "conversely"
-    },
-    {
-      "collocations": [
-        "subsidize costs",
-        "heavily subsidize"
-      ],
-      "definition_en": "To support an organization or activity financially to reduce costs.",
-      "example": "The local council agreed to subsidize public transport for elderly citizens.",
-      "example_tr": "Yerel meclis, yaşlı vatandaşlar için toplu taşımaya mali destek sağlamayı kabul etti.",
-      "ipa": "/ˈsʌbsɪdaɪz/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "sübvanse etmek, mali destek sağlamak",
-      "pos": "verb",
-      "word": "subsidize"
-    },
-    {
-      "collocations": [
-        "regulatory framework",
-        "conceptual framework"
-      ],
-      "definition_en": "A basic structure underlying a system, concept, or text.",
-      "example": "The team established a solid legal framework before launching the international project.",
-      "example_tr": "Ekip, uluslararası projeyi başlatmadan önce sağlam bir yasal çerçeve oluşturdu.",
-      "ipa": "/ˈfreɪmwɜːrk/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "çerçeve, çatı, sistem",
-      "pos": "noun",
-      "word": "framework"
     }
-  ],
+  },
+  "last_sent_at": "2026-10-24T23:56:11.700077+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
