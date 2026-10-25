@@ -408,6 +408,30 @@
       "unknown_count": 0,
       "word": "dilemma"
     },
+    "1733d473a7": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "instill confidence",
+        "instill values"
+      ],
+      "definition_en": "to gradually impart a feeling or idea into a person's mind",
+      "due": "2026-10-26",
+      "example": "Good parents try to instill strong moral values in their children from an early age.",
+      "example_tr": "İyi ebeveynler, çocuklarına küçük yaştan itibaren güçlü ahlaki değerler aşılamaya çalışırlar.",
+      "first_seen": "2026-10-25T23:56:22.313835+03:00",
+      "id": "1733d473a7",
+      "ipa": "/ɪnˈstɪl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-25",
+      "level": "C1",
+      "meaning_tr": "aşılamak, empoze etmek, öğretmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "instill"
+    },
     "179590019c": {
       "answered_count": 0,
       "box": 1,
@@ -3432,7 +3456,7 @@
         "flawless skin"
       ],
       "definition_en": "Without any mistakes, imperfections, or weaknesses.",
-      "due": "2026-10-04",
+      "due": "2026-10-26",
       "example": "The pianist gave a flawless performance that left the entire audience in silence.",
       "example_tr": "Piyanist, tüm izleyicileri sessizlik içinde bırakan kusursuz bir performans sergiledi.",
       "first_seen": "2026-09-22T14:46:43.129810+03:00",
@@ -3440,11 +3464,11 @@
       "ipa": "/ˈflɔːləs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-03",
+      "last_shown_at": "2026-10-25",
       "level": "B2",
       "meaning_tr": "kusursuz, hatasız, mükemmel",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "flawless"
     },
@@ -3528,7 +3552,7 @@
         "improve infrastructure"
       ],
       "definition_en": "The basic systems and services that a country or organization uses.",
-      "due": "2026-10-04",
+      "due": "2026-10-26",
       "example": "The government plans to invest billions of dollars in upgrading the country's transport infrastructure.",
       "example_tr": "Hükümet, ülkenin ulaşım altyapısını modernize etmek için milyarlarca dolar yatırım yapmayı planlıyor.",
       "first_seen": "2026-09-18T14:24:05.575471+03:00",
@@ -3536,11 +3560,11 @@
       "ipa": "/ˈɪnfrəstrʌktʃə(r)/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-03",
+      "last_shown_at": "2026-10-25",
       "level": "B2",
       "meaning_tr": "altyapı",
       "pos": "noun",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "infrastructure"
     },
@@ -4531,6 +4555,30 @@
       "unknown_count": 0,
       "word": "reconcile"
     },
+    "d2f2e8c7ba": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "serious ramifications",
+        "economic ramifications"
+      ],
+      "definition_en": "a complex or unwelcome result that stems from an action",
+      "due": "2026-10-26",
+      "example": "Analysts are currently evaluating the economic ramifications of the new international trade agreement.",
+      "example_tr": "Analistler şu anda yeni uluslararası ticaret anlaşmasının ekonomik sonuçlarını değerlendiriyor.",
+      "first_seen": "2026-10-25T23:56:22.313835+03:00",
+      "id": "d2f2e8c7ba",
+      "ipa": "/ˌræmɪfɪˈkeɪʃn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-25",
+      "level": "C1",
+      "meaning_tr": "muhtemel sonuç, dallanma, karmaşık sonuç",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "ramification"
+    },
     "d3c331928f": {
       "answered_count": 0,
       "box": 1,
@@ -5278,6 +5326,30 @@
       "unknown_count": 1,
       "word": "unprecedented"
     },
+    "f1b455e6fd": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "conspicuous absence",
+        "conspicuous success"
+      ],
+      "definition_en": "easily seen or attracting attention very clearly",
+      "due": "2026-10-26",
+      "example": "His sudden absence at the annual board meeting was conspicuous to everyone present.",
+      "example_tr": "Yıllık yönetim kurulu toplantısındaki ani yokluğu oradaki herkes için göze çarpıcıydı.",
+      "first_seen": "2026-10-25T23:56:22.313835+03:00",
+      "id": "f1b455e6fd",
+      "ipa": "/kənˈspɪkjuəs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-25",
+      "level": "C1",
+      "meaning_tr": "göze çarpan, belirgin, dikkat çekici",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "conspicuous"
+    },
     "f4ea203b86": {
       "answered_count": 0,
       "box": 1,
@@ -5495,53 +5567,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-25T19:30:27.173909+03:00",
+  "last_sent_at": "2026-10-25T23:56:22.313835+03:00",
   "pool": [
-    {
-      "collocations": [
-        "serious ramifications",
-        "economic ramifications"
-      ],
-      "definition_en": "a complex or unwelcome result that stems from an action",
-      "example": "Analysts are currently evaluating the economic ramifications of the new international trade agreement.",
-      "example_tr": "Analistler şu anda yeni uluslararası ticaret anlaşmasının ekonomik sonuçlarını değerlendiriyor.",
-      "ipa": "/ˌræmɪfɪˈkeɪʃn/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "muhtemel sonuç, dallanma, karmaşık sonuç",
-      "pos": "noun",
-      "word": "ramification"
-    },
-    {
-      "collocations": [
-        "conspicuous absence",
-        "conspicuous success"
-      ],
-      "definition_en": "easily seen or attracting attention very clearly",
-      "example": "His sudden absence at the annual board meeting was conspicuous to everyone present.",
-      "example_tr": "Yıllık yönetim kurulu toplantısındaki ani yokluğu oradaki herkes için göze çarpıcıydı.",
-      "ipa": "/kənˈspɪkjuəs/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "göze çarpan, belirgin, dikkat çekici",
-      "pos": "adjective",
-      "word": "conspicuous"
-    },
-    {
-      "collocations": [
-        "instill confidence",
-        "instill values"
-      ],
-      "definition_en": "to gradually impart a feeling or idea into a person's mind",
-      "example": "Good parents try to instill strong moral values in their children from an early age.",
-      "example_tr": "İyi ebeveynler, çocuklarına küçük yaştan itibaren güçlü ahlaki değerler aşılamaya çalışırlar.",
-      "ipa": "/ɪnˈstɪl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "aşılamak, empoze etmek, öğretmek",
-      "pos": "verb",
-      "word": "instill"
-    },
     {
       "collocations": [
         "take precedence over",
