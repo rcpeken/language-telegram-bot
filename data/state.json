@@ -312,6 +312,30 @@
       "unknown_count": 0,
       "word": "affluent"
     },
+    "14c5c6083d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "allegedly committed",
+        "allegedly involved"
+      ],
+      "definition_en": "used when something is claimed to be true without proof",
+      "due": "2026-10-26",
+      "example": "The suspect allegedly stole confidential documents from the company server before quitting.",
+      "example_tr": "Şüphelinin istifa etmeden önce şirket sunucusundan gizli belgeleri çaldığı iddia ediliyor.",
+      "first_seen": "2026-10-25T19:30:27.173909+03:00",
+      "id": "14c5c6083d",
+      "ipa": "/əˈledʒɪdli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-25",
+      "level": "C1",
+      "meaning_tr": "iddiaya göre, söylendiğine göre",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "allegedly"
+    },
     "150bfe2fb9": {
       "answered_count": 0,
       "box": 1,
@@ -2459,6 +2483,30 @@
       "unknown_count": 0,
       "word": "impediment"
     },
+    "7564906314": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "publish in due course",
+        "announce in due course"
+      ],
+      "definition_en": "at the proper or expected time in the future",
+      "due": "2026-10-26",
+      "example": "The detailed report about the new policy will be published in due course.",
+      "example_tr": "Yeni politika hakkındaki detaylı rapor zamanı geldiğinde yayımlanacaktır.",
+      "first_seen": "2026-10-25T19:30:27.173909+03:00",
+      "id": "7564906314",
+      "ipa": "/ɪn djuː kɔːs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-25",
+      "level": "C1",
+      "meaning_tr": "zamanı gelince, vakti geldiğinde",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in due course"
+    },
     "762f3d5ae8": {
       "answered_count": 0,
       "box": 1,
@@ -3093,7 +3141,7 @@
         "fully cognizant"
       ],
       "definition_en": "Having knowledge or being fully aware of something.",
-      "due": "2026-10-04",
+      "due": "2026-10-26",
       "example": "Leaders must be cognizant of the potential risks before making major decisions.",
       "example_tr": "Liderler, büyük kararlar almadan önce olası risklerin bilincinde olmalıdır.",
       "first_seen": "2026-09-22T14:46:43.129810+03:00",
@@ -3101,11 +3149,11 @@
       "ipa": "/ˈkɒɡnɪzənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-03",
+      "last_shown_at": "2026-10-25",
       "level": "C1",
       "meaning_tr": "farkında, bilincinde",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "cognizant"
     },
@@ -3118,7 +3166,7 @@
         "not merely but also"
       ],
       "definition_en": "Used to emphasize that something is only what you say and not better or more important.",
-      "due": "2026-10-04",
+      "due": "2026-10-26",
       "example": "I am merely pointing out that we do not have enough budget for this project.",
       "example_tr": "Sadece bu proje için yeterli bütçemiz olmadığını belirtiyorum.",
       "first_seen": "2026-10-03T14:46:38.395159+03:00",
@@ -3126,11 +3174,11 @@
       "ipa": "/ˈmɪəli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-03",
+      "last_shown_at": "2026-10-25",
       "level": "B2",
       "meaning_tr": "yalnızca, sadece",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "merely"
     },
@@ -4964,6 +5012,30 @@
       "unknown_count": 0,
       "word": "converge"
     },
+    "e8847ef37a": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "refurbish a building",
+        "fully refurbish"
+      ],
+      "definition_en": "to renovate and redecorate a building or room",
+      "due": "2026-10-26",
+      "example": "They decided to refurbish the old hotel to attract more international tourists next season.",
+      "example_tr": "Gelecek sezon daha fazla uluslararası turist çekmek için eski oteli yenilemeye karar verdiler.",
+      "first_seen": "2026-10-25T19:30:27.173909+03:00",
+      "id": "e8847ef37a",
+      "ipa": "/ˌriːˈfɜːbɪʃ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-25",
+      "level": "B2",
+      "meaning_tr": "yenilemek, restore etmek, dekore etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "refurbish"
+    },
     "e9836cccde": {
       "answered_count": 0,
       "box": 1,
@@ -5423,53 +5495,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-25T14:41:38.195871+03:00",
+  "last_sent_at": "2026-10-25T19:30:27.173909+03:00",
   "pool": [
-    {
-      "collocations": [
-        "publish in due course",
-        "announce in due course"
-      ],
-      "definition_en": "at the proper or expected time in the future",
-      "example": "The detailed report about the new policy will be published in due course.",
-      "example_tr": "Yeni politika hakkındaki detaylı rapor zamanı geldiğinde yayımlanacaktır.",
-      "ipa": "/ɪn djuː kɔːs/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "zamanı gelince, vakti geldiğinde",
-      "pos": "phrase",
-      "word": "in due course"
-    },
-    {
-      "collocations": [
-        "allegedly committed",
-        "allegedly involved"
-      ],
-      "definition_en": "used when something is claimed to be true without proof",
-      "example": "The suspect allegedly stole confidential documents from the company server before quitting.",
-      "example_tr": "Şüphelinin istifa etmeden önce şirket sunucusundan gizli belgeleri çaldığı iddia ediliyor.",
-      "ipa": "/əˈledʒɪdli/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "iddiaya göre, söylendiğine göre",
-      "pos": "adverb",
-      "word": "allegedly"
-    },
-    {
-      "collocations": [
-        "refurbish a building",
-        "fully refurbish"
-      ],
-      "definition_en": "to renovate and redecorate a building or room",
-      "example": "They decided to refurbish the old hotel to attract more international tourists next season.",
-      "example_tr": "Gelecek sezon daha fazla uluslararası turist çekmek için eski oteli yenilemeye karar verdiler.",
-      "ipa": "/ˌriːˈfɜːbɪʃ/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "yenilemek, restore etmek, dekore etmek",
-      "pos": "verb",
-      "word": "refurbish"
-    },
     {
       "collocations": [
         "serious ramifications",
