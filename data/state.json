@@ -192,6 +192,30 @@
       "unknown_count": 0,
       "word": "deviate"
     },
+    "0fd0f81930": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "unwavering support",
+        "unwavering commitment"
+      ],
+      "definition_en": "remaining firm and constant in support or determination",
+      "due": "2026-10-26",
+      "example": "She succeeded in her business thanks to the unwavering support of her family.",
+      "example_tr": "Ailesinin sarsılmaz desteği sayesinde işinde başarılı oldu.",
+      "first_seen": "2026-10-25T14:41:38.195871+03:00",
+      "id": "0fd0f81930",
+      "ipa": "/ʌnˈweɪvərɪŋ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-25",
+      "level": "C1",
+      "meaning_tr": "sarsılmaz, kararlı, sabit",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "unwavering"
+    },
     "1089b629f2": {
       "answered_count": 0,
       "box": 1,
@@ -815,6 +839,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "inherent"
+    },
+    "2939ba623e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "unearth evidence",
+        "unearth truth"
+      ],
+      "definition_en": "to discover or find something that was hidden or lost",
+      "due": "2026-10-26",
+      "example": "Journalists managed to unearth new evidence regarding the financial scandal last week.",
+      "example_tr": "Gazeteciler geçen hafta finansal skandalla ilgili yeni kanıtlar ortaya çıkarmayı başardı.",
+      "first_seen": "2026-10-25T14:41:38.195871+03:00",
+      "id": "2939ba623e",
+      "ipa": "/ʌnˈɜːθ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-25",
+      "level": "B2",
+      "meaning_tr": "ortaya çıkarmak, keşfetmek, kazıp çıkarmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "unearth"
     },
     "2a9e8e98f3": {
       "answered_count": 0,
@@ -1912,7 +1960,7 @@
         "deep apprehension"
       ],
       "definition_en": "Worry or fear about what might happen in the future.",
-      "due": "2026-10-04",
+      "due": "2026-10-26",
       "example": "She felt a deep sense of apprehension before walking onto the stage to speak.",
       "example_tr": "Konuşma yapmak için sahneye çıkmadan önce derin bir endişe hissetti.",
       "first_seen": "2026-10-03T14:46:38.395159+03:00",
@@ -1920,11 +1968,11 @@
       "ipa": "/ˌæprɪˈhenʃən/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-03",
+      "last_shown_at": "2026-10-25",
       "level": "C1",
       "meaning_tr": "endise, kaygı, korku",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "apprehension"
     },
@@ -1960,7 +2008,7 @@
         "keep/bear in mind"
       ],
       "definition_en": "To remember and consider a particular piece of information when making a decision.",
-      "due": "2026-10-04",
+      "due": "2026-10-26",
       "example": "When planning the outdoor event, you must bear in mind that it might rain.",
       "example_tr": "Açık hava etkinliğini planlarken, yağmur yağabileceğini aklınızda bulundurmalısınız.",
       "first_seen": "2026-10-03T14:46:38.395159+03:00",
@@ -1968,11 +2016,11 @@
       "ipa": "/beər ɪn maɪnd/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-03",
+      "last_shown_at": "2026-10-25",
       "level": "B2",
       "meaning_tr": "aklında tutmak, hesaba katmak, unutmamak",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "bear in mind"
     },
@@ -4315,6 +4363,30 @@
       "unknown_count": 0,
       "word": "retention"
     },
+    "cdf2b37d11": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "give leeway",
+        "allow leeway"
+      ],
+      "definition_en": "freedom to act or change plans within certain limits",
+      "due": "2026-10-26",
+      "example": "The manager gave the team some leeway to choose their own working hours.",
+      "example_tr": "Yönetici, ekibe kendi çalışma saatlerini seçmeleri için biraz hareket alanı tanıdı.",
+      "first_seen": "2026-10-25T14:41:38.195871+03:00",
+      "id": "cdf2b37d11",
+      "ipa": "/ˈliːweɪ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-25",
+      "level": "C1",
+      "meaning_tr": "hareket alanı, esneklik, özgürlük",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "leeway"
+    },
     "cfb3e75d63": {
       "answered_count": 0,
       "box": 1,
@@ -5351,8 +5423,189 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-24T23:56:11.700077+03:00",
-  "pool": [],
+  "last_sent_at": "2026-10-25T14:41:38.195871+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "publish in due course",
+        "announce in due course"
+      ],
+      "definition_en": "at the proper or expected time in the future",
+      "example": "The detailed report about the new policy will be published in due course.",
+      "example_tr": "Yeni politika hakkındaki detaylı rapor zamanı geldiğinde yayımlanacaktır.",
+      "ipa": "/ɪn djuː kɔːs/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "zamanı gelince, vakti geldiğinde",
+      "pos": "phrase",
+      "word": "in due course"
+    },
+    {
+      "collocations": [
+        "allegedly committed",
+        "allegedly involved"
+      ],
+      "definition_en": "used when something is claimed to be true without proof",
+      "example": "The suspect allegedly stole confidential documents from the company server before quitting.",
+      "example_tr": "Şüphelinin istifa etmeden önce şirket sunucusundan gizli belgeleri çaldığı iddia ediliyor.",
+      "ipa": "/əˈledʒɪdli/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "iddiaya göre, söylendiğine göre",
+      "pos": "adverb",
+      "word": "allegedly"
+    },
+    {
+      "collocations": [
+        "refurbish a building",
+        "fully refurbish"
+      ],
+      "definition_en": "to renovate and redecorate a building or room",
+      "example": "They decided to refurbish the old hotel to attract more international tourists next season.",
+      "example_tr": "Gelecek sezon daha fazla uluslararası turist çekmek için eski oteli yenilemeye karar verdiler.",
+      "ipa": "/ˌriːˈfɜːbɪʃ/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "yenilemek, restore etmek, dekore etmek",
+      "pos": "verb",
+      "word": "refurbish"
+    },
+    {
+      "collocations": [
+        "serious ramifications",
+        "economic ramifications"
+      ],
+      "definition_en": "a complex or unwelcome result that stems from an action",
+      "example": "Analysts are currently evaluating the economic ramifications of the new international trade agreement.",
+      "example_tr": "Analistler şu anda yeni uluslararası ticaret anlaşmasının ekonomik sonuçlarını değerlendiriyor.",
+      "ipa": "/ˌræmɪfɪˈkeɪʃn/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "muhtemel sonuç, dallanma, karmaşık sonuç",
+      "pos": "noun",
+      "word": "ramification"
+    },
+    {
+      "collocations": [
+        "conspicuous absence",
+        "conspicuous success"
+      ],
+      "definition_en": "easily seen or attracting attention very clearly",
+      "example": "His sudden absence at the annual board meeting was conspicuous to everyone present.",
+      "example_tr": "Yıllık yönetim kurulu toplantısındaki ani yokluğu oradaki herkes için göze çarpıcıydı.",
+      "ipa": "/kənˈspɪkjuəs/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "göze çarpan, belirgin, dikkat çekici",
+      "pos": "adjective",
+      "word": "conspicuous"
+    },
+    {
+      "collocations": [
+        "instill confidence",
+        "instill values"
+      ],
+      "definition_en": "to gradually impart a feeling or idea into a person's mind",
+      "example": "Good parents try to instill strong moral values in their children from an early age.",
+      "example_tr": "İyi ebeveynler, çocuklarına küçük yaştan itibaren güçlü ahlaki değerler aşılamaya çalışırlar.",
+      "ipa": "/ɪnˈstɪl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "aşılamak, empoze etmek, öğretmek",
+      "pos": "verb",
+      "word": "instill"
+    },
+    {
+      "collocations": [
+        "take precedence over",
+        "must take precedence"
+      ],
+      "definition_en": "to be more important than something else and dealt with first",
+      "example": "Safety considerations must always take precedence over speed when completing construction projects.",
+      "example_tr": "İnşaat projeleri tamamlanırken güvenlik hususları her zaman hızdan önce gelmelidir.",
+      "ipa": "/teɪk ˈpresɪdəns/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "öncelik taşımak, önce gelmek",
+      "pos": "phrase",
+      "word": "take precedence"
+    },
+    {
+      "collocations": [
+        "backbone of economy",
+        "form the backbone"
+      ],
+      "definition_en": "the main support or most crucial part of something",
+      "example": "Small businesses form the backbone of the national economy in many developing countries.",
+      "example_tr": "Küçük işletmeler, birçok gelişmekte olan ülkede ulusal ekonominin omurgasını oluşturur.",
+      "ipa": "/ˈbækbəʊn/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "omurga, temel direği, güç kaynağı",
+      "pos": "noun",
+      "word": "backbone"
+    },
+    {
+      "collocations": [
+        "unobtrusive service",
+        "unobtrusive presence"
+      ],
+      "definition_en": "not attracting unnecessary attention or causing disruption",
+      "example": "The security personnel maintained an unobtrusive presence during the high-profile celebrity conference.",
+      "example_tr": "Güvenlik personeli, üst düzey ünlü konferansı sırasında göze batmayan bir mevcudiyet sürdürdü.",
+      "ipa": "/ˌʌnəbˈtruːsɪv/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "göze batmayan, mütevazı, dikkat çekmeyen",
+      "pos": "adjective",
+      "word": "unobtrusive"
+    },
+    {
+      "collocations": [
+        "detract from",
+        "detract from success"
+      ],
+      "definition_en": "to diminish the worth or value of something good",
+      "example": "Minor technical errors did not detract from the overall success of the live performance.",
+      "example_tr": "Küçük teknik hatalar, canlı performansın genel başarısına gölge düşürmedi.",
+      "ipa": "/dɪˈtrækt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "değerini düşürmek, gölge düşürmek, azaltmak",
+      "pos": "verb",
+      "word": "detract"
+    },
+    {
+      "collocations": [
+        "political fallout",
+        "economic fallout"
+      ],
+      "definition_en": "the adverse side effects or negative results of a situation",
+      "example": "The political fallout from the scandal forced several senior ministers to resign immediately.",
+      "example_tr": "Skandalın siyasi olumsuz etkileri, birkaç kıdemli bakanı derhal istifa etmeye zorladı.",
+      "ipa": "/ˈfɔːlaʊt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "olumsuz etkiler, kötü sonuçlar, serpinti",
+      "pos": "noun",
+      "word": "fallout"
+    },
+    {
+      "collocations": [
+        "work in conjunction with",
+        "used in conjunction with"
+      ],
+      "definition_en": "together with or acting in combination with something else",
+      "example": "The local charity works in conjunction with international agencies to deliver emergency relief.",
+      "example_tr": "Yerel hayır kurumu, acil yardım ulaştırmak için uluslararası ajanslarla birlikte çalışıyor.",
+      "ipa": "/ɪn kənˈdʒʌŋkʃn wɪð/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "ile birlikte, ile ortaklaşa",
+      "pos": "phrase",
+      "word": "in conjunction with"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
