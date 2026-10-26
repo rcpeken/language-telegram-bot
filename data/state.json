@@ -80,7 +80,7 @@
         "unanimous support"
       ],
       "definition_en": "Agreed upon by everyone involved; in complete agreement.",
-      "due": "2026-10-05",
+      "due": "2026-10-27",
       "example": "The board of directors reached a unanimous decision to appoint her as the CEO.",
       "example_tr": "Yönetim kurulu, onu CEO olarak atamak için oybirliğiyle bir karara vardı.",
       "first_seen": "2026-09-23T14:45:58.827362+03:00",
@@ -88,11 +88,11 @@
       "ipa": "/juːˈnæn.ɪ.məs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-04",
+      "last_shown_at": "2026-10-26",
       "level": "C1",
       "meaning_tr": "oybirliğiyle alınan, müttefik",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "unanimous"
     },
@@ -1451,7 +1451,7 @@
         "redundant employees"
       ],
       "definition_en": "No longer needed or useful, or having lost employment because of lack of work.",
-      "due": "2026-10-05",
+      "due": "2026-10-27",
       "example": "The new software system made several manual data entry tasks completely redundant.",
       "example_tr": "Yeni yazılım sistemi, birkaç manuel veri girişi görevini tamamen gereksiz hale getirdi.",
       "first_seen": "2026-09-23T20:10:07.316180+03:00",
@@ -1459,11 +1459,11 @@
       "ipa": "/rɪˈdʌn.dənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-04",
+      "last_shown_at": "2026-10-26",
       "level": "C1",
       "meaning_tr": "gereksiz, işten çıkarılmış",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "redundant"
     },
@@ -1900,6 +1900,30 @@
       "shown_count": 4,
       "unknown_count": 0,
       "word": "subsequently"
+    },
+    "59c454306e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "political fallout",
+        "economic fallout"
+      ],
+      "definition_en": "the adverse side effects or negative results of a situation",
+      "due": "2026-10-27",
+      "example": "The political fallout from the scandal forced several senior ministers to resign immediately.",
+      "example_tr": "Skandalın siyasi olumsuz etkileri, birkaç kıdemli bakanı derhal istifa etmeye zorladı.",
+      "first_seen": "2026-10-26T23:34:09.996068+03:00",
+      "id": "59c454306e",
+      "ipa": "/ˈfɔːlaʊt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-26",
+      "level": "C1",
+      "meaning_tr": "olumsuz etkiler, kötü sonuçlar, serpinti",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "fallout"
     },
     "5aa8cd8469": {
       "answered_count": 0,
@@ -3664,6 +3688,30 @@
       "unknown_count": 0,
       "word": "pave the way for"
     },
+    "a6d6c97365": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "work in conjunction with",
+        "used in conjunction with"
+      ],
+      "definition_en": "together with or acting in combination with something else",
+      "due": "2026-10-27",
+      "example": "The local charity works in conjunction with international agencies to deliver emergency relief.",
+      "example_tr": "Yerel hayır kurumu, acil yardım ulaştırmak için uluslararası ajanslarla birlikte çalışıyor.",
+      "first_seen": "2026-10-26T23:34:09.996068+03:00",
+      "id": "a6d6c97365",
+      "ipa": "/ɪn kənˈdʒʌŋkʃn wɪð/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-26",
+      "level": "C1",
+      "meaning_tr": "ile birlikte, ile ortaklaşa",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in conjunction with"
+    },
     "a87bbffed8": {
       "answered_count": 0,
       "box": 1,
@@ -5180,6 +5228,30 @@
       "unknown_count": 0,
       "word": "coherent"
     },
+    "e9bde4eb5e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "detract from",
+        "detract from success"
+      ],
+      "definition_en": "to diminish the worth or value of something good",
+      "due": "2026-10-27",
+      "example": "Minor technical errors did not detract from the overall success of the live performance.",
+      "example_tr": "Küçük teknik hatalar, canlı performansın genel başarısına gölge düşürmedi.",
+      "first_seen": "2026-10-26T23:34:09.996068+03:00",
+      "id": "e9bde4eb5e",
+      "ipa": "/dɪˈtrækt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-26",
+      "level": "C1",
+      "meaning_tr": "değerini düşürmek, gölge düşürmek, azaltmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "detract"
+    },
     "e9e13b5c8f": {
       "answered_count": 0,
       "box": 1,
@@ -5639,54 +5711,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-26T16:13:54.075488+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "detract from",
-        "detract from success"
-      ],
-      "definition_en": "to diminish the worth or value of something good",
-      "example": "Minor technical errors did not detract from the overall success of the live performance.",
-      "example_tr": "Küçük teknik hatalar, canlı performansın genel başarısına gölge düşürmedi.",
-      "ipa": "/dɪˈtrækt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "değerini düşürmek, gölge düşürmek, azaltmak",
-      "pos": "verb",
-      "word": "detract"
-    },
-    {
-      "collocations": [
-        "political fallout",
-        "economic fallout"
-      ],
-      "definition_en": "the adverse side effects or negative results of a situation",
-      "example": "The political fallout from the scandal forced several senior ministers to resign immediately.",
-      "example_tr": "Skandalın siyasi olumsuz etkileri, birkaç kıdemli bakanı derhal istifa etmeye zorladı.",
-      "ipa": "/ˈfɔːlaʊt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "olumsuz etkiler, kötü sonuçlar, serpinti",
-      "pos": "noun",
-      "word": "fallout"
-    },
-    {
-      "collocations": [
-        "work in conjunction with",
-        "used in conjunction with"
-      ],
-      "definition_en": "together with or acting in combination with something else",
-      "example": "The local charity works in conjunction with international agencies to deliver emergency relief.",
-      "example_tr": "Yerel hayır kurumu, acil yardım ulaştırmak için uluslararası ajanslarla birlikte çalışıyor.",
-      "ipa": "/ɪn kənˈdʒʌŋkʃn wɪð/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "ile birlikte, ile ortaklaşa",
-      "pos": "phrase",
-      "word": "in conjunction with"
-    }
-  ],
+  "last_sent_at": "2026-10-26T23:34:09.996068+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
