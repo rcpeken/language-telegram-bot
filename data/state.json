@@ -56,7 +56,7 @@
         "predominantly rural"
       ],
       "definition_en": "Mostly or mainly; for the most part.",
-      "due": "2026-10-05",
+      "due": "2026-10-27",
       "example": "The audience at the concert consisted predominantly of young college students.",
       "example_tr": "Konserdeki seyirciler ağırlıklı olarak genç üniversite öğrencilerinden oluşuyordu.",
       "first_seen": "2026-09-23T20:10:07.316180+03:00",
@@ -64,11 +64,11 @@
       "ipa": "/prɪˈdɒm.ɪ.nənt.li/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-04",
+      "last_shown_at": "2026-10-26",
       "level": "B2",
       "meaning_tr": "çoğunlukla, ağırlıklı olarak",
       "pos": "adverb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "predominantly"
     },
@@ -623,6 +623,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "inexorably"
+    },
+    "1c1b59138c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "unobtrusive service",
+        "unobtrusive presence"
+      ],
+      "definition_en": "not attracting unnecessary attention or causing disruption",
+      "due": "2026-10-27",
+      "example": "The security personnel maintained an unobtrusive presence during the high-profile celebrity conference.",
+      "example_tr": "Güvenlik personeli, üst düzey ünlü konferansı sırasında göze batmayan bir mevcudiyet sürdürdü.",
+      "first_seen": "2026-10-26T16:13:54.075488+03:00",
+      "id": "1c1b59138c",
+      "ipa": "/ˌʌnəbˈtruːsɪv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-26",
+      "level": "C1",
+      "meaning_tr": "göze batmayan, mütevazı, dikkat çekmeyen",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "unobtrusive"
     },
     "1e5cfd4d2e": {
       "answered_count": 0,
@@ -1370,6 +1394,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "disparity"
+    },
+    "45b318efbd": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "backbone of economy",
+        "form the backbone"
+      ],
+      "definition_en": "the main support or most crucial part of something",
+      "due": "2026-10-27",
+      "example": "Small businesses form the backbone of the national economy in many developing countries.",
+      "example_tr": "Küçük işletmeler, birçok gelişmekte olan ülkede ulusal ekonominin omurgasını oluşturur.",
+      "first_seen": "2026-10-26T16:13:54.075488+03:00",
+      "id": "45b318efbd",
+      "ipa": "/ˈbækbəʊn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-26",
+      "level": "B2",
+      "meaning_tr": "omurga, temel direği, güç kaynağı",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "backbone"
     },
     "46dfa9d543": {
       "answered_count": 0,
@@ -3060,6 +3108,30 @@
       "unknown_count": 0,
       "word": "undermine"
     },
+    "91f85bc080": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "take precedence over",
+        "must take precedence"
+      ],
+      "definition_en": "to be more important than something else and dealt with first",
+      "due": "2026-10-27",
+      "example": "Safety considerations must always take precedence over speed when completing construction projects.",
+      "example_tr": "İnşaat projeleri tamamlanırken güvenlik hususları her zaman hızdan önce gelmelidir.",
+      "first_seen": "2026-10-26T16:13:54.075488+03:00",
+      "id": "91f85bc080",
+      "ipa": "/teɪk ˈpresɪdəns/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-26",
+      "level": "C1",
+      "meaning_tr": "öncelik taşımak, önce gelmek",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "take precedence"
+    },
     "93706ce19d": {
       "answered_count": 0,
       "box": 1,
@@ -3744,7 +3816,7 @@
         "compile data"
       ],
       "definition_en": "To collect information from different places and arrange it in a book or list.",
-      "due": "2026-10-04",
+      "due": "2026-10-27",
       "example": "The research assistant spent three weeks compiling the necessary data for the report.",
       "example_tr": "Araştırma görevlisi, rapor için gerekli verileri derlemek amacıyla üç hafta harcadı.",
       "first_seen": "2026-09-18T19:30:08.439611+03:00",
@@ -3752,11 +3824,11 @@
       "ipa": "/kəmˈpaɪl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-03",
+      "last_shown_at": "2026-10-26",
       "level": "B2",
       "meaning_tr": "derlemek, bir araya getirmek",
       "pos": "verb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "compile"
     },
@@ -5567,53 +5639,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-25T23:56:22.313835+03:00",
+  "last_sent_at": "2026-10-26T16:13:54.075488+03:00",
   "pool": [
-    {
-      "collocations": [
-        "take precedence over",
-        "must take precedence"
-      ],
-      "definition_en": "to be more important than something else and dealt with first",
-      "example": "Safety considerations must always take precedence over speed when completing construction projects.",
-      "example_tr": "İnşaat projeleri tamamlanırken güvenlik hususları her zaman hızdan önce gelmelidir.",
-      "ipa": "/teɪk ˈpresɪdəns/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "öncelik taşımak, önce gelmek",
-      "pos": "phrase",
-      "word": "take precedence"
-    },
-    {
-      "collocations": [
-        "backbone of economy",
-        "form the backbone"
-      ],
-      "definition_en": "the main support or most crucial part of something",
-      "example": "Small businesses form the backbone of the national economy in many developing countries.",
-      "example_tr": "Küçük işletmeler, birçok gelişmekte olan ülkede ulusal ekonominin omurgasını oluşturur.",
-      "ipa": "/ˈbækbəʊn/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "omurga, temel direği, güç kaynağı",
-      "pos": "noun",
-      "word": "backbone"
-    },
-    {
-      "collocations": [
-        "unobtrusive service",
-        "unobtrusive presence"
-      ],
-      "definition_en": "not attracting unnecessary attention or causing disruption",
-      "example": "The security personnel maintained an unobtrusive presence during the high-profile celebrity conference.",
-      "example_tr": "Güvenlik personeli, üst düzey ünlü konferansı sırasında göze batmayan bir mevcudiyet sürdürdü.",
-      "ipa": "/ˌʌnəbˈtruːsɪv/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "göze batmayan, mütevazı, dikkat çekmeyen",
-      "pos": "adjective",
-      "word": "unobtrusive"
-    },
     {
       "collocations": [
         "detract from",
