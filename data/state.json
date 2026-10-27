@@ -2312,6 +2312,30 @@
       "unknown_count": 0,
       "word": "in light of"
     },
+    "66920d2a41": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "deliberately mislead",
+        "deliberately target"
+      ],
+      "definition_en": "intentionally or in a way that is planned",
+      "due": "2026-10-28",
+      "example": "He deliberately left the office early so he could avoid the heavy evening traffic.",
+      "example_tr": "Yoğun akşam trafiğinden kaçınabilmek için ofisten kasten erken ayrıldı.",
+      "first_seen": "2026-10-27T21:59:57.203229+03:00",
+      "id": "66920d2a41",
+      "ipa": "/dɪˈlɪb.ər.ət.li/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-27",
+      "level": "B2",
+      "meaning_tr": "kasten, bilerek, kasıtlı olarak",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "deliberately"
+    },
     "66dbe656d3": {
       "answered_count": 0,
       "box": 1,
@@ -2780,7 +2804,7 @@
         "accumulate debts"
       ],
       "definition_en": "To collect or increase something gradually over a period of time.",
-      "due": "2026-10-06",
+      "due": "2026-10-28",
       "example": "Dust and old papers began to accumulate in the abandoned office over the years.",
       "example_tr": "Yıllar geçtikçe terk edilmiş ofiste toz ve eski kağıtlar birikmeye başladı.",
       "first_seen": "2026-09-23T14:45:58.827362+03:00",
@@ -2788,11 +2812,11 @@
       "ipa": "/əˈkjuː.mjə.leɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-05",
+      "last_shown_at": "2026-10-27",
       "level": "B2",
       "meaning_tr": "biriktirmek, yığılmak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "accumulate"
     },
@@ -3784,6 +3808,30 @@
       "unknown_count": 0,
       "word": "stem from"
     },
+    "aa8ad2d7fd": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "major drawback",
+        "obvious drawback"
+      ],
+      "definition_en": "a disadvantage or a negative aspect of a situation",
+      "due": "2026-10-28",
+      "example": "The main drawback of living in a big city is the high cost of rent.",
+      "example_tr": "Büyük bir şehirde yaşamanın temel dezavantajı yüksek kira masrafıdır.",
+      "first_seen": "2026-10-27T21:59:57.203229+03:00",
+      "id": "aa8ad2d7fd",
+      "ipa": "/ˈdrɔː.bæk/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-27",
+      "level": "B2",
+      "meaning_tr": "dezavantaj, sakınca, olumsuz taraf",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "drawback"
+    },
     "abf014b522": {
       "answered_count": 0,
       "box": 1,
@@ -3927,6 +3975,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "anticipate"
+    },
+    "b01160741f": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "tenacious effort",
+        "tenacious defender"
+      ],
+      "definition_en": "holding tightly onto something or keeping a belief firm",
+      "due": "2026-10-28",
+      "example": "The tenacious young researcher spent years working to solve the complex genetic mystery.",
+      "example_tr": "Azimli genç araştırmacı, bu karmaşık genetik gizemi çözmek için yıllarca çalıştı.",
+      "first_seen": "2026-10-27T21:59:57.203229+03:00",
+      "id": "b01160741f",
+      "ipa": "/təˈneɪ.ʃəs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-27",
+      "level": "C1",
+      "meaning_tr": "azimli, kararlı, inatçı",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "tenacious"
     },
     "b396723cbb": {
       "answered_count": 0,
@@ -4129,7 +4201,7 @@
         "strongly advocate"
       ],
       "definition_en": "To publicly support or suggest an idea, development, or way of doing something.",
-      "due": "2026-10-05",
+      "due": "2026-10-28",
       "example": "Many environmental groups advocate using public transport to reduce carbon emissions in cities.",
       "example_tr": "Birçok çevre grubu, şehirlerdeki karbon emisyonlarını azaltmak için toplu taşıma araçlarının kullanılmasını savunuyor.",
       "first_seen": "2026-09-16T10:12:29.899891+03:00",
@@ -4139,11 +4211,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-10-04",
+      "last_shown_at": "2026-10-27",
       "level": "C1",
       "meaning_tr": "savunmak, desteklemek",
       "pos": "verb",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 2,
       "word": "advocate"
     },
@@ -5711,8 +5783,189 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-27T15:21:38.194546+03:00",
-  "pool": [],
+  "last_sent_at": "2026-10-27T21:59:57.203229+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "embark on a journey",
+        "embark on a career"
+      ],
+      "definition_en": "to start something new, important, or exciting",
+      "example": "After graduating from college, she decided to embark on an ambitious new business career.",
+      "example_tr": "Üniversiteden mezun olduktan sonra, hırslı yeni bir iş kariyerine atılmaya karar verdi.",
+      "ipa": "/ɪmˈbɑːk ɒn/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "başlamak, koyulmak, atılmak",
+      "pos": "phrase",
+      "word": "embark on"
+    },
+    {
+      "collocations": [
+        "regulatory oversight",
+        "due to an oversight"
+      ],
+      "definition_en": "a mistake made because of a failure to notice something",
+      "example": "The financial error occurred due to an administrative oversight during the final reporting process.",
+      "example_tr": "Finansal hata, son raporlama sürecindeki idari bir gözden kaçırma nedeniyle meydana geldi.",
+      "ipa": "/ˈəʊ.və.saɪt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "gözden kaçırma, denetim, gözetim",
+      "pos": "noun",
+      "word": "oversight"
+    },
+    {
+      "collocations": [
+        "severe repercussions",
+        "political repercussions"
+      ],
+      "definition_en": "an unintended and usually unwelcome consequence of an event",
+      "example": "The new trade policy will have serious economic repercussions for small local businesses.",
+      "example_tr": "Yeni ticaret politikasının küçük yerel işletmeler üzerinde ciddi ekonomik sonuçları olacaktır.",
+      "ipa": "/ˌriː.pəˈkʌʃ.ən/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "kötü sonuç, etki, yankı",
+      "pos": "noun",
+      "word": "repercussion"
+    },
+    {
+      "collocations": [
+        "precarious position",
+        "precarious situation"
+      ],
+      "definition_en": "in a dangerous state because of not being safe or firmly fixed",
+      "example": "The company remained in a precarious financial position after losing its biggest corporate client.",
+      "example_tr": "Şirket, en büyük kurumsal müşterisini kaybettikten sonra güvencesiz bir finansal durumda kaldı.",
+      "ipa": "/prɪˈkeə.ri.əs/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "güvencesiz, tehlikeli, istikrarsız",
+      "pos": "adjective",
+      "word": "precarious"
+    },
+    {
+      "collocations": [
+        "elucidate the matter",
+        "help to elucidate"
+      ],
+      "definition_en": "to explain something clearly or make it easier to understand",
+      "example": "The professor used simple diagrams to elucidate the complex concepts of quantum physics.",
+      "example_tr": "Profesör, kuantum fiziğinin karmaşık kavramlarını aydınlatmak için basit şemalar kullandı.",
+      "ipa": "/iˈluː.sɪ.deɪt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "açıklamak, aydınlatmak, netleştirmek",
+      "pos": "verb",
+      "word": "elucidate"
+    },
+    {
+      "collocations": [
+        "intermittent rain",
+        "intermittent fast"
+      ],
+      "definition_en": "stopping and starting again at unexpected or regular intervals",
+      "example": "The heavy storm caused intermittent power outages throughout the entire residential neighborhood overnight.",
+      "example_tr": "Şiddetli fırtına, gece boyunca tüm yerleşim mahallesinde kesintili elektrik kesintilerine yol açtı.",
+      "ipa": "/ˌɪn.təˈmɪt.ənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "aralıklı, kesintili, tek tük",
+      "pos": "adjective",
+      "word": "intermittent"
+    },
+    {
+      "collocations": [
+        "begin in earnest",
+        "start in earnest"
+      ],
+      "definition_en": "more seriously or with greater energy and determination than before",
+      "example": "Work on the construction project will begin in earnest early next spring.",
+      "example_tr": "İnşaat projesindeki çalışmalar önümüzdeki ilkbaharın başında tüm hızıyla başlayacak.",
+      "ipa": "/ɪn ˈɜː.nɪst/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "ciddiyetle, gerçekten, tüm hızıyla",
+      "pos": "phrase",
+      "word": "in earnest"
+    },
+    {
+      "collocations": [
+        "essential prerequisite",
+        "prerequisite for"
+      ],
+      "definition_en": "something that must exist or happen before something else can occur",
+      "example": "A bachelor's degree is an essential prerequisite for entering this advanced master's program.",
+      "example_tr": "Lisans derecesi, bu ileri düzey yüksek lisans programına girmek için temel bir ön koşuldur.",
+      "ipa": "/priːˈrek.wɪ.zɪt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "ön koşul, gereksinim, şart",
+      "pos": "noun",
+      "word": "prerequisite"
+    },
+    {
+      "collocations": [
+        "augment income",
+        "augment resources"
+      ],
+      "definition_en": "to increase the size, amount, or value of something",
+      "example": "Many students take online evening courses to augment their knowledge and skills.",
+      "example_tr": "Birçok öğrenci, bilgi ve becerilerini artırmak için akşamları çevrim içi dersler alıyor.",
+      "ipa": "/ɔːɡˈment/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "artırmak, çoğaltmak, genişletmek",
+      "pos": "verb",
+      "word": "augment"
+    },
+    {
+      "collocations": [
+        "work diligently",
+        "diligently pursue"
+      ],
+      "definition_en": "in a way that shows care and conscientiousness in work",
+      "example": "The legal team worked diligently to prepare all necessary documents before the trial.",
+      "example_tr": "Hukuk ekibi, duruşmadan önce gerekli tüm belgeleri hazırlamak için özenle çalıştı.",
+      "ipa": "/ˈdɪl.ɪ.dʒənt.li/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "gayretle, özenle, titizlikle",
+      "pos": "adverb",
+      "word": "diligently"
+    },
+    {
+      "collocations": [
+        "fraught with danger",
+        "fraught with difficulties"
+      ],
+      "definition_en": "full of unpleasant things such as problems or dangers",
+      "example": "The journey through the frozen mountain pass was fraught with unexpected dangers.",
+      "example_tr": "Donmuş dağ geçidinden yapılan yolculuk, beklenmedik tehlikelerle doluydu.",
+      "ipa": "/frɔːt wɪð/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "ile dolu, yüklü, barındıran",
+      "pos": "phrase",
+      "word": "fraught with"
+    },
+    {
+      "collocations": [
+        "mediate a dispute",
+        "mediate between"
+      ],
+      "definition_en": "to talk to opposing parties in order to help them reach agreement",
+      "example": "An independent expert was hired to mediate the contract dispute between both parties.",
+      "example_tr": "Her iki taraf arasındaki sözleşme anlaşmazlığına arabuluculuk etmesi için bağımsız bir uzman tutuldu.",
+      "ipa": "/ˈmiː.di.eɪt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "arabuluculuk etmek, uzlaştırmak",
+      "pos": "verb",
+      "word": "mediate"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
