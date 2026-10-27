@@ -2047,6 +2047,30 @@
       "unknown_count": 0,
       "word": "in a nutshell"
     },
+    "5e2848a28e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "regulatory oversight",
+        "due to an oversight"
+      ],
+      "definition_en": "a mistake made because of a failure to notice something",
+      "due": "2026-10-29",
+      "example": "The financial error occurred due to an administrative oversight during the final reporting process.",
+      "example_tr": "Finansal hata, son raporlama sürecindeki idari bir gözden kaçırma nedeniyle meydana geldi.",
+      "first_seen": "2026-10-28T02:14:58.606500+03:00",
+      "id": "5e2848a28e",
+      "ipa": "/ˈəʊ.və.saɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-28",
+      "level": "C1",
+      "meaning_tr": "gözden kaçırma, denetim, gözetim",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "oversight"
+    },
     "5e7aebf62c": {
       "answered_count": 0,
       "box": 1,
@@ -2407,6 +2431,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "fluctuate"
+    },
+    "6bc13a15ae": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "embark on a journey",
+        "embark on a career"
+      ],
+      "definition_en": "to start something new, important, or exciting",
+      "due": "2026-10-29",
+      "example": "After graduating from college, she decided to embark on an ambitious new business career.",
+      "example_tr": "Üniversiteden mezun olduktan sonra, hırslı yeni bir iş kariyerine atılmaya karar verdi.",
+      "first_seen": "2026-10-28T02:14:58.606500+03:00",
+      "id": "6bc13a15ae",
+      "ipa": "/ɪmˈbɑːk ɒn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-28",
+      "level": "B2",
+      "meaning_tr": "başlamak, koyulmak, atılmak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "embark on"
     },
     "6c6ecb9941": {
       "answered_count": 0,
@@ -3528,7 +3576,7 @@
         "assess the situation"
       ],
       "definition_en": "To carefully judge or decide the amount, value, quality, or importance of something.",
-      "due": "2026-10-06",
+      "due": "2026-10-29",
       "example": "The committee will assess the environmental impact of the new highway project next week.",
       "example_tr": "Komite önümüzdeki hafta yeni otoyol projesinin çevresel etkisini değerlendirecek.",
       "first_seen": "2026-09-23T00:24:19.826323+03:00",
@@ -3536,11 +3584,11 @@
       "ipa": "/əˈses/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-05",
+      "last_shown_at": "2026-10-28",
       "level": "B2",
       "meaning_tr": "değerlendirmek, değer biçmek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "assess"
     },
@@ -3808,6 +3856,30 @@
       "unknown_count": 0,
       "word": "stem from"
     },
+    "aa84d63721": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "severe repercussions",
+        "political repercussions"
+      ],
+      "definition_en": "an unintended and usually unwelcome consequence of an event",
+      "due": "2026-10-29",
+      "example": "The new trade policy will have serious economic repercussions for small local businesses.",
+      "example_tr": "Yeni ticaret politikasının küçük yerel işletmeler üzerinde ciddi ekonomik sonuçları olacaktır.",
+      "first_seen": "2026-10-28T02:14:58.606500+03:00",
+      "id": "aa84d63721",
+      "ipa": "/ˌriː.pəˈkʌʃ.ən/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-28",
+      "level": "C1",
+      "meaning_tr": "kötü sonuç, etki, yankı",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "repercussion"
+    },
     "aa8ad2d7fd": {
       "answered_count": 0,
       "box": 1,
@@ -3960,7 +4032,7 @@
         "eagerly anticipate"
       ],
       "definition_en": "To expect or predict that something will happen and prepare for it.",
-      "due": "2026-10-06",
+      "due": "2026-10-29",
       "example": "We anticipate that the new marketing campaign will boost our sales significantly next quarter.",
       "example_tr": "Yeni pazarlama kampanyasının önümüzdeki çeyrekte satışlarımızı önemli ölçüde artıracağını öngörüyoruz.",
       "first_seen": "2026-10-05T17:51:35.175720+03:00",
@@ -3968,11 +4040,11 @@
       "ipa": "/ænˈtɪs.ɪ.peɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-05",
+      "last_shown_at": "2026-10-28",
       "level": "B2",
       "meaning_tr": "ummak, beklemek, öngörmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "anticipate"
     },
@@ -5783,53 +5855,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-27T21:59:57.203229+03:00",
+  "last_sent_at": "2026-10-28T02:14:58.606500+03:00",
   "pool": [
-    {
-      "collocations": [
-        "embark on a journey",
-        "embark on a career"
-      ],
-      "definition_en": "to start something new, important, or exciting",
-      "example": "After graduating from college, she decided to embark on an ambitious new business career.",
-      "example_tr": "Üniversiteden mezun olduktan sonra, hırslı yeni bir iş kariyerine atılmaya karar verdi.",
-      "ipa": "/ɪmˈbɑːk ɒn/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "başlamak, koyulmak, atılmak",
-      "pos": "phrase",
-      "word": "embark on"
-    },
-    {
-      "collocations": [
-        "regulatory oversight",
-        "due to an oversight"
-      ],
-      "definition_en": "a mistake made because of a failure to notice something",
-      "example": "The financial error occurred due to an administrative oversight during the final reporting process.",
-      "example_tr": "Finansal hata, son raporlama sürecindeki idari bir gözden kaçırma nedeniyle meydana geldi.",
-      "ipa": "/ˈəʊ.və.saɪt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "gözden kaçırma, denetim, gözetim",
-      "pos": "noun",
-      "word": "oversight"
-    },
-    {
-      "collocations": [
-        "severe repercussions",
-        "political repercussions"
-      ],
-      "definition_en": "an unintended and usually unwelcome consequence of an event",
-      "example": "The new trade policy will have serious economic repercussions for small local businesses.",
-      "example_tr": "Yeni ticaret politikasının küçük yerel işletmeler üzerinde ciddi ekonomik sonuçları olacaktır.",
-      "ipa": "/ˌriː.pəˈkʌʃ.ən/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "kötü sonuç, etki, yankı",
-      "pos": "noun",
-      "word": "repercussion"
-    },
     {
       "collocations": [
         "precarious position",
