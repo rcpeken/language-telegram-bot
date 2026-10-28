@@ -1635,6 +1635,30 @@
       "unknown_count": 0,
       "word": "considerably"
     },
+    "4ef5f70260": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "augment income",
+        "augment resources"
+      ],
+      "definition_en": "to increase the size, amount, or value of something",
+      "due": "2026-10-29",
+      "example": "Many students take online evening courses to augment their knowledge and skills.",
+      "example_tr": "Birçok öğrenci, bilgi ve becerilerini artırmak için akşamları çevrim içi dersler alıyor.",
+      "first_seen": "2026-10-28T23:20:23.654090+03:00",
+      "id": "4ef5f70260",
+      "ipa": "/ɔːɡˈment/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-28",
+      "level": "C1",
+      "meaning_tr": "artırmak, çoğaltmak, genişletmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "augment"
+    },
     "4f1b8d11a9": {
       "answered_count": 0,
       "box": 1,
@@ -2407,6 +2431,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "pragmatic"
+    },
+    "682c15fba5": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "begin in earnest",
+        "start in earnest"
+      ],
+      "definition_en": "more seriously or with greater energy and determination than before",
+      "due": "2026-10-29",
+      "example": "Work on the construction project will begin in earnest early next spring.",
+      "example_tr": "İnşaat projesindeki çalışmalar önümüzdeki ilkbaharın başında tüm hızıyla başlayacak.",
+      "first_seen": "2026-10-28T23:20:23.654090+03:00",
+      "id": "682c15fba5",
+      "ipa": "/ɪn ˈɜː.nɪst/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-28",
+      "level": "C1",
+      "meaning_tr": "ciddiyetle, gerçekten, tüm hızıyla",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in earnest"
     },
     "68bb15393f": {
       "answered_count": 0,
@@ -3808,6 +3856,30 @@
       "unknown_count": 0,
       "word": "in conjunction with"
     },
+    "a8389bd90d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "essential prerequisite",
+        "prerequisite for"
+      ],
+      "definition_en": "something that must exist or happen before something else can occur",
+      "due": "2026-10-29",
+      "example": "A bachelor's degree is an essential prerequisite for entering this advanced master's program.",
+      "example_tr": "Lisans derecesi, bu ileri düzey yüksek lisans programına girmek için temel bir ön koşuldur.",
+      "first_seen": "2026-10-28T23:20:23.654090+03:00",
+      "id": "a8389bd90d",
+      "ipa": "/priːˈrek.wɪ.zɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-28",
+      "level": "C1",
+      "meaning_tr": "ön koşul, gereksinim, şart",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "prerequisite"
+    },
     "a87bbffed8": {
       "answered_count": 0,
       "box": 1,
@@ -4515,7 +4587,7 @@
         "ambiguous answer"
       ],
       "definition_en": "Having more than one possible meaning, which makes it confusing or unclear.",
-      "due": "2026-10-06",
+      "due": "2026-10-29",
       "example": "The instructions were so ambiguous that none of the students knew what to do.",
       "example_tr": "Yönergeler o kadar belirsizdi ki öğrencilerin hiçbiri ne yapacağını bilemedi.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -4523,11 +4595,11 @@
       "ipa": "/æmˈbɪɡjuəs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-05",
+      "last_shown_at": "2026-10-28",
       "level": "C1",
       "meaning_tr": "belirsiz, muğlak, iki anlamlı",
       "pos": "adjective",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 0,
       "word": "ambiguous"
     },
@@ -5019,7 +5091,7 @@
         "exquisite craftsmanship"
       ],
       "definition_en": "Extremely beautiful, delicate, or carefully made.",
-      "due": "2026-10-06",
+      "due": "2026-10-29",
       "example": "The museum features an exquisite collection of hand-painted ceramics from the seventeenth century.",
       "example_tr": "Müze, on yedinci yüzyıldan kalma el boyaması seramiklerden oluşan zarif bir koleksiyona ev sahipliği yapıyor.",
       "first_seen": "2026-10-05T17:51:35.175720+03:00",
@@ -5027,11 +5099,11 @@
       "ipa": "/ɪkˈskwɪz.ɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-05",
+      "last_shown_at": "2026-10-28",
       "level": "C1",
       "meaning_tr": "zarif, mükemmel, fevkalade",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "exquisite"
     },
@@ -5927,53 +5999,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-28T16:06:51.537327+03:00",
+  "last_sent_at": "2026-10-28T23:20:23.654090+03:00",
   "pool": [
-    {
-      "collocations": [
-        "begin in earnest",
-        "start in earnest"
-      ],
-      "definition_en": "more seriously or with greater energy and determination than before",
-      "example": "Work on the construction project will begin in earnest early next spring.",
-      "example_tr": "İnşaat projesindeki çalışmalar önümüzdeki ilkbaharın başında tüm hızıyla başlayacak.",
-      "ipa": "/ɪn ˈɜː.nɪst/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "ciddiyetle, gerçekten, tüm hızıyla",
-      "pos": "phrase",
-      "word": "in earnest"
-    },
-    {
-      "collocations": [
-        "essential prerequisite",
-        "prerequisite for"
-      ],
-      "definition_en": "something that must exist or happen before something else can occur",
-      "example": "A bachelor's degree is an essential prerequisite for entering this advanced master's program.",
-      "example_tr": "Lisans derecesi, bu ileri düzey yüksek lisans programına girmek için temel bir ön koşuldur.",
-      "ipa": "/priːˈrek.wɪ.zɪt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "ön koşul, gereksinim, şart",
-      "pos": "noun",
-      "word": "prerequisite"
-    },
-    {
-      "collocations": [
-        "augment income",
-        "augment resources"
-      ],
-      "definition_en": "to increase the size, amount, or value of something",
-      "example": "Many students take online evening courses to augment their knowledge and skills.",
-      "example_tr": "Birçok öğrenci, bilgi ve becerilerini artırmak için akşamları çevrim içi dersler alıyor.",
-      "ipa": "/ɔːɡˈment/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "artırmak, çoğaltmak, genişletmek",
-      "pos": "verb",
-      "word": "augment"
-    },
     {
       "collocations": [
         "work diligently",
