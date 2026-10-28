@@ -192,6 +192,30 @@
       "unknown_count": 0,
       "word": "deviate"
     },
+    "0e99f24de2": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "precarious position",
+        "precarious situation"
+      ],
+      "definition_en": "in a dangerous state because of not being safe or firmly fixed",
+      "due": "2026-10-29",
+      "example": "The company remained in a precarious financial position after losing its biggest corporate client.",
+      "example_tr": "Şirket, en büyük kurumsal müşterisini kaybettikten sonra güvencesiz bir finansal durumda kaldı.",
+      "first_seen": "2026-10-28T16:06:51.537327+03:00",
+      "id": "0e99f24de2",
+      "ipa": "/prɪˈkeə.ri.əs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-28",
+      "level": "C1",
+      "meaning_tr": "güvencesiz, tehlikeli, istikrarsız",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "precarious"
+    },
     "0fd0f81930": {
       "answered_count": 0,
       "box": 1,
@@ -4225,7 +4249,7 @@
         "gender bias"
       ],
       "definition_en": "A personal and sometimes unreasonable judgment or prejudice for or against something.",
-      "due": "2026-10-06",
+      "due": "2026-10-29",
       "example": "The reporter was accused of showing a strong bias toward the ruling political party.",
       "example_tr": "Muhabir, iktidardaki siyasi partiye karşı güçlü bir önyargı göstermekle suçlandı.",
       "first_seen": "2026-09-23T00:24:19.826323+03:00",
@@ -4233,11 +4257,11 @@
       "ipa": "/ˈbaɪ.əs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-05",
+      "last_shown_at": "2026-10-28",
       "level": "B2",
       "meaning_tr": "önyargı, taraflılık",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "bias"
     },
@@ -4395,7 +4419,7 @@
         "impose constraints"
       ],
       "definition_en": "A limitation or restriction that controls what you can do.",
-      "due": "2026-10-06",
+      "due": "2026-10-29",
       "example": "Financial constraints forced the company to delay the launch of their new product.",
       "example_tr": "Finansal kısıtlamalar, şirketi yeni ürünlerinin lansmanını ertelemek zorunda bıraktı.",
       "first_seen": "2026-10-05T17:51:35.175720+03:00",
@@ -4403,11 +4427,11 @@
       "ipa": "/kənˈstreɪnt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-05",
+      "last_shown_at": "2026-10-28",
       "level": "B2",
       "meaning_tr": "kısıtlama, engel, zorlama",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "constraint"
     },
@@ -5107,6 +5131,30 @@
       "unknown_count": 0,
       "word": "jeopardize"
     },
+    "dee97a648e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "elucidate the matter",
+        "help to elucidate"
+      ],
+      "definition_en": "to explain something clearly or make it easier to understand",
+      "due": "2026-10-29",
+      "example": "The professor used simple diagrams to elucidate the complex concepts of quantum physics.",
+      "example_tr": "Profesör, kuantum fiziğinin karmaşık kavramlarını aydınlatmak için basit şemalar kullandı.",
+      "first_seen": "2026-10-28T16:06:51.537327+03:00",
+      "id": "dee97a648e",
+      "ipa": "/iˈluː.sɪ.deɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-28",
+      "level": "C1",
+      "meaning_tr": "açıklamak, aydınlatmak, netleştirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "elucidate"
+    },
     "e05f49f831": {
       "answered_count": 0,
       "box": 1,
@@ -5299,6 +5347,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "spontaneously"
+    },
+    "e48d6c9fc1": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "intermittent rain",
+        "intermittent fast"
+      ],
+      "definition_en": "stopping and starting again at unexpected or regular intervals",
+      "due": "2026-10-29",
+      "example": "The heavy storm caused intermittent power outages throughout the entire residential neighborhood overnight.",
+      "example_tr": "Şiddetli fırtına, gece boyunca tüm yerleşim mahallesinde kesintili elektrik kesintilerine yol açtı.",
+      "first_seen": "2026-10-28T16:06:51.537327+03:00",
+      "id": "e48d6c9fc1",
+      "ipa": "/ˌɪn.təˈmɪt.ənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-28",
+      "level": "C1",
+      "meaning_tr": "aralıklı, kesintili, tek tük",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "intermittent"
     },
     "e4b1811993": {
       "answered_count": 0,
@@ -5855,53 +5927,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-28T02:14:58.606500+03:00",
+  "last_sent_at": "2026-10-28T16:06:51.537327+03:00",
   "pool": [
-    {
-      "collocations": [
-        "precarious position",
-        "precarious situation"
-      ],
-      "definition_en": "in a dangerous state because of not being safe or firmly fixed",
-      "example": "The company remained in a precarious financial position after losing its biggest corporate client.",
-      "example_tr": "Şirket, en büyük kurumsal müşterisini kaybettikten sonra güvencesiz bir finansal durumda kaldı.",
-      "ipa": "/prɪˈkeə.ri.əs/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "güvencesiz, tehlikeli, istikrarsız",
-      "pos": "adjective",
-      "word": "precarious"
-    },
-    {
-      "collocations": [
-        "elucidate the matter",
-        "help to elucidate"
-      ],
-      "definition_en": "to explain something clearly or make it easier to understand",
-      "example": "The professor used simple diagrams to elucidate the complex concepts of quantum physics.",
-      "example_tr": "Profesör, kuantum fiziğinin karmaşık kavramlarını aydınlatmak için basit şemalar kullandı.",
-      "ipa": "/iˈluː.sɪ.deɪt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "açıklamak, aydınlatmak, netleştirmek",
-      "pos": "verb",
-      "word": "elucidate"
-    },
-    {
-      "collocations": [
-        "intermittent rain",
-        "intermittent fast"
-      ],
-      "definition_en": "stopping and starting again at unexpected or regular intervals",
-      "example": "The heavy storm caused intermittent power outages throughout the entire residential neighborhood overnight.",
-      "example_tr": "Şiddetli fırtına, gece boyunca tüm yerleşim mahallesinde kesintili elektrik kesintilerine yol açtı.",
-      "ipa": "/ˌɪn.təˈmɪt.ənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "aralıklı, kesintili, tek tük",
-      "pos": "adjective",
-      "word": "intermittent"
-    },
     {
       "collocations": [
         "begin in earnest",
