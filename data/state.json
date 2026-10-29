@@ -2368,7 +2368,7 @@
         "in light of recent events"
       ],
       "definition_en": "Drawing knowledge or information from; taking something into consideration.",
-      "due": "2026-10-07",
+      "due": "2026-10-30",
       "example": "In light of recent security concerns, the school has decided to install new security cameras.",
       "example_tr": "Son güvenlik endişelerinin ışığında, okul yeni güvenlik kameraları kurmaya karar verdi.",
       "first_seen": "2026-10-06T01:03:26.765655+03:00",
@@ -2376,11 +2376,11 @@
       "ipa": "/ɪn laɪt ɒv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-10-29",
       "level": "C1",
       "meaning_tr": "göz önünde bulundurulduğunda, ışığında",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "in light of"
     },
@@ -3044,7 +3044,7 @@
         "curtail freedom"
       ],
       "definition_en": "To reduce, limit, or restrict something, especially before it is finished.",
-      "due": "2026-10-07",
+      "due": "2026-10-30",
       "example": "The government decided to curtail public spending in order to reduce the national budget deficit.",
       "example_tr": "Hükümet, ulusal bütçe açığını azaltmak amacıyla kamu harcamalarını kısmaya karar verdi.",
       "first_seen": "2026-10-06T01:03:26.765655+03:00",
@@ -3052,11 +3052,11 @@
       "ipa": "/kəˈteɪl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-10-29",
       "level": "C1",
       "meaning_tr": "kısmak, kısıtlamak, azaltmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "curtail"
     },
@@ -6071,7 +6071,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-29T16:12:39.460965+03:00",
+  "last_sent_at": "2026-10-29T23:20:36.710718+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
