@@ -752,7 +752,7 @@
         "high yield"
       ],
       "definition_en": "To produce or provide a natural, agricultural, or industrial product, or a result.",
-      "due": "2026-10-07",
+      "due": "2026-10-30",
       "example": "The new agricultural methods are expected to yield a much larger harvest this coming autumn.",
       "example_tr": "Yeni tarım yöntemlerinin önümüzdeki sonbaharda çok daha büyük bir ürün vermesi bekleniyor.",
       "first_seen": "2026-10-06T16:24:10.893530+03:00",
@@ -760,11 +760,11 @@
       "ipa": "/jiːld/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-10-29",
       "level": "B2",
       "meaning_tr": "ürün vermek, sağlamak, boyun eğmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "yield"
     },
@@ -1161,7 +1161,7 @@
         "pervasive smell"
       ],
       "definition_en": "Existing or spreading everywhere, especially in a way that is difficult to ignore.",
-      "due": "2026-10-07",
+      "due": "2026-10-30",
       "example": "Smartphones have a pervasive influence on the daily lives of teenagers and young adults today.",
       "example_tr": "Akıllı telefonların günümüzde gençlerin ve genç yetişkinlerin günlük yaşamları üzerinde yaygın bir etkisi vardır.",
       "first_seen": "2026-10-06T23:22:01.297193+03:00",
@@ -1169,11 +1169,11 @@
       "ipa": "/pəˈveɪ.sɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-10-29",
       "level": "C1",
       "meaning_tr": "yaygın, her tarafa yayılmış, nüfuz eden",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "pervasive"
     },
@@ -4048,6 +4048,30 @@
       "unknown_count": 0,
       "word": "prospective"
     },
+    "ac32ca1a74": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "fraught with danger",
+        "fraught with difficulties"
+      ],
+      "definition_en": "full of unpleasant things such as problems or dangers",
+      "due": "2026-10-30",
+      "example": "The journey through the frozen mountain pass was fraught with unexpected dangers.",
+      "example_tr": "Donmuş dağ geçidinden yapılan yolculuk, beklenmedik tehlikelerle doluydu.",
+      "first_seen": "2026-10-29T16:12:39.460965+03:00",
+      "id": "ac32ca1a74",
+      "ipa": "/frɔːt wɪð/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-29",
+      "level": "C1",
+      "meaning_tr": "ile dolu, yüklü, barındıran",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "fraught with"
+    },
     "ae40c15cfb": {
       "answered_count": 0,
       "box": 1,
@@ -4458,6 +4482,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "versatile"
+    },
+    "bd31d1edf7": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "mediate a dispute",
+        "mediate between"
+      ],
+      "definition_en": "to talk to opposing parties in order to help them reach agreement",
+      "due": "2026-10-30",
+      "example": "An independent expert was hired to mediate the contract dispute between both parties.",
+      "example_tr": "Her iki taraf arasındaki sözleşme anlaşmazlığına arabuluculuk etmesi için bağımsız bir uzman tutuldu.",
+      "first_seen": "2026-10-29T16:12:39.460965+03:00",
+      "id": "bd31d1edf7",
+      "ipa": "/ˈmiː.di.eɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-29",
+      "level": "C1",
+      "meaning_tr": "arabuluculuk etmek, uzlaştırmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "mediate"
     },
     "bd831ffb96": {
       "answered_count": 0,
@@ -5492,6 +5540,30 @@
       "unknown_count": 0,
       "word": "refurbish"
     },
+    "e9248e0c2e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "work diligently",
+        "diligently pursue"
+      ],
+      "definition_en": "in a way that shows care and conscientiousness in work",
+      "due": "2026-10-30",
+      "example": "The legal team worked diligently to prepare all necessary documents before the trial.",
+      "example_tr": "Hukuk ekibi, duruşmadan önce gerekli tüm belgeleri hazırlamak için özenle çalıştı.",
+      "first_seen": "2026-10-29T16:12:39.460965+03:00",
+      "id": "e9248e0c2e",
+      "ipa": "/ˈdɪl.ɪ.dʒənt.li/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-29",
+      "level": "C1",
+      "meaning_tr": "gayretle, özenle, titizlikle",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "diligently"
+    },
     "e9836cccde": {
       "answered_count": 0,
       "box": 1,
@@ -5999,54 +6071,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-28T23:20:23.654090+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "work diligently",
-        "diligently pursue"
-      ],
-      "definition_en": "in a way that shows care and conscientiousness in work",
-      "example": "The legal team worked diligently to prepare all necessary documents before the trial.",
-      "example_tr": "Hukuk ekibi, duruşmadan önce gerekli tüm belgeleri hazırlamak için özenle çalıştı.",
-      "ipa": "/ˈdɪl.ɪ.dʒənt.li/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "gayretle, özenle, titizlikle",
-      "pos": "adverb",
-      "word": "diligently"
-    },
-    {
-      "collocations": [
-        "fraught with danger",
-        "fraught with difficulties"
-      ],
-      "definition_en": "full of unpleasant things such as problems or dangers",
-      "example": "The journey through the frozen mountain pass was fraught with unexpected dangers.",
-      "example_tr": "Donmuş dağ geçidinden yapılan yolculuk, beklenmedik tehlikelerle doluydu.",
-      "ipa": "/frɔːt wɪð/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "ile dolu, yüklü, barındıran",
-      "pos": "phrase",
-      "word": "fraught with"
-    },
-    {
-      "collocations": [
-        "mediate a dispute",
-        "mediate between"
-      ],
-      "definition_en": "to talk to opposing parties in order to help them reach agreement",
-      "example": "An independent expert was hired to mediate the contract dispute between both parties.",
-      "example_tr": "Her iki taraf arasındaki sözleşme anlaşmazlığına arabuluculuk etmesi için bağımsız bir uzman tutuldu.",
-      "ipa": "/ˈmiː.di.eɪt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "arabuluculuk etmek, uzlaştırmak",
-      "pos": "verb",
-      "word": "mediate"
-    }
-  ],
+  "last_sent_at": "2026-10-29T16:12:39.460965+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
