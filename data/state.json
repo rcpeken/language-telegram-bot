@@ -1056,6 +1056,30 @@
       "unknown_count": 0,
       "word": "foster"
     },
+    "2d40d2bcd9": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "reportedly planned",
+        "reportedly killed"
+      ],
+      "definition_en": "According to what many people say or what has been reported.",
+      "due": "2026-10-31",
+      "example": "The company is reportedly planning to open three new international branches next year.",
+      "example_tr": "Şirketin bildirildiğine göre önümüzdeki yıl üç yeni uluslararası şube açmayı planladığı söyleniyor.",
+      "first_seen": "2026-10-30T22:56:33.237840+03:00",
+      "id": "2d40d2bcd9",
+      "ipa": "/rɪˈpɔːtɪdli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-30",
+      "level": "B2",
+      "meaning_tr": "söylenene göre, bildirildiğine göre",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "reportedly"
+    },
     "2f2916f101": {
       "answered_count": 0,
       "box": 1,
@@ -1466,6 +1490,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "backbone"
+    },
+    "4693792d5d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "bolster confidence",
+        "bolster the economy"
+      ],
+      "definition_en": "To support or strengthen something.",
+      "due": "2026-10-31",
+      "example": "The government took immediate action to bolster the country’s struggling economic sector.",
+      "example_tr": "Hükümet, ülkenin zorlanan ekonomik sektörünü güçlendirmek için derhal harekete geçti.",
+      "first_seen": "2026-10-30T22:56:33.237840+03:00",
+      "id": "4693792d5d",
+      "ipa": "/ˈbəʊlstə(r)/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-30",
+      "level": "C1",
+      "meaning_tr": "desteklemek, güçlendirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "bolster"
     },
     "46dfa9d543": {
       "answered_count": 0,
@@ -3228,6 +3276,30 @@
       "unknown_count": 0,
       "word": "consensus"
     },
+    "8c8a725546": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "by and large successful",
+        "by and large satisfied"
+      ],
+      "definition_en": "On the whole; everything considered.",
+      "due": "2026-10-31",
+      "example": "By and large, the new policy has received positive feedback from employees.",
+      "example_tr": "Genel olarak, yeni politika çalışanlardan olumlu geri bildirimler aldı.",
+      "first_seen": "2026-10-30T22:56:33.237840+03:00",
+      "id": "8c8a725546",
+      "ipa": "/baɪ ənd lɑːdʒ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-30",
+      "level": "B2",
+      "meaning_tr": "genel olarak, genel hatlarıyla",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "by and large"
+    },
     "8cbb8b6e15": {
       "answered_count": 0,
       "box": 1,
@@ -3624,7 +3696,7 @@
         "leverage technology"
       ],
       "definition_en": "To use something to maximum advantage to achieve a desired result.",
-      "due": "2026-10-07",
+      "due": "2026-10-31",
       "example": "Successful businesses leverage social media to reach a broader audience and build brand loyalty.",
       "example_tr": "Başarılı işletmeler, daha geniş bir kitleye ulaşmak ve marka bağlılığı oluşturmak için sosyal medyayı etkili kullanır.",
       "first_seen": "2026-10-06T16:24:10.893530+03:00",
@@ -3632,11 +3704,11 @@
       "ipa": "/ˈlev.ər.ɪdʒ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-10-30",
       "level": "C1",
       "meaning_tr": "yararlanmak, kaldıraç olarak kullanmak, etkili kullanmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "leverage"
     },
@@ -4755,7 +4827,7 @@
         "come to terms with grief"
       ],
       "definition_en": "To gradually accept a sad or difficult situation.",
-      "due": "2026-10-07",
+      "due": "2026-10-31",
       "example": "It took her several months to come to terms with losing her job.",
       "example_tr": "İşini kaybetmeyi kabullenmesi onun birkaç ayını aldı.",
       "first_seen": "2026-09-18T14:24:05.575471+03:00",
@@ -4763,11 +4835,11 @@
       "ipa": "/kʌm tuː tɜːmz wɪð/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-10-30",
       "level": "C1",
       "meaning_tr": "kabullenmek, alışmak, uzlaşmak",
       "pos": "phrase",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "come to terms with"
     },
@@ -6143,53 +6215,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-30T16:05:15.712141+03:00",
+  "last_sent_at": "2026-10-30T22:56:33.237840+03:00",
   "pool": [
-    {
-      "collocations": [
-        "reportedly planned",
-        "reportedly killed"
-      ],
-      "definition_en": "According to what many people say or what has been reported.",
-      "example": "The company is reportedly planning to open three new international branches next year.",
-      "example_tr": "Şirketin bildirildiğine göre önümüzdeki yıl üç yeni uluslararası şube açmayı planladığı söyleniyor.",
-      "ipa": "/rɪˈpɔːtɪdli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "söylenene göre, bildirildiğine göre",
-      "pos": "adverb",
-      "word": "reportedly"
-    },
-    {
-      "collocations": [
-        "by and large successful",
-        "by and large satisfied"
-      ],
-      "definition_en": "On the whole; everything considered.",
-      "example": "By and large, the new policy has received positive feedback from employees.",
-      "example_tr": "Genel olarak, yeni politika çalışanlardan olumlu geri bildirimler aldı.",
-      "ipa": "/baɪ ənd lɑːdʒ/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "genel olarak, genel hatlarıyla",
-      "pos": "phrase",
-      "word": "by and large"
-    },
-    {
-      "collocations": [
-        "bolster confidence",
-        "bolster the economy"
-      ],
-      "definition_en": "To support or strengthen something.",
-      "example": "The government took immediate action to bolster the country’s struggling economic sector.",
-      "example_tr": "Hükümet, ülkenin zorlanan ekonomik sektörünü güçlendirmek için derhal harekete geçti.",
-      "ipa": "/ˈbəʊlstə(r)/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "desteklemek, güçlendirmek",
-      "pos": "verb",
-      "word": "bolster"
-    },
     {
       "collocations": [
         "dubious claim",
