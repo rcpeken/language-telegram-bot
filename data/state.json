@@ -888,6 +888,30 @@
       "unknown_count": 0,
       "word": "sustain"
     },
+    "2656be9ee3": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "paramount importance",
+        "paramount concern"
+      ],
+      "definition_en": "More important than anything else; supreme.",
+      "due": "2026-10-31",
+      "example": "Ensuring the safety of passengers is of paramount importance to the airline.",
+      "example_tr": "Yolcuların güvenliğini sağlamak havayolu şirketi için son derece önemlidir.",
+      "first_seen": "2026-10-30T16:05:15.712141+03:00",
+      "id": "2656be9ee3",
+      "ipa": "/ˈpærəmaʊnt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-30",
+      "level": "C1",
+      "meaning_tr": "en önemli, son derece önemli, üstün",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "paramount"
+    },
     "28291a2efb": {
       "answered_count": 0,
       "box": 1,
@@ -2168,6 +2192,30 @@
       "unknown_count": 0,
       "word": "apprehension"
     },
+    "5ee4f15277": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "spearhead a project",
+        "spearhead a campaign"
+      ],
+      "definition_en": "To lead an attack, campaign, or movement.",
+      "due": "2026-10-31",
+      "example": "She was chosen to spearhead the new environmental initiative across the company.",
+      "example_tr": "Şirket genelindeki yeni çevre girişimine öncülük etmesi için o seçildi.",
+      "first_seen": "2026-10-30T16:05:15.712141+03:00",
+      "id": "5ee4f15277",
+      "ipa": "/ˈspɪəhed/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-30",
+      "level": "C1",
+      "meaning_tr": "öncülük etmek, liderlik etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "spearhead"
+    },
     "5f32afa636": {
       "answered_count": 0,
       "box": 1,
@@ -3140,7 +3188,7 @@
         "remain resolute"
       ],
       "definition_en": "Admirably purposeful, determined, and unwavering in one's decisions or opinions.",
-      "due": "2026-10-07",
+      "due": "2026-10-31",
       "example": "Despite receiving numerous complaints, the committee remained resolute in their decision to close the park.",
       "example_tr": "Sayısız şikayet almasına rağmen, komite parkı kapatma kararlarında kararlı kaldı.",
       "first_seen": "2026-10-06T16:24:10.893530+03:00",
@@ -3148,11 +3196,11 @@
       "ipa": "/ˈrez.ə.luːt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-10-30",
       "level": "C1",
       "meaning_tr": "kararlı, azimli, tavizsiz",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "resolute"
     },
@@ -3478,7 +3526,7 @@
         "without precedent"
       ],
       "definition_en": "An earlier event or action that is regarded as an example or guide for future cases.",
-      "due": "2026-10-07",
+      "due": "2026-10-31",
       "example": "The judge's historic ruling set a crucial precedent for future cases involving environmental damage.",
       "example_tr": "Yargıcın tarihi kararı, çevreye verilen zararı içeren gelecekteki davalar için önemli bir emsal oluşturdu.",
       "first_seen": "2026-10-06T23:22:01.297193+03:00",
@@ -3486,11 +3534,11 @@
       "ipa": "/ˈpres.ɪ.dənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-10-30",
       "level": "C1",
       "meaning_tr": "emsal, geçmiş örnek, gelenek",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "precedent"
     },
@@ -5107,6 +5155,30 @@
       "unknown_count": 0,
       "word": "mitigate"
     },
+    "d725012ea7": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "political upheaval",
+        "economic upheaval"
+      ],
+      "definition_en": "A violent or sudden change or disruption to something.",
+      "due": "2026-10-31",
+      "example": "The sudden political upheaval caused widespread anxiety among local business owners.",
+      "example_tr": "Ani siyasi çalkantı, yerel işletme sahipleri arasında yaygın bir endişeye yol açtı.",
+      "first_seen": "2026-10-30T16:05:15.712141+03:00",
+      "id": "d725012ea7",
+      "ipa": "/ʌpˈhiːvl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-30",
+      "level": "C1",
+      "meaning_tr": "kargaşa, çalkantı, büyük değişim",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "upheaval"
+    },
     "d77317cabb": {
       "answered_count": 0,
       "box": 1,
@@ -6071,8 +6143,189 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-29T23:20:36.710718+03:00",
-  "pool": [],
+  "last_sent_at": "2026-10-30T16:05:15.712141+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "reportedly planned",
+        "reportedly killed"
+      ],
+      "definition_en": "According to what many people say or what has been reported.",
+      "example": "The company is reportedly planning to open three new international branches next year.",
+      "example_tr": "Şirketin bildirildiğine göre önümüzdeki yıl üç yeni uluslararası şube açmayı planladığı söyleniyor.",
+      "ipa": "/rɪˈpɔːtɪdli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "söylenene göre, bildirildiğine göre",
+      "pos": "adverb",
+      "word": "reportedly"
+    },
+    {
+      "collocations": [
+        "by and large successful",
+        "by and large satisfied"
+      ],
+      "definition_en": "On the whole; everything considered.",
+      "example": "By and large, the new policy has received positive feedback from employees.",
+      "example_tr": "Genel olarak, yeni politika çalışanlardan olumlu geri bildirimler aldı.",
+      "ipa": "/baɪ ənd lɑːdʒ/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "genel olarak, genel hatlarıyla",
+      "pos": "phrase",
+      "word": "by and large"
+    },
+    {
+      "collocations": [
+        "bolster confidence",
+        "bolster the economy"
+      ],
+      "definition_en": "To support or strengthen something.",
+      "example": "The government took immediate action to bolster the country’s struggling economic sector.",
+      "example_tr": "Hükümet, ülkenin zorlanan ekonomik sektörünü güçlendirmek için derhal harekete geçti.",
+      "ipa": "/ˈbəʊlstə(r)/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "desteklemek, güçlendirmek",
+      "pos": "verb",
+      "word": "bolster"
+    },
+    {
+      "collocations": [
+        "dubious claim",
+        "dubious honor"
+      ],
+      "definition_en": "Hesitant or doubting; not to be relied upon.",
+      "example": "He made a dubious claim about solving the complex issue overnight.",
+      "example_tr": "Karmaşık sorunu bir gecede çözdüğüne dair şüpheli bir iddiada bulundu.",
+      "ipa": "/ˈdjuːbiəs/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "şüpheli, kuşkulu",
+      "pos": "adjective",
+      "word": "dubious"
+    },
+    {
+      "collocations": [
+        "imperceptible change",
+        "imperceptible shift"
+      ],
+      "definition_en": "So slight, gradual, or subtle as not to be perceived.",
+      "example": "There was an almost imperceptible change in her facial expression during the interview.",
+      "example_tr": "Mülakat sırasında yüz ifadesinde neredeyse fark edilmeyen bir değişiklik vardı.",
+      "ipa": "/ˌɪmpəˈseptəbl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "fark edilemez, algılanamaz, belirsiz",
+      "pos": "adjective",
+      "word": "imperceptible"
+    },
+    {
+      "collocations": [
+        "culmination of effort",
+        "reach culmination"
+      ],
+      "definition_en": "The highest or final point of something, especially after a long time.",
+      "example": "The new product launch was the culmination of years of hard research.",
+      "example_tr": "Yeni ürünün lansmanı, yıllar süren zorlu araştırmaların doruk noktasıydı.",
+      "ipa": "/ˌkʌlmɪˈneɪʃn/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "doruk noktası, zirve, sonuç",
+      "pos": "noun",
+      "word": "culmination"
+    },
+    {
+      "collocations": [
+        "dwindle away",
+        "dwindling resources"
+      ],
+      "definition_en": "To gradually diminish in size, amount, or strength.",
+      "example": "The city's water supplies continued to dwindle during the severe summer drought.",
+      "example_tr": "Şehrin su kaynakları, şiddetli yaz kuraklığı boyunca azalmaya devam etti.",
+      "ipa": "/ˈdwɪndl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "giderek azalmak, küçülmek",
+      "pos": "verb",
+      "word": "dwindle"
+    },
+    {
+      "collocations": [
+        "growing discontent",
+        "widespread discontent"
+      ],
+      "definition_en": "Dissatisfaction with one's circumstances.",
+      "example": "There is growing discontent among workers regarding the recent salary cuts.",
+      "example_tr": "İşçiler arasında son maaş kesintileriyle ilgili büyüyen bir memnuniyetsizlik var.",
+      "ipa": "/ˌdɪskənˈtent/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "hoşnutsuzluk, memnuniyetsizlik",
+      "pos": "noun",
+      "word": "discontent"
+    },
+    {
+      "collocations": [
+        "main adversary",
+        "political adversary"
+      ],
+      "definition_en": "One's opponent in a contest, conflict, or dispute.",
+      "example": "He proved to be a tough adversary during the final debate match.",
+      "example_tr": "Final münazara maçında zorlu bir rakip olduğunu kanıtladı.",
+      "ipa": "/ˈædvəsəri/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "rakip, düşman, hasım",
+      "pos": "noun",
+      "word": "adversary"
+    },
+    {
+      "collocations": [
+        "overhaul a system",
+        "major overhaul"
+      ],
+      "definition_en": "To examine thoroughly and make necessary repairs or changes.",
+      "example": "The institution decided to overhaul its entire customer service system this month.",
+      "example_tr": "Kurum, bu ay tüm müşteri hizmetleri sistemini baştan aşağı yenilemeye karar verdi.",
+      "ipa": "/ˌəʊvəˈhɔːl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "baştan aşağı yenilemek, revizyondan geçirmek",
+      "pos": "verb",
+      "word": "overhaul"
+    },
+    {
+      "collocations": [
+        "reject outright",
+        "ban outright"
+      ],
+      "definition_en": "Wholly and completely; immediately.",
+      "example": "The board rejected the proposal outright during the first round of discussions.",
+      "example_tr": "Yönetim kurulu, ilk tartışma turunda teklifi tamamen reddetti.",
+      "ipa": "/ˈaʊtraɪt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "tamamen, doğrulukla, hemen",
+      "pos": "adverb",
+      "word": "outright"
+    },
+    {
+      "collocations": [
+        "strike a delicate balance",
+        "strike the right balance"
+      ],
+      "definition_en": "To find a compromise between two conflicting things.",
+      "example": "It is crucial to strike a balance between professional goals and personal health.",
+      "example_tr": "Mesleki hedefler ile kişisel sağlık arasında bir denge kurmak çok önemlidir.",
+      "ipa": "/straɪk ə ˈbæləns/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "denge kurmak, dengeyi sağlamak",
+      "pos": "phrase",
+      "word": "strike a balance"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
