@@ -744,6 +744,30 @@
       "unknown_count": 0,
       "word": "take for granted"
     },
+    "200888c1c6": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "imperceptible change",
+        "imperceptible shift"
+      ],
+      "definition_en": "So slight, gradual, or subtle as not to be perceived.",
+      "due": "2026-11-01",
+      "example": "There was an almost imperceptible change in her facial expression during the interview.",
+      "example_tr": "Mülakat sırasında yüz ifadesinde neredeyse fark edilmeyen bir değişiklik vardı.",
+      "first_seen": "2026-10-31T15:42:39.415962+03:00",
+      "id": "200888c1c6",
+      "ipa": "/ˌɪmpəˈseptəbl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-31",
+      "level": "C1",
+      "meaning_tr": "fark edilemez, algılanamaz, belirsiz",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "imperceptible"
+    },
     "20a8c52650": {
       "answered_count": 0,
       "box": 1,
@@ -1103,6 +1127,30 @@
       "shown_count": 6,
       "unknown_count": 0,
       "word": "oversee"
+    },
+    "2f5c9e934d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "dubious claim",
+        "dubious honor"
+      ],
+      "definition_en": "Hesitant or doubting; not to be relied upon.",
+      "due": "2026-11-01",
+      "example": "He made a dubious claim about solving the complex issue overnight.",
+      "example_tr": "Karmaşık sorunu bir gecede çözdüğüne dair şüpheli bir iddiada bulundu.",
+      "first_seen": "2026-10-31T15:42:39.415962+03:00",
+      "id": "2f5c9e934d",
+      "ipa": "/ˈdjuːbiəs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-31",
+      "level": "C1",
+      "meaning_tr": "şüpheli, kuşkulu",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "dubious"
     },
     "2f973bd788": {
       "answered_count": 0,
@@ -3060,6 +3108,30 @@
       "unknown_count": 0,
       "word": "turmoil"
     },
+    "7f6eec78ce": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "culmination of effort",
+        "reach culmination"
+      ],
+      "definition_en": "The highest or final point of something, especially after a long time.",
+      "due": "2026-11-01",
+      "example": "The new product launch was the culmination of years of hard research.",
+      "example_tr": "Yeni ürünün lansmanı, yıllar süren zorlu araştırmaların doruk noktasıydı.",
+      "first_seen": "2026-10-31T15:42:39.415962+03:00",
+      "id": "7f6eec78ce",
+      "ipa": "/ˌkʌlmɪˈneɪʃn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-31",
+      "level": "C1",
+      "meaning_tr": "doruk noktası, zirve, sonuç",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "culmination"
+    },
     "7fbed1ec7d": {
       "answered_count": 0,
       "box": 1,
@@ -4851,7 +4923,7 @@
         "most notably"
       ],
       "definition_en": "In a way that is easily noticed or especially true; particularly.",
-      "due": "2026-10-07",
+      "due": "2026-11-01",
       "example": "Several countries, notably Spain and Italy, have seen a major rise in tourism this summer.",
       "example_tr": "Başta İspanya ve İtalya olmak üzere birçok ülke, bu yaz turizmde büyük bir artış gördü.",
       "first_seen": "2026-10-06T01:03:26.765655+03:00",
@@ -4859,11 +4931,11 @@
       "ipa": "/ˈnoʊ.tə.bli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-10-31",
       "level": "B2",
       "meaning_tr": "özellikle, bilhassa, göze çarpan derecede",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "notably"
     },
@@ -4995,7 +5067,7 @@
         "male counterpart"
       ],
       "definition_en": "A person or thing that has the same position or function as another in a different place.",
-      "due": "2026-10-07",
+      "due": "2026-11-01",
       "example": "The prime minister met with his French counterpart to discuss trade relations.",
       "example_tr": "Başbakan, ticari ilişkileri görüşmek üzere Fransız mevkidaşı ile bir araya geldi.",
       "first_seen": "2026-09-23T20:10:07.316180+03:00",
@@ -5003,11 +5075,11 @@
       "ipa": "/ˈkaʊn.tə.pɑːt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-10-31",
       "level": "C1",
       "meaning_tr": "mevkidaş, emsal, karşılık",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "counterpart"
     },
@@ -6215,53 +6287,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-30T22:56:33.237840+03:00",
+  "last_sent_at": "2026-10-31T15:42:39.415962+03:00",
   "pool": [
-    {
-      "collocations": [
-        "dubious claim",
-        "dubious honor"
-      ],
-      "definition_en": "Hesitant or doubting; not to be relied upon.",
-      "example": "He made a dubious claim about solving the complex issue overnight.",
-      "example_tr": "Karmaşık sorunu bir gecede çözdüğüne dair şüpheli bir iddiada bulundu.",
-      "ipa": "/ˈdjuːbiəs/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "şüpheli, kuşkulu",
-      "pos": "adjective",
-      "word": "dubious"
-    },
-    {
-      "collocations": [
-        "imperceptible change",
-        "imperceptible shift"
-      ],
-      "definition_en": "So slight, gradual, or subtle as not to be perceived.",
-      "example": "There was an almost imperceptible change in her facial expression during the interview.",
-      "example_tr": "Mülakat sırasında yüz ifadesinde neredeyse fark edilmeyen bir değişiklik vardı.",
-      "ipa": "/ˌɪmpəˈseptəbl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "fark edilemez, algılanamaz, belirsiz",
-      "pos": "adjective",
-      "word": "imperceptible"
-    },
-    {
-      "collocations": [
-        "culmination of effort",
-        "reach culmination"
-      ],
-      "definition_en": "The highest or final point of something, especially after a long time.",
-      "example": "The new product launch was the culmination of years of hard research.",
-      "example_tr": "Yeni ürünün lansmanı, yıllar süren zorlu araştırmaların doruk noktasıydı.",
-      "ipa": "/ˌkʌlmɪˈneɪʃn/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "doruk noktası, zirve, sonuç",
-      "pos": "noun",
-      "word": "culmination"
-    },
     {
       "collocations": [
         "dwindle away",
