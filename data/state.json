@@ -2021,6 +2021,30 @@
       "unknown_count": 0,
       "word": "lucrative"
     },
+    "5734909c7f": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "main adversary",
+        "political adversary"
+      ],
+      "definition_en": "One's opponent in a contest, conflict, or dispute.",
+      "due": "2026-11-01",
+      "example": "He proved to be a tough adversary during the final debate match.",
+      "example_tr": "Final münazara maçında zorlu bir rakip olduğunu kanıtladı.",
+      "first_seen": "2026-10-31T22:21:03.185216+03:00",
+      "id": "5734909c7f",
+      "ipa": "/ˈædvəsəri/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-31",
+      "level": "C1",
+      "meaning_tr": "rakip, düşman, hasım",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "adversary"
+    },
     "579d11ea71": {
       "answered_count": 0,
       "box": 1,
@@ -2116,6 +2140,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "enforce"
+    },
+    "5c16b5993f": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "dwindle away",
+        "dwindling resources"
+      ],
+      "definition_en": "To gradually diminish in size, amount, or strength.",
+      "due": "2026-11-01",
+      "example": "The city's water supplies continued to dwindle during the severe summer drought.",
+      "example_tr": "Şehrin su kaynakları, şiddetli yaz kuraklığı boyunca azalmaya devam etti.",
+      "first_seen": "2026-10-31T22:21:03.185216+03:00",
+      "id": "5c16b5993f",
+      "ipa": "/ˈdwɪndl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-31",
+      "level": "C1",
+      "meaning_tr": "giderek azalmak, küçülmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "dwindle"
     },
     "5c752a9c31": {
       "answered_count": 0,
@@ -3612,6 +3660,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "cognizant"
+    },
+    "962c4da357": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "growing discontent",
+        "widespread discontent"
+      ],
+      "definition_en": "Dissatisfaction with one's circumstances.",
+      "due": "2026-11-01",
+      "example": "There is growing discontent among workers regarding the recent salary cuts.",
+      "example_tr": "İşçiler arasında son maaş kesintileriyle ilgili büyüyen bir memnuniyetsizlik var.",
+      "first_seen": "2026-10-31T22:21:03.185216+03:00",
+      "id": "962c4da357",
+      "ipa": "/ˌdɪskənˈtent/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-10-31",
+      "level": "B2",
+      "meaning_tr": "hoşnutsuzluk, memnuniyetsizlik",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "discontent"
     },
     "9720873c32": {
       "answered_count": 0,
@@ -5211,7 +5283,7 @@
         "substantial growth"
       ],
       "definition_en": "Large in size, value, or importance.",
-      "due": "2026-10-07",
+      "due": "2026-11-01",
       "example": "The company invested a substantial amount of money in developing the new software.",
       "example_tr": "Şirket, yeni yazılımı geliştirmek için önemli miktarda para yatırdı.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -5219,11 +5291,11 @@
       "ipa": "/səbˈstænʃl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-10-31",
       "level": "B2",
       "meaning_tr": "büyük, önemli, kayda değer",
       "pos": "adjective",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 0,
       "word": "substantial"
     },
@@ -5427,7 +5499,7 @@
         "profound effect"
       ],
       "definition_en": "Showing a clear and deep understanding or having a strong effect.",
-      "due": "2026-10-07",
+      "due": "2026-11-01",
       "example": "His grandmother's wise advice had a profound influence on his career choices.",
       "example_tr": "Büyükannesinin bilgece tavsiyeleri, onun kariyer seçimleri üzerinde derin bir etki yarattı.",
       "first_seen": "2026-09-18T14:24:05.575471+03:00",
@@ -5435,11 +5507,11 @@
       "ipa": "/prəˈfaʊnd/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-10-31",
       "level": "C1",
       "meaning_tr": "derin, büyük, etkili",
       "pos": "adjective",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "profound"
     },
@@ -6287,53 +6359,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-10-31T15:42:39.415962+03:00",
+  "last_sent_at": "2026-10-31T22:21:03.185216+03:00",
   "pool": [
-    {
-      "collocations": [
-        "dwindle away",
-        "dwindling resources"
-      ],
-      "definition_en": "To gradually diminish in size, amount, or strength.",
-      "example": "The city's water supplies continued to dwindle during the severe summer drought.",
-      "example_tr": "Şehrin su kaynakları, şiddetli yaz kuraklığı boyunca azalmaya devam etti.",
-      "ipa": "/ˈdwɪndl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "giderek azalmak, küçülmek",
-      "pos": "verb",
-      "word": "dwindle"
-    },
-    {
-      "collocations": [
-        "growing discontent",
-        "widespread discontent"
-      ],
-      "definition_en": "Dissatisfaction with one's circumstances.",
-      "example": "There is growing discontent among workers regarding the recent salary cuts.",
-      "example_tr": "İşçiler arasında son maaş kesintileriyle ilgili büyüyen bir memnuniyetsizlik var.",
-      "ipa": "/ˌdɪskənˈtent/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "hoşnutsuzluk, memnuniyetsizlik",
-      "pos": "noun",
-      "word": "discontent"
-    },
-    {
-      "collocations": [
-        "main adversary",
-        "political adversary"
-      ],
-      "definition_en": "One's opponent in a contest, conflict, or dispute.",
-      "example": "He proved to be a tough adversary during the final debate match.",
-      "example_tr": "Final münazara maçında zorlu bir rakip olduğunu kanıtladı.",
-      "ipa": "/ˈædvəsəri/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "rakip, düşman, hasım",
-      "pos": "noun",
-      "word": "adversary"
-    },
     {
       "collocations": [
         "overhaul a system",
