@@ -464,7 +464,7 @@
         "presumably dead"
       ],
       "definition_en": "Used to say what you think is the most likely truth or reason.",
-      "due": "2026-10-08",
+      "due": "2026-11-02",
       "example": "The store is closed today, presumably because it is a national holiday across the country.",
       "example_tr": "Mağaza bugün kapalı, muhtemelen ülke genelinde resmi tatil olduğu için.",
       "first_seen": "2026-10-07T16:33:09.689390+03:00",
@@ -472,11 +472,11 @@
       "ipa": "/prɪˈzjuː.mə.bli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-07",
+      "last_shown_at": "2026-11-01",
       "level": "B2",
       "meaning_tr": "muhtemelen, galiba, büyük ihtimalle",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "presumably"
     },
@@ -1344,6 +1344,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "depict"
+    },
+    "3e3568556c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "propel forward",
+        "propel to success"
+      ],
+      "definition_en": "To drive, push, or cause to move forward in a particular direction.",
+      "due": "2026-11-02",
+      "example": "His passion and hard work helped propel the small startup to international success.",
+      "example_tr": "Onun tutkusu ve sıkı çalışması, küçük girişimin uluslararası başarıya ulaşmasını sağladı.",
+      "first_seen": "2026-11-01T22:44:21.909762+03:00",
+      "id": "3e3568556c",
+      "ipa": "/prəˈpel/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-01",
+      "level": "C1",
+      "meaning_tr": "itelemek, sevk etmek, ileri taşımak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "propel"
     },
     "3edc8309ee": {
       "answered_count": 0,
@@ -2915,6 +2939,30 @@
       "unknown_count": 0,
       "word": "impediment"
     },
+    "7459957e6c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "lucid explanation",
+        "lucid style"
+      ],
+      "definition_en": "Expressed clearly and easy to understand.",
+      "due": "2026-11-02",
+      "example": "The professor gave a lucid explanation of the complex economic theory today.",
+      "example_tr": "Profesör bugün karmaşık ekonomi teorisinin açık bir açıklamasını yaptı.",
+      "first_seen": "2026-11-01T22:44:21.909762+03:00",
+      "id": "7459957e6c",
+      "ipa": "/ˈluːsɪd/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-01",
+      "level": "C1",
+      "meaning_tr": "açık, anlaşılır, net",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "lucid"
+    },
     "7564906314": {
       "answered_count": 0,
       "box": 1,
@@ -3781,6 +3829,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "accountability"
+    },
+    "9ae9c3c832": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "set a benchmark",
+        "industry benchmark"
+      ],
+      "definition_en": "A standard or point of reference against which things may be evaluated.",
+      "due": "2026-11-02",
+      "example": "This new technology will set a benchmark for all future products in the industry.",
+      "example_tr": "Bu yeni teknoloji, sektördeki tüm gelecekteki ürünler için bir ölçüt belirleyecek.",
+      "first_seen": "2026-11-01T22:44:21.909762+03:00",
+      "id": "9ae9c3c832",
+      "ipa": "/ˈbentʃmɑːrk/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-01",
+      "level": "B2",
+      "meaning_tr": "ölçüt, nirengi noktası, standart",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "benchmark"
     },
     "9b20ce2921": {
       "answered_count": 1,
@@ -6172,7 +6244,7 @@
         "unprecedented challenge"
       ],
       "definition_en": "Never having happened or existed in the past.",
-      "due": "2026-10-07",
+      "due": "2026-11-02",
       "example": "The company experienced unprecedented growth after launching its new software worldwide.",
       "example_tr": "Şirket, yeni yazılımını dünya çapında piyasaya sürdükten sonra eşi görülmemiş bir büyüme yaşadı.",
       "first_seen": "2026-09-16T15:02:30.116093+03:00",
@@ -6182,11 +6254,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-10-06",
+      "last_shown_at": "2026-11-01",
       "level": "C1",
       "meaning_tr": "eşi görülmemiş, emsalsiz, benzersiz",
       "pos": "adjective",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 1,
       "word": "unprecedented"
     },
@@ -6431,8 +6503,174 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-01T16:33:52.135851+03:00",
-  "pool": [],
+  "last_sent_at": "2026-11-01T22:44:21.909762+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "inevitably lead to",
+        "inevitably result in"
+      ],
+      "definition_en": "In a way that cannot be avoided or prevented.",
+      "example": "Rapid technological advances will inevitably transform the way we work and live.",
+      "example_tr": "Hızlı teknolojik gelişmeler, çalışma ve yaşama şeklimizi kaçınılmaz olarak değiştirecek.",
+      "ipa": "/ɪnˈevɪtəbli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "kaçınılmaz olarak, ister istemez",
+      "pos": "adverb",
+      "word": "inevitably"
+    },
+    {
+      "collocations": [
+        "on the brink of collapse",
+        "on the brink of war"
+      ],
+      "definition_en": "Extremely close to experiencing a significant event or state.",
+      "example": "The two negotiating countries were on the brink of signing a historic peace agreement.",
+      "example_tr": "Müzakere eden iki ülke tarihi bir barış anlaşması imzalamanın eşiğindeydi.",
+      "ipa": "/ɒn ðə brɪŋk əv/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "eşiğinde, eli kulağında",
+      "pos": "phrase",
+      "word": "on the brink of"
+    },
+    {
+      "collocations": [
+        "reluctant to accept",
+        "reluctant agreement"
+      ],
+      "definition_en": "Unwilling and hesitant to do something.",
+      "example": "Many employees were reluctant to adopt the new office management system.",
+      "example_tr": "Birçok çalışan yeni ofis yönetim sistemini benimseme konusunda isteksizdi.",
+      "ipa": "/rɪˈlʌktənt/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "isteksiz, gönülsüz",
+      "pos": "adjective",
+      "word": "reluctant"
+    },
+    {
+      "collocations": [
+        "resolve ambiguity",
+        "moral ambiguity"
+      ],
+      "definition_en": "The quality of being open to more than one interpretation.",
+      "example": "To avoid any ambiguity, the contract clearly specifies the duties of each partner.",
+      "example_tr": "Herhangi bir belirsizliği önlemek için sözleşme her bir ortağın görevlerini açıkça belirtmektedir.",
+      "ipa": "/ˌæmbɪˈɡjuːəti/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "belirsizlik, muğlaklık",
+      "pos": "noun",
+      "word": "ambiguity"
+    },
+    {
+      "collocations": [
+        "integrate seamlessly",
+        "transition seamlessly"
+      ],
+      "definition_en": "Smoothly and continuously, without any noticeable gaps or problems.",
+      "example": "The new software integrates seamlessly with existing computer systems across departments.",
+      "example_tr": "Yeni yazılım, departmanlar arasındaki mevcut bilgisayar sistemleriyle sorunsuzca entegre oluyor.",
+      "ipa": "/ˈsiːmləsli/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "sorunsuzca, pürüzsüzce",
+      "pos": "adverb",
+      "word": "seamlessly"
+    },
+    {
+      "collocations": [
+        "in line with expectations",
+        "in line with policy"
+      ],
+      "definition_en": "In agreement or conformity with something.",
+      "example": "The company adjusted its safety regulations in line with the latest government guidelines.",
+      "example_tr": "Şirket, güvenlik düzenlemelerini son hükümet kılavuz ilkeleri doğrultusunda ayarladı.",
+      "ipa": "/ɪn laɪn wɪð/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "doğrultusunda, uyarınca, uyumlu olarak",
+      "pos": "phrase",
+      "word": "in line with"
+    },
+    {
+      "collocations": [
+        "manifest itself",
+        "clearly manifest"
+      ],
+      "definition_en": "To show something clearly through signs or actions.",
+      "example": "Stress can manifest itself in physical symptoms such as headaches and sleep problems.",
+      "example_tr": "Stres, baş ağrısı ve uyku sorunları gibi fiziksel belirtilerle kendini gösterebilir.",
+      "ipa": "/ˈmænɪfest/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "göstermek, ortaya çıkmak, belli etmek",
+      "pos": "verb",
+      "word": "manifest"
+    },
+    {
+      "collocations": [
+        "volatile market",
+        "highly volatile"
+      ],
+      "definition_en": "Likely to change suddenly and unpredictably, especially for the worse.",
+      "example": "Investors are cautious because the stock market has been extremely volatile lately.",
+      "example_tr": "Borsa son zamanlarda son derece değişken olduğu için yatırımcılar temkinli.",
+      "ipa": "/ˈvɒlətaɪl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "oynak, değişken, istikrarsız",
+      "pos": "adjective",
+      "word": "volatile"
+    },
+    {
+      "collocations": [
+        "discern a difference",
+        "easily discern"
+      ],
+      "definition_en": "To perceive, recognize, or distinguish something with difficulty.",
+      "example": "It was difficult to discern any real difference between the two proposed plans.",
+      "example_tr": "Önerilen iki plan arasında gerçek bir farkı ayırt etmek zordu.",
+      "ipa": "/dɪˈsɜːn/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "fark etmek, ayırt etmek, algılamak",
+      "pos": "verb",
+      "word": "discern"
+    },
+    {
+      "collocations": [
+        "research extensively",
+        "renovate extensively"
+      ],
+      "definition_en": "To a large degree or over a large area.",
+      "example": "The historic building was extensively renovated before reopening to the public last week.",
+      "example_tr": "Tarihi bina, geçen hafta halka yeniden açılmadan önce kapsamlı bir şekilde restore edildi.",
+      "ipa": "/ɪkˈstensɪvli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "kapsamlı bir şekilde, yaygın olarak",
+      "pos": "adverb",
+      "word": "extensively"
+    },
+    {
+      "collocations": [
+        "be at odds with",
+        "directly at odds with"
+      ],
+      "definition_en": "In disagreement or conflict with someone or something.",
+      "example": "His personal opinions are often at odds with the official policy of the organization.",
+      "example_tr": "Kişisel görüşleri genellikle kuruluşun resmi politikasıyla çelişmektedir.",
+      "ipa": "/ət ɒdz wɪð/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "çelişen, anlaşmazlık içinde",
+      "pos": "phrase",
+      "word": "at odds with"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
