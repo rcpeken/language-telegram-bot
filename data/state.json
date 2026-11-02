@@ -1064,7 +1064,7 @@
         "foster growth"
       ],
       "definition_en": "To encourage or promote the development of something, typically something good.",
-      "due": "2026-10-08",
+      "due": "2026-11-03",
       "example": "The teacher tried to foster a love of reading by sharing interesting stories.",
       "example_tr": "Öğretmen, ilginç hikayeler paylaşarak okuma sevgisini teşvik etmeye çalıştı.",
       "first_seen": "2026-09-19T23:47:06.679956+03:00",
@@ -1072,11 +1072,11 @@
       "ipa": "/ˈfɔːstər/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-07",
+      "last_shown_at": "2026-11-02",
       "level": "B2",
       "meaning_tr": "teşvik etmek, geliştirmek, büyütmek",
       "pos": "verb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "foster"
     },
@@ -1297,6 +1297,30 @@
       "unknown_count": 0,
       "word": "vulnerable"
     },
+    "3a158cd219": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "on the brink of collapse",
+        "on the brink of war"
+      ],
+      "definition_en": "Extremely close to experiencing a significant event or state.",
+      "due": "2026-11-03",
+      "example": "The two negotiating countries were on the brink of signing a historic peace agreement.",
+      "example_tr": "Müzakere eden iki ülke tarihi bir barış anlaşması imzalamanın eşiğindeydi.",
+      "first_seen": "2026-11-02T19:09:18.559389+03:00",
+      "id": "3a158cd219",
+      "ipa": "/ɒn ðə brɪŋk əv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-02",
+      "level": "B2",
+      "meaning_tr": "eşiğinde, eli kulağında",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "on the brink of"
+    },
     "3ab735fc96": {
       "answered_count": 0,
       "box": 1,
@@ -1425,7 +1449,7 @@
         "reluctantly accept"
       ],
       "definition_en": "In an unwilling and hesitant way.",
-      "due": "2026-10-08",
+      "due": "2026-11-03",
       "example": "She reluctantly agreed to work overtime on the weekend to finish the urgent report.",
       "example_tr": "Acil raporu bitirmek için hafta sonu fazla mesai yapmayı isteksizce kabul etti.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -1433,11 +1457,11 @@
       "ipa": "/rɪˈlʌktəntli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-07",
+      "last_shown_at": "2026-11-02",
       "level": "C1",
       "meaning_tr": "isteksizce, gönülsüzce",
       "pos": "adverb",
-      "shown_count": 5,
+      "shown_count": 6,
       "unknown_count": 0,
       "word": "reluctantly"
     },
@@ -3107,6 +3131,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "ubiquitous"
+    },
+    "7b18ad3d41": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "reluctant to accept",
+        "reluctant agreement"
+      ],
+      "definition_en": "Unwilling and hesitant to do something.",
+      "due": "2026-11-03",
+      "example": "Many employees were reluctant to adopt the new office management system.",
+      "example_tr": "Birçok çalışan yeni ofis yönetim sistemini benimseme konusunda isteksizdi.",
+      "first_seen": "2026-11-02T19:09:18.559389+03:00",
+      "id": "7b18ad3d41",
+      "ipa": "/rɪˈlʌktənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-02",
+      "level": "B2",
+      "meaning_tr": "isteksiz, gönülsüz",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "reluctant"
     },
     "7c990ecad0": {
       "answered_count": 0,
@@ -6454,6 +6502,30 @@
       "unknown_count": 0,
       "word": "disposable income"
     },
+    "fe3200bc31": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "inevitably lead to",
+        "inevitably result in"
+      ],
+      "definition_en": "In a way that cannot be avoided or prevented.",
+      "due": "2026-11-03",
+      "example": "Rapid technological advances will inevitably transform the way we work and live.",
+      "example_tr": "Hızlı teknolojik gelişmeler, çalışma ve yaşama şeklimizi kaçınılmaz olarak değiştirecek.",
+      "first_seen": "2026-11-02T19:09:18.559389+03:00",
+      "id": "fe3200bc31",
+      "ipa": "/ɪnˈevɪtəbli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-02",
+      "level": "B2",
+      "meaning_tr": "kaçınılmaz olarak, ister istemez",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "inevitably"
+    },
     "fea41d3de4": {
       "answered_count": 0,
       "box": 1,
@@ -6503,53 +6575,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-01T22:44:21.909762+03:00",
+  "last_sent_at": "2026-11-02T19:09:18.559389+03:00",
   "pool": [
-    {
-      "collocations": [
-        "inevitably lead to",
-        "inevitably result in"
-      ],
-      "definition_en": "In a way that cannot be avoided or prevented.",
-      "example": "Rapid technological advances will inevitably transform the way we work and live.",
-      "example_tr": "Hızlı teknolojik gelişmeler, çalışma ve yaşama şeklimizi kaçınılmaz olarak değiştirecek.",
-      "ipa": "/ɪnˈevɪtəbli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "kaçınılmaz olarak, ister istemez",
-      "pos": "adverb",
-      "word": "inevitably"
-    },
-    {
-      "collocations": [
-        "on the brink of collapse",
-        "on the brink of war"
-      ],
-      "definition_en": "Extremely close to experiencing a significant event or state.",
-      "example": "The two negotiating countries were on the brink of signing a historic peace agreement.",
-      "example_tr": "Müzakere eden iki ülke tarihi bir barış anlaşması imzalamanın eşiğindeydi.",
-      "ipa": "/ɒn ðə brɪŋk əv/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "eşiğinde, eli kulağında",
-      "pos": "phrase",
-      "word": "on the brink of"
-    },
-    {
-      "collocations": [
-        "reluctant to accept",
-        "reluctant agreement"
-      ],
-      "definition_en": "Unwilling and hesitant to do something.",
-      "example": "Many employees were reluctant to adopt the new office management system.",
-      "example_tr": "Birçok çalışan yeni ofis yönetim sistemini benimseme konusunda isteksizdi.",
-      "ipa": "/rɪˈlʌktənt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "isteksiz, gönülsüz",
-      "pos": "adjective",
-      "word": "reluctant"
-    },
     {
       "collocations": [
         "resolve ambiguity",
