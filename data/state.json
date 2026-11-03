@@ -72,6 +72,30 @@
       "unknown_count": 0,
       "word": "predominantly"
     },
+    "02600d12d5": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "volatile market",
+        "highly volatile"
+      ],
+      "definition_en": "Likely to change suddenly and unpredictably, especially for the worse.",
+      "due": "2026-11-04",
+      "example": "Investors are cautious because the stock market has been extremely volatile lately.",
+      "example_tr": "Borsa son zamanlarda son derece değişken olduğu için yatırımcılar temkinli.",
+      "first_seen": "2026-11-03T17:25:25.952413+03:00",
+      "id": "02600d12d5",
+      "ipa": "/ˈvɒlətaɪl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-03",
+      "level": "C1",
+      "meaning_tr": "oynak, değişken, istikrarsız",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "volatile"
+    },
     "080267d173": {
       "answered_count": 0,
       "box": 1,
@@ -2003,7 +2027,7 @@
         "discrepancy between"
       ],
       "definition_en": "A difference between two things that should be the same.",
-      "due": "2026-10-08",
+      "due": "2026-11-04",
       "example": "The accountant found a significant discrepancy between the two financial reports.",
       "example_tr": "Muhasebeci iki mali rapor arasında önemli bir tutarsızlık buldu.",
       "first_seen": "2026-09-16T10:12:29.899891+03:00",
@@ -2013,11 +2037,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-10-07",
+      "last_shown_at": "2026-11-03",
       "level": "C1",
       "meaning_tr": "tutarsızlık, çelişki, fark",
       "pos": "noun",
-      "shown_count": 5,
+      "shown_count": 6,
       "unknown_count": 1,
       "word": "discrepancy"
     },
@@ -2440,7 +2464,7 @@
         "assert dominance"
       ],
       "definition_en": "To state a fact or belief confidently and forcefully.",
-      "due": "2026-10-08",
+      "due": "2026-11-04",
       "example": "The lawyer had to assert his client's innocence during the trial.",
       "example_tr": "Avukat, duruşma sırasında müvekkilinin masumiyetini ileri sürmek zorunda kaldı.",
       "first_seen": "2026-10-07T23:39:29.733976+03:00",
@@ -2448,11 +2472,11 @@
       "ipa": "/əˈsɜːrt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-07",
+      "last_shown_at": "2026-11-03",
       "level": "B2",
       "meaning_tr": "iddia etmek, ileri sürmek, savunmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "assert"
     },
@@ -2743,6 +2767,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "turnover"
+    },
+    "69624f9908": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "manifest itself",
+        "clearly manifest"
+      ],
+      "definition_en": "To show something clearly through signs or actions.",
+      "due": "2026-11-04",
+      "example": "Stress can manifest itself in physical symptoms such as headaches and sleep problems.",
+      "example_tr": "Stres, baş ağrısı ve uyku sorunları gibi fiziksel belirtilerle kendini gösterebilir.",
+      "first_seen": "2026-11-03T17:25:25.952413+03:00",
+      "id": "69624f9908",
+      "ipa": "/ˈmænɪfest/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-03",
+      "level": "C1",
+      "meaning_tr": "göstermek, ortaya çıkmak, belli etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "manifest"
     },
     "69902ca127": {
       "answered_count": 0,
@@ -4623,6 +4671,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "tenacious"
+    },
+    "b2c01a7dc7": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "discern a difference",
+        "easily discern"
+      ],
+      "definition_en": "To perceive, recognize, or distinguish something with difficulty.",
+      "due": "2026-11-04",
+      "example": "It was difficult to discern any real difference between the two proposed plans.",
+      "example_tr": "Önerilen iki plan arasında gerçek bir farkı ayırt etmek zordu.",
+      "first_seen": "2026-11-03T17:25:25.952413+03:00",
+      "id": "b2c01a7dc7",
+      "ipa": "/dɪˈsɜːn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-03",
+      "level": "C1",
+      "meaning_tr": "fark etmek, ayırt etmek, algılamak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "discern"
     },
     "b396723cbb": {
       "answered_count": 0,
@@ -6647,53 +6719,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-03T04:02:37.534773+03:00",
+  "last_sent_at": "2026-11-03T17:25:25.952413+03:00",
   "pool": [
-    {
-      "collocations": [
-        "manifest itself",
-        "clearly manifest"
-      ],
-      "definition_en": "To show something clearly through signs or actions.",
-      "example": "Stress can manifest itself in physical symptoms such as headaches and sleep problems.",
-      "example_tr": "Stres, baş ağrısı ve uyku sorunları gibi fiziksel belirtilerle kendini gösterebilir.",
-      "ipa": "/ˈmænɪfest/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "göstermek, ortaya çıkmak, belli etmek",
-      "pos": "verb",
-      "word": "manifest"
-    },
-    {
-      "collocations": [
-        "volatile market",
-        "highly volatile"
-      ],
-      "definition_en": "Likely to change suddenly and unpredictably, especially for the worse.",
-      "example": "Investors are cautious because the stock market has been extremely volatile lately.",
-      "example_tr": "Borsa son zamanlarda son derece değişken olduğu için yatırımcılar temkinli.",
-      "ipa": "/ˈvɒlətaɪl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "oynak, değişken, istikrarsız",
-      "pos": "adjective",
-      "word": "volatile"
-    },
-    {
-      "collocations": [
-        "discern a difference",
-        "easily discern"
-      ],
-      "definition_en": "To perceive, recognize, or distinguish something with difficulty.",
-      "example": "It was difficult to discern any real difference between the two proposed plans.",
-      "example_tr": "Önerilen iki plan arasında gerçek bir farkı ayırt etmek zordu.",
-      "ipa": "/dɪˈsɜːn/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "fark etmek, ayırt etmek, algılamak",
-      "pos": "verb",
-      "word": "discern"
-    },
     {
       "collocations": [
         "research extensively",
