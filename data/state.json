@@ -672,6 +672,30 @@
       "unknown_count": 0,
       "word": "inexorably"
     },
+    "1bae94f879": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "relinquish control",
+        "relinquish power"
+      ],
+      "definition_en": "To voluntarily give up control, power, or a possession.",
+      "due": "2026-11-05",
+      "example": "He decided to relinquish his position as director after thirty years of service.",
+      "example_tr": "Otuz yıllık hizmetin ardından direktörlük görevinden vazgeçmeye karar verdi.",
+      "first_seen": "2026-11-04T00:03:41.504578+03:00",
+      "id": "1bae94f879",
+      "ipa": "/rɪˈlɪŋkwɪʃ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-04",
+      "level": "C1",
+      "meaning_tr": "vazgeçmek, devretmek, bırakmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "relinquish"
+    },
     "1c1b59138c": {
       "answered_count": 0,
       "box": 1,
@@ -4192,6 +4216,30 @@
       "unknown_count": 0,
       "word": "flawless"
     },
+    "a4137e5852": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "be at odds with",
+        "directly at odds with"
+      ],
+      "definition_en": "In disagreement or conflict with someone or something.",
+      "due": "2026-11-05",
+      "example": "His personal opinions are often at odds with the official policy of the organization.",
+      "example_tr": "Kişisel görüşleri genellikle kuruluşun resmi politikasıyla çelişmektedir.",
+      "first_seen": "2026-11-04T00:03:41.504578+03:00",
+      "id": "a4137e5852",
+      "ipa": "/ət ɒdz wɪð/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-04",
+      "level": "C1",
+      "meaning_tr": "çelişen, anlaşmazlık içinde",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "at odds with"
+    },
     "a46860630b": {
       "answered_count": 0,
       "box": 1,
@@ -4552,6 +4600,30 @@
       "unknown_count": 0,
       "word": "fraught with"
     },
+    "addd8139e1": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "research extensively",
+        "renovate extensively"
+      ],
+      "definition_en": "To a large degree or over a large area.",
+      "due": "2026-11-05",
+      "example": "The historic building was extensively renovated before reopening to the public last week.",
+      "example_tr": "Tarihi bina, geçen hafta halka yeniden açılmadan önce kapsamlı bir şekilde restore edildi.",
+      "first_seen": "2026-11-04T00:03:41.504578+03:00",
+      "id": "addd8139e1",
+      "ipa": "/ɪkˈstensɪvli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-04",
+      "level": "B2",
+      "meaning_tr": "kapsamlı bir şekilde, yaygın olarak",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "extensively"
+    },
     "ae40c15cfb": {
       "answered_count": 0,
       "box": 1,
@@ -4560,7 +4632,7 @@
         "remain indifferent"
       ],
       "definition_en": "Having no particular interest or sympathy; unconcerned.",
-      "due": "2026-10-08",
+      "due": "2026-11-05",
       "example": "Many citizens appeared completely indifferent to the results of the local elections held last week.",
       "example_tr": "Pek çok vatandaş, geçen hafta yapılan yerel seçimlerin sonuçlarına tamamen kayıtsız göründü.",
       "first_seen": "2026-10-07T16:33:09.689390+03:00",
@@ -4568,11 +4640,11 @@
       "ipa": "/ɪnˈdɪf.ər.ənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-07",
+      "last_shown_at": "2026-11-04",
       "level": "B2",
       "meaning_tr": "kayıtsız, umursamaz, ilgisiz",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "indifferent"
     },
@@ -6076,7 +6148,7 @@
         "paths converge"
       ],
       "definition_en": "To come from different directions and meet at a single point.",
-      "due": "2026-10-08",
+      "due": "2026-11-05",
       "example": "Thousands of supporters will converge on the city center for the rally tomorrow.",
       "example_tr": "Binlerce destekçi yarınki miting için şehir merkezinde toplanacak.",
       "first_seen": "2026-10-07T23:39:29.733976+03:00",
@@ -6084,11 +6156,11 @@
       "ipa": "/kənˈvɜːrdʒ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-07",
+      "last_shown_at": "2026-11-04",
       "level": "C1",
       "meaning_tr": "birleşmek, yakınsamak, toplanmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "converge"
     },
@@ -6719,37 +6791,112 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-03T17:25:25.952413+03:00",
+  "last_sent_at": "2026-11-04T00:03:41.504578+03:00",
   "pool": [
     {
       "collocations": [
-        "research extensively",
-        "renovate extensively"
+        "prominent role",
+        "prominent feature"
       ],
-      "definition_en": "To a large degree or over a large area.",
-      "example": "The historic building was extensively renovated before reopening to the public last week.",
-      "example_tr": "Tarihi bina, geçen hafta halka yeniden açılmadan önce kapsamlı bir şekilde restore edildi.",
-      "ipa": "/ɪkˈstensɪvli/",
+      "definition_en": "Important, famous, or easily noticed.",
+      "example": "She played a prominent role in negotiating the new international trade agreement.",
+      "example_tr": "Yeni uluslararası ticaret anlaşmasının müzakere edilmesinde önemli bir rol oynadı.",
+      "ipa": "/ˈprɒmɪnənt/",
       "lang": "en",
       "level": "B2",
-      "meaning_tr": "kapsamlı bir şekilde, yaygın olarak",
-      "pos": "adverb",
-      "word": "extensively"
+      "meaning_tr": "öne çıkan, belirgin, önemli",
+      "pos": "adjective",
+      "word": "prominent"
     },
     {
       "collocations": [
-        "be at odds with",
-        "directly at odds with"
+        "surge in demand",
+        "sudden surge"
       ],
-      "definition_en": "In disagreement or conflict with someone or something.",
-      "example": "His personal opinions are often at odds with the official policy of the organization.",
-      "example_tr": "Kişisel görüşleri genellikle kuruluşun resmi politikasıyla çelişmektedir.",
-      "ipa": "/ət ɒdz wɪð/",
+      "definition_en": "A sudden and great increase in something.",
+      "example": "Online retailers experienced a massive surge in demand during the holiday season.",
+      "example_tr": "İnternet satıcıları, tatil sezonunda talepte muazzam bir artış yaşadı.",
+      "ipa": "/sɜːdʒ/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "ani artış, yükseliş",
+      "pos": "noun",
+      "word": "surge"
+    },
+    {
+      "collocations": [
+        "notwithstanding the fact",
+        "notwithstanding concerns"
+      ],
+      "definition_en": "In spite of a particular fact or situation.",
+      "example": "Notwithstanding the bad weather conditions, the rescue team successfully reached the peak.",
+      "example_tr": "Kötü hava koşullarına rağmen kurtarma ekibi zirveye başarıyla ulaştı.",
+      "ipa": "/ˌnɒtwɪθˈstændɪŋ/",
       "lang": "en",
       "level": "C1",
-      "meaning_tr": "çelişen, anlaşmazlık içinde",
+      "meaning_tr": "-e rağmen, karşın",
       "pos": "phrase",
-      "word": "at odds with"
+      "word": "notwithstanding"
+    },
+    {
+      "collocations": [
+        "adhere to rules",
+        "adhere strictly to"
+      ],
+      "definition_en": "To obey or follow a particular rule, agreement, or belief.",
+      "example": "All staff members must adhere to the company safety guidelines at all times.",
+      "example_tr": "Tüm personel, her zaman şirket güvenlik yönergelerine uymak zorundadır.",
+      "ipa": "/ədˈhɪə tuː/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "bağlı kalmak, uymak",
+      "pos": "phrase",
+      "word": "adhere to"
+    },
+    {
+      "collocations": [
+        "obscure reason",
+        "obscure origin"
+      ],
+      "definition_en": "Not well known, difficult to understand, or unclear.",
+      "example": "The author referenced several obscure historical documents in his latest academic book.",
+      "example_tr": "Yazar, son akademik kitabında az bilinen birkaç tarihi belgeye atıfta bulundu.",
+      "ipa": "/əbˈskjʊə/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "belirsiz, az bilinen",
+      "pos": "adjective",
+      "word": "obscure"
+    },
+    {
+      "collocations": [
+        "at short notice",
+        "on short notice"
+      ],
+      "definition_en": "With very little time given to prepare or inform someone.",
+      "example": "She managed to organize an emergency meeting on very short notice.",
+      "example_tr": "Acil bir toplantıyı çok kısa bir sürede organize etmeyi başardı.",
+      "ipa": "/ɒn ʃɔːt ˈnəʊtɪs/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "kısa sürede, son anda",
+      "pos": "phrase",
+      "word": "on short notice"
+    },
+    {
+      "collocations": [
+        "occur simultaneously",
+        "run simultaneously"
+      ],
+      "definition_en": "At the exact same time.",
+      "example": "The software allows multiple team members to edit the document simultaneously.",
+      "example_tr": "Yazılım, birden fazla ekip üyesinin belgeyi aynı anda düzenlemesine olanak tanır.",
+      "ipa": "/ˌsɪmlˈteɪniəsli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "eşzamanlı olarak, aynı anda",
+      "pos": "adverb",
+      "word": "simultaneously"
     }
   ],
   "update_offset": 626511673,
