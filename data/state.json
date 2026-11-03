@@ -1955,7 +1955,7 @@
         "enhance skills"
       ],
       "definition_en": "To improve the quality, amount, or strength of something.",
-      "due": "2026-10-08",
+      "due": "2026-11-04",
       "example": "Adding fresh herbs at the end of cooking will enhance the soup's flavor.",
       "example_tr": "Pişirme işleminin sonunda taze otlar eklemek çorbanın lezzetini artıracaktır.",
       "first_seen": "2026-09-17T20:05:50.551121+03:00",
@@ -1963,11 +1963,11 @@
       "ipa": "/ɪnˈhɑːns/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-07",
+      "last_shown_at": "2026-11-03",
       "level": "B2",
       "meaning_tr": "artırmak, geliştirmek, iyileştirmek",
       "pos": "verb",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 0,
       "word": "enhance"
     },
@@ -1979,7 +1979,7 @@
         "tenuous grasp"
       ],
       "definition_en": "Very weak, slight, or uncertain.",
-      "due": "2026-10-08",
+      "due": "2026-11-04",
       "example": "The police only have a tenuous link between the suspect and the crime.",
       "example_tr": "Polisin şüpheli ile suç arasında sadece zayıf bir bağlantısı var.",
       "first_seen": "2026-10-07T23:39:29.733976+03:00",
@@ -1987,11 +1987,11 @@
       "ipa": "/ˈtenjuəs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-07",
+      "last_shown_at": "2026-11-03",
       "level": "C1",
       "meaning_tr": "zayıf, eğreti, ince",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "tenuous"
     },
@@ -2164,6 +2164,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "fallout"
+    },
+    "5a7ae5d68c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in line with expectations",
+        "in line with policy"
+      ],
+      "definition_en": "In agreement or conformity with something.",
+      "due": "2026-11-04",
+      "example": "The company adjusted its safety regulations in line with the latest government guidelines.",
+      "example_tr": "Şirket, güvenlik düzenlemelerini son hükümet kılavuz ilkeleri doğrultusunda ayarladı.",
+      "first_seen": "2026-11-03T04:02:37.534773+03:00",
+      "id": "5a7ae5d68c",
+      "ipa": "/ɪn laɪn wɪð/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-03",
+      "level": "B2",
+      "meaning_tr": "doğrultusunda, uyarınca, uyumlu olarak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in line with"
     },
     "5aa8cd8469": {
       "answered_count": 0,
@@ -3083,6 +3107,30 @@
       "shown_count": 4,
       "unknown_count": 0,
       "word": "on the verge of"
+    },
+    "79c5672c8b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "resolve ambiguity",
+        "moral ambiguity"
+      ],
+      "definition_en": "The quality of being open to more than one interpretation.",
+      "due": "2026-11-04",
+      "example": "To avoid any ambiguity, the contract clearly specifies the duties of each partner.",
+      "example_tr": "Herhangi bir belirsizliği önlemek için sözleşme her bir ortağın görevlerini açıkça belirtmektedir.",
+      "first_seen": "2026-11-03T04:02:37.534773+03:00",
+      "id": "79c5672c8b",
+      "ipa": "/ˌæmbɪˈɡjuːəti/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-03",
+      "level": "C1",
+      "meaning_tr": "belirsizlik, muğlaklık",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "ambiguity"
     },
     "7a46926cbc": {
       "answered_count": 0,
@@ -5395,6 +5443,30 @@
       "unknown_count": 0,
       "word": "drastically"
     },
+    "d5957a184c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "integrate seamlessly",
+        "transition seamlessly"
+      ],
+      "definition_en": "Smoothly and continuously, without any noticeable gaps or problems.",
+      "due": "2026-11-04",
+      "example": "The new software integrates seamlessly with existing computer systems across departments.",
+      "example_tr": "Yeni yazılım, departmanlar arasındaki mevcut bilgisayar sistemleriyle sorunsuzca entegre oluyor.",
+      "first_seen": "2026-11-03T04:02:37.534773+03:00",
+      "id": "d5957a184c",
+      "ipa": "/ˈsiːmləsli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-03",
+      "level": "C1",
+      "meaning_tr": "sorunsuzca, pürüzsüzce",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "seamlessly"
+    },
     "d5a73dfdc2": {
       "answered_count": 0,
       "box": 1,
@@ -6575,53 +6647,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-02T19:09:18.559389+03:00",
+  "last_sent_at": "2026-11-03T04:02:37.534773+03:00",
   "pool": [
-    {
-      "collocations": [
-        "resolve ambiguity",
-        "moral ambiguity"
-      ],
-      "definition_en": "The quality of being open to more than one interpretation.",
-      "example": "To avoid any ambiguity, the contract clearly specifies the duties of each partner.",
-      "example_tr": "Herhangi bir belirsizliği önlemek için sözleşme her bir ortağın görevlerini açıkça belirtmektedir.",
-      "ipa": "/ˌæmbɪˈɡjuːəti/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "belirsizlik, muğlaklık",
-      "pos": "noun",
-      "word": "ambiguity"
-    },
-    {
-      "collocations": [
-        "integrate seamlessly",
-        "transition seamlessly"
-      ],
-      "definition_en": "Smoothly and continuously, without any noticeable gaps or problems.",
-      "example": "The new software integrates seamlessly with existing computer systems across departments.",
-      "example_tr": "Yeni yazılım, departmanlar arasındaki mevcut bilgisayar sistemleriyle sorunsuzca entegre oluyor.",
-      "ipa": "/ˈsiːmləsli/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "sorunsuzca, pürüzsüzce",
-      "pos": "adverb",
-      "word": "seamlessly"
-    },
-    {
-      "collocations": [
-        "in line with expectations",
-        "in line with policy"
-      ],
-      "definition_en": "In agreement or conformity with something.",
-      "example": "The company adjusted its safety regulations in line with the latest government guidelines.",
-      "example_tr": "Şirket, güvenlik düzenlemelerini son hükümet kılavuz ilkeleri doğrultusunda ayarladı.",
-      "ipa": "/ɪn laɪn wɪð/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "doğrultusunda, uyarınca, uyumlu olarak",
-      "pos": "phrase",
-      "word": "in line with"
-    },
     {
       "collocations": [
         "manifest itself",
