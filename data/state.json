@@ -912,6 +912,30 @@
       "unknown_count": 0,
       "word": "give rise to"
     },
+    "22390e25ca": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "at short notice",
+        "on short notice"
+      ],
+      "definition_en": "With very little time given to prepare or inform someone.",
+      "due": "2026-11-06",
+      "example": "She managed to organize an emergency meeting on very short notice.",
+      "example_tr": "Acil bir toplantıyı çok kısa bir sürede organize etmeyi başardı.",
+      "first_seen": "2026-11-05T00:20:59.351829+03:00",
+      "id": "22390e25ca",
+      "ipa": "/ɒn ʃɔːt ˈnəʊtɪs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-05",
+      "level": "B2",
+      "meaning_tr": "kısa sürede, son anda",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "on short notice"
+    },
     "2392c57fb8": {
       "answered_count": 0,
       "box": 1,
@@ -1079,6 +1103,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "friction"
+    },
+    "2ad2931d5d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "adhere to rules",
+        "adhere strictly to"
+      ],
+      "definition_en": "To obey or follow a particular rule, agreement, or belief.",
+      "due": "2026-11-06",
+      "example": "All staff members must adhere to the company safety guidelines at all times.",
+      "example_tr": "Tüm personel, her zaman şirket güvenlik yönergelerine uymak zorundadır.",
+      "first_seen": "2026-11-05T00:20:59.351829+03:00",
+      "id": "2ad2931d5d",
+      "ipa": "/ədˈhɪə tuː/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-05",
+      "level": "B2",
+      "meaning_tr": "bağlı kalmak, uymak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "adhere to"
     },
     "2bd9225010": {
       "answered_count": 0,
@@ -1570,7 +1618,7 @@
         "inconsistency in data"
       ],
       "definition_en": "The state of being unstable, variable, or containing conflicting elements.",
-      "due": "2026-10-09",
+      "due": "2026-11-06",
       "example": "The investigator noticed a major inconsistency in the witness's statement.",
       "example_tr": "Müfettiş, tanığın ifadesinde büyük bir tutarsızlık fark etti.",
       "first_seen": "2026-10-08T23:42:49.184382+03:00",
@@ -1578,11 +1626,11 @@
       "ipa": "/ˌɪnkənˈsɪstənsi/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-08",
+      "last_shown_at": "2026-11-05",
       "level": "B2",
       "meaning_tr": "tutarsızlık, çelişki",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "inconsistency"
     },
@@ -1835,7 +1883,7 @@
         "improve considerably"
       ],
       "definition_en": "By a notably large amount or to a great degree.",
-      "due": "2026-10-09",
+      "due": "2026-11-06",
       "example": "The quality of the service has improved considerably over the past year.",
       "example_tr": "Hizmetin kalitesi geçen yıl boyunca önemli ölçüde gelişti.",
       "first_seen": "2026-10-08T23:42:49.184382+03:00",
@@ -1843,11 +1891,11 @@
       "ipa": "/kənˈsɪdərəbli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-08",
+      "last_shown_at": "2026-11-05",
       "level": "B2",
       "meaning_tr": "epey, oldukça, önemli ölçüde",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "considerably"
     },
@@ -5851,6 +5899,30 @@
       "unknown_count": 0,
       "word": "allocate"
     },
+    "de64cb9c40": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "obscure reason",
+        "obscure origin"
+      ],
+      "definition_en": "Not well known, difficult to understand, or unclear.",
+      "due": "2026-11-06",
+      "example": "The author referenced several obscure historical documents in his latest academic book.",
+      "example_tr": "Yazar, son akademik kitabında az bilinen birkaç tarihi belgeye atıfta bulundu.",
+      "first_seen": "2026-11-05T00:20:59.351829+03:00",
+      "id": "de64cb9c40",
+      "ipa": "/əbˈskjʊə/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-05",
+      "level": "C1",
+      "meaning_tr": "belirsiz, az bilinen",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "obscure"
+    },
     "de7703e99a": {
       "answered_count": 0,
       "box": 1,
@@ -6863,53 +6935,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-04T17:40:14.430486+03:00",
+  "last_sent_at": "2026-11-05T00:20:59.351829+03:00",
   "pool": [
-    {
-      "collocations": [
-        "adhere to rules",
-        "adhere strictly to"
-      ],
-      "definition_en": "To obey or follow a particular rule, agreement, or belief.",
-      "example": "All staff members must adhere to the company safety guidelines at all times.",
-      "example_tr": "Tüm personel, her zaman şirket güvenlik yönergelerine uymak zorundadır.",
-      "ipa": "/ədˈhɪə tuː/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "bağlı kalmak, uymak",
-      "pos": "phrase",
-      "word": "adhere to"
-    },
-    {
-      "collocations": [
-        "obscure reason",
-        "obscure origin"
-      ],
-      "definition_en": "Not well known, difficult to understand, or unclear.",
-      "example": "The author referenced several obscure historical documents in his latest academic book.",
-      "example_tr": "Yazar, son akademik kitabında az bilinen birkaç tarihi belgeye atıfta bulundu.",
-      "ipa": "/əbˈskjʊə/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "belirsiz, az bilinen",
-      "pos": "adjective",
-      "word": "obscure"
-    },
-    {
-      "collocations": [
-        "at short notice",
-        "on short notice"
-      ],
-      "definition_en": "With very little time given to prepare or inform someone.",
-      "example": "She managed to organize an emergency meeting on very short notice.",
-      "example_tr": "Acil bir toplantıyı çok kısa bir sürede organize etmeyi başardı.",
-      "ipa": "/ɒn ʃɔːt ˈnəʊtɪs/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "kısa sürede, son anda",
-      "pos": "phrase",
-      "word": "on short notice"
-    },
     {
       "collocations": [
         "occur simultaneously",
