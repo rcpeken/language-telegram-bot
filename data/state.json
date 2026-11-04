@@ -1473,7 +1473,7 @@
         "adverse conditions"
       ],
       "definition_en": "Preventing success or development; harmful or unfavorable.",
-      "due": "2026-10-09",
+      "due": "2026-11-05",
       "example": "The outdoor concert was canceled due to adverse weather conditions.",
       "example_tr": "Açık hava konseri, olumsuz hava koşulları nedeniyle iptal edildi.",
       "first_seen": "2026-10-08T16:38:54.409710+03:00",
@@ -1481,11 +1481,11 @@
       "ipa": "/ˈædvɜːrs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-08",
+      "last_shown_at": "2026-11-04",
       "level": "B2",
       "meaning_tr": "olumsuz, ters, kötü",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "adverse"
     },
@@ -3539,6 +3539,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "underlying"
+    },
+    "855548ead9": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "prominent role",
+        "prominent feature"
+      ],
+      "definition_en": "Important, famous, or easily noticed.",
+      "due": "2026-11-05",
+      "example": "She played a prominent role in negotiating the new international trade agreement.",
+      "example_tr": "Yeni uluslararası ticaret anlaşmasının müzakere edilmesinde önemli bir rol oynadı.",
+      "first_seen": "2026-11-04T17:40:14.430486+03:00",
+      "id": "855548ead9",
+      "ipa": "/ˈprɒmɪnənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-04",
+      "level": "B2",
+      "meaning_tr": "öne çıkan, belirgin, önemli",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "prominent"
     },
     "884da07cc2": {
       "answered_count": 0,
@@ -5923,6 +5947,30 @@
       "unknown_count": 0,
       "word": "disrupt"
     },
+    "e159896eab": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "surge in demand",
+        "sudden surge"
+      ],
+      "definition_en": "A sudden and great increase in something.",
+      "due": "2026-11-05",
+      "example": "Online retailers experienced a massive surge in demand during the holiday season.",
+      "example_tr": "İnternet satıcıları, tatil sezonunda talepte muazzam bir artış yaşadı.",
+      "first_seen": "2026-11-04T17:40:14.430486+03:00",
+      "id": "e159896eab",
+      "ipa": "/sɜːdʒ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-04",
+      "level": "B2",
+      "meaning_tr": "ani artış, yükseliş",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "surge"
+    },
     "e16f549664": {
       "answered_count": 0,
       "box": 1,
@@ -6412,7 +6460,7 @@
         "be confronted with"
       ],
       "definition_en": "To face, meet, or deal with a difficult situation or person directly.",
-      "due": "2026-10-08",
+      "due": "2026-11-05",
       "example": "Leaders must confront these economic challenges immediately to prevent further decline in the coming months.",
       "example_tr": "Liderler, önümüzdeki aylarda daha fazla düşüşü önlemek için bu ekonomik zorluklarla hemen yüzleşmelidir.",
       "first_seen": "2026-10-07T16:33:09.689390+03:00",
@@ -6420,11 +6468,11 @@
       "ipa": "/kənˈfrʌnt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-07",
+      "last_shown_at": "2026-11-04",
       "level": "B2",
       "meaning_tr": "yüzleşmek, karşı karşıya kalmak, göğüs germek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "confront"
     },
@@ -6549,6 +6597,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "conspicuous"
+    },
+    "f392de2454": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "notwithstanding the fact",
+        "notwithstanding concerns"
+      ],
+      "definition_en": "In spite of a particular fact or situation.",
+      "due": "2026-11-05",
+      "example": "Notwithstanding the bad weather conditions, the rescue team successfully reached the peak.",
+      "example_tr": "Kötü hava koşullarına rağmen kurtarma ekibi zirveye başarıyla ulaştı.",
+      "first_seen": "2026-11-04T17:40:14.430486+03:00",
+      "id": "f392de2454",
+      "ipa": "/ˌnɒtwɪθˈstændɪŋ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-04",
+      "level": "C1",
+      "meaning_tr": "-e rağmen, karşın",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "notwithstanding"
     },
     "f4ea203b86": {
       "answered_count": 0,
@@ -6791,53 +6863,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-04T00:03:41.504578+03:00",
+  "last_sent_at": "2026-11-04T17:40:14.430486+03:00",
   "pool": [
-    {
-      "collocations": [
-        "prominent role",
-        "prominent feature"
-      ],
-      "definition_en": "Important, famous, or easily noticed.",
-      "example": "She played a prominent role in negotiating the new international trade agreement.",
-      "example_tr": "Yeni uluslararası ticaret anlaşmasının müzakere edilmesinde önemli bir rol oynadı.",
-      "ipa": "/ˈprɒmɪnənt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "öne çıkan, belirgin, önemli",
-      "pos": "adjective",
-      "word": "prominent"
-    },
-    {
-      "collocations": [
-        "surge in demand",
-        "sudden surge"
-      ],
-      "definition_en": "A sudden and great increase in something.",
-      "example": "Online retailers experienced a massive surge in demand during the holiday season.",
-      "example_tr": "İnternet satıcıları, tatil sezonunda talepte muazzam bir artış yaşadı.",
-      "ipa": "/sɜːdʒ/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "ani artış, yükseliş",
-      "pos": "noun",
-      "word": "surge"
-    },
-    {
-      "collocations": [
-        "notwithstanding the fact",
-        "notwithstanding concerns"
-      ],
-      "definition_en": "In spite of a particular fact or situation.",
-      "example": "Notwithstanding the bad weather conditions, the rescue team successfully reached the peak.",
-      "example_tr": "Kötü hava koşullarına rağmen kurtarma ekibi zirveye başarıyla ulaştı.",
-      "ipa": "/ˌnɒtwɪθˈstændɪŋ/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "-e rağmen, karşın",
-      "pos": "phrase",
-      "word": "notwithstanding"
-    },
     {
       "collocations": [
         "adhere to rules",
