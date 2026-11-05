@@ -2149,7 +2149,7 @@
         "lucrative contract"
       ],
       "definition_en": "Producing a great deal of profit or wealth.",
-      "due": "2026-10-09",
+      "due": "2026-11-06",
       "example": "She decided to leave her teaching job for a more lucrative career in software sales.",
       "example_tr": "Yazılım satışlarında daha kazançlı bir kariyer için öğretmenlik işinden ayrılmaya karar verdi.",
       "first_seen": "2026-09-19T14:08:02.914222+03:00",
@@ -2157,11 +2157,11 @@
       "ipa": "/ˈluːkrətɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-08",
+      "last_shown_at": "2026-11-05",
       "level": "B2",
       "meaning_tr": "karlı, kazançlı",
       "pos": "adjective",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "lucrative"
     },
@@ -2463,7 +2463,7 @@
         "reach a compromise"
       ],
       "definition_en": "To accept standards that are lower than desirable, or to expose something to danger.",
-      "due": "2026-10-09",
+      "due": "2026-11-06",
       "example": "We cannot compromise on safety standards just to finish the construction project earlier.",
       "example_tr": "Sırf inşaat projesini daha erken bitirmek için güvenlik standartlarından ödün veremeyiz.",
       "first_seen": "2026-09-24T00:33:57.528059+03:00",
@@ -2471,11 +2471,11 @@
       "ipa": "/ˈfɒm.prə.maɪz/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-08",
+      "last_shown_at": "2026-11-05",
       "level": "B2",
       "meaning_tr": "ödün vermek, tehlikeye atmak, uzlaşmak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "compromise"
     },
@@ -2935,6 +2935,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "deterrent"
+    },
+    "6ce606deb7": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "occur simultaneously",
+        "run simultaneously"
+      ],
+      "definition_en": "At the exact same time.",
+      "due": "2026-11-06",
+      "example": "The software allows multiple team members to edit the document simultaneously.",
+      "example_tr": "Yazılım, birden fazla ekip üyesinin belgeyi aynı anda düzenlemesine olanak tanır.",
+      "first_seen": "2026-11-05T17:45:08.980879+03:00",
+      "id": "6ce606deb7",
+      "ipa": "/ˌsɪmlˈteɪniəsli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-05",
+      "level": "B2",
+      "meaning_tr": "eşzamanlı olarak, aynı anda",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "simultaneously"
     },
     "6df1184ec1": {
       "answered_count": 0,
@@ -6935,24 +6959,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-05T00:20:59.351829+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "occur simultaneously",
-        "run simultaneously"
-      ],
-      "definition_en": "At the exact same time.",
-      "example": "The software allows multiple team members to edit the document simultaneously.",
-      "example_tr": "Yazılım, birden fazla ekip üyesinin belgeyi aynı anda düzenlemesine olanak tanır.",
-      "ipa": "/ˌsɪmlˈteɪniəsli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "eşzamanlı olarak, aynı anda",
-      "pos": "adverb",
-      "word": "simultaneously"
-    }
-  ],
+  "last_sent_at": "2026-11-05T17:45:08.980879+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
