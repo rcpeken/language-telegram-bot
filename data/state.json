@@ -2608,7 +2608,7 @@
         "catalyst for change"
       ],
       "definition_en": "A person or thing that precipitates an event or change.",
-      "due": "2026-10-09",
+      "due": "2026-11-07",
       "example": "The new government policy acted as a catalyst for economic growth.",
       "example_tr": "Yeni hükümet politikası, ekonomik büyüme için bir tetikleyici işlevi gördü.",
       "first_seen": "2026-10-08T16:38:54.409710+03:00",
@@ -2616,11 +2616,11 @@
       "ipa": "/ˈkætəlɪst/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-08",
+      "last_shown_at": "2026-11-06",
       "level": "C1",
       "meaning_tr": "katalizör, tetikleyici, hızlandırıcı",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "catalyst"
     },
@@ -2920,7 +2920,7 @@
         "nuclear deterrent"
       ],
       "definition_en": "Something that discourages or prevents people from doing something bad.",
-      "due": "2026-10-09",
+      "due": "2026-11-07",
       "example": "Tougher laws and higher fines act as an effective deterrent against speeding.",
       "example_tr": "Daha sert yasalar ve daha yüksek para cezaları, hız yapmaya karşı etkili bir caydırıcı işlevi görür.",
       "first_seen": "2026-09-24T14:54:46.968276+03:00",
@@ -2928,11 +2928,11 @@
       "ipa": "/dɪˈter.ənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-08",
+      "last_shown_at": "2026-11-06",
       "level": "C1",
       "meaning_tr": "caydırıcı, caydırıcı unsur",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "deterrent"
     },
@@ -6959,7 +6959,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-05T17:45:08.980879+03:00",
+  "last_sent_at": "2026-11-06T00:28:55.042525+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
