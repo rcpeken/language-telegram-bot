@@ -1345,6 +1345,30 @@
       "unknown_count": 0,
       "word": "framework"
     },
+    "35510d4f2a": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "pain threshold",
+        "poverty threshold"
+      ],
+      "definition_en": "The level or point at which something starts to happen.",
+      "due": "2026-11-07",
+      "example": "His annual income fell just below the threshold required to pay higher tax rates.",
+      "example_tr": "Yıllık geliri, daha yüksek vergi oranları ödemek için gereken eşiğin tam altında kaldı.",
+      "first_seen": "2026-11-06T23:56:20.494841+03:00",
+      "id": "35510d4f2a",
+      "ipa": "/ˈθreʃ.həʊld/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-06",
+      "level": "C1",
+      "meaning_tr": "eşik, alt sınır",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "threshold"
+    },
     "360a7ccb21": {
       "answered_count": 0,
       "box": 1,
@@ -2027,7 +2051,7 @@
         "by virtue of experience"
       ],
       "definition_en": "Because of or by means of something.",
-      "due": "2026-10-10",
+      "due": "2026-11-07",
       "example": "She got the job by virtue of her extensive experience in finance.",
       "example_tr": "Finans alanındaki geniş deneyimi sayesinde işe kabul edildi.",
       "first_seen": "2026-10-09T16:25:01.065070+03:00",
@@ -2035,11 +2059,11 @@
       "ipa": "/baɪ ˈvɜːrtʃuː əv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-09",
+      "last_shown_at": "2026-11-06",
       "level": "C1",
       "meaning_tr": "-den dolayı, sayesinde, yardımıyla",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "by virtue of"
     },
@@ -3660,6 +3684,30 @@
       "unknown_count": 0,
       "word": "underlying"
     },
+    "84eeba7b77": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "financially feasible",
+        "feasible solution"
+      ],
+      "definition_en": "Possible and practical to do easily or conveniently.",
+      "due": "2026-11-07",
+      "example": "The management is currently looking for a feasible solution to cut production costs.",
+      "example_tr": "Yönetim şu anda üretim maliyetlerini düşürmek için uygulanabilir bir çözüm arıyor.",
+      "first_seen": "2026-11-06T23:56:20.494841+03:00",
+      "id": "84eeba7b77",
+      "ipa": "/ˈfiː.zə.bəl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-06",
+      "level": "C1",
+      "meaning_tr": "uygulanabilir, makul, olası",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "feasible"
+    },
     "855548ead9": {
       "answered_count": 0,
       "box": 1,
@@ -4093,6 +4141,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "arguably"
+    },
+    "98797b8637": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "underpin success",
+        "underpin the economy"
+      ],
+      "definition_en": "To give support, strength, or a basic structure to something.",
+      "due": "2026-11-07",
+      "example": "Strong moral principles underpin every decision made by the non-profit organization.",
+      "example_tr": "Güçlü ahlaki ilkeler, kar amacı gütmeyen kuruluş tarafından alınan her kararın temelini oluşturur.",
+      "first_seen": "2026-11-06T23:56:20.494841+03:00",
+      "id": "98797b8637",
+      "ipa": "/ˌʌn.dəˈpɪn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-06",
+      "level": "C1",
+      "meaning_tr": "desteklemek, temelini oluşturmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "underpin"
     },
     "98f5111248": {
       "answered_count": 0,
@@ -5307,7 +5379,7 @@
         "cultivate a habit"
       ],
       "definition_en": "To try to acquire or develop a quality, skill, or relationship.",
-      "due": "2026-10-09",
+      "due": "2026-11-07",
       "example": "She worked hard to cultivate good relationships with her new clients.",
       "example_tr": "Yeni müşterileriyle iyi ilişkiler geliştirmek için çok çalıştı.",
       "first_seen": "2026-10-08T16:38:54.409710+03:00",
@@ -5315,11 +5387,11 @@
       "ipa": "/ˈkʌltɪveɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-08",
+      "last_shown_at": "2026-11-06",
       "level": "B2",
       "meaning_tr": "geliştirmek, büyütmek, yetiştirmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "cultivate"
     },
@@ -7031,53 +7103,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-06T17:23:06.182631+03:00",
+  "last_sent_at": "2026-11-06T23:56:20.494841+03:00",
   "pool": [
-    {
-      "collocations": [
-        "financially feasible",
-        "feasible solution"
-      ],
-      "definition_en": "Possible and practical to do easily or conveniently.",
-      "example": "The management is currently looking for a feasible solution to cut production costs.",
-      "example_tr": "Yönetim şu anda üretim maliyetlerini düşürmek için uygulanabilir bir çözüm arıyor.",
-      "ipa": "/ˈfiː.zə.bəl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "uygulanabilir, makul, olası",
-      "pos": "adjective",
-      "word": "feasible"
-    },
-    {
-      "collocations": [
-        "pain threshold",
-        "poverty threshold"
-      ],
-      "definition_en": "The level or point at which something starts to happen.",
-      "example": "His annual income fell just below the threshold required to pay higher tax rates.",
-      "example_tr": "Yıllık geliri, daha yüksek vergi oranları ödemek için gereken eşiğin tam altında kaldı.",
-      "ipa": "/ˈθreʃ.həʊld/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "eşik, alt sınır",
-      "pos": "noun",
-      "word": "threshold"
-    },
-    {
-      "collocations": [
-        "underpin success",
-        "underpin the economy"
-      ],
-      "definition_en": "To give support, strength, or a basic structure to something.",
-      "example": "Strong moral principles underpin every decision made by the non-profit organization.",
-      "example_tr": "Güçlü ahlaki ilkeler, kar amacı gütmeyen kuruluş tarafından alınan her kararın temelini oluşturur.",
-      "ipa": "/ˌʌn.dəˈpɪn/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "desteklemek, temelini oluşturmak",
-      "pos": "verb",
-      "word": "underpin"
-    },
     {
       "collocations": [
         "proactive approach",
