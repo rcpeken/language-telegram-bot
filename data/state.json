@@ -1441,6 +1441,30 @@
       "unknown_count": 0,
       "word": "contingency"
     },
+    "3b009a9e63": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "hinder progress",
+        "hinder development"
+      ],
+      "definition_en": "To make it difficult for something to develop or succeed.",
+      "due": "2026-11-07",
+      "example": "Bad weather conditions may hinder our team from completing the construction project on time.",
+      "example_tr": "Kötü hava koşulları ekibimizin inşaat projesini zamanında tamamlamasını engelleyebilir.",
+      "first_seen": "2026-11-06T17:23:06.182631+03:00",
+      "id": "3b009a9e63",
+      "ipa": "/ˈhɪn.dər/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-06",
+      "level": "B2",
+      "meaning_tr": "engellemek, aksatmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "hinder"
+    },
     "3b716c0240": {
       "answered_count": 0,
       "box": 1,
@@ -3018,7 +3042,7 @@
         "grudgingly admit"
       ],
       "definition_en": "Done in an unwilling or reluctant manner.",
-      "due": "2026-10-09",
+      "due": "2026-11-07",
       "example": "He grudgingly admitted that his rival had made a valid point.",
       "example_tr": "Rakibinin haklı bir noktaya değindiğini isteksizce kabul etti.",
       "first_seen": "2026-10-08T23:42:49.184382+03:00",
@@ -3026,11 +3050,11 @@
       "ipa": "/ˈɡrʌdʒɪŋli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-08",
+      "last_shown_at": "2026-11-06",
       "level": "C1",
       "meaning_tr": "isteksizce, zoraki, gönülsüzce",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "grudgingly"
     },
@@ -3105,6 +3129,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "obsolete"
+    },
+    "72fd7bde43": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "increase substantially",
+        "substantially reduce"
+      ],
+      "definition_en": "To a large degree or amount.",
+      "due": "2026-11-07",
+      "example": "Company profits have increased substantially following the introduction of the new marketing strategy.",
+      "example_tr": "Yeni pazarlama stratejisinin uygulamaya konulmasının ardından şirket kârları önemli ölçüde arttı.",
+      "first_seen": "2026-11-06T17:23:06.182631+03:00",
+      "id": "72fd7bde43",
+      "ipa": "/səbˈstæn.ʃəl.i/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-06",
+      "level": "B2",
+      "meaning_tr": "önemli ölçüde, büyük miktarda",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "substantially"
     },
     "73f9d8b4cb": {
       "answered_count": 0,
@@ -3788,7 +3836,7 @@
         "nurture a relationship"
       ],
       "definition_en": "To feed, protect, and encourage the development of someone or something.",
-      "due": "2026-10-09",
+      "due": "2026-11-07",
       "example": "Good teachers always nurture the creative talents of their young students.",
       "example_tr": "İyi öğretmenler, genç öğrencilerinin yaratıcı yeteneklerini her zaman besler ve geliştirir.",
       "first_seen": "2026-09-24T00:33:57.528059+03:00",
@@ -3796,11 +3844,11 @@
       "ipa": "/ˈnɜː.tʃər/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-08",
+      "last_shown_at": "2026-11-06",
       "level": "C1",
       "meaning_tr": "beslemek, geliştirmek, büyütmek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "nurture"
     },
@@ -6934,6 +6982,30 @@
       "unknown_count": 0,
       "word": "amplify"
     },
+    "feb5bbe155": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "pave the way for",
+        "pave the way forward"
+      ],
+      "definition_en": "To create a situation in which it is easier for something to happen.",
+      "due": "2026-11-07",
+      "example": "This groundbreaking agreement will pave the way for future cooperation between the two nations.",
+      "example_tr": "Bu çığır açan anlaşma, iki ulus arasında gelecekteki iş birliğinin önünü açacaktır.",
+      "first_seen": "2026-11-06T17:23:06.182631+03:00",
+      "id": "feb5bbe155",
+      "ipa": "/peɪv ðə weɪ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-06",
+      "level": "C1",
+      "meaning_tr": "zemin hazırlamak, önünü açmak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "pave the way"
+    },
     "ffdcf98a96": {
       "answered_count": 0,
       "box": 1,
@@ -6959,8 +7031,114 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-06T00:28:55.042525+03:00",
-  "pool": [],
+  "last_sent_at": "2026-11-06T17:23:06.182631+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "financially feasible",
+        "feasible solution"
+      ],
+      "definition_en": "Possible and practical to do easily or conveniently.",
+      "example": "The management is currently looking for a feasible solution to cut production costs.",
+      "example_tr": "Yönetim şu anda üretim maliyetlerini düşürmek için uygulanabilir bir çözüm arıyor.",
+      "ipa": "/ˈfiː.zə.bəl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "uygulanabilir, makul, olası",
+      "pos": "adjective",
+      "word": "feasible"
+    },
+    {
+      "collocations": [
+        "pain threshold",
+        "poverty threshold"
+      ],
+      "definition_en": "The level or point at which something starts to happen.",
+      "example": "His annual income fell just below the threshold required to pay higher tax rates.",
+      "example_tr": "Yıllık geliri, daha yüksek vergi oranları ödemek için gereken eşiğin tam altında kaldı.",
+      "ipa": "/ˈθreʃ.həʊld/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "eşik, alt sınır",
+      "pos": "noun",
+      "word": "threshold"
+    },
+    {
+      "collocations": [
+        "underpin success",
+        "underpin the economy"
+      ],
+      "definition_en": "To give support, strength, or a basic structure to something.",
+      "example": "Strong moral principles underpin every decision made by the non-profit organization.",
+      "example_tr": "Güçlü ahlaki ilkeler, kar amacı gütmeyen kuruluş tarafından alınan her kararın temelini oluşturur.",
+      "ipa": "/ˌʌn.dəˈpɪn/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "desteklemek, temelini oluşturmak",
+      "pos": "verb",
+      "word": "underpin"
+    },
+    {
+      "collocations": [
+        "proactive approach",
+        "proactive measure"
+      ],
+      "definition_en": "Taking action by causing change rather than reacting to events.",
+      "example": "Taking a proactive approach to problem-solving helps prevent major issues before they arise.",
+      "example_tr": "Problem çözmede etken bir yaklaşım benimsemek, sorunlar ortaya çıkmadan önce büyük problemleri önler.",
+      "ipa": "/prəʊˈæk.tɪv/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "etken, öngörülü, inisiyatif alan",
+      "pos": "adjective",
+      "word": "proactive"
+    },
+    {
+      "collocations": [
+        "by no means easy",
+        "by no means guaranteed"
+      ],
+      "definition_en": "Not at all; certainly not.",
+      "example": "The new system is by no means perfect, but it works better than the old one.",
+      "example_tr": "Yeni sistem hiçbir şekilde mükemmel değil, ancak eskisinden daha iyi çalışıyor.",
+      "ipa": "/baɪ nəʊ miːnz/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "hiçbir şekilde, asla",
+      "pos": "phrase",
+      "word": "by no means"
+    },
+    {
+      "collocations": [
+        "compensate for",
+        "fully compensate"
+      ],
+      "definition_en": "To provide something good to balance or make up for something bad.",
+      "example": "The company agreed to compensate the customers for the inconvenience caused by the delay.",
+      "example_tr": "Şirket, gecikmenin neden olduğu rahatsızlık için müşterileri tazmin etmeyi kabul etti.",
+      "ipa": "/ˈkɒm.pən.seɪt/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "telafi etmek, tazmin etmek",
+      "pos": "verb",
+      "word": "compensate"
+    },
+    {
+      "collocations": [
+        "on the grounds of",
+        "rejected on the grounds"
+      ],
+      "definition_en": "For the reason that; based on.",
+      "example": "The judge dismissed the case on the grounds of insufficient evidence.",
+      "example_tr": "Yargıç, yetersiz delil gerekçesiyle davayı düşürdü.",
+      "ipa": "/ɒn ðə ɡraʊndz əv/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "gerekçesiyle, nedeniyle",
+      "pos": "phrase",
+      "word": "on the grounds of"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
