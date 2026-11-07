@@ -2503,6 +2503,31 @@
       "unknown_count": 0,
       "word": "oversight"
     },
+    "5e50c2fdf6": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "legal liability",
+        "financial liability",
+        "admit liability"
+      ],
+      "definition_en": "The state of being legally responsible for something, or a financial obligation.",
+      "due": "2026-11-08",
+      "example": "The company accepted full legal liability for the damage caused by the accident.",
+      "example_tr": "Şirket, kazanın neden olduğu hasar için tüm yasal sorumluluğu kabul etti.",
+      "first_seen": "2026-11-07T22:28:31.928555+03:00",
+      "id": "5e50c2fdf6",
+      "ipa": "/ˌlaɪ.əˈbɪl.ə.ti/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-07",
+      "level": "B2",
+      "meaning_tr": "sorumluluk, yük, mali yükümlülük",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "liability"
+    },
     "5e7aebf62c": {
       "answered_count": 0,
       "box": 1,
@@ -5040,7 +5065,7 @@
         "appease critics"
       ],
       "definition_en": "To pacify someone by acceding to their demands.",
-      "due": "2026-10-10",
+      "due": "2026-11-08",
       "example": "The company made minor concessions to appease the angry union members.",
       "example_tr": "Şirket, öfkeli sendika üyelerini yatıştırmak için ufak tavizler verdi.",
       "first_seen": "2026-10-09T23:08:14.389622+03:00",
@@ -5048,11 +5073,11 @@
       "ipa": "/əˈpiːz/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-09",
+      "last_shown_at": "2026-11-07",
       "level": "C1",
       "meaning_tr": "yatıştırmak, taviz vererek sakinleştirmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "appease"
     },
@@ -5209,7 +5234,7 @@
         "permeate society"
       ],
       "definition_en": "To spread throughout something, filling every part of it.",
-      "due": "2026-10-10",
+      "due": "2026-11-08",
       "example": "The warm smell of freshly baked bread began to permeate the kitchen.",
       "example_tr": "Taze pişmiş ekmeğin sıcak kokusu mutfağa yayılmaya başladı.",
       "first_seen": "2026-10-09T23:08:14.389622+03:00",
@@ -5217,11 +5242,11 @@
       "ipa": "/ˈpɜːrmieɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-09",
+      "last_shown_at": "2026-11-07",
       "level": "C1",
       "meaning_tr": "nüfuz etmek, içine işlemek, yayılmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "permeate"
     },
@@ -5418,6 +5443,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "perplexed"
+    },
+    "c021e42988": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "on the grounds of",
+        "rejected on the grounds"
+      ],
+      "definition_en": "For the reason that; based on.",
+      "due": "2026-11-08",
+      "example": "The judge dismissed the case on the grounds of insufficient evidence.",
+      "example_tr": "Yargıç, yetersiz delil gerekçesiyle davayı düşürdü.",
+      "first_seen": "2026-11-07T22:28:31.928555+03:00",
+      "id": "c021e42988",
+      "ipa": "/ɒn ðə ɡraʊndz əv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-07",
+      "level": "C1",
+      "meaning_tr": "gerekçesiyle, nedeniyle",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "on the grounds of"
     },
     "c089ce348b": {
       "answered_count": 0,
@@ -6934,6 +6983,31 @@
       "unknown_count": 0,
       "word": "for the sake of"
     },
+    "f7cc712934": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "profoundly affect",
+        "profoundly influence",
+        "profoundly move"
+      ],
+      "definition_en": "In a way that shows great knowledge or insight, or affects someone deeply.",
+      "due": "2026-11-08",
+      "example": "The teacher's encouraging words profoundly affected the young student's confidence.",
+      "example_tr": "Öğretmenin teşvik edici sözleri genç öğrencinin özgüvenini derinden etkiledi.",
+      "first_seen": "2026-11-07T22:28:31.928555+03:00",
+      "id": "f7cc712934",
+      "ipa": "/prəˈfaʊnd.li/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-07",
+      "level": "C1",
+      "meaning_tr": "derinden, son derece, kökten",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "profoundly"
+    },
     "f7d5304b86": {
       "answered_count": 0,
       "box": 1,
@@ -7175,22 +7249,150 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-07T16:12:59.344739+03:00",
+  "last_sent_at": "2026-11-07T22:28:31.928555+03:00",
   "pool": [
     {
       "collocations": [
-        "on the grounds of",
-        "rejected on the grounds"
+        "seem simple at first glance",
+        "appear at first glance"
       ],
-      "definition_en": "For the reason that; based on.",
-      "example": "The judge dismissed the case on the grounds of insufficient evidence.",
-      "example_tr": "Yargıç, yetersiz delil gerekçesiyle davayı düşürdü.",
-      "ipa": "/ɒn ðə ɡraʊndz əv/",
+      "definition_en": "When driven by initial impressions before taking time to examine carefully.",
+      "example": "At first glance, the proposal seemed reasonable, but several hidden flaws emerged.",
+      "example_tr": "İlk bakışta teklif makul görünüyordu, ancak birkaç gizli kusur ortaya çıktı.",
+      "ipa": "/æt fɜːst ɡlɑːns/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "ilk bakışta",
+      "pos": "phrase",
+      "word": "at first glance"
+    },
+    {
+      "collocations": [
+        "highly skeptical",
+        "remain skeptical",
+        "skeptical about"
+      ],
+      "definition_en": "Doubting that something is true or useful.",
+      "example": "Investors remained skeptical about the new company's ambitious revenue targets for next year.",
+      "example_tr": "Yatırımcılar, yeni şirketin gelecek yıl için iddialı gelir hedefleri konusunda şüpheci kaldı.",
+      "ipa": "/ˈskep.tɪ.kəl/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "şüpheci, kuşkucu",
+      "pos": "adjective",
+      "word": "skeptical"
+    },
+    {
+      "collocations": [
+        "work relentlessly",
+        "pursue relentlessly",
+        "push relentlessly"
+      ],
+      "definition_en": "In an extreme way that continues without stopping or weakening.",
+      "example": "The rescue team worked relentlessly throughout the night to locate missing survivors.",
+      "example_tr": "Kurtarma ekibi, kayıp kurtulanların yerini tespit etmek için gece boyunca durmaksızın çalıştı.",
+      "ipa": "/rɪˈlent.ləs.li/",
       "lang": "en",
       "level": "C1",
-      "meaning_tr": "gerekçesiyle, nedeniyle",
+      "meaning_tr": "amansızca, durmaksızın, pes etmeden",
+      "pos": "adverb",
+      "word": "relentlessly"
+    },
+    {
+      "collocations": [
+        "in compliance with regulations",
+        "in compliance with law",
+        "strict compliance"
+      ],
+      "definition_en": "Following a rule, law, agreement, or request.",
+      "example": "The factory was modified to operate in compliance with strict environmental regulations.",
+      "example_tr": "Fabrika, katı çevre düzenlemelerine uygun olarak çalışacak şekilde değiştirildi.",
+      "ipa": "/ɪn kəmˈplaɪ.əns wɪð/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "uyarınca, -e uygun olarak",
       "pos": "phrase",
-      "word": "on the grounds of"
+      "word": "in compliance with"
+    },
+    {
+      "collocations": [
+        "divert traffic",
+        "divert attention",
+        "divert resources"
+      ],
+      "definition_en": "To cause something or someone to change direction or turn aside.",
+      "example": "Heavy traffic forced the police to divert incoming cars to alternative routes.",
+      "example_tr": "Yoğun trafik, polisin gelen araçları alternatif güzergahlara yönlendirmesine neden oldu.",
+      "ipa": "/daɪˈvɜːt/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "yönünü değiştirmek, başka yöne çekmek",
+      "pos": "verb",
+      "word": "divert"
+    },
+    {
+      "collocations": [
+        "cumbersome system",
+        "cumbersome process",
+        "cumbersome procedure"
+      ],
+      "definition_en": "Awkward to carry or use because of size, weight, or complexity.",
+      "example": "The new software replaced a cumbersome administrative process that wasted hours daily.",
+      "example_tr": "Yeni yazılım, her gün saatleri boşa harcayan hantal bir idari sürecin yerini aldı.",
+      "ipa": "/ˈkʌm.bə.səm/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "hantal, kullanışsız, zahmetli",
+      "pos": "adjective",
+      "word": "cumbersome"
+    },
+    {
+      "collocations": [
+        "consecutively win",
+        "serve consecutively",
+        "numbered consecutively"
+      ],
+      "definition_en": "One after another without any interruption.",
+      "example": "The football team won five matches consecutively to reach the tournament finals.",
+      "example_tr": "Futbol takımı, turnuva finallerine ulaşmak için üst üste beş maç kazandı.",
+      "ipa": "/kənˈsek.jə.tɪv.li/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "üst üste, aralıksız, birbirini izleyerek",
+      "pos": "adverb",
+      "word": "consecutively"
+    },
+    {
+      "collocations": [
+        "career trajectory",
+        "upward trajectory",
+        "alter the trajectory"
+      ],
+      "definition_en": "The path followed by a moving object or the development of something.",
+      "example": "The young entrepreneur's career trajectory changed dramatically after launching her first app.",
+      "example_tr": "Genç girişimcinin kariyer gidişatı, ilk uygulamasını başlattıktan sonra çarpıcı biçimde değişti.",
+      "ipa": "/trəˈdʒek.tər.i/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "yörünge, gelişme seyri, gidişat",
+      "pos": "noun",
+      "word": "trajectory"
+    },
+    {
+      "collocations": [
+        "harness energy",
+        "harness power",
+        "harness potential"
+      ],
+      "definition_en": "To control and use the natural force or power of something.",
+      "example": "Engineers designed innovative turbines to harness solar energy more efficiently.",
+      "example_tr": "Mühendisler, güneş enerjisinden daha verimli yararlanmak için yenilikçi türbinler tasarladılar.",
+      "ipa": "/ˈhɑː.nəs/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "yararlanmak, kullanmak, dizginlemek",
+      "pos": "verb",
+      "word": "harness"
     }
   ],
   "update_offset": 626511673,
