@@ -2744,6 +2744,30 @@
       "unknown_count": 0,
       "word": "facilitate"
     },
+    "6545f9f085": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "by no means easy",
+        "by no means guaranteed"
+      ],
+      "definition_en": "Not at all; certainly not.",
+      "due": "2026-11-08",
+      "example": "The new system is by no means perfect, but it works better than the old one.",
+      "example_tr": "Yeni sistem hiçbir şekilde mükemmel değil, ancak eskisinden daha iyi çalışıyor.",
+      "first_seen": "2026-11-07T16:12:59.344739+03:00",
+      "id": "6545f9f085",
+      "ipa": "/baɪ nəʊ miːnz/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-07",
+      "level": "B2",
+      "meaning_tr": "hiçbir şekilde, asla",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "by no means"
+    },
     "655f0a6a01": {
       "answered_count": 0,
       "box": 1,
@@ -4392,7 +4416,7 @@
         "appraise property"
       ],
       "definition_en": "To assess the value, quality, or performance of something.",
-      "due": "2026-10-10",
+      "due": "2026-11-08",
       "example": "Employers regularly appraise their staff to determine yearly bonuses and promotions.",
       "example_tr": "İşverenler, yıllık primleri ve terfileri belirlemek için personellerini düzenli olarak değerlendirir.",
       "first_seen": "2026-10-09T16:25:01.065070+03:00",
@@ -4400,11 +4424,11 @@
       "ipa": "/əˈpreɪz/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-09",
+      "last_shown_at": "2026-11-07",
       "level": "C1",
       "meaning_tr": "değerlendirmek, değer biçmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "appraise"
     },
@@ -4488,7 +4512,7 @@
         "arbitrary rule"
       ],
       "definition_en": "Based on random choice or personal whim, rather than any reason or system.",
-      "due": "2026-10-10",
+      "due": "2026-11-08",
       "example": "The company's decision to ban social media seemed completely arbitrary to the employees.",
       "example_tr": "Şirketin sosyal medyayı yasaklama kararı çalışanlara tamamen keyfi göründü.",
       "first_seen": "2026-09-24T14:54:46.968276+03:00",
@@ -4496,11 +4520,11 @@
       "ipa": "/ˈɑː.bɪ.trər.i/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-09",
+      "last_shown_at": "2026-11-07",
       "level": "C1",
       "meaning_tr": "keyfi, rastgele",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "arbitrary"
     },
@@ -4599,6 +4623,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "in conjunction with"
+    },
+    "a6f279daa5": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "compensate for",
+        "fully compensate"
+      ],
+      "definition_en": "To provide something good to balance or make up for something bad.",
+      "due": "2026-11-08",
+      "example": "The company agreed to compensate the customers for the inconvenience caused by the delay.",
+      "example_tr": "Şirket, gecikmenin neden olduğu rahatsızlık için müşterileri tazmin etmeyi kabul etti.",
+      "first_seen": "2026-11-07T16:12:59.344739+03:00",
+      "id": "a6f279daa5",
+      "ipa": "/ˈkɒm.pən.seɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-07",
+      "level": "B2",
+      "meaning_tr": "telafi etmek, tazmin etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "compensate"
     },
     "a8389bd90d": {
       "answered_count": 0,
@@ -6838,6 +6886,30 @@
       "unknown_count": 0,
       "word": "notwithstanding"
     },
+    "f4b97439da": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "proactive approach",
+        "proactive measure"
+      ],
+      "definition_en": "Taking action by causing change rather than reacting to events.",
+      "due": "2026-11-08",
+      "example": "Taking a proactive approach to problem-solving helps prevent major issues before they arise.",
+      "example_tr": "Problem çözmede etken bir yaklaşım benimsemek, sorunlar ortaya çıkmadan önce büyük problemleri önler.",
+      "first_seen": "2026-11-07T16:12:59.344739+03:00",
+      "id": "f4b97439da",
+      "ipa": "/prəʊˈæk.tɪv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-07",
+      "level": "B2",
+      "meaning_tr": "etken, öngörülü, inisiyatif alan",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "proactive"
+    },
     "f4ea203b86": {
       "answered_count": 0,
       "box": 1,
@@ -7103,53 +7175,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-06T23:56:20.494841+03:00",
+  "last_sent_at": "2026-11-07T16:12:59.344739+03:00",
   "pool": [
-    {
-      "collocations": [
-        "proactive approach",
-        "proactive measure"
-      ],
-      "definition_en": "Taking action by causing change rather than reacting to events.",
-      "example": "Taking a proactive approach to problem-solving helps prevent major issues before they arise.",
-      "example_tr": "Problem çözmede etken bir yaklaşım benimsemek, sorunlar ortaya çıkmadan önce büyük problemleri önler.",
-      "ipa": "/prəʊˈæk.tɪv/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "etken, öngörülü, inisiyatif alan",
-      "pos": "adjective",
-      "word": "proactive"
-    },
-    {
-      "collocations": [
-        "by no means easy",
-        "by no means guaranteed"
-      ],
-      "definition_en": "Not at all; certainly not.",
-      "example": "The new system is by no means perfect, but it works better than the old one.",
-      "example_tr": "Yeni sistem hiçbir şekilde mükemmel değil, ancak eskisinden daha iyi çalışıyor.",
-      "ipa": "/baɪ nəʊ miːnz/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "hiçbir şekilde, asla",
-      "pos": "phrase",
-      "word": "by no means"
-    },
-    {
-      "collocations": [
-        "compensate for",
-        "fully compensate"
-      ],
-      "definition_en": "To provide something good to balance or make up for something bad.",
-      "example": "The company agreed to compensate the customers for the inconvenience caused by the delay.",
-      "example_tr": "Şirket, gecikmenin neden olduğu rahatsızlık için müşterileri tazmin etmeyi kabul etti.",
-      "ipa": "/ˈkɒm.pən.seɪt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "telafi etmek, tazmin etmek",
-      "pos": "verb",
-      "word": "compensate"
-    },
     {
       "collocations": [
         "on the grounds of",
