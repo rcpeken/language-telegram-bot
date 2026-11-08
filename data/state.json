@@ -3300,6 +3300,31 @@
       "unknown_count": 0,
       "word": "lucid"
     },
+    "746cbbc9f5": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "cumbersome system",
+        "cumbersome process",
+        "cumbersome procedure"
+      ],
+      "definition_en": "Awkward to carry or use because of size, weight, or complexity.",
+      "due": "2026-11-09",
+      "example": "The new software replaced a cumbersome administrative process that wasted hours daily.",
+      "example_tr": "Yeni yazılım, her gün saatleri boşa harcayan hantal bir idari sürecin yerini aldı.",
+      "first_seen": "2026-11-08T22:44:14.327765+03:00",
+      "id": "746cbbc9f5",
+      "ipa": "/ˈkʌm.bə.səm/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-08",
+      "level": "C1",
+      "meaning_tr": "hantal, kullanışsız, zahmetli",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "cumbersome"
+    },
     "7564906314": {
       "answered_count": 0,
       "box": 1,
@@ -3804,6 +3829,31 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "prominent"
+    },
+    "87ad5a8d1e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "divert traffic",
+        "divert attention",
+        "divert resources"
+      ],
+      "definition_en": "To cause something or someone to change direction or turn aside.",
+      "due": "2026-11-09",
+      "example": "Heavy traffic forced the police to divert incoming cars to alternative routes.",
+      "example_tr": "Yoğun trafik, polisin gelen araçları alternatif güzergahlara yönlendirmesine neden oldu.",
+      "first_seen": "2026-11-08T22:44:14.327765+03:00",
+      "id": "87ad5a8d1e",
+      "ipa": "/daɪˈvɜːt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-08",
+      "level": "B2",
+      "meaning_tr": "yönünü değiştirmek, başka yöne çekmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "divert"
     },
     "884da07cc2": {
       "answered_count": 0,
@@ -5082,6 +5132,31 @@
       "unknown_count": 0,
       "word": "tenacious"
     },
+    "b1269ec056": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in compliance with regulations",
+        "in compliance with law",
+        "strict compliance"
+      ],
+      "definition_en": "Following a rule, law, agreement, or request.",
+      "due": "2026-11-09",
+      "example": "The factory was modified to operate in compliance with strict environmental regulations.",
+      "example_tr": "Fabrika, katı çevre düzenlemelerine uygun olarak çalışacak şekilde değiştirildi.",
+      "first_seen": "2026-11-08T22:44:14.327765+03:00",
+      "id": "b1269ec056",
+      "ipa": "/ɪn kəmˈplaɪ.əns wɪð/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-08",
+      "level": "C1",
+      "meaning_tr": "uyarınca, -e uygun olarak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in compliance with"
+    },
     "b2c01a7dc7": {
       "answered_count": 0,
       "box": 1,
@@ -6126,7 +6201,7 @@
         "vicious cycle of poverty"
       ],
       "definition_en": "A chain of negative events where one bad situation causes another, worse situation.",
-      "due": "2026-10-10",
+      "due": "2026-11-09",
       "example": "Poor sleep leads to stress, which creates a vicious cycle of more insomnia.",
       "example_tr": "Yetersiz uyku strese yol açar, bu da daha fazla uykusuzluğun olduğu bir kısır döngü yaratır.",
       "first_seen": "2026-09-24T14:54:46.968276+03:00",
@@ -6134,11 +6209,11 @@
       "ipa": "/ˈvɪʃ.əs ˈsaɪ.kəl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-09",
+      "last_shown_at": "2026-11-08",
       "level": "C1",
       "meaning_tr": "kısır döngü",
       "pos": "phrase",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "vicious cycle"
     },
@@ -6919,7 +6994,7 @@
         "in terms of quality"
       ],
       "definition_en": "With regard to the specific aspect or subject being discussed.",
-      "due": "2026-10-10",
+      "due": "2026-11-09",
       "example": "The project was a massive success in terms of public relations.",
       "example_tr": "Proje, halkla ilişkiler açısından muazzam bir başarıydı.",
       "first_seen": "2026-10-09T23:08:14.389622+03:00",
@@ -6927,11 +7002,11 @@
       "ipa": "/ɪn tɜːrmz əv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-09",
+      "last_shown_at": "2026-11-08",
       "level": "B2",
       "meaning_tr": "bakımından, açısından, yönünden",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "in terms of"
     },
@@ -7323,56 +7398,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-08T16:34:50.695260+03:00",
+  "last_sent_at": "2026-11-08T22:44:14.327765+03:00",
   "pool": [
-    {
-      "collocations": [
-        "in compliance with regulations",
-        "in compliance with law",
-        "strict compliance"
-      ],
-      "definition_en": "Following a rule, law, agreement, or request.",
-      "example": "The factory was modified to operate in compliance with strict environmental regulations.",
-      "example_tr": "Fabrika, katı çevre düzenlemelerine uygun olarak çalışacak şekilde değiştirildi.",
-      "ipa": "/ɪn kəmˈplaɪ.əns wɪð/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "uyarınca, -e uygun olarak",
-      "pos": "phrase",
-      "word": "in compliance with"
-    },
-    {
-      "collocations": [
-        "divert traffic",
-        "divert attention",
-        "divert resources"
-      ],
-      "definition_en": "To cause something or someone to change direction or turn aside.",
-      "example": "Heavy traffic forced the police to divert incoming cars to alternative routes.",
-      "example_tr": "Yoğun trafik, polisin gelen araçları alternatif güzergahlara yönlendirmesine neden oldu.",
-      "ipa": "/daɪˈvɜːt/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "yönünü değiştirmek, başka yöne çekmek",
-      "pos": "verb",
-      "word": "divert"
-    },
-    {
-      "collocations": [
-        "cumbersome system",
-        "cumbersome process",
-        "cumbersome procedure"
-      ],
-      "definition_en": "Awkward to carry or use because of size, weight, or complexity.",
-      "example": "The new software replaced a cumbersome administrative process that wasted hours daily.",
-      "example_tr": "Yeni yazılım, her gün saatleri boşa harcayan hantal bir idari sürecin yerini aldı.",
-      "ipa": "/ˈkʌm.bə.səm/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "hantal, kullanışsız, zahmetli",
-      "pos": "adjective",
-      "word": "cumbersome"
-    },
     {
       "collocations": [
         "consecutively win",
