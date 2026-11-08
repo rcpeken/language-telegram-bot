@@ -1393,6 +1393,30 @@
       "unknown_count": 0,
       "word": "pervasive"
     },
+    "38923fc6ee": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "seem simple at first glance",
+        "appear at first glance"
+      ],
+      "definition_en": "When driven by initial impressions before taking time to examine carefully.",
+      "due": "2026-11-09",
+      "example": "At first glance, the proposal seemed reasonable, but several hidden flaws emerged.",
+      "example_tr": "İlk bakışta teklif makul görünüyordu, ancak birkaç gizli kusur ortaya çıktı.",
+      "first_seen": "2026-11-08T16:34:50.695260+03:00",
+      "id": "38923fc6ee",
+      "ipa": "/æt fɜːst ɡlɑːns/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-08",
+      "level": "B2",
+      "meaning_tr": "ilk bakışta",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "at first glance"
+    },
     "394c86cd7c": {
       "answered_count": 0,
       "box": 1,
@@ -4817,6 +4841,31 @@
       "unknown_count": 0,
       "word": "drawback"
     },
+    "ab65da40d6": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "highly skeptical",
+        "remain skeptical",
+        "skeptical about"
+      ],
+      "definition_en": "Doubting that something is true or useful.",
+      "due": "2026-11-09",
+      "example": "Investors remained skeptical about the new company's ambitious revenue targets for next year.",
+      "example_tr": "Yatırımcılar, yeni şirketin gelecek yıl için iddialı gelir hedefleri konusunda şüpheci kaldı.",
+      "first_seen": "2026-11-08T16:34:50.695260+03:00",
+      "id": "ab65da40d6",
+      "ipa": "/ˈskep.tɪ.kəl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-08",
+      "level": "B2",
+      "meaning_tr": "şüpheci, kuşkucu",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "skeptical"
+    },
     "abf014b522": {
       "answered_count": 0,
       "box": 1,
@@ -5572,7 +5621,7 @@
         "highly susceptible"
       ],
       "definition_en": "Likely or liable to be influenced or harmed by a particular thing.",
-      "due": "2026-10-10",
+      "due": "2026-11-09",
       "example": "Young children are more susceptible to infections during the winter months.",
       "example_tr": "Küçük çocuklar kış aylarında enfeksiyonlara karşı daha hassastır.",
       "first_seen": "2026-10-09T16:25:01.065070+03:00",
@@ -5580,11 +5629,11 @@
       "ipa": "/səˈseptəbl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-09",
+      "last_shown_at": "2026-11-08",
       "level": "B2",
       "meaning_tr": "hassas, kolay etkilenen, duyarlı",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "susceptible"
     },
@@ -5756,6 +5805,31 @@
       "unknown_count": 0,
       "word": "leeway"
     },
+    "cf5a24122a": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "work relentlessly",
+        "pursue relentlessly",
+        "push relentlessly"
+      ],
+      "definition_en": "In an extreme way that continues without stopping or weakening.",
+      "due": "2026-11-09",
+      "example": "The rescue team worked relentlessly throughout the night to locate missing survivors.",
+      "example_tr": "Kurtarma ekibi, kayıp kurtulanların yerini tespit etmek için gece boyunca durmaksızın çalıştı.",
+      "first_seen": "2026-11-08T16:34:50.695260+03:00",
+      "id": "cf5a24122a",
+      "ipa": "/rɪˈlent.ləs.li/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-08",
+      "level": "C1",
+      "meaning_tr": "amansızca, durmaksızın, pes etmeden",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "relentlessly"
+    },
     "cfb3e75d63": {
       "answered_count": 0,
       "box": 1,
@@ -5788,7 +5862,7 @@
         "plausible scenario"
       ],
       "definition_en": "Seeming reasonable, likely, or probable; believable.",
-      "due": "2026-10-10",
+      "due": "2026-11-09",
       "example": "She offered a highly plausible explanation for her absence from the business meeting.",
       "example_tr": "İş toplantısına katılmayışı için son derece akla yatkın bir açıklama sundu.",
       "first_seen": "2026-09-24T00:33:57.528059+03:00",
@@ -5796,11 +5870,11 @@
       "ipa": "/ˈplɔː.zə.bəl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-09",
+      "last_shown_at": "2026-11-08",
       "level": "B2",
       "meaning_tr": "makul, akla yatkın",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "plausible"
     },
@@ -7249,55 +7323,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-07T22:28:31.928555+03:00",
+  "last_sent_at": "2026-11-08T16:34:50.695260+03:00",
   "pool": [
-    {
-      "collocations": [
-        "seem simple at first glance",
-        "appear at first glance"
-      ],
-      "definition_en": "When driven by initial impressions before taking time to examine carefully.",
-      "example": "At first glance, the proposal seemed reasonable, but several hidden flaws emerged.",
-      "example_tr": "İlk bakışta teklif makul görünüyordu, ancak birkaç gizli kusur ortaya çıktı.",
-      "ipa": "/æt fɜːst ɡlɑːns/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "ilk bakışta",
-      "pos": "phrase",
-      "word": "at first glance"
-    },
-    {
-      "collocations": [
-        "highly skeptical",
-        "remain skeptical",
-        "skeptical about"
-      ],
-      "definition_en": "Doubting that something is true or useful.",
-      "example": "Investors remained skeptical about the new company's ambitious revenue targets for next year.",
-      "example_tr": "Yatırımcılar, yeni şirketin gelecek yıl için iddialı gelir hedefleri konusunda şüpheci kaldı.",
-      "ipa": "/ˈskep.tɪ.kəl/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "şüpheci, kuşkucu",
-      "pos": "adjective",
-      "word": "skeptical"
-    },
-    {
-      "collocations": [
-        "work relentlessly",
-        "pursue relentlessly",
-        "push relentlessly"
-      ],
-      "definition_en": "In an extreme way that continues without stopping or weakening.",
-      "example": "The rescue team worked relentlessly throughout the night to locate missing survivors.",
-      "example_tr": "Kurtarma ekibi, kayıp kurtulanların yerini tespit etmek için gece boyunca durmaksızın çalıştı.",
-      "ipa": "/rɪˈlent.ləs.li/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "amansızca, durmaksızın, pes etmeden",
-      "pos": "adverb",
-      "word": "relentlessly"
-    },
     {
       "collocations": [
         "in compliance with regulations",
