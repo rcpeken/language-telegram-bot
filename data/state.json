@@ -96,6 +96,31 @@
       "unknown_count": 0,
       "word": "volatile"
     },
+    "03cba01dea": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "career trajectory",
+        "upward trajectory",
+        "alter the trajectory"
+      ],
+      "definition_en": "The path followed by a moving object or the development of something.",
+      "due": "2026-11-10",
+      "example": "The young entrepreneur's career trajectory changed dramatically after launching her first app.",
+      "example_tr": "Genç girişimcinin kariyer gidişatı, ilk uygulamasını başlattıktan sonra çarpıcı biçimde değişti.",
+      "first_seen": "2026-11-09T19:32:20.907400+03:00",
+      "id": "03cba01dea",
+      "ipa": "/trəˈdʒek.tər.i/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-09",
+      "level": "C1",
+      "meaning_tr": "yörünge, gelişme seyri, gidişat",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "trajectory"
+    },
     "080267d173": {
       "answered_count": 0,
       "box": 1,
@@ -128,7 +153,7 @@
         "use discretion"
       ],
       "definition_en": "the freedom to decide what should be done in a particular situation",
-      "due": "2026-10-11",
+      "due": "2026-11-10",
       "example": "Managers have the discretion to grant extra leave to employees in emergency situations.",
       "example_tr": "Yöneticilerin acil durumlarda çalışanlara ekstra izin verme takdir yetkisi bulunmaktadır.",
       "first_seen": "2026-10-10T22:19:32.631895+03:00",
@@ -136,11 +161,11 @@
       "ipa": "/dɪˈskreʃn/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-10",
+      "last_shown_at": "2026-11-09",
       "level": "C1",
       "meaning_tr": "takdir yetkisi, gizlilik, basiret",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "discretion"
     },
@@ -3470,6 +3495,31 @@
       "unknown_count": 0,
       "word": "inadvertently"
     },
+    "7a56dc8021": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "consecutively win",
+        "serve consecutively",
+        "numbered consecutively"
+      ],
+      "definition_en": "One after another without any interruption.",
+      "due": "2026-11-10",
+      "example": "The football team won five matches consecutively to reach the tournament finals.",
+      "example_tr": "Futbol takımı, turnuva finallerine ulaşmak için üst üste beş maç kazandı.",
+      "first_seen": "2026-11-09T19:32:20.907400+03:00",
+      "id": "7a56dc8021",
+      "ipa": "/kənˈsek.jə.tɪv.li/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-09",
+      "level": "C1",
+      "meaning_tr": "üst üste, aralıksız, birbirini izleyerek",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "consecutively"
+    },
     "7a5cb9c378": {
       "answered_count": 0,
       "box": 1,
@@ -4482,6 +4532,31 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "delineate"
+    },
+    "9ff2fb8584": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "harness energy",
+        "harness power",
+        "harness potential"
+      ],
+      "definition_en": "To control and use the natural force or power of something.",
+      "due": "2026-11-10",
+      "example": "Engineers designed innovative turbines to harness solar energy more efficiently.",
+      "example_tr": "Mühendisler, güneş enerjisinden daha verimli yararlanmak için yenilikçi türbinler tasarladılar.",
+      "first_seen": "2026-11-09T19:32:20.907400+03:00",
+      "id": "9ff2fb8584",
+      "ipa": "/ˈhɑː.nəs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-09",
+      "level": "C1",
+      "meaning_tr": "yararlanmak, kullanmak, dizginlemek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "harness"
     },
     "a068422491": {
       "answered_count": 0,
@@ -7189,7 +7264,7 @@
         "grudgingly acknowledge"
       ],
       "definition_en": "To accept or admit that something is true or exists.",
-      "due": "2026-10-10",
+      "due": "2026-11-10",
       "example": "The manager finally acknowledged that the team had made a significant contribution to the project's success.",
       "example_tr": "Yönetici nihayet ekibin projenin başarısına önemli bir katkı sağladığını kabul etti.",
       "first_seen": "2026-09-16T11:00:52.379460+03:00",
@@ -7197,11 +7272,11 @@
       "ipa": "/əkˈnɒlɪdʒ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-09",
+      "last_shown_at": "2026-11-09",
       "level": "B2",
       "meaning_tr": "kabul etmek, onaylamak, tanımak",
       "pos": "verb",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 0,
       "word": "acknowledge"
     },
@@ -7398,57 +7473,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-08T22:44:14.327765+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "consecutively win",
-        "serve consecutively",
-        "numbered consecutively"
-      ],
-      "definition_en": "One after another without any interruption.",
-      "example": "The football team won five matches consecutively to reach the tournament finals.",
-      "example_tr": "Futbol takımı, turnuva finallerine ulaşmak için üst üste beş maç kazandı.",
-      "ipa": "/kənˈsek.jə.tɪv.li/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "üst üste, aralıksız, birbirini izleyerek",
-      "pos": "adverb",
-      "word": "consecutively"
-    },
-    {
-      "collocations": [
-        "career trajectory",
-        "upward trajectory",
-        "alter the trajectory"
-      ],
-      "definition_en": "The path followed by a moving object or the development of something.",
-      "example": "The young entrepreneur's career trajectory changed dramatically after launching her first app.",
-      "example_tr": "Genç girişimcinin kariyer gidişatı, ilk uygulamasını başlattıktan sonra çarpıcı biçimde değişti.",
-      "ipa": "/trəˈdʒek.tər.i/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "yörünge, gelişme seyri, gidişat",
-      "pos": "noun",
-      "word": "trajectory"
-    },
-    {
-      "collocations": [
-        "harness energy",
-        "harness power",
-        "harness potential"
-      ],
-      "definition_en": "To control and use the natural force or power of something.",
-      "example": "Engineers designed innovative turbines to harness solar energy more efficiently.",
-      "example_tr": "Mühendisler, güneş enerjisinden daha verimli yararlanmak için yenilikçi türbinler tasarladılar.",
-      "ipa": "/ˈhɑː.nəs/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "yararlanmak, kullanmak, dizginlemek",
-      "pos": "verb",
-      "word": "harness"
-    }
-  ],
+  "last_sent_at": "2026-11-09T19:32:20.907400+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
