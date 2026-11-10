@@ -4710,7 +4710,7 @@
         "rigorous standards"
       ],
       "definition_en": "extremely thorough, exhaustive, or accurate",
-      "due": "2026-10-11",
+      "due": "2026-11-12",
       "example": "The candidates must undergo a rigorous selection process before being hired by the firm.",
       "example_tr": "Adayların firma tarafından işe alınmadan önce titiz bir seçim sürecinden geçmeleri gerekmektedir.",
       "first_seen": "2026-10-10T22:19:32.631895+03:00",
@@ -4718,11 +4718,11 @@
       "ipa": "/ˈrɪɡərəs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-10",
+      "last_shown_at": "2026-11-11",
       "level": "B2",
       "meaning_tr": "titiz, sıkı, sert",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "rigorous"
     },
@@ -6540,7 +6540,7 @@
         "consolidate position"
       ],
       "definition_en": "to combine several things into a single more effective or coherent whole",
-      "due": "2026-10-11",
+      "due": "2026-11-12",
       "example": "The company plans to consolidate its regional offices into one central headquarters next year.",
       "example_tr": "Şirket, önümüzdeki yıl bölge ofislerini tek bir merkezi genel merkezde birleştirmeyi planlıyor.",
       "first_seen": "2026-10-10T22:19:32.631895+03:00",
@@ -6548,11 +6548,11 @@
       "ipa": "/kənˈsɒlɪdeɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-10",
+      "last_shown_at": "2026-11-11",
       "level": "C1",
       "meaning_tr": "sağlamlaştırmak, birleştirmek, pekiştirmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "consolidate"
     },
@@ -7473,7 +7473,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-10T17:59:25.772412+03:00",
+  "last_sent_at": "2026-11-11T00:20:10.648516+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
