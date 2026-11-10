@@ -297,7 +297,7 @@
         "dispel rumors"
       ],
       "definition_en": "To make a doubt, feeling, or belief disappear.",
-      "due": "2026-10-11",
+      "due": "2026-11-11",
       "example": "His warm smile helped to dispel her fears about the job interview.",
       "example_tr": "Onun sıcak gülümsemesi, iş görüşmesiyle ilgili korkularını gidermeye yardımcı oldu.",
       "first_seen": "2026-09-25T14:56:55.788717+03:00",
@@ -305,11 +305,11 @@
       "ipa": "/dɪˈspel/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-10",
+      "last_shown_at": "2026-11-10",
       "level": "C1",
       "meaning_tr": "dağıtmak, gidermek, yok etmek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "dispel"
     },
@@ -753,7 +753,7 @@
         "alleviate suffering"
       ],
       "definition_en": "To make pain, worry, or a problem less severe.",
-      "due": "2026-10-11",
+      "due": "2026-11-11",
       "example": "The new medicine helps to alleviate the pain in his joints quite quickly.",
       "example_tr": "Yeni ilaç, eklemlerindeki ağrıyı oldukça hızlı bir şekilde hafifletmeye yardımcı oluyor.",
       "first_seen": "2026-09-25T14:56:55.788717+03:00",
@@ -761,11 +761,11 @@
       "ipa": "/əˈliːvieɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-10",
+      "last_shown_at": "2026-11-10",
       "level": "C1",
       "meaning_tr": "hafifletmek, dindirmek, yatıştırmak",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "alleviate"
     },
@@ -7473,7 +7473,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-09T19:32:20.907400+03:00",
+  "last_sent_at": "2026-11-10T04:36:48.838234+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
