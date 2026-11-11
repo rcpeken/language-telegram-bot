@@ -897,7 +897,7 @@
         "in the wake of disaster"
       ],
       "definition_en": "happening after a particular event, often as a result of it",
-      "due": "2026-10-12",
+      "due": "2026-11-13",
       "example": "New safety regulations were introduced in the wake of the severe industrial accident.",
       "example_tr": "Ciddi sanayi kazasının ardından yeni güvenlik düzenlemeleri yürürlüğe kondu.",
       "first_seen": "2026-10-11T16:00:29.344680+03:00",
@@ -905,11 +905,11 @@
       "ipa": "/ɪn ðə weɪk əv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-11",
+      "last_shown_at": "2026-11-12",
       "level": "C1",
       "meaning_tr": "-in ardından, -in sonucunda",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "in the wake of"
     },
@@ -1666,7 +1666,7 @@
         "invariably results in"
       ],
       "definition_en": "in every case or on every occasion; always",
-      "due": "2026-10-12",
+      "due": "2026-11-13",
       "example": "The train service is invariably delayed whenever there is heavy rainfall in the morning.",
       "example_tr": "Sabahları şiddetli yağmur yağdığında tren seferleri her zaman gecikir.",
       "first_seen": "2026-10-11T16:00:29.344680+03:00",
@@ -1674,11 +1674,11 @@
       "ipa": "/ɪnˈveəriəbli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-11",
+      "last_shown_at": "2026-11-12",
       "level": "C1",
       "meaning_tr": "daima, her zaman, değişmez şekilde",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "invariably"
     },
@@ -3905,6 +3905,30 @@
       "unknown_count": 0,
       "word": "divert"
     },
+    "8834e7a74a": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "induce sleep",
+        "induce changes"
+      ],
+      "definition_en": "to cause something to happen or persuade someone to do something",
+      "due": "2026-11-13",
+      "example": "High stress levels can induce sleep problems and reduce overall productivity at work.",
+      "example_tr": "Yüksek stres seviyeleri uyku problemlerine neden olabilir ve işteki genel verimliliği düşürebilir.",
+      "first_seen": "2026-11-12T01:00:06.594485+03:00",
+      "id": "8834e7a74a",
+      "ipa": "/ɪnˈdjuːs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-12",
+      "level": "C1",
+      "meaning_tr": "sebep olmak, teşvik etmek, ikna etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "induce"
+    },
     "884da07cc2": {
       "answered_count": 0,
       "box": 1,
@@ -5931,6 +5955,30 @@
       "unknown_count": 0,
       "word": "retention"
     },
+    "cdc558ae94": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "consume in moderation",
+        "drink in moderation"
+      ],
+      "definition_en": "within sensible limits and not in excessive amounts",
+      "due": "2026-11-13",
+      "example": "Doctors recommend eating junk food only in moderation to maintain good physical health.",
+      "example_tr": "Doktorlar iyi bir fiziksel sağlığı korumak için abur cuburları yalnızca ölçülü bir şekilde yemeyi tavsiye eder.",
+      "first_seen": "2026-11-12T01:00:06.594485+03:00",
+      "id": "cdc558ae94",
+      "ipa": "/ɪn ˌmɒdəˈreɪʃn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-12",
+      "level": "B2",
+      "meaning_tr": "kararınca, ölçülü bir şekilde",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in moderation"
+    },
     "cdf2b37d11": {
       "answered_count": 0,
       "box": 1,
@@ -6339,6 +6387,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "detrimental"
+    },
+    "dbfdf13ff3": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "social cohesion",
+        "group cohesion"
+      ],
+      "definition_en": "the state of sticking together or working well as a unit",
+      "due": "2026-11-13",
+      "example": "Team-building activities helped improve social cohesion among employees across different departments.",
+      "example_tr": "Takım çalışması etkinlikleri farklı departmanlardaki çalışanlar arasındaki sosyal bağlılığı geliştirmeye yardımcı oldu.",
+      "first_seen": "2026-11-12T01:00:06.594485+03:00",
+      "id": "dbfdf13ff3",
+      "ipa": "/kəʊˈhiːʒn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-12",
+      "level": "C1",
+      "meaning_tr": "uyum, bağlılık, bütünlük",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "cohesion"
     },
     "dd971b9cb9": {
       "answered_count": 0,
@@ -7473,8 +7545,129 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-11T17:30:16.838058+03:00",
-  "pool": [],
+  "last_sent_at": "2026-11-12T01:00:06.594485+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "incessant noise",
+        "incessant rain"
+      ],
+      "definition_en": "never stopping, especially in an annoying or unpleasant way",
+      "example": "The incessant noise from the construction site made it impossible to concentrate today.",
+      "example_tr": "İnşaat alanından gelen aralıksız gürültü bugün konsantre olmayı imkansız hale getirdi.",
+      "ipa": "/ɪnˈsesnt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "aralıksız, sürekli",
+      "pos": "adjective",
+      "word": "incessant"
+    },
+    {
+      "collocations": [
+        "disease outbreak",
+        "outbreak of violence"
+      ],
+      "definition_en": "the sudden start of something unpleasant such as a disease or war",
+      "example": "Local authorities acted quickly to contain the sudden outbreak of the virus.",
+      "example_tr": "Yerel yetkililer virüsün aniden patlak vermesini kontrol altına almak için hızlı hareket etti.",
+      "ipa": "/ˈaʊtbreɪk/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "salgın, patlak verme",
+      "pos": "noun",
+      "word": "outbreak"
+    },
+    {
+      "collocations": [
+        "in a bid to boost",
+        "in a bid to reduce"
+      ],
+      "definition_en": "in an attempt to achieve or do something specific",
+      "example": "The mayor introduced new environmental policies in a bid to reduce city traffic.",
+      "example_tr": "Belediye başkanı şehir trafiğini azaltma amacıyla yeni çevre politikaları getirdi.",
+      "ipa": "/ɪn ə bɪd tuː/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "amacıyla, girişimiyle",
+      "pos": "phrase",
+      "word": "in a bid to"
+    },
+    {
+      "collocations": [
+        "strenuous exercise",
+        "strenuous effort"
+      ],
+      "definition_en": "needing or using a lot of physical or mental effort",
+      "example": "Avoid doing any strenuous exercise for a few days after your medical operation.",
+      "example_tr": "Tıbbi operasyonunuzdan sonra birkaç gün ağır egzersiz yapmaktan kaçının.",
+      "ipa": "/ˈstrenjuəs/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "ağır, yorucu, zorlu",
+      "pos": "adjective",
+      "word": "strenuous"
+    },
+    {
+      "collocations": [
+        "financial predicament",
+        "in a predicament"
+      ],
+      "definition_en": "an unpleasant, difficult, or dangerous situation that is hard to escape",
+      "example": "Finding a new job quickly put an end to her difficult financial predicament.",
+      "example_tr": "Hızlıca yeni bir iş bulmak onun zor finansal sıkıntısına son verdi.",
+      "ipa": "/prɪˈdɪkəmənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "zor durum, sıkıntı, çıkmaz",
+      "pos": "noun",
+      "word": "predicament"
+    },
+    {
+      "collocations": [
+        "on account of rain",
+        "on account of illness"
+      ],
+      "definition_en": "because of something specified",
+      "example": "The outdoor concert was canceled on account of the sudden heavy rain storm.",
+      "example_tr": "Açık hava konseri aniden bastıran şiddetli yağmur fırtınası nedeniyle iptal edildi.",
+      "ipa": "/ɒn əˈkaʊnt əv/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "yüzünden, nedeniyle, dolayısıyla",
+      "pos": "phrase",
+      "word": "on account of"
+    },
+    {
+      "collocations": [
+        "gain momentum",
+        "lose momentum"
+      ],
+      "definition_en": "the force that keeps an event or process continuing and growing",
+      "example": "The political campaign gained strong momentum after the impressive debate performance last night.",
+      "example_tr": "Siyasi kampanya dün geceki etkileyici tartışma performansından sonra güçlü bir ivme kazandı.",
+      "ipa": "/məˈmentəm/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "ivme, hız, gelişme gücü",
+      "pos": "noun",
+      "word": "momentum"
+    },
+    {
+      "collocations": [
+        "formulate a plan",
+        "formulate a strategy"
+      ],
+      "definition_en": "to create or prepare something carefully, such as a plan or strategy",
+      "example": "The team met yesterday to formulate a comprehensive strategy for the product launch.",
+      "example_tr": "Ekip dün ürün lansmanı için kapsamlı bir strateji oluşturmak üzere toplandı.",
+      "ipa": "/ˈfɔːmjuleɪt/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "oluşturmak, tasarlamak, formüle etmek",
+      "pos": "verb",
+      "word": "formulate"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
