@@ -2754,7 +2754,7 @@
         "assess the feasibility"
       ],
       "definition_en": "The quality of being easily or conveniently done.",
-      "due": "2026-10-12",
+      "due": "2026-11-14",
       "example": "The board of directors is currently conducting a feasibility study on the new project.",
       "example_tr": "Yönetim kurulu şu anda yeni proje üzerine bir yapılabilirlik çalışması yürütüyor.",
       "first_seen": "2026-09-17T14:49:12.236690+03:00",
@@ -2762,11 +2762,11 @@
       "ipa": "/ˌfiːzəˈbɪləti/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-11",
+      "last_shown_at": "2026-11-13",
       "level": "C1",
       "meaning_tr": "yapılabilirlik, uygulanabilirlik",
       "pos": "noun",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 0,
       "word": "feasibility"
     },
@@ -2922,7 +2922,7 @@
         "pragmatic solution"
       ],
       "definition_en": "Solving problems in a sensible way that suits the conditions.",
-      "due": "2026-10-12",
+      "due": "2026-11-14",
       "example": "We need to take a pragmatic approach to solve this budget issue.",
       "example_tr": "Bu bütçe sorununu çözmek için gerçekçi ve uygulamacı bir yaklaşım benimsemeliyiz.",
       "first_seen": "2026-09-25T20:17:10.652893+03:00",
@@ -2930,11 +2930,11 @@
       "ipa": "/præɡˈmætɪk/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-11",
+      "last_shown_at": "2026-11-13",
       "level": "B2",
       "meaning_tr": "pragmatik, uygulamacı, faydacı",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "pragmatic"
     },
@@ -3057,6 +3057,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "embark on"
+    },
+    "6c1577623d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "strenuous exercise",
+        "strenuous effort"
+      ],
+      "definition_en": "needing or using a lot of physical or mental effort",
+      "due": "2026-11-14",
+      "example": "Avoid doing any strenuous exercise for a few days after your medical operation.",
+      "example_tr": "Tıbbi operasyonunuzdan sonra birkaç gün ağır egzersiz yapmaktan kaçının.",
+      "first_seen": "2026-11-13T01:27:21.517764+03:00",
+      "id": "6c1577623d",
+      "ipa": "/ˈstrenjuəs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-13",
+      "level": "C1",
+      "meaning_tr": "ağır, yorucu, zorlu",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "strenuous"
     },
     "6c6ecb9941": {
       "answered_count": 0,
@@ -3251,6 +3275,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "obsolete"
+    },
+    "719959d6e3": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "financial predicament",
+        "in a predicament"
+      ],
+      "definition_en": "an unpleasant, difficult, or dangerous situation that is hard to escape",
+      "due": "2026-11-14",
+      "example": "Finding a new job quickly put an end to her difficult financial predicament.",
+      "example_tr": "Hızlıca yeni bir iş bulmak onun zor finansal sıkıntısına son verdi.",
+      "first_seen": "2026-11-13T01:27:21.517764+03:00",
+      "id": "719959d6e3",
+      "ipa": "/prɪˈdɪkəmənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-13",
+      "level": "C1",
+      "meaning_tr": "zor durum, sıkıntı, çıkmaz",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "predicament"
     },
     "72fd7bde43": {
       "answered_count": 0,
@@ -5859,6 +5907,30 @@
       "unknown_count": 0,
       "word": "come to terms with"
     },
+    "c9da2179cb": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "on account of rain",
+        "on account of illness"
+      ],
+      "definition_en": "because of something specified",
+      "due": "2026-11-14",
+      "example": "The outdoor concert was canceled on account of the sudden heavy rain storm.",
+      "example_tr": "Açık hava konseri aniden bastıran şiddetli yağmur fırtınası nedeniyle iptal edildi.",
+      "first_seen": "2026-11-13T01:27:21.517764+03:00",
+      "id": "c9da2179cb",
+      "ipa": "/ɒn əˈkaʊnt əv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-13",
+      "level": "B2",
+      "meaning_tr": "yüzünden, nedeniyle, dolayısıyla",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "on account of"
+    },
     "ca16a83281": {
       "answered_count": 0,
       "box": 1,
@@ -7617,53 +7689,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-12T18:23:10.238022+03:00",
+  "last_sent_at": "2026-11-13T01:27:21.517764+03:00",
   "pool": [
-    {
-      "collocations": [
-        "strenuous exercise",
-        "strenuous effort"
-      ],
-      "definition_en": "needing or using a lot of physical or mental effort",
-      "example": "Avoid doing any strenuous exercise for a few days after your medical operation.",
-      "example_tr": "Tıbbi operasyonunuzdan sonra birkaç gün ağır egzersiz yapmaktan kaçının.",
-      "ipa": "/ˈstrenjuəs/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "ağır, yorucu, zorlu",
-      "pos": "adjective",
-      "word": "strenuous"
-    },
-    {
-      "collocations": [
-        "financial predicament",
-        "in a predicament"
-      ],
-      "definition_en": "an unpleasant, difficult, or dangerous situation that is hard to escape",
-      "example": "Finding a new job quickly put an end to her difficult financial predicament.",
-      "example_tr": "Hızlıca yeni bir iş bulmak onun zor finansal sıkıntısına son verdi.",
-      "ipa": "/prɪˈdɪkəmənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "zor durum, sıkıntı, çıkmaz",
-      "pos": "noun",
-      "word": "predicament"
-    },
-    {
-      "collocations": [
-        "on account of rain",
-        "on account of illness"
-      ],
-      "definition_en": "because of something specified",
-      "example": "The outdoor concert was canceled on account of the sudden heavy rain storm.",
-      "example_tr": "Açık hava konseri aniden bastıran şiddetli yağmur fırtınası nedeniyle iptal edildi.",
-      "ipa": "/ɒn əˈkaʊnt əv/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "yüzünden, nedeniyle, dolayısıyla",
-      "pos": "phrase",
-      "word": "on account of"
-    },
     {
       "collocations": [
         "gain momentum",
