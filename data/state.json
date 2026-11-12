@@ -1860,7 +1860,7 @@
         "face a backlash"
       ],
       "definition_en": "a strong negative reaction by a large number of people to a decision",
-      "due": "2026-10-12",
+      "due": "2026-11-13",
       "example": "The government faced a public backlash after announcing the sudden tax increase last week.",
       "example_tr": "Hükümet, geçen hafta aniden vergi artışını açıkladıktan sonra kamuoyunun tepkisiyle karşılaştı.",
       "first_seen": "2026-10-11T22:35:20.654983+03:00",
@@ -1868,11 +1868,11 @@
       "ipa": "/ˈbæklæʃ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-11",
+      "last_shown_at": "2026-11-12",
       "level": "C1",
       "meaning_tr": "tepki, sert karşı tepki",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "backlash"
     },
@@ -2462,7 +2462,7 @@
         "lose relevance"
       ],
       "definition_en": "The degree to which something is related or useful to what is happening.",
-      "due": "2026-10-12",
+      "due": "2026-11-13",
       "example": "The teacher explained the historical relevance of the event to modern society.",
       "example_tr": "Öğretmen, olayın modern toplumla olan tarihi ilişkisini açıkladı.",
       "first_seen": "2026-09-16T15:02:30.116093+03:00",
@@ -2472,11 +2472,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-10-11",
+      "last_shown_at": "2026-11-12",
       "level": "B2",
       "meaning_tr": "ilgi, alaka, ilişki",
       "pos": "noun",
-      "shown_count": 5,
+      "shown_count": 6,
       "unknown_count": 1,
       "word": "relevance"
     },
@@ -4241,6 +4241,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "retrieve"
+    },
+    "94c433f4c1": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in a bid to boost",
+        "in a bid to reduce"
+      ],
+      "definition_en": "in an attempt to achieve or do something specific",
+      "due": "2026-11-13",
+      "example": "The mayor introduced new environmental policies in a bid to reduce city traffic.",
+      "example_tr": "Belediye başkanı şehir trafiğini azaltma amacıyla yeni çevre politikaları getirdi.",
+      "first_seen": "2026-11-12T18:23:10.238022+03:00",
+      "id": "94c433f4c1",
+      "ipa": "/ɪn ə bɪd tuː/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-12",
+      "level": "C1",
+      "meaning_tr": "amacıyla, girişimiyle",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in a bid to"
     },
     "950b977354": {
       "answered_count": 0,
@@ -6749,6 +6773,30 @@
       "unknown_count": 0,
       "word": "comprehensive"
     },
+    "e430d683db": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "disease outbreak",
+        "outbreak of violence"
+      ],
+      "definition_en": "the sudden start of something unpleasant such as a disease or war",
+      "due": "2026-11-13",
+      "example": "Local authorities acted quickly to contain the sudden outbreak of the virus.",
+      "example_tr": "Yerel yetkililer virüsün aniden patlak vermesini kontrol altına almak için hızlı hareket etti.",
+      "first_seen": "2026-11-12T18:23:10.238022+03:00",
+      "id": "e430d683db",
+      "ipa": "/ˈaʊtbreɪk/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-12",
+      "level": "B2",
+      "meaning_tr": "salgın, patlak verme",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "outbreak"
+    },
     "e46126300b": {
       "answered_count": 0,
       "box": 1,
@@ -7183,6 +7231,30 @@
       "unknown_count": 1,
       "word": "unprecedented"
     },
+    "f18584749b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "incessant noise",
+        "incessant rain"
+      ],
+      "definition_en": "never stopping, especially in an annoying or unpleasant way",
+      "due": "2026-11-13",
+      "example": "The incessant noise from the construction site made it impossible to concentrate today.",
+      "example_tr": "İnşaat alanından gelen aralıksız gürültü bugün konsantre olmayı imkansız hale getirdi.",
+      "first_seen": "2026-11-12T18:23:10.238022+03:00",
+      "id": "f18584749b",
+      "ipa": "/ɪnˈsesnt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-12",
+      "level": "C1",
+      "meaning_tr": "aralıksız, sürekli",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "incessant"
+    },
     "f1b455e6fd": {
       "answered_count": 0,
       "box": 1,
@@ -7545,53 +7617,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-12T01:00:06.594485+03:00",
+  "last_sent_at": "2026-11-12T18:23:10.238022+03:00",
   "pool": [
-    {
-      "collocations": [
-        "incessant noise",
-        "incessant rain"
-      ],
-      "definition_en": "never stopping, especially in an annoying or unpleasant way",
-      "example": "The incessant noise from the construction site made it impossible to concentrate today.",
-      "example_tr": "İnşaat alanından gelen aralıksız gürültü bugün konsantre olmayı imkansız hale getirdi.",
-      "ipa": "/ɪnˈsesnt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "aralıksız, sürekli",
-      "pos": "adjective",
-      "word": "incessant"
-    },
-    {
-      "collocations": [
-        "disease outbreak",
-        "outbreak of violence"
-      ],
-      "definition_en": "the sudden start of something unpleasant such as a disease or war",
-      "example": "Local authorities acted quickly to contain the sudden outbreak of the virus.",
-      "example_tr": "Yerel yetkililer virüsün aniden patlak vermesini kontrol altına almak için hızlı hareket etti.",
-      "ipa": "/ˈaʊtbreɪk/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "salgın, patlak verme",
-      "pos": "noun",
-      "word": "outbreak"
-    },
-    {
-      "collocations": [
-        "in a bid to boost",
-        "in a bid to reduce"
-      ],
-      "definition_en": "in an attempt to achieve or do something specific",
-      "example": "The mayor introduced new environmental policies in a bid to reduce city traffic.",
-      "example_tr": "Belediye başkanı şehir trafiğini azaltma amacıyla yeni çevre politikaları getirdi.",
-      "ipa": "/ɪn ə bɪd tuː/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "amacıyla, girişimiyle",
-      "pos": "phrase",
-      "word": "in a bid to"
-    },
     {
       "collocations": [
         "strenuous exercise",
