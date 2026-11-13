@@ -2188,6 +2188,30 @@
       "unknown_count": 0,
       "word": "tenuous"
     },
+    "557b48f5ad": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "gain momentum",
+        "lose momentum"
+      ],
+      "definition_en": "the force that keeps an event or process continuing and growing",
+      "due": "2026-11-14",
+      "example": "The political campaign gained strong momentum after the impressive debate performance last night.",
+      "example_tr": "Siyasi kampanya dün geceki etkileyici tartışma performansından sonra güçlü bir ivme kazandı.",
+      "first_seen": "2026-11-13T18:42:41.985428+03:00",
+      "id": "557b48f5ad",
+      "ipa": "/məˈmentəm/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-13",
+      "level": "B2",
+      "meaning_tr": "ivme, hız, gelişme gücü",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "momentum"
+    },
     "5605b53981": {
       "answered_count": 1,
       "box": 1,
@@ -5095,7 +5119,7 @@
         "eradicate poverty"
       ],
       "definition_en": "To destroy or completely get rid of something bad.",
-      "due": "2026-10-12",
+      "due": "2026-11-14",
       "example": "The government hopes to eradicate poverty through these new social programs.",
       "example_tr": "Hükümet, bu yeni sosyal programlar aracılığıyla yoksulluğu tamamen bitirmeyi umuyor.",
       "first_seen": "2026-09-25T20:17:10.652893+03:00",
@@ -5103,11 +5127,11 @@
       "ipa": "/ɪˈrædɪkeɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-11",
+      "last_shown_at": "2026-11-13",
       "level": "C1",
       "meaning_tr": "kökünü kazımak, yok etmek, tamamen bitirmek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "eradicate"
     },
@@ -5409,7 +5433,7 @@
         "imminent threat"
       ],
       "definition_en": "about to happen very soon",
-      "due": "2026-10-12",
+      "due": "2026-11-14",
       "example": "The dark clouds in the sky suggest that a heavy rainfall is imminent today.",
       "example_tr": "Gökyüzündeki koyu bulutlar bugün şiddetli bir yağmurun eli kulağında olduğunu gösteriyor.",
       "first_seen": "2026-10-11T22:35:20.654983+03:00",
@@ -5417,11 +5441,11 @@
       "ipa": "/ˈɪmɪnənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-11",
+      "last_shown_at": "2026-11-13",
       "level": "C1",
       "meaning_tr": "eli kulağında, yakın, her an olabilecek",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "imminent"
     },
@@ -5448,6 +5472,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "procrastinate"
+    },
+    "b9f0acca30": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "stay for the time being",
+        "accepted for the time being"
+      ],
+      "definition_en": "For a short period of time, until other arrangements are made.",
+      "due": "2026-11-14",
+      "example": "We will stay in this small apartment for the time being until we find a house.",
+      "example_tr": "Bir ev bulana kadar şimdilik bu küçük dairede kalacağız.",
+      "first_seen": "2026-11-13T18:42:41.985428+03:00",
+      "id": "b9f0acca30",
+      "ipa": "/fɔːr ðə taɪm ˈbiː.ɪŋ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-13",
+      "level": "B2",
+      "meaning_tr": "şimdilik, geçici olarak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "for the time being"
     },
     "ba89bfecfa": {
       "answered_count": 0,
@@ -7399,6 +7447,30 @@
       "unknown_count": 0,
       "word": "proactive"
     },
+    "f4d3e15128": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "formulate a plan",
+        "formulate a strategy"
+      ],
+      "definition_en": "to create or prepare something carefully, such as a plan or strategy",
+      "due": "2026-11-14",
+      "example": "The team met yesterday to formulate a comprehensive strategy for the product launch.",
+      "example_tr": "Ekip dün ürün lansmanı için kapsamlı bir strateji oluşturmak üzere toplandı.",
+      "first_seen": "2026-11-13T18:42:41.985428+03:00",
+      "id": "f4d3e15128",
+      "ipa": "/ˈfɔːmjuleɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-13",
+      "level": "B2",
+      "meaning_tr": "oluşturmak, tasarlamak, formüle etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "formulate"
+    },
     "f4ea203b86": {
       "answered_count": 0,
       "box": 1,
@@ -7689,37 +7761,82 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-13T01:27:21.517764+03:00",
+  "last_sent_at": "2026-11-13T18:42:41.985428+03:00",
   "pool": [
     {
       "collocations": [
-        "gain momentum",
-        "lose momentum"
+        "vitamin deficiency",
+        "correct a deficiency"
       ],
-      "definition_en": "the force that keeps an event or process continuing and growing",
-      "example": "The political campaign gained strong momentum after the impressive debate performance last night.",
-      "example_tr": "Siyasi kampanya dün geceki etkileyici tartışma performansından sonra güçlü bir ivme kazandı.",
-      "ipa": "/məˈmentəm/",
+      "definition_en": "A state of not having enough of something that is necessary.",
+      "example": "A prolonged vitamin deficiency can lead to serious health issues over time.",
+      "example_tr": "Uzun süreli vitamin eksikliği zamanla ciddi sağlık sorunlarına yol açabilir.",
+      "ipa": "/dɪˈfɪʃ.ən.si/",
       "lang": "en",
-      "level": "B2",
-      "meaning_tr": "ivme, hız, gelişme gücü",
+      "level": "C1",
+      "meaning_tr": "eksiklik, yetersizlik, noksanlık",
       "pos": "noun",
-      "word": "momentum"
+      "word": "deficiency"
     },
     {
       "collocations": [
-        "formulate a plan",
-        "formulate a strategy"
+        "work in tandem with",
+        "operate in tandem with"
       ],
-      "definition_en": "to create or prepare something carefully, such as a plan or strategy",
-      "example": "The team met yesterday to formulate a comprehensive strategy for the product launch.",
-      "example_tr": "Ekip dün ürün lansmanı için kapsamlı bir strateji oluşturmak üzere toplandı.",
-      "ipa": "/ˈfɔːmjuleɪt/",
+      "definition_en": "Happening or working together alongside something else.",
+      "example": "The economic reforms were implemented in tandem with new social welfare programs.",
+      "example_tr": "Ekonomik reformlar, yeni sosyal refah programları ile birlikte uygulandı.",
+      "ipa": "/ɪn ˈtæn.dəm wɪð/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "ile birlikte, el ele, eş zamanlı",
+      "pos": "phrase",
+      "word": "in tandem with"
+    },
+    {
+      "collocations": [
+        "build resilience",
+        "remarkable resilience"
+      ],
+      "definition_en": "The capacity to recover quickly from difficulties or toughness.",
+      "example": "The local community showed remarkable resilience after the devastating natural disaster.",
+      "example_tr": "Yerel topluluk, yıkıcı doğal afetin ardından kayda değer bir direnç gösterdi.",
+      "ipa": "/rɪˈzɪl.jəns/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "direnç, toparlanma gücü, esneklik",
+      "pos": "noun",
+      "word": "resilience"
+    },
+    {
+      "collocations": [
+        "perpetual motion",
+        "perpetual fear"
+      ],
+      "definition_en": "Continuing forever or occurring repeatedly without stopping.",
+      "example": "Living near the busy airport meant dealing with perpetual noise all day.",
+      "example_tr": "Yoğun havalimanının yakınında yaşamak, tüm gün bitmeyen gürültüyle baş etmek anlamına geliyordu.",
+      "ipa": "/pəˈpetʃ.u.əl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "sürekli, daimi, bitmeyen",
+      "pos": "adjective",
+      "word": "perpetual"
+    },
+    {
+      "collocations": [
+        "outweigh the risks",
+        "outweigh the benefits"
+      ],
+      "definition_en": "To be greater or more important than something else.",
+      "example": "The long-term benefits of this investment clearly outweigh the initial costs.",
+      "example_tr": "Bu yatırımın uzun vadeli faydaları, başlangıçtaki maliyetlerine açıkça ağır basmaktadır.",
+      "ipa": "/ˌaʊtˈweɪ/",
       "lang": "en",
       "level": "B2",
-      "meaning_tr": "oluşturmak, tasarlamak, formüle etmek",
+      "meaning_tr": "ağır basmak, daha önemli olmak",
       "pos": "verb",
-      "word": "formulate"
+      "word": "outweigh"
     }
   ],
   "update_offset": 626511673,
