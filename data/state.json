@@ -1466,6 +1466,30 @@
       "unknown_count": 0,
       "word": "vulnerable"
     },
+    "3955caaaba": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "build resilience",
+        "remarkable resilience"
+      ],
+      "definition_en": "The capacity to recover quickly from difficulties or toughness.",
+      "due": "2026-11-15",
+      "example": "The local community showed remarkable resilience after the devastating natural disaster.",
+      "example_tr": "Yerel topluluk, yıkıcı doğal afetin ardından kayda değer bir direnç gösterdi.",
+      "first_seen": "2026-11-14T00:26:36.758591+03:00",
+      "id": "3955caaaba",
+      "ipa": "/rɪˈzɪl.jəns/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-14",
+      "level": "C1",
+      "meaning_tr": "direnç, toparlanma gücü, esneklik",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "resilience"
+    },
     "3a158cd219": {
       "answered_count": 0,
       "box": 1,
@@ -1561,6 +1585,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "depict"
+    },
+    "3bcfc2633d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "vitamin deficiency",
+        "correct a deficiency"
+      ],
+      "definition_en": "A state of not having enough of something that is necessary.",
+      "due": "2026-11-15",
+      "example": "A prolonged vitamin deficiency can lead to serious health issues over time.",
+      "example_tr": "Uzun süreli vitamin eksikliği zamanla ciddi sağlık sorunlarına yol açabilir.",
+      "first_seen": "2026-11-14T00:26:36.758591+03:00",
+      "id": "3bcfc2633d",
+      "ipa": "/dɪˈfɪʃ.ən.si/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-14",
+      "level": "C1",
+      "meaning_tr": "eksiklik, yetersizlik, noksanlık",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "deficiency"
     },
     "3e3568556c": {
       "answered_count": 0,
@@ -3058,6 +3106,30 @@
       "unknown_count": 0,
       "word": "fluctuate"
     },
+    "6ba1e94709": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "work in tandem with",
+        "operate in tandem with"
+      ],
+      "definition_en": "Happening or working together alongside something else.",
+      "due": "2026-11-15",
+      "example": "The economic reforms were implemented in tandem with new social welfare programs.",
+      "example_tr": "Ekonomik reformlar, yeni sosyal refah programları ile birlikte uygulandı.",
+      "first_seen": "2026-11-14T00:26:36.758591+03:00",
+      "id": "6ba1e94709",
+      "ipa": "/ɪn ˈtæn.dəm wɪð/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-14",
+      "level": "C1",
+      "meaning_tr": "ile birlikte, el ele, eş zamanlı",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in tandem with"
+    },
     "6bc13a15ae": {
       "answered_count": 0,
       "box": 1,
@@ -4419,7 +4491,7 @@
         "arguably the most"
       ],
       "definition_en": "used when giving an opinion that you think can be supported by facts",
-      "due": "2026-10-13",
+      "due": "2026-11-15",
       "example": "This new technology is arguably the most important invention of the twenty-first century.",
       "example_tr": "Bu yeni teknoloji, muhtemelen yirmi birinci yüzyılın en önemli icadıdır.",
       "first_seen": "2026-10-12T18:38:35.703245+03:00",
@@ -4427,11 +4499,11 @@
       "ipa": "/ˈɑːɡjuəbli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-12",
+      "last_shown_at": "2026-11-14",
       "level": "B2",
       "meaning_tr": "muhtemelen, iddia edilebilir ki",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "arguably"
     },
@@ -5022,7 +5094,7 @@
         "problems stem from"
       ],
       "definition_en": "to be the result of something",
-      "due": "2026-10-13",
+      "due": "2026-11-15",
       "example": "Most of the financial problems stem from poor management during the previous decade.",
       "example_tr": "Finansal sorunların çoğu, önceki on yıldaki kötü yönetimden kaynaklanmaktadır.",
       "first_seen": "2026-10-12T18:38:35.703245+03:00",
@@ -5030,11 +5102,11 @@
       "ipa": "/stem frəm/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-12",
+      "last_shown_at": "2026-11-14",
       "level": "B2",
       "meaning_tr": "-den kaynaklanmak, -den ileri gelmek",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "stem from"
     },
@@ -7761,53 +7833,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-13T18:42:41.985428+03:00",
+  "last_sent_at": "2026-11-14T00:26:36.758591+03:00",
   "pool": [
-    {
-      "collocations": [
-        "vitamin deficiency",
-        "correct a deficiency"
-      ],
-      "definition_en": "A state of not having enough of something that is necessary.",
-      "example": "A prolonged vitamin deficiency can lead to serious health issues over time.",
-      "example_tr": "Uzun süreli vitamin eksikliği zamanla ciddi sağlık sorunlarına yol açabilir.",
-      "ipa": "/dɪˈfɪʃ.ən.si/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "eksiklik, yetersizlik, noksanlık",
-      "pos": "noun",
-      "word": "deficiency"
-    },
-    {
-      "collocations": [
-        "work in tandem with",
-        "operate in tandem with"
-      ],
-      "definition_en": "Happening or working together alongside something else.",
-      "example": "The economic reforms were implemented in tandem with new social welfare programs.",
-      "example_tr": "Ekonomik reformlar, yeni sosyal refah programları ile birlikte uygulandı.",
-      "ipa": "/ɪn ˈtæn.dəm wɪð/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "ile birlikte, el ele, eş zamanlı",
-      "pos": "phrase",
-      "word": "in tandem with"
-    },
-    {
-      "collocations": [
-        "build resilience",
-        "remarkable resilience"
-      ],
-      "definition_en": "The capacity to recover quickly from difficulties or toughness.",
-      "example": "The local community showed remarkable resilience after the devastating natural disaster.",
-      "example_tr": "Yerel topluluk, yıkıcı doğal afetin ardından kayda değer bir direnç gösterdi.",
-      "ipa": "/rɪˈzɪl.jəns/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "direnç, toparlanma gücü, esneklik",
-      "pos": "noun",
-      "word": "resilience"
-    },
     {
       "collocations": [
         "perpetual motion",
