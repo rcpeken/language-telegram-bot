@@ -673,6 +673,30 @@
       "unknown_count": 0,
       "word": "deteriorate"
     },
+    "1b0c26f205": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "outweigh the risks",
+        "outweigh the benefits"
+      ],
+      "definition_en": "To be greater or more important than something else.",
+      "due": "2026-11-15",
+      "example": "The long-term benefits of this investment clearly outweigh the initial costs.",
+      "example_tr": "Bu yatırımın uzun vadeli faydaları, başlangıçtaki maliyetlerine açıkça ağır basmaktadır.",
+      "first_seen": "2026-11-14T16:38:23.978192+03:00",
+      "id": "1b0c26f205",
+      "ipa": "/ˌaʊtˈweɪ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-14",
+      "level": "B2",
+      "meaning_tr": "ağır basmak, daha önemli olmak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "outweigh"
+    },
     "1b81b6814c": {
       "answered_count": 0,
       "box": 1,
@@ -3105,6 +3129,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "fluctuate"
+    },
+    "6a745f7993": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "perpetual motion",
+        "perpetual fear"
+      ],
+      "definition_en": "Continuing forever or occurring repeatedly without stopping.",
+      "due": "2026-11-15",
+      "example": "Living near the busy airport meant dealing with perpetual noise all day.",
+      "example_tr": "Yoğun havalimanının yakınında yaşamak, tüm gün bitmeyen gürültüyle baş etmek anlamına geliyordu.",
+      "first_seen": "2026-11-14T16:38:23.978192+03:00",
+      "id": "6a745f7993",
+      "ipa": "/pəˈpetʃ.u.əl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-14",
+      "level": "C1",
+      "meaning_tr": "sürekli, daimi, bitmeyen",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "perpetual"
     },
     "6ba1e94709": {
       "answered_count": 0,
@@ -5915,7 +5963,7 @@
         "trigger a memory"
       ],
       "definition_en": "To cause an event or situation to happen or exist.",
-      "due": "2026-10-13",
+      "due": "2026-11-15",
       "example": "The sudden increase in oil prices could trigger a global financial crisis.",
       "example_tr": "Petrol fiyatlarındaki ani artış küresel bir finansal krizi tetikleyebilir.",
       "first_seen": "2026-09-19T18:56:42.602674+03:00",
@@ -5923,11 +5971,11 @@
       "ipa": "/ˈtrɪɡər/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-12",
+      "last_shown_at": "2026-11-14",
       "level": "B2",
       "meaning_tr": "tetiklemek, yol açmak",
       "pos": "verb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "trigger"
     },
@@ -6324,7 +6372,7 @@
         "reconcile accounts"
       ],
       "definition_en": "To find a way in which two opposing ideas or situations can both be true.",
-      "due": "2026-10-13",
+      "due": "2026-11-15",
       "example": "It is sometimes difficult to reconcile career ambitions with family responsibilities.",
       "example_tr": "Kariyer hedefleri ile aile sorumluluklarını uzlaştırmak bazen zordur.",
       "first_seen": "2026-09-19T23:47:06.679956+03:00",
@@ -6332,11 +6380,11 @@
       "ipa": "/ˈrekənsaɪl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-12",
+      "last_shown_at": "2026-11-14",
       "level": "C1",
       "meaning_tr": "uzlaştırmak, arayı bulmak",
       "pos": "verb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "reconcile"
     },
@@ -7833,39 +7881,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-14T00:26:36.758591+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "perpetual motion",
-        "perpetual fear"
-      ],
-      "definition_en": "Continuing forever or occurring repeatedly without stopping.",
-      "example": "Living near the busy airport meant dealing with perpetual noise all day.",
-      "example_tr": "Yoğun havalimanının yakınında yaşamak, tüm gün bitmeyen gürültüyle baş etmek anlamına geliyordu.",
-      "ipa": "/pəˈpetʃ.u.əl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "sürekli, daimi, bitmeyen",
-      "pos": "adjective",
-      "word": "perpetual"
-    },
-    {
-      "collocations": [
-        "outweigh the risks",
-        "outweigh the benefits"
-      ],
-      "definition_en": "To be greater or more important than something else.",
-      "example": "The long-term benefits of this investment clearly outweigh the initial costs.",
-      "example_tr": "Bu yatırımın uzun vadeli faydaları, başlangıçtaki maliyetlerine açıkça ağır basmaktadır.",
-      "ipa": "/ˌaʊtˈweɪ/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "ağır basmak, daha önemli olmak",
-      "pos": "verb",
-      "word": "outweigh"
-    }
-  ],
+  "last_sent_at": "2026-11-14T16:38:23.978192+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
