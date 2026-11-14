@@ -8,7 +8,7 @@
         "invaluable contribution"
       ],
       "definition_en": "Extremely useful; indispensable.",
-      "due": "2026-10-14",
+      "due": "2026-11-15",
       "example": "Her advice on how to start the business was invaluable to us.",
       "example_tr": "İşe nasıl başlanacağına dair tavsiyeleri bizim için paha biçilmezdi.",
       "first_seen": "2026-09-26T19:28:39.385850+03:00",
@@ -16,11 +16,11 @@
       "ipa": "/ɪnˈvæljuəbl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-13",
+      "last_shown_at": "2026-11-14",
       "level": "B2",
       "meaning_tr": "paha biçilmez, çok değerli",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "invaluable"
     },
@@ -7816,7 +7816,7 @@
         "amplify the impact"
       ],
       "definition_en": "to increase the strength, volume, or amount of something",
-      "due": "2026-10-13",
+      "due": "2026-11-15",
       "example": "Social media platforms can amplify minor disagreements into major public conflicts within hours.",
       "example_tr": "Sosyal medya platformları, küçük anlaşmazlıkları saatler içinde büyük kamuoyu çatışmalarına dönüştürebilir.",
       "first_seen": "2026-10-12T18:38:35.703245+03:00",
@@ -7824,11 +7824,11 @@
       "ipa": "/ˈæmplɪfaɪ/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-12",
+      "last_shown_at": "2026-11-14",
       "level": "B2",
       "meaning_tr": "güçlendirmek, artırmak, büyütmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "amplify"
     },
@@ -7881,7 +7881,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-14T16:38:23.978192+03:00",
+  "last_sent_at": "2026-11-14T22:57:22.832751+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
