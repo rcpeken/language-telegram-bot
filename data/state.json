@@ -1017,7 +1017,7 @@
         "sustain injuries"
       ],
       "definition_en": "To cause or allow something to continue for a period of time.",
-      "due": "2026-10-14",
+      "due": "2026-11-16",
       "example": "The company managed to sustain its high growth rate throughout the year.",
       "example_tr": "Şirket, yıl boyunca yüksek büyüme oranını sürdürmeyi başardı.",
       "first_seen": "2026-09-26T14:31:39.436666+03:00",
@@ -1025,11 +1025,11 @@
       "ipa": "/səˈsteɪn/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-13",
+      "last_shown_at": "2026-11-15",
       "level": "B2",
       "meaning_tr": "sürdürmek, ayakta tutmak, devam ettirmek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "sustain"
     },
@@ -4249,7 +4249,7 @@
         "transcend limitations"
       ],
       "definition_en": "to go beyond the usual limits of something",
-      "due": "2026-10-14",
+      "due": "2026-11-16",
       "example": "Great works of art can transcend cultural boundaries and resonate with people worldwide.",
       "example_tr": "Harika sanat eserleri kültürel sınırları aşabilir ve dünya çapındaki insanlarda yankı uyandırabilir.",
       "first_seen": "2026-10-13T03:47:36.884580+03:00",
@@ -4257,11 +4257,11 @@
       "ipa": "/trænˈsend/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-13",
+      "last_shown_at": "2026-11-15",
       "level": "C1",
       "meaning_tr": "aşmak, ötesine geçmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "transcend"
     },
@@ -7881,7 +7881,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-15T17:02:11.716313+03:00",
+  "last_sent_at": "2026-11-15T23:25:19.358855+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
