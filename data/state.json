@@ -345,7 +345,7 @@
         "water scarcity"
       ],
       "definition_en": "A situation in which there is not enough of something.",
-      "due": "2026-10-14",
+      "due": "2026-11-16",
       "example": "The scarcity of skilled workers is currently the biggest challenge for local businesses.",
       "example_tr": "Nitelikli işçi kıtlığı şu anda yerel işletmeler için en büyük zorluktur.",
       "first_seen": "2026-09-20T14:32:11.283311+03:00",
@@ -353,11 +353,11 @@
       "ipa": "/ˈskersəti/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-13",
+      "last_shown_at": "2026-11-15",
       "level": "B2",
       "meaning_tr": "kıtlık, azlık, eksiklik",
       "pos": "noun",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "scarcity"
     },
@@ -657,7 +657,7 @@
         "health deteriorated"
       ],
       "definition_en": "To become worse in quality or condition over time.",
-      "due": "2026-10-14",
+      "due": "2026-11-16",
       "example": "The weather conditions began to deteriorate rapidly as the storm approached the coast.",
       "example_tr": "Fırtına kıyıya yaklaştıkça hava koşulları hızla kötüleşmeye başladı.",
       "first_seen": "2026-09-18T00:27:29.467923+03:00",
@@ -665,11 +665,11 @@
       "ipa": "/dɪˈtɪəriəreɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-13",
+      "last_shown_at": "2026-11-15",
       "level": "C1",
       "meaning_tr": "kötüleşmek, bozulmak",
       "pos": "verb",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 0,
       "word": "deteriorate"
     },
@@ -7881,7 +7881,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-14T22:57:22.832751+03:00",
+  "last_sent_at": "2026-11-15T17:02:11.716313+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
