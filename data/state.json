@@ -1057,6 +1057,30 @@
       "unknown_count": 0,
       "word": "paramount"
     },
+    "2826f3e108": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "covert operation",
+        "covert action"
+      ],
+      "definition_en": "not openly acknowledged or displayed; secret",
+      "due": "2026-11-18",
+      "example": "The intelligence agency conducted a covert operation to intercept the illegal shipments at sea.",
+      "example_tr": "İstihbarat teşkilatı, denizdeki yasa dışı sevkiyatları ele geçirmek için gizli bir operasyon yürüttü.",
+      "first_seen": "2026-11-17T04:53:36.538407+03:00",
+      "id": "2826f3e108",
+      "ipa": "/ˈkʌvət/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-17",
+      "level": "C1",
+      "meaning_tr": "gizli, örtülü, çaktırmadan yapılan",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "covert"
+    },
     "28291a2efb": {
       "answered_count": 0,
       "box": 1,
@@ -3177,6 +3201,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "perpetual"
+    },
+    "6a9647bc67": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "social stigma",
+        "attach a stigma"
+      ],
+      "definition_en": "a mark of disgrace associated with a particular circumstance or quality",
+      "due": "2026-11-18",
+      "example": "Educational campaigns aim to remove the social stigma attached to seeking mental health support.",
+      "example_tr": "Eğitim kampanyaları, ruh sağlığı desteği almaya yüklenen sosyal utanç verici algıyı kaldırmayı hedefliyor.",
+      "first_seen": "2026-11-17T04:53:36.538407+03:00",
+      "id": "6a9647bc67",
+      "ipa": "/ˈstɪɡmə/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-17",
+      "level": "C1",
+      "meaning_tr": "leke, utanç verici durum, yafta",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "stigma"
     },
     "6ba1e94709": {
       "answered_count": 0,
@@ -6003,6 +6051,30 @@
       "unknown_count": 0,
       "word": "on the grounds of"
     },
+    "c033923240": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "amend the law",
+        "amend the constitution"
+      ],
+      "definition_en": "to make minor changes to a document or law to make it fairer or more accurate",
+      "due": "2026-11-18",
+      "example": "Parliament voted to amend the law to protect public privacy rights on online platforms.",
+      "example_tr": "Parlamento, çevrim içi platformlarda kamusal gizlilik haklarını korumak için yasayı değiştirmeyi oyladı.",
+      "first_seen": "2026-11-17T04:53:36.538407+03:00",
+      "id": "c033923240",
+      "ipa": "/əˈmend/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-17",
+      "level": "C1",
+      "meaning_tr": "değiştirmek, düzeltmek, tadil etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "amend"
+    },
     "c089ce348b": {
       "answered_count": 0,
       "box": 1,
@@ -6492,7 +6564,7 @@
         "drastically reduce"
       ],
       "definition_en": "In a way that is likely to have a strong or far-reaching effect.",
-      "due": "2026-10-14",
+      "due": "2026-11-18",
       "example": "The budget was drastically reduced, forcing the department to cancel several projects.",
       "example_tr": "Bütçe büyük ölçüde düşürüldü ve bu durum departmanı birkaç projeyi iptal etmeye zorladı.",
       "first_seen": "2026-09-19T23:47:06.679956+03:00",
@@ -6500,11 +6572,11 @@
       "ipa": "/ˈdræstɪkli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-13",
+      "last_shown_at": "2026-11-17",
       "level": "B2",
       "meaning_tr": "kökten, önemli ölçüde, büyük ölçüde",
       "pos": "adverb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "drastically"
     },
@@ -7237,7 +7309,7 @@
         "coherent policy"
       ],
       "definition_en": "Logical, orderly, and easy to understand.",
-      "due": "2026-10-14",
+      "due": "2026-11-18",
       "example": "She was so nervous that she could not produce a coherent explanation.",
       "example_tr": "O kadar gergindi ki tutarlı bir açıklama yapamadı.",
       "first_seen": "2026-09-25T14:56:55.788717+03:00",
@@ -7245,11 +7317,11 @@
       "ipa": "/kəʊˈhɪərənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-13",
+      "last_shown_at": "2026-11-17",
       "level": "B2",
       "meaning_tr": "tutarlı, uyumlu, anlaşılır",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "coherent"
     },
@@ -7953,53 +8025,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-16T18:58:48.919437+03:00",
+  "last_sent_at": "2026-11-17T04:53:36.538407+03:00",
   "pool": [
-    {
-      "collocations": [
-        "amend the law",
-        "amend the constitution"
-      ],
-      "definition_en": "to make minor changes to a document or law to make it fairer or more accurate",
-      "example": "Parliament voted to amend the law to protect public privacy rights on online platforms.",
-      "example_tr": "Parlamento, çevrim içi platformlarda kamusal gizlilik haklarını korumak için yasayı değiştirmeyi oyladı.",
-      "ipa": "/əˈmend/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "değiştirmek, düzeltmek, tadil etmek",
-      "pos": "verb",
-      "word": "amend"
-    },
-    {
-      "collocations": [
-        "social stigma",
-        "attach a stigma"
-      ],
-      "definition_en": "a mark of disgrace associated with a particular circumstance or quality",
-      "example": "Educational campaigns aim to remove the social stigma attached to seeking mental health support.",
-      "example_tr": "Eğitim kampanyaları, ruh sağlığı desteği almaya yüklenen sosyal utanç verici algıyı kaldırmayı hedefliyor.",
-      "ipa": "/ˈstɪɡmə/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "leke, utanç verici durum, yafta",
-      "pos": "noun",
-      "word": "stigma"
-    },
-    {
-      "collocations": [
-        "covert operation",
-        "covert action"
-      ],
-      "definition_en": "not openly acknowledged or displayed; secret",
-      "example": "The intelligence agency conducted a covert operation to intercept the illegal shipments at sea.",
-      "example_tr": "İstihbarat teşkilatı, denizdeki yasa dışı sevkiyatları ele geçirmek için gizli bir operasyon yürüttü.",
-      "ipa": "/ˈkʌvət/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "gizli, örtülü, çaktırmadan yapılan",
-      "pos": "adjective",
-      "word": "covert"
-    },
     {
       "collocations": [
         "supposedly safe",
