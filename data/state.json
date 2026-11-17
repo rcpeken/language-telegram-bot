@@ -1089,7 +1089,7 @@
         "seeming paradox"
       ],
       "definition_en": "A situation that seems impossible because it contains opposite ideas.",
-      "due": "2026-10-15",
+      "due": "2026-11-18",
       "example": "It is a strange paradox that some people eat more when dieting.",
       "example_tr": "Bazı insanların diyet yaparken daha fazla yemesi garip bir çelişkidir.",
       "first_seen": "2026-09-26T00:39:13.829782+03:00",
@@ -1097,11 +1097,11 @@
       "ipa": "/ˈpærədɒks/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-14",
+      "last_shown_at": "2026-11-17",
       "level": "C1",
       "meaning_tr": "çelişki, tezat, paradoks",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "paradox"
     },
@@ -1489,6 +1489,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "at first glance"
+    },
+    "38e15acb6d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "flourish in",
+        "continue to flourish"
+      ],
+      "definition_en": "to grow or develop in a healthy or vigorous way",
+      "due": "2026-11-18",
+      "example": "Local businesses began to flourish after the municipality opened the new pedestrian shopping area.",
+      "example_tr": "Belediye yeni yaya alışveriş bölgesini açtıktan sonra yerel işletmeler gelişmeye başladı.",
+      "first_seen": "2026-11-17T19:10:28.572347+03:00",
+      "id": "38e15acb6d",
+      "ipa": "/ˈflʌrɪʃ/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-17",
+      "level": "B2",
+      "meaning_tr": "gelişmek, serpilmek, büyümek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "flourish"
     },
     "394c86cd7c": {
       "answered_count": 0,
@@ -2004,7 +2028,7 @@
         "trade surplus"
       ],
       "definition_en": "An amount that is more than what is needed.",
-      "due": "2026-10-15",
+      "due": "2026-11-18",
       "example": "The country exported its surplus grain to nations facing severe food shortages.",
       "example_tr": "Ülke, elindeki fazla tahılı ciddi gıda sıkıntısı çeken uluslara ihraç etti.",
       "first_seen": "2026-09-26T14:31:39.436666+03:00",
@@ -2012,11 +2036,11 @@
       "ipa": "/ˈsɜːpləs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-14",
+      "last_shown_at": "2026-11-17",
       "level": "B2",
       "meaning_tr": "fazlalık, artık, bütçe fazlası",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "surplus"
     },
@@ -5302,6 +5326,30 @@
       "unknown_count": 0,
       "word": "drawback"
     },
+    "aa8b31f147": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "supposedly safe",
+        "supposedly superior"
+      ],
+      "definition_en": "according to what is generally assumed or believed to be true",
+      "due": "2026-11-18",
+      "example": "The new drug is supposedly harmless, but long-term clinical trial results are still pending.",
+      "example_tr": "Yeni ilacın güya zararsız olduğu söyleniyor, ancak uzun vadeli klinik test sonuçları henüz çıkmadı.",
+      "first_seen": "2026-11-17T19:10:28.572347+03:00",
+      "id": "aa8b31f147",
+      "ipa": "/səˈpəʊzɪdli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-17",
+      "level": "B2",
+      "meaning_tr": "sözde, güya, iddiaya göre",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "supposedly"
+    },
     "ab65da40d6": {
       "answered_count": 0,
       "box": 1,
@@ -7277,6 +7325,30 @@
       "unknown_count": 0,
       "word": "refurbish"
     },
+    "e8de02518d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "inept leadership",
+        "politically inept"
+      ],
+      "definition_en": "having or showing no skill; clumsy or incompetent",
+      "due": "2026-11-18",
+      "example": "The manager was replaced following his inept handling of the workplace conflict last month.",
+      "example_tr": "Yöneticinin geçen ayki iş yeri çatışmasını beceriksizce yönetmesinin ardından yeri değiştirildi.",
+      "first_seen": "2026-11-17T19:10:28.572347+03:00",
+      "id": "e8de02518d",
+      "ipa": "/ɪˈnept/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-17",
+      "level": "C1",
+      "meaning_tr": "beceriksiz, yersiz, yetersiz",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "inept"
+    },
     "e9248e0c2e": {
       "answered_count": 0,
       "box": 1,
@@ -8025,53 +8097,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-17T04:53:36.538407+03:00",
+  "last_sent_at": "2026-11-17T19:10:28.572347+03:00",
   "pool": [
-    {
-      "collocations": [
-        "supposedly safe",
-        "supposedly superior"
-      ],
-      "definition_en": "according to what is generally assumed or believed to be true",
-      "example": "The new drug is supposedly harmless, but long-term clinical trial results are still pending.",
-      "example_tr": "Yeni ilacın güya zararsız olduğu söyleniyor, ancak uzun vadeli klinik test sonuçları henüz çıkmadı.",
-      "ipa": "/səˈpəʊzɪdli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "sözde, güya, iddiaya göre",
-      "pos": "adverb",
-      "word": "supposedly"
-    },
-    {
-      "collocations": [
-        "flourish in",
-        "continue to flourish"
-      ],
-      "definition_en": "to grow or develop in a healthy or vigorous way",
-      "example": "Local businesses began to flourish after the municipality opened the new pedestrian shopping area.",
-      "example_tr": "Belediye yeni yaya alışveriş bölgesini açtıktan sonra yerel işletmeler gelişmeye başladı.",
-      "ipa": "/ˈflʌrɪʃ/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "gelişmek, serpilmek, büyümek",
-      "pos": "verb",
-      "word": "flourish"
-    },
-    {
-      "collocations": [
-        "inept leadership",
-        "politically inept"
-      ],
-      "definition_en": "having or showing no skill; clumsy or incompetent",
-      "example": "The manager was replaced following his inept handling of the workplace conflict last month.",
-      "example_tr": "Yöneticinin geçen ayki iş yeri çatışmasını beceriksizce yönetmesinin ardından yeri değiştirildi.",
-      "ipa": "/ɪˈnept/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "beceriksiz, yersiz, yetersiz",
-      "pos": "adjective",
-      "word": "inept"
-    },
     {
       "collocations": [
         "in exchange for services",
