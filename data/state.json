@@ -3322,6 +3322,30 @@
       "unknown_count": 0,
       "word": "strenuous"
     },
+    "6c21b25839": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "reinforce confidence",
+        "reinforce a belief"
+      ],
+      "definition_en": "to make an idea, feeling, or structure stronger",
+      "due": "2026-11-20",
+      "example": "Recent success will reinforce the team's confidence ahead of the upcoming championship.",
+      "example_tr": "Son başarı, yaklaşan şampiyona öncesinde takımın özgüvenini pekiştirecektir.",
+      "first_seen": "2026-11-19T02:09:42.106673+03:00",
+      "id": "6c21b25839",
+      "ipa": "/ˌriːɪnˈfɔːs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-19",
+      "level": "B2",
+      "meaning_tr": "güçlendirmek, pekiştirmek, desteklemek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "reinforce"
+    },
     "6c6ecb9941": {
       "answered_count": 0,
       "box": 1,
@@ -4023,6 +4047,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "complacency"
+    },
+    "80a3a6e0a2": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "economic downturn",
+        "sharp downturn"
+      ],
+      "definition_en": "a reduction in economic or business activity",
+      "due": "2026-11-20",
+      "example": "Many small businesses closed down during the sudden economic downturn last year.",
+      "example_tr": "Geçen yılki ani ekonomik durgunluk sırasında birçok küçük işletme kapandı.",
+      "first_seen": "2026-11-19T02:09:42.106673+03:00",
+      "id": "80a3a6e0a2",
+      "ipa": "/ˈdaʊntɜːn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-19",
+      "level": "C1",
+      "meaning_tr": "düşüş, daralma, durgunluk",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "downturn"
     },
     "818123e40b": {
       "answered_count": 0,
@@ -6756,7 +6804,7 @@
         "mitigate climate change"
       ],
       "definition_en": "To make something bad or painful less severe, serious, or painful.",
-      "due": "2026-10-16",
+      "due": "2026-11-20",
       "example": "The government introduced new measures to mitigate the economic effects of the pandemic.",
       "example_tr": "Hükümet, pandeminin ekonomik etkilerini hafifletmek için yeni önlemler uygulamaya koydu.",
       "first_seen": "2026-09-19T14:08:02.914222+03:00",
@@ -6764,11 +6812,11 @@
       "ipa": "/ˈmɪtɪɡeɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-15",
+      "last_shown_at": "2026-11-19",
       "level": "C1",
       "meaning_tr": "hafifletmek, azaltmak",
       "pos": "verb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "mitigate"
     },
@@ -6867,6 +6915,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "detrimental"
+    },
+    "dbcb6179a2": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in the interest of clarity",
+        "in the interest of fairness"
+      ],
+      "definition_en": "for the benefit of someone or in order to achieve a purpose",
+      "due": "2026-11-20",
+      "example": "In the interest of safety, all visitors must wear a helmet on site.",
+      "example_tr": "Güvenlik amacıyla, tüm ziyaretçilerin alanda kask takması zorunludur.",
+      "first_seen": "2026-11-19T02:09:42.106673+03:00",
+      "id": "dbcb6179a2",
+      "ipa": "/ɪn ðə ˈɪntrest əv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-19",
+      "level": "C1",
+      "meaning_tr": "yararına, çıkarına, amacıyla",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in the interest of"
     },
     "dbfdf13ff3": {
       "answered_count": 0,
@@ -7549,7 +7621,7 @@
         "relentless pressure"
       ],
       "definition_en": "Continuing without becoming weaker, less severe, or pausing.",
-      "due": "2026-10-16",
+      "due": "2026-11-20",
       "example": "The company's success is the result of their relentless pursuit of customer satisfaction.",
       "example_tr": "Şirketin başarısı, müşteri memnuniyetini amansızca takip etmelerinin bir sonucudur.",
       "first_seen": "2026-09-19T18:56:42.602674+03:00",
@@ -7557,11 +7629,11 @@
       "ipa": "/rɪˈlentləs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-15",
+      "last_shown_at": "2026-11-19",
       "level": "C1",
       "meaning_tr": "amansız, aralıksız, acımasız",
       "pos": "adjective",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "relentless"
     },
@@ -8121,8 +8193,84 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-18T18:46:29.857871+03:00",
-  "pool": [],
+  "last_sent_at": "2026-11-19T02:09:42.106673+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "lose sight of goals",
+        "lose sight of reality"
+      ],
+      "definition_en": "to forget an important fact, goal, or situation",
+      "example": "We must not lose sight of our primary goal during this expansion process.",
+      "example_tr": "Bu genişleme sürecinde birincil hedefimizi gözden kaçırmamalıyız.",
+      "ipa": "/luːz saɪt əv/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "gözden kaçırmak, unutmak",
+      "pos": "phrase",
+      "word": "lose sight of"
+    },
+    {
+      "collocations": [
+        "empower staff",
+        "empower individuals"
+      ],
+      "definition_en": "to give someone the authority or freedom to do something",
+      "example": "The new management structure is designed to empower employees to make quick decisions.",
+      "example_tr": "Yeni yönetim yapısı, çalışanları hızlı kararlar alma konusunda yetkilendirmek için tasarlandı.",
+      "ipa": "/ɪmˈpaʊər/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "yetkilendirmek, güçlendirmek",
+      "pos": "verb",
+      "word": "empower"
+    },
+    {
+      "collocations": [
+        "budget shortfall",
+        "cover the shortfall"
+      ],
+      "definition_en": "an amount that is less than what was expected or needed",
+      "example": "The charity faced a serious budget shortfall due to a drop in donations.",
+      "example_tr": "Hayır kurumu, bağışlardaki düşüş nedeniyle ciddi bir bütçe açığıyla karşılaştı.",
+      "ipa": "/ˈʃɔːtfɔːl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "açık, noksanlık, eksiklik",
+      "pos": "noun",
+      "word": "shortfall"
+    },
+    {
+      "collocations": [
+        "in the foreseeable future",
+        "foreseeable future"
+      ],
+      "definition_en": "at a time that is not far off and can be predicted",
+      "example": "Prices are expected to remain stable in the foreseeable future despite market changes.",
+      "example_tr": "Piyasa değişikliklerine rağmen fiyatların öngörülebilir gelecekte istikrarlı kalması bekleniyor.",
+      "ipa": "/ɪn ðə fɔːˈsiːəbl ˈfjuːtʃər/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "öngörülebilir gelecekte, yakın gelecekte",
+      "pos": "phrase",
+      "word": "in the foreseeable future"
+    },
+    {
+      "collocations": [
+        "undoubtedly true",
+        "undoubtedly one of"
+      ],
+      "definition_en": "used to emphasize that something is true and cannot be doubted",
+      "example": "This new discovery is undoubtedly one of the greatest achievements of modern science.",
+      "example_tr": "Bu yeni keşif şüphesiz modern bilimin en büyük başarılarından biridir.",
+      "ipa": "/ʌnˈdaʊtɪdli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "şüphesiz, kuşkusuz",
+      "pos": "adverb",
+      "word": "undoubtedly"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
