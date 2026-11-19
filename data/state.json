@@ -96,6 +96,30 @@
       "unknown_count": 0,
       "word": "volatile"
     },
+    "038d975a4d": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "empower staff",
+        "empower individuals"
+      ],
+      "definition_en": "to give someone the authority or freedom to do something",
+      "due": "2026-11-20",
+      "example": "The new management structure is designed to empower employees to make quick decisions.",
+      "example_tr": "Yeni yönetim yapısı, çalışanları hızlı kararlar alma konusunda yetkilendirmek için tasarlandı.",
+      "first_seen": "2026-11-19T18:51:25.935460+03:00",
+      "id": "038d975a4d",
+      "ipa": "/ɪmˈpaʊər/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-19",
+      "level": "B2",
+      "meaning_tr": "yetkilendirmek, güçlendirmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "empower"
+    },
     "03cba01dea": {
       "answered_count": 0,
       "box": 1,
@@ -240,6 +264,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "deviate"
+    },
+    "0df512f897": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "lose sight of goals",
+        "lose sight of reality"
+      ],
+      "definition_en": "to forget an important fact, goal, or situation",
+      "due": "2026-11-20",
+      "example": "We must not lose sight of our primary goal during this expansion process.",
+      "example_tr": "Bu genişleme sürecinde birincil hedefimizi gözden kaçırmamalıyız.",
+      "first_seen": "2026-11-19T18:51:25.935460+03:00",
+      "id": "0df512f897",
+      "ipa": "/luːz saɪt əv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-19",
+      "level": "B2",
+      "meaning_tr": "gözden kaçırmak, unutmak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "lose sight of"
     },
     "0e99f24de2": {
       "answered_count": 0,
@@ -2913,6 +2961,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "catalyst"
+    },
+    "6323a40cf4": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "budget shortfall",
+        "cover the shortfall"
+      ],
+      "definition_en": "an amount that is less than what was expected or needed",
+      "due": "2026-11-20",
+      "example": "The charity faced a serious budget shortfall due to a drop in donations.",
+      "example_tr": "Hayır kurumu, bağışlardaki düşüş nedeniyle ciddi bir bütçe açığıyla karşılaştı.",
+      "first_seen": "2026-11-19T18:51:25.935460+03:00",
+      "id": "6323a40cf4",
+      "ipa": "/ˈʃɔːtfɔːl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-19",
+      "level": "C1",
+      "meaning_tr": "açık, noksanlık, eksiklik",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "shortfall"
     },
     "647fecee80": {
       "answered_count": 0,
@@ -7960,7 +8032,7 @@
         "ethical conundrum"
       ],
       "definition_en": "A confusing and difficult problem or question.",
-      "due": "2026-10-16",
+      "due": "2026-11-20",
       "example": "Finding a balance between economic growth and environmental protection is a difficult conundrum.",
       "example_tr": "Ekonomik büyüme ile çevrenin korunması arasında bir denge bulmak zor bir bilmecedir.",
       "first_seen": "2026-09-19T18:56:42.602674+03:00",
@@ -7968,11 +8040,11 @@
       "ipa": "/kəˈnʌndrəm/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-15",
+      "last_shown_at": "2026-11-19",
       "level": "C1",
       "meaning_tr": "bilmece, içinden çıkılmaz problem",
       "pos": "noun",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "conundrum"
     },
@@ -8008,7 +8080,7 @@
         "express disdain"
       ],
       "definition_en": "The feeling that someone or something is unworthy of respect.",
-      "due": "2026-10-16",
+      "due": "2026-11-20",
       "example": "She treated the lazy workers with obvious disdain during the team meeting.",
       "example_tr": "Ekip toplantısı sırasında tembel çalışanlara karşı bariz bir küçümsemeyle yaklaştı.",
       "first_seen": "2026-09-26T19:28:39.385850+03:00",
@@ -8016,11 +8088,11 @@
       "ipa": "/dɪsˈdeɪn/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-15",
+      "last_shown_at": "2026-11-19",
       "level": "C1",
       "meaning_tr": "küçümseme, hor görme, kibir",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "disdain"
     },
@@ -8193,53 +8265,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-19T02:09:42.106673+03:00",
+  "last_sent_at": "2026-11-19T18:51:25.935460+03:00",
   "pool": [
-    {
-      "collocations": [
-        "lose sight of goals",
-        "lose sight of reality"
-      ],
-      "definition_en": "to forget an important fact, goal, or situation",
-      "example": "We must not lose sight of our primary goal during this expansion process.",
-      "example_tr": "Bu genişleme sürecinde birincil hedefimizi gözden kaçırmamalıyız.",
-      "ipa": "/luːz saɪt əv/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "gözden kaçırmak, unutmak",
-      "pos": "phrase",
-      "word": "lose sight of"
-    },
-    {
-      "collocations": [
-        "empower staff",
-        "empower individuals"
-      ],
-      "definition_en": "to give someone the authority or freedom to do something",
-      "example": "The new management structure is designed to empower employees to make quick decisions.",
-      "example_tr": "Yeni yönetim yapısı, çalışanları hızlı kararlar alma konusunda yetkilendirmek için tasarlandı.",
-      "ipa": "/ɪmˈpaʊər/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "yetkilendirmek, güçlendirmek",
-      "pos": "verb",
-      "word": "empower"
-    },
-    {
-      "collocations": [
-        "budget shortfall",
-        "cover the shortfall"
-      ],
-      "definition_en": "an amount that is less than what was expected or needed",
-      "example": "The charity faced a serious budget shortfall due to a drop in donations.",
-      "example_tr": "Hayır kurumu, bağışlardaki düşüş nedeniyle ciddi bir bütçe açığıyla karşılaştı.",
-      "ipa": "/ˈʃɔːtfɔːl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "açık, noksanlık, eksiklik",
-      "pos": "noun",
-      "word": "shortfall"
-    },
     {
       "collocations": [
         "in the foreseeable future",
