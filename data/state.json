@@ -609,7 +609,7 @@
         "streamline operations"
       ],
       "definition_en": "To make a system or process more efficient and effective by simplifying it.",
-      "due": "2026-10-17",
+      "due": "2026-11-21",
       "example": "The company decided to streamline its operational processes to reduce unnecessary expenses.",
       "example_tr": "Şirket, gereksiz masrafları azaltmak için operasyonel süreçlerini basitleştirmeye karar verdi.",
       "first_seen": "2026-10-16T00:29:19.542873+03:00",
@@ -617,11 +617,11 @@
       "ipa": "/ˈstriːmlaɪn/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-20",
       "level": "B2",
       "meaning_tr": "basitleştirmek, verimli hale getirmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "streamline"
     },
@@ -657,7 +657,7 @@
         "fundamentally flawed"
       ],
       "definition_en": "In a way that relates to the essential nature of something.",
-      "due": "2026-10-17",
+      "due": "2026-11-21",
       "example": "The two theories are fundamentally different in their assumptions about human behavior.",
       "example_tr": "İki teori, insan davranışı hakkındaki varsayımlarında temelde farklıdır.",
       "first_seen": "2026-10-16T19:44:33.703721+03:00",
@@ -665,11 +665,11 @@
       "ipa": "/ˌfʌndəˈmentəli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-20",
       "level": "B2",
       "meaning_tr": "esas olarak, temelde",
       "pos": "adverb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "fundamentally"
     },
@@ -3783,6 +3783,30 @@
       "unknown_count": 0,
       "word": "seemingly"
     },
+    "7634ece932": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in the foreseeable future",
+        "foreseeable future"
+      ],
+      "definition_en": "at a time that is not far off and can be predicted",
+      "due": "2026-11-21",
+      "example": "Prices are expected to remain stable in the foreseeable future despite market changes.",
+      "example_tr": "Piyasa değişikliklerine rağmen fiyatların öngörülebilir gelecekte istikrarlı kalması bekleniyor.",
+      "first_seen": "2026-11-20T03:40:38.380483+03:00",
+      "id": "7634ece932",
+      "ipa": "/ɪn ðə fɔːˈsiːəbl ˈfjuːtʃər/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-20",
+      "level": "C1",
+      "meaning_tr": "öngörülebilir gelecekte, yakın gelecekte",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in the foreseeable future"
+    },
     "7655beff3e": {
       "answered_count": 0,
       "box": 1,
@@ -3830,6 +3854,30 @@
       "shown_count": 4,
       "unknown_count": 0,
       "word": "on the verge of"
+    },
+    "784bb12de4": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "deter crime",
+        "deter someone from"
+      ],
+      "definition_en": "To prevent someone from doing something by making it difficult or showing consequences.",
+      "due": "2026-11-21",
+      "example": "High security cameras in the neighborhood help to deter potential criminals.",
+      "example_tr": "Mahalledeki yüksek güvenlik kameraları olası suçluları caydırmaya yardımcı olur.",
+      "first_seen": "2026-11-20T03:40:38.380483+03:00",
+      "id": "784bb12de4",
+      "ipa": "/dɪˈtɜːr/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-20",
+      "level": "B2",
+      "meaning_tr": "caydırmak, engellemek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "deter"
     },
     "79c5672c8b": {
       "answered_count": 0,
@@ -6024,6 +6072,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "permeate"
+    },
+    "bb29ab59fe": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "undoubtedly true",
+        "undoubtedly one of"
+      ],
+      "definition_en": "used to emphasize that something is true and cannot be doubted",
+      "due": "2026-11-21",
+      "example": "This new discovery is undoubtedly one of the greatest achievements of modern science.",
+      "example_tr": "Bu yeni keşif şüphesiz modern bilimin en büyük başarılarından biridir.",
+      "first_seen": "2026-11-20T03:40:38.380483+03:00",
+      "id": "bb29ab59fe",
+      "ipa": "/ʌnˈdaʊtɪdli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-20",
+      "level": "B2",
+      "meaning_tr": "şüphesiz, kuşkusuz",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "undoubtedly"
     },
     "bb3b6440dc": {
       "answered_count": 2,
@@ -8265,37 +8337,82 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-19T18:51:25.935460+03:00",
+  "last_sent_at": "2026-11-20T03:40:38.380483+03:00",
   "pool": [
     {
       "collocations": [
-        "in the foreseeable future",
-        "foreseeable future"
+        "bring details to light",
+        "bring new facts to light"
       ],
-      "definition_en": "at a time that is not far off and can be predicted",
-      "example": "Prices are expected to remain stable in the foreseeable future despite market changes.",
-      "example_tr": "Piyasa değişikliklerine rağmen fiyatların öngörülebilir gelecekte istikrarlı kalması bekleniyor.",
-      "ipa": "/ɪn ðə fɔːˈsiːəbl ˈfjuːtʃər/",
+      "definition_en": "To make new information known publicly or clearly visible.",
+      "example": "The investigative reporter managed to bring to light crucial evidence regarding the financial scandal.",
+      "example_tr": "Araştırmacı gazeteci finansal skandala ilişkin önemli kanıtları ortaya çıkarmayı başardı.",
+      "ipa": "/brɪŋ tuː laɪt/",
       "lang": "en",
       "level": "C1",
-      "meaning_tr": "öngörülebilir gelecekte, yakın gelecekte",
+      "meaning_tr": "ortaya çıkarmak, gün ışığına çıkarmak",
       "pos": "phrase",
-      "word": "in the foreseeable future"
+      "word": "bring to light"
     },
     {
       "collocations": [
-        "undoubtedly true",
-        "undoubtedly one of"
+        "exceed expectations",
+        "exceed limits"
       ],
-      "definition_en": "used to emphasize that something is true and cannot be doubted",
-      "example": "This new discovery is undoubtedly one of the greatest achievements of modern science.",
-      "example_tr": "Bu yeni keşif şüphesiz modern bilimin en büyük başarılarından biridir.",
-      "ipa": "/ʌnˈdaʊtɪdli/",
+      "definition_en": "To be greater than a particular number, amount, or limit.",
+      "example": "Sales during the third quarter managed to exceed all previous expectations of the board.",
+      "example_tr": "Üçüncü çeyrekteki satışlar, yönetim kurulunun tüm önceki beklentilerini aşmayı başardı.",
+      "ipa": "/ɪkˈsiːd/",
       "lang": "en",
       "level": "B2",
-      "meaning_tr": "şüphesiz, kuşkusuz",
+      "meaning_tr": "aşmak, geçmek",
+      "pos": "verb",
+      "word": "exceed"
+    },
+    {
+      "collocations": [
+        "subtle nuance",
+        "cultural nuance"
+      ],
+      "definition_en": "A subtle distinction or variation in meaning, sound, or color.",
+      "example": "Translators must understand every subtle nuance of the language to produce accurate work.",
+      "example_tr": "Mütercimler doğru eserler üretmek için dilin her ince ayrıntısını anlamalıdır.",
+      "ipa": "/ˈnjuːɑːns/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "nüans, ince ayrıntı",
+      "pos": "noun",
+      "word": "nuance"
+    },
+    {
+      "collocations": [
+        "scarcely believe",
+        "scarcely enough"
+      ],
+      "definition_en": "Only just; almost not at all.",
+      "example": "The room was so quiet that we could scarcely hear the speaker's voice.",
+      "example_tr": "Oda o kadar sessizdi ki konuşmacının sesini neredeyse hiç duyamıyorduk.",
+      "ipa": "/ˈskeəsli/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "neredeyse hiç, güçbela",
       "pos": "adverb",
-      "word": "undoubtedly"
+      "word": "scarcely"
+    },
+    {
+      "collocations": [
+        "major breakthrough",
+        "scientific breakthrough"
+      ],
+      "definition_en": "An important discovery or event that helps to solve a problem.",
+      "example": "Medical researchers recently achieved a major breakthrough in the treatment of chronic illness.",
+      "example_tr": "Tıp araştırmacıları son zamanlarda kronik hastalıkların tedavisinde büyük bir buluş gerçekleştirdi.",
+      "ipa": "/ˈbreɪkθruː/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "çığır açan gelişme, buluş",
+      "pos": "noun",
+      "word": "breakthrough"
     }
   ],
   "update_offset": 626511673,
