@@ -1057,6 +1057,30 @@
       "unknown_count": 0,
       "word": "on short notice"
     },
+    "23149d76ee": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "be inclined to think",
+        "naturally inclined"
+      ],
+      "definition_en": "having a tendency, preference, or natural leaning toward a particular opinion or action",
+      "due": "2026-11-22",
+      "example": "I am inclined to believe that his explanation for the delay is genuine.",
+      "example_tr": "Gecikmeye ilişkin açıklamasının samimi olduğuna inanma eğilimindeyim.",
+      "first_seen": "2026-11-21T01:50:04.940430+03:00",
+      "id": "23149d76ee",
+      "ipa": "/ɪnˈklaɪnd/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-21",
+      "level": "B2",
+      "meaning_tr": "eğilimli, yatkın, meyilli",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "inclined"
+    },
     "2392c57fb8": {
       "answered_count": 0,
       "box": 1,
@@ -1618,7 +1642,7 @@
         "highly vulnerable"
       ],
       "definition_en": "Easy to hurt or attack physically, emotionally, or mentally.",
-      "due": "2026-10-17",
+      "due": "2026-11-22",
       "example": "Elderly people are often more vulnerable to extreme weather conditions during the winter.",
       "example_tr": "Yaşlı insanlar kış aylarında genellikle aşırı hava koşullarına karşı daha hassastır.",
       "first_seen": "2026-09-20T14:32:11.283311+03:00",
@@ -1626,11 +1650,11 @@
       "ipa": "/ˈvʌlnərəbl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-21",
       "level": "B2",
       "meaning_tr": "savunmasız, hassas, kırılgan",
       "pos": "adjective",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "vulnerable"
     },
@@ -1690,7 +1714,7 @@
         "contingency fund"
       ],
       "definition_en": "A future event or circumstance that is possible but cannot be predicted with certainty.",
-      "due": "2026-10-17",
+      "due": "2026-11-22",
       "example": "Every firm needs a contingency plan to handle sudden disruptions in the supply chain.",
       "example_tr": "Her firmanın tedarik zincirindeki ani aksamaları yönetmek için bir acil durum planına ihtiyacı vardır.",
       "first_seen": "2026-10-16T14:32:40.654105+03:00",
@@ -1698,11 +1722,11 @@
       "ipa": "/kənˈtɪndʒənsi/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-21",
       "level": "C1",
       "meaning_tr": "olası durum, beklenmedik olay",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "contingency"
     },
@@ -2331,6 +2355,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "by virtue of"
+    },
+    "519903607e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "major breakthrough",
+        "scientific breakthrough"
+      ],
+      "definition_en": "An important discovery or event that helps to solve a problem.",
+      "due": "2026-11-22",
+      "example": "Medical researchers recently achieved a major breakthrough in the treatment of chronic illness.",
+      "example_tr": "Tıp araştırmacıları son zamanlarda kronik hastalıkların tedavisinde büyük bir buluş gerçekleştirdi.",
+      "first_seen": "2026-11-21T01:50:04.940430+03:00",
+      "id": "519903607e",
+      "ipa": "/ˈbreɪkθruː/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-21",
+      "level": "B2",
+      "meaning_tr": "çığır açan gelişme, buluş",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "breakthrough"
     },
     "519ce830d2": {
       "answered_count": 0,
@@ -6916,6 +6964,30 @@
       "unknown_count": 0,
       "word": "drastically"
     },
+    "d4a1cb751e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "scarcely believe",
+        "scarcely enough"
+      ],
+      "definition_en": "Only just; almost not at all.",
+      "due": "2026-11-22",
+      "example": "The room was so quiet that we could scarcely hear the speaker's voice.",
+      "example_tr": "Oda o kadar sessizdi ki konuşmacının sesini neredeyse hiç duyamıyorduk.",
+      "first_seen": "2026-11-21T01:50:04.940430+03:00",
+      "id": "d4a1cb751e",
+      "ipa": "/ˈskeəsli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-21",
+      "level": "B2",
+      "meaning_tr": "neredeyse hiç, güçbela",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "scarcely"
+    },
     "d5957a184c": {
       "answered_count": 0,
       "box": 1,
@@ -8409,39 +8481,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-20T18:33:58.329114+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "scarcely believe",
-        "scarcely enough"
-      ],
-      "definition_en": "Only just; almost not at all.",
-      "example": "The room was so quiet that we could scarcely hear the speaker's voice.",
-      "example_tr": "Oda o kadar sessizdi ki konuşmacının sesini neredeyse hiç duyamıyorduk.",
-      "ipa": "/ˈskeəsli/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "neredeyse hiç, güçbela",
-      "pos": "adverb",
-      "word": "scarcely"
-    },
-    {
-      "collocations": [
-        "major breakthrough",
-        "scientific breakthrough"
-      ],
-      "definition_en": "An important discovery or event that helps to solve a problem.",
-      "example": "Medical researchers recently achieved a major breakthrough in the treatment of chronic illness.",
-      "example_tr": "Tıp araştırmacıları son zamanlarda kronik hastalıkların tedavisinde büyük bir buluş gerçekleştirdi.",
-      "ipa": "/ˈbreɪkθruː/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "çığır açan gelişme, buluş",
-      "pos": "noun",
-      "word": "breakthrough"
-    }
-  ],
+  "last_sent_at": "2026-11-21T01:50:04.940430+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
