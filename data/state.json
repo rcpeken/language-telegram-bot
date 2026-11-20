@@ -745,6 +745,30 @@
       "unknown_count": 0,
       "word": "outweigh"
     },
+    "1b5f4982a7": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "subtle nuance",
+        "cultural nuance"
+      ],
+      "definition_en": "A subtle distinction or variation in meaning, sound, or color.",
+      "due": "2026-11-21",
+      "example": "Translators must understand every subtle nuance of the language to produce accurate work.",
+      "example_tr": "Mütercimler doğru eserler üretmek için dilin her ince ayrıntısını anlamalıdır.",
+      "first_seen": "2026-11-20T18:33:58.329114+03:00",
+      "id": "1b5f4982a7",
+      "ipa": "/ˈnjuːɑːns/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-20",
+      "level": "C1",
+      "meaning_tr": "nüans, ince ayrıntı",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "nuance"
+    },
     "1b81b6814c": {
       "answered_count": 0,
       "box": 1,
@@ -1161,7 +1185,7 @@
         "inherent danger"
       ],
       "definition_en": "Existing as a natural or basic part of something.",
-      "due": "2026-10-17",
+      "due": "2026-11-21",
       "example": "Every financial investment has an inherent risk of losing money.",
       "example_tr": "Her finansal yatırım, para kaybetme riskini doğasında barındırır.",
       "first_seen": "2026-09-20T19:12:56.042085+03:00",
@@ -1169,11 +1193,11 @@
       "ipa": "/ɪnˈhɪrənt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-20",
       "level": "C1",
       "meaning_tr": "doğasında olan, kendiliğinden var olan",
       "pos": "adjective",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "inherent"
     },
@@ -1329,7 +1353,7 @@
         "oversee operations"
       ],
       "definition_en": "To watch and direct a task or project to make sure it is done correctly.",
-      "due": "2026-10-17",
+      "due": "2026-11-21",
       "example": "The newly appointed manager will oversee the entire transition to the digital platform.",
       "example_tr": "Yeni atanan müdür, dijital platforma geçiş sürecinin tamamını denetleyecek.",
       "first_seen": "2026-09-16T17:14:08.281855+03:00",
@@ -1337,11 +1361,11 @@
       "ipa": "/ˌəʊvəˈsiː/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-20",
       "level": "B2",
       "meaning_tr": "denetlemek, yönetmek, gözetmek",
       "pos": "verb",
-      "shown_count": 6,
+      "shown_count": 7,
       "unknown_count": 0,
       "word": "oversee"
     },
@@ -1417,6 +1441,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "validate"
+    },
+    "330f4481a9": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "exceed expectations",
+        "exceed limits"
+      ],
+      "definition_en": "To be greater than a particular number, amount, or limit.",
+      "due": "2026-11-21",
+      "example": "Sales during the third quarter managed to exceed all previous expectations of the board.",
+      "example_tr": "Üçüncü çeyrekteki satışlar, yönetim kurulunun tüm önceki beklentilerini aşmayı başardı.",
+      "first_seen": "2026-11-20T18:33:58.329114+03:00",
+      "id": "330f4481a9",
+      "ipa": "/ɪkˈsiːd/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-20",
+      "level": "B2",
+      "meaning_tr": "aşmak, geçmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "exceed"
     },
     "340d6aa8a2": {
       "answered_count": 0,
@@ -4624,6 +4672,30 @@
       "shown_count": 1,
       "unknown_count": 0,
       "word": "take precedence"
+    },
+    "927eb8196f": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "bring details to light",
+        "bring new facts to light"
+      ],
+      "definition_en": "To make new information known publicly or clearly visible.",
+      "due": "2026-11-21",
+      "example": "The investigative reporter managed to bring to light crucial evidence regarding the financial scandal.",
+      "example_tr": "Araştırmacı gazeteci finansal skandala ilişkin önemli kanıtları ortaya çıkarmayı başardı.",
+      "first_seen": "2026-11-20T18:33:58.329114+03:00",
+      "id": "927eb8196f",
+      "ipa": "/brɪŋ tuː laɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-20",
+      "level": "C1",
+      "meaning_tr": "ortaya çıkarmak, gün ışığına çıkarmak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "bring to light"
     },
     "93706ce19d": {
       "answered_count": 0,
@@ -8337,53 +8409,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-20T03:40:38.380483+03:00",
+  "last_sent_at": "2026-11-20T18:33:58.329114+03:00",
   "pool": [
-    {
-      "collocations": [
-        "bring details to light",
-        "bring new facts to light"
-      ],
-      "definition_en": "To make new information known publicly or clearly visible.",
-      "example": "The investigative reporter managed to bring to light crucial evidence regarding the financial scandal.",
-      "example_tr": "Araştırmacı gazeteci finansal skandala ilişkin önemli kanıtları ortaya çıkarmayı başardı.",
-      "ipa": "/brɪŋ tuː laɪt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "ortaya çıkarmak, gün ışığına çıkarmak",
-      "pos": "phrase",
-      "word": "bring to light"
-    },
-    {
-      "collocations": [
-        "exceed expectations",
-        "exceed limits"
-      ],
-      "definition_en": "To be greater than a particular number, amount, or limit.",
-      "example": "Sales during the third quarter managed to exceed all previous expectations of the board.",
-      "example_tr": "Üçüncü çeyrekteki satışlar, yönetim kurulunun tüm önceki beklentilerini aşmayı başardı.",
-      "ipa": "/ɪkˈsiːd/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "aşmak, geçmek",
-      "pos": "verb",
-      "word": "exceed"
-    },
-    {
-      "collocations": [
-        "subtle nuance",
-        "cultural nuance"
-      ],
-      "definition_en": "A subtle distinction or variation in meaning, sound, or color.",
-      "example": "Translators must understand every subtle nuance of the language to produce accurate work.",
-      "example_tr": "Mütercimler doğru eserler üretmek için dilin her ince ayrıntısını anlamalıdır.",
-      "ipa": "/ˈnjuːɑːns/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "nüans, ince ayrıntı",
-      "pos": "noun",
-      "word": "nuance"
-    },
     {
       "collocations": [
         "scarcely believe",
