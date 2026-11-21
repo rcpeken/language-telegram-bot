@@ -1610,6 +1610,30 @@
       "unknown_count": 0,
       "word": "pervasive"
     },
+    "36a6396195": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in accordance with law",
+        "in accordance with regulations"
+      ],
+      "definition_en": "in agreement with a rule, request, or official agreement",
+      "due": "2026-11-22",
+      "example": "All construction work was completed in accordance with international safety standards.",
+      "example_tr": "Tüm inşaat çalışmaları uluslararası güvenlik standartlarına uygun olarak tamamlandı.",
+      "first_seen": "2026-11-21T23:55:22.225593+03:00",
+      "id": "36a6396195",
+      "ipa": "/ɪn əˈkɔːdəns wɪð/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-21",
+      "level": "B2",
+      "meaning_tr": "uyarınca, gereğince, -e uygun olarak",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in accordance with"
+    },
     "3832690950": {
       "answered_count": 0,
       "box": 1,
@@ -4224,7 +4248,7 @@
         "economic turmoil"
       ],
       "definition_en": "A state of great disturbance, confusion, or uncertainty.",
-      "due": "2026-10-17",
+      "due": "2026-11-22",
       "example": "The country experienced political turmoil following the unexpected resignation of the prime minister.",
       "example_tr": "Ülke, başbakanın beklenmedik istifasının ardından siyasi bir kargaşa yaşadı.",
       "first_seen": "2026-10-16T00:29:19.542873+03:00",
@@ -4232,11 +4256,11 @@
       "ipa": "/ˈtɜːmɔɪl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-21",
       "level": "C1",
       "meaning_tr": "kargaşa, çalkantı, kaos",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "turmoil"
     },
@@ -4673,6 +4697,54 @@
       "unknown_count": 0,
       "word": "precisely"
     },
+    "8f51bb293e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "surmise correctly",
+        "safe to surmise"
+      ],
+      "definition_en": "to suppose that something is true without having solid evidence",
+      "due": "2026-11-22",
+      "example": "From the dark clouds gathering above, we surmised that a heavy storm was coming.",
+      "example_tr": "Yukarıda toplanan karanlık bulutlardan şiddetli bir fırtınanın yaklaştığını tahmin ettik.",
+      "first_seen": "2026-11-21T23:55:22.225593+03:00",
+      "id": "8f51bb293e",
+      "ipa": "/səˈmaɪz/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-21",
+      "level": "C1",
+      "meaning_tr": "tahmin etmek, zannetmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "surmise"
+    },
+    "90c9aa4a4e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "growing disillusionment",
+        "deep disillusionment"
+      ],
+      "definition_en": "a feeling of disappointment when something is not as good as believed",
+      "due": "2026-11-22",
+      "example": "Widespread disillusionment among voters led to a significant decrease in participation.",
+      "example_tr": "Seçmenler arasındaki yaygın hayal kırıklığı, katılığımda önemli bir düşüşe yol açtı.",
+      "first_seen": "2026-11-21T23:55:22.225593+03:00",
+      "id": "90c9aa4a4e",
+      "ipa": "/ˌdɪsɪˈluːʒnmənt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-21",
+      "level": "C1",
+      "meaning_tr": "hayal kırıklığı, gözünün açılması",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "disillusionment"
+    },
     "90e14d2864": {
       "answered_count": 0,
       "box": 1,
@@ -4825,7 +4897,7 @@
         "dismantle machinery"
       ],
       "definition_en": "To take a structure or system apart into separate pieces.",
-      "due": "2026-10-17",
+      "due": "2026-11-22",
       "example": "Engineers worked together to dismantle the old factory machinery safely and efficiently.",
       "example_tr": "Mühendisler, eski fabrika makinelerini güvenli ve verimli bir şekilde sökmek için birlikte çalıştılar.",
       "first_seen": "2026-10-16T19:44:33.703721+03:00",
@@ -4833,11 +4905,11 @@
       "ipa": "/dɪsˈmæntl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-21",
       "level": "C1",
       "meaning_tr": "sökmek, parçalamak, ortadan kaldırmak",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "dismantle"
     },
@@ -8553,53 +8625,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-21T17:45:00.219049+03:00",
+  "last_sent_at": "2026-11-21T23:55:22.225593+03:00",
   "pool": [
-    {
-      "collocations": [
-        "surmise correctly",
-        "safe to surmise"
-      ],
-      "definition_en": "to suppose that something is true without having solid evidence",
-      "example": "From the dark clouds gathering above, we surmised that a heavy storm was coming.",
-      "example_tr": "Yukarıda toplanan karanlık bulutlardan şiddetli bir fırtınanın yaklaştığını tahmin ettik.",
-      "ipa": "/səˈmaɪz/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "tahmin etmek, zannetmek",
-      "pos": "verb",
-      "word": "surmise"
-    },
-    {
-      "collocations": [
-        "in accordance with law",
-        "in accordance with regulations"
-      ],
-      "definition_en": "in agreement with a rule, request, or official agreement",
-      "example": "All construction work was completed in accordance with international safety standards.",
-      "example_tr": "Tüm inşaat çalışmaları uluslararası güvenlik standartlarına uygun olarak tamamlandı.",
-      "ipa": "/ɪn əˈkɔːdəns wɪð/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "uyarınca, gereğince, -e uygun olarak",
-      "pos": "phrase",
-      "word": "in accordance with"
-    },
-    {
-      "collocations": [
-        "growing disillusionment",
-        "deep disillusionment"
-      ],
-      "definition_en": "a feeling of disappointment when something is not as good as believed",
-      "example": "Widespread disillusionment among voters led to a significant decrease in participation.",
-      "example_tr": "Seçmenler arasındaki yaygın hayal kırıklığı, katılığımda önemli bir düşüşe yol açtı.",
-      "ipa": "/ˌdɪsɪˈluːʒnmənt/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "hayal kırıklığı, gözünün açılması",
-      "pos": "noun",
-      "word": "disillusionment"
-    },
     {
       "collocations": [
         "use coercion",
