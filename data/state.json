@@ -1057,6 +1057,30 @@
       "unknown_count": 0,
       "word": "on short notice"
     },
+    "22cca7df94": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "corroborate evidence",
+        "corroborate findings"
+      ],
+      "definition_en": "to confirm or give support to a statement or theory",
+      "due": "2026-11-22",
+      "example": "Recent scientific studies corroborate the theory that sleep improves long-term memory.",
+      "example_tr": "Son bilimsel çalışmalar, uykunun uzun süreli hafızayı geliştirdiği teorisini doğruluyor.",
+      "first_seen": "2026-11-21T17:45:00.219049+03:00",
+      "id": "22cca7df94",
+      "ipa": "/kəˈrɒbəreɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-21",
+      "level": "C1",
+      "meaning_tr": "doğrulamak, teyit etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "corroborate"
+    },
     "23149d76ee": {
       "answered_count": 0,
       "box": 1,
@@ -1585,6 +1609,30 @@
       "shown_count": 2,
       "unknown_count": 0,
       "word": "pervasive"
+    },
+    "3832690950": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "stipulate conditions",
+        "clearly stipulate"
+      ],
+      "definition_en": "to demand or specify a requirement as part of an agreement",
+      "due": "2026-11-22",
+      "example": "The contract clearly stipulates that all payments must be made in advance.",
+      "example_tr": "Sözleşme, tüm ödemelerin peşin yapılması gerektiğini açıkça şart koşuyor.",
+      "first_seen": "2026-11-21T17:45:00.219049+03:00",
+      "id": "3832690950",
+      "ipa": "/ˈstɪpjəleɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-21",
+      "level": "C1",
+      "meaning_tr": "şart koşmak, belirtmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "stipulate"
     },
     "38923fc6ee": {
       "answered_count": 0,
@@ -2750,7 +2798,7 @@
         "consequently suffered"
       ],
       "definition_en": "As a result of something that has just been mentioned.",
-      "due": "2026-10-17",
+      "due": "2026-11-22",
       "example": "The company lost its main client and consequently had to lay off staff.",
       "example_tr": "Şirket ana müşterisini kaybetti ve sonuç olarak işten çıkarmalar yapmak zorunda kaldı.",
       "first_seen": "2026-09-27T20:02:16.834307+03:00",
@@ -2758,11 +2806,11 @@
       "ipa": "/ˈkɒnsɪkwəntli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-21",
       "level": "B2",
       "meaning_tr": "sonuç olarak, bu nedenle",
       "pos": "adverb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "consequently"
     },
@@ -3138,7 +3186,7 @@
         "facilitate growth"
       ],
       "definition_en": "To make an action or process easy or easier.",
-      "due": "2026-10-17",
+      "due": "2026-11-22",
       "example": "The new software will facilitate communication between different departments of our company.",
       "example_tr": "Yeni yazılım, şirketimizin farklı departmanları arasındaki iletişimi kolaylaştıracak.",
       "first_seen": "2026-09-20T23:53:42.065471+03:00",
@@ -3146,11 +3194,11 @@
       "ipa": "/fəˈsɪlɪteɪt/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-21",
       "level": "B2",
       "meaning_tr": "kolaylaştırmak, yardımcı olmak",
       "pos": "verb",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "facilitate"
     },
@@ -7444,6 +7492,30 @@
       "unknown_count": 0,
       "word": "stumbling block"
     },
+    "e1973671f4": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "voluntary redundancy",
+        "face redundancy"
+      ],
+      "definition_en": "the state of no longer being needed or useful at work",
+      "due": "2026-11-22",
+      "example": "The company announced several redundancies following the restructuring of its European division.",
+      "example_tr": "Şirket, Avrupa bölümünün yeniden yapılanmasının ardından birkaç işten çıkarma duyurdu.",
+      "first_seen": "2026-11-21T17:45:00.219049+03:00",
+      "id": "e1973671f4",
+      "ipa": "/rɪˈdʌndənsi/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-21",
+      "level": "C1",
+      "meaning_tr": "işten çıkarma, fazlalık, gereksizlik",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "redundancy"
+    },
     "e221165fd0": {
       "answered_count": 0,
       "box": 1,
@@ -8481,8 +8553,99 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-21T01:50:04.940430+03:00",
-  "pool": [],
+  "last_sent_at": "2026-11-21T17:45:00.219049+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "surmise correctly",
+        "safe to surmise"
+      ],
+      "definition_en": "to suppose that something is true without having solid evidence",
+      "example": "From the dark clouds gathering above, we surmised that a heavy storm was coming.",
+      "example_tr": "Yukarıda toplanan karanlık bulutlardan şiddetli bir fırtınanın yaklaştığını tahmin ettik.",
+      "ipa": "/səˈmaɪz/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "tahmin etmek, zannetmek",
+      "pos": "verb",
+      "word": "surmise"
+    },
+    {
+      "collocations": [
+        "in accordance with law",
+        "in accordance with regulations"
+      ],
+      "definition_en": "in agreement with a rule, request, or official agreement",
+      "example": "All construction work was completed in accordance with international safety standards.",
+      "example_tr": "Tüm inşaat çalışmaları uluslararası güvenlik standartlarına uygun olarak tamamlandı.",
+      "ipa": "/ɪn əˈkɔːdəns wɪð/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "uyarınca, gereğince, -e uygun olarak",
+      "pos": "phrase",
+      "word": "in accordance with"
+    },
+    {
+      "collocations": [
+        "growing disillusionment",
+        "deep disillusionment"
+      ],
+      "definition_en": "a feeling of disappointment when something is not as good as believed",
+      "example": "Widespread disillusionment among voters led to a significant decrease in participation.",
+      "example_tr": "Seçmenler arasındaki yaygın hayal kırıklığı, katılığımda önemli bir düşüşe yol açtı.",
+      "ipa": "/ˌdɪsɪˈluːʒnmənt/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "hayal kırıklığı, gözünün açılması",
+      "pos": "noun",
+      "word": "disillusionment"
+    },
+    {
+      "collocations": [
+        "use coercion",
+        "under coercion"
+      ],
+      "definition_en": "the practice of persuading someone to do something by using force",
+      "example": "The confession was rejected by the judge because it was obtained under coercion.",
+      "example_tr": "İtiraf, baskı altında elde edildiği için hakim tarafından reddedildi.",
+      "ipa": "/kəʊˈɜːʃn/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "zorlama, baskı, tehdit",
+      "pos": "noun",
+      "word": "coercion"
+    },
+    {
+      "collocations": [
+        "ephemeral nature",
+        "ephemeral success"
+      ],
+      "definition_en": "lasting for a very short time",
+      "example": "Social media fame is often ephemeral and quickly replaced by new trending topics.",
+      "example_tr": "Sosyal medya şöhreti genellikle geçicidir ve hızla yeni trend olan konularla yer değiştirir.",
+      "ipa": "/ɪˈfemərəl/",
+      "lang": "en",
+      "level": "C1",
+      "meaning_tr": "geçici, kısa ömürlü",
+      "pos": "adjective",
+      "word": "ephemeral"
+    },
+    {
+      "collocations": [
+        "with respect to policy",
+        "with respect to performance"
+      ],
+      "definition_en": "concerning or in relation to a particular matter",
+      "example": "The report contains valuable insights with respect to future economic growth.",
+      "example_tr": "Rapor, gelecekteki ekonomik büyüme hususunda değerli içgörüler içeriyor.",
+      "ipa": "/wɪð rɪˈspekt tuː/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "hususunda, -e gelince, bakımdan",
+      "pos": "phrase",
+      "word": "with respect to"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
