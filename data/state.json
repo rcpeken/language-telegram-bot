@@ -1874,6 +1874,30 @@
       "unknown_count": 0,
       "word": "deficiency"
     },
+    "3dc46cd96a": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "use coercion",
+        "under coercion"
+      ],
+      "definition_en": "the practice of persuading someone to do something by using force",
+      "due": "2026-11-23",
+      "example": "The confession was rejected by the judge because it was obtained under coercion.",
+      "example_tr": "İtiraf, baskı altında elde edildiği için hakim tarafından reddedildi.",
+      "first_seen": "2026-11-22T17:41:22.645885+03:00",
+      "id": "3dc46cd96a",
+      "ipa": "/kəʊˈɜːʃn/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-22",
+      "level": "C1",
+      "meaning_tr": "zorlama, baskı, tehdit",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "coercion"
+    },
     "3e3568556c": {
       "answered_count": 0,
       "box": 1,
@@ -1921,6 +1945,30 @@
       "shown_count": 5,
       "unknown_count": 0,
       "word": "coincide"
+    },
+    "3f3f5e14a5": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "ephemeral nature",
+        "ephemeral success"
+      ],
+      "definition_en": "lasting for a very short time",
+      "due": "2026-11-23",
+      "example": "Social media fame is often ephemeral and quickly replaced by new trending topics.",
+      "example_tr": "Sosyal medya şöhreti genellikle geçicidir ve hızla yeni trend olan konularla yer değiştirir.",
+      "first_seen": "2026-11-22T17:41:22.645885+03:00",
+      "id": "3f3f5e14a5",
+      "ipa": "/ɪˈfemərəl/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-22",
+      "level": "C1",
+      "meaning_tr": "geçici, kısa ömürlü",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "ephemeral"
     },
     "3fea813ee8": {
       "answered_count": 0,
@@ -4721,6 +4769,30 @@
       "unknown_count": 0,
       "word": "surmise"
     },
+    "904dd23adb": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "with respect to policy",
+        "with respect to performance"
+      ],
+      "definition_en": "concerning or in relation to a particular matter",
+      "due": "2026-11-23",
+      "example": "The report contains valuable insights with respect to future economic growth.",
+      "example_tr": "Rapor, gelecekteki ekonomik büyüme hususunda değerli içgörüler içeriyor.",
+      "first_seen": "2026-11-22T17:41:22.645885+03:00",
+      "id": "904dd23adb",
+      "ipa": "/wɪð rɪˈspekt tuː/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-22",
+      "level": "B2",
+      "meaning_tr": "hususunda, -e gelince, bakımdan",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "with respect to"
+    },
     "90c9aa4a4e": {
       "answered_count": 0,
       "box": 1,
@@ -6419,7 +6491,7 @@
         "versatile tool"
       ],
       "definition_en": "Able to adapt or be adapted to many different functions or activities.",
-      "due": "2026-10-17",
+      "due": "2026-11-23",
       "example": "He is a versatile actor who can play both comedy and dramatic roles skillfully.",
       "example_tr": "O, hem komedi hem de dramatik rolleri beceriyle oynayabilen çok yönlü bir oyuncudur.",
       "first_seen": "2026-10-16T19:44:33.703721+03:00",
@@ -6427,11 +6499,11 @@
       "ipa": "/ˈvɜːsətaɪl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-22",
       "level": "B2",
       "meaning_tr": "çok yönlü, becerikli",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "versatile"
     },
@@ -6659,7 +6731,7 @@
         "in response to feedback"
       ],
       "definition_en": "As a reaction or answer to something that has happened or been said.",
-      "due": "2026-10-17",
+      "due": "2026-11-23",
       "example": "The government lowered interest rates in response to growing economic difficulties.",
       "example_tr": "Hükümet, büyüyen ekonomik zorluklara yanıt olarak faiz oranlarını düşürdü.",
       "first_seen": "2026-10-16T14:32:40.654105+03:00",
@@ -6667,11 +6739,11 @@
       "ipa": "/ɪn rɪˈspɒns tuː/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-22",
       "level": "B2",
       "meaning_tr": "yanıt olarak, tepki olarak",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "in response to"
     },
@@ -8625,54 +8697,8 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-21T23:55:22.225593+03:00",
-  "pool": [
-    {
-      "collocations": [
-        "use coercion",
-        "under coercion"
-      ],
-      "definition_en": "the practice of persuading someone to do something by using force",
-      "example": "The confession was rejected by the judge because it was obtained under coercion.",
-      "example_tr": "İtiraf, baskı altında elde edildiği için hakim tarafından reddedildi.",
-      "ipa": "/kəʊˈɜːʃn/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "zorlama, baskı, tehdit",
-      "pos": "noun",
-      "word": "coercion"
-    },
-    {
-      "collocations": [
-        "ephemeral nature",
-        "ephemeral success"
-      ],
-      "definition_en": "lasting for a very short time",
-      "example": "Social media fame is often ephemeral and quickly replaced by new trending topics.",
-      "example_tr": "Sosyal medya şöhreti genellikle geçicidir ve hızla yeni trend olan konularla yer değiştirir.",
-      "ipa": "/ɪˈfemərəl/",
-      "lang": "en",
-      "level": "C1",
-      "meaning_tr": "geçici, kısa ömürlü",
-      "pos": "adjective",
-      "word": "ephemeral"
-    },
-    {
-      "collocations": [
-        "with respect to policy",
-        "with respect to performance"
-      ],
-      "definition_en": "concerning or in relation to a particular matter",
-      "example": "The report contains valuable insights with respect to future economic growth.",
-      "example_tr": "Rapor, gelecekteki ekonomik büyüme hususunda değerli içgörüler içeriyor.",
-      "ipa": "/wɪð rɪˈspekt tuː/",
-      "lang": "en",
-      "level": "B2",
-      "meaning_tr": "hususunda, -e gelince, bakımdan",
-      "pos": "phrase",
-      "word": "with respect to"
-    }
-  ],
+  "last_sent_at": "2026-11-22T17:41:22.645885+03:00",
+  "pool": [],
   "update_offset": 626511673,
   "version": 1
 }
