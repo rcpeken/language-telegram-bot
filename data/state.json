@@ -393,7 +393,7 @@
         "act on behalf of"
       ],
       "definition_en": "As a representative of someone, or in the interest of someone.",
-      "due": "2026-10-18",
+      "due": "2026-11-24",
       "example": "The lawyer made a brief statement on behalf of the accused family.",
       "example_tr": "Avukat, sanık aile adına kısa bir açıklama yaptı.",
       "first_seen": "2026-09-28T17:06:07.394692+03:00",
@@ -401,11 +401,11 @@
       "ipa": "/ɒn bɪˈhɑːf ɒv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-17",
+      "last_shown_at": "2026-11-23",
       "level": "B2",
       "meaning_tr": "adına, temsilen",
       "pos": "phrase",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "on behalf of"
     },
@@ -4769,6 +4769,30 @@
       "unknown_count": 0,
       "word": "precisely"
     },
+    "8d4e4c3b7c": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "contemplate the future",
+        "seriously contemplate"
+      ],
+      "definition_en": "To think deeply about something for a long time or consider a future action.",
+      "due": "2026-11-24",
+      "example": "She is seriously contemplating moving to another country for her career.",
+      "example_tr": "Kariyeri için başka bir ülkeye taşınmayı ciddi şekilde düşünüyor.",
+      "first_seen": "2026-11-23T21:23:01.658524+03:00",
+      "id": "8d4e4c3b7c",
+      "ipa": "/ˈkɒntəmpleɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-23",
+      "level": "C1",
+      "meaning_tr": "düşünmek, tasarlamak",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "contemplate"
+    },
     "8f51bb293e": {
       "answered_count": 0,
       "box": 1,
@@ -5469,6 +5493,30 @@
       "shown_count": 3,
       "unknown_count": 0,
       "word": "assess"
+    },
+    "a08361d741": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "coincidentally meet",
+        "quite coincidentally"
+      ],
+      "definition_en": "By chance or unexpected happening at the same time.",
+      "due": "2026-11-24",
+      "example": "Coincidentally, we met the same old friend while traveling abroad last month.",
+      "example_tr": "Tesadüfen, geçen ay yurtdışında seyahat ederken aynı eski arkadaşımızla karşılaştık.",
+      "first_seen": "2026-11-23T21:23:01.658524+03:00",
+      "id": "a08361d741",
+      "ipa": "/kəʊˌɪnsɪˈdentli/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-23",
+      "level": "B2",
+      "meaning_tr": "tesadüfen, denk gelerek",
+      "pos": "adverb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "coincidentally"
     },
     "a1c84c5902": {
       "answered_count": 0,
@@ -8632,7 +8680,7 @@
         "increase disposable income"
       ],
       "definition_en": "The amount of money that households have available for spending and saving after taxes.",
-      "due": "2026-10-17",
+      "due": "2026-11-24",
       "example": "Higher taxes have significantly reduced the disposable income of average families this year.",
       "example_tr": "Yüksek vergiler, bu yıl ortalama ailelerin kullanılabilir gelirini önemli ölçüde azalttı.",
       "first_seen": "2026-09-19T14:08:02.914222+03:00",
@@ -8640,13 +8688,37 @@
       "ipa": "/dɪˈspoʊzəbl ˈɪnkʌm/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-16",
+      "last_shown_at": "2026-11-23",
       "level": "B2",
       "meaning_tr": "kullanılabilir gelir, net gelir",
       "pos": "noun",
-      "shown_count": 3,
+      "shown_count": 4,
       "unknown_count": 0,
       "word": "disposable income"
+    },
+    "fcc56bb7fe": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "economic prosperity",
+        "period of prosperity"
+      ],
+      "definition_en": "The state of being successful, especially financially.",
+      "due": "2026-11-24",
+      "example": "Economic reform brought long-term stability and prosperity to the entire region.",
+      "example_tr": "Ekonomik reform tüm bölgeye uzun vadeli istikrar ve refah getirdi.",
+      "first_seen": "2026-11-23T21:23:01.658524+03:00",
+      "id": "fcc56bb7fe",
+      "ipa": "/prɒˈsperəti/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-23",
+      "level": "C1",
+      "meaning_tr": "refah, zenginlik",
+      "pos": "noun",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "prosperity"
     },
     "fe3200bc31": {
       "answered_count": 0,
@@ -8745,7 +8817,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-23T00:05:36.017879+03:00",
+  "last_sent_at": "2026-11-23T21:23:01.658524+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
