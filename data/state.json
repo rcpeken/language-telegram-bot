@@ -513,7 +513,7 @@
         "intervene in a dispute"
       ],
       "definition_en": "To intentionally become involved in a difficult situation to improve or prevent it.",
-      "due": "2026-10-18",
+      "due": "2026-11-25",
       "example": "The central bank had to intervene to stabilize the rapidly falling national currency.",
       "example_tr": "Merkez bankası, hızla düşen ulusal para birimini istikrara kavuşturmak için müdahale etmek zorunda kaldı.",
       "first_seen": "2026-10-17T00:18:21.330081+03:00",
@@ -521,11 +521,11 @@
       "ipa": "/ˌɪntəˈviːn/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-17",
+      "last_shown_at": "2026-11-24",
       "level": "B2",
       "meaning_tr": "müdahale etmek, araya girmek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "intervene"
     },
@@ -1041,7 +1041,7 @@
         "give rise to rumors"
       ],
       "definition_en": "To cause something to happen or exist.",
-      "due": "2026-10-18",
+      "due": "2026-11-25",
       "example": "Heavy industrial pollution can give rise to serious environmental and health problems.",
       "example_tr": "Ağır sanayi kirliliği, ciddi çevre ve sağlık sorunlarına yol açabilir.",
       "first_seen": "2026-10-17T13:52:54.582116+03:00",
@@ -1049,11 +1049,11 @@
       "ipa": "/ɡɪv raɪz tuː/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-17",
+      "last_shown_at": "2026-11-24",
       "level": "C1",
       "meaning_tr": "yol açmak, sebep olmak",
       "pos": "phrase",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "give rise to"
     },
@@ -5179,6 +5179,30 @@
       "unknown_count": 0,
       "word": "merely"
     },
+    "97284d820b": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "with the benefit of hindsight",
+        "in hindsight it seems"
+      ],
+      "definition_en": "the ability to understand a situation only after it has happened",
+      "due": "2026-11-25",
+      "example": "In hindsight, we should have spent more time preparing for the interview.",
+      "example_tr": "Geriye dönüp bakıldığında, mülakata hazırlanmak için daha fazla zaman harcamalıydık.",
+      "first_seen": "2026-11-24T07:27:12.303752+03:00",
+      "id": "97284d820b",
+      "ipa": "/ɪn ˈhaɪnd.saɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-24",
+      "level": "C1",
+      "meaning_tr": "geriye dönüp bakıldığında, sonradan",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in hindsight"
+    },
     "9816d5c3dc": {
       "answered_count": 0,
       "box": 1,
@@ -6939,6 +6963,30 @@
       "unknown_count": 0,
       "word": "notably"
     },
+    "ca59e4e7bb": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "perilous journey",
+        "perilous condition"
+      ],
+      "definition_en": "extremely dangerous or full of risks",
+      "due": "2026-11-25",
+      "example": "The mountain climbers faced a perilous journey through the stormy blizzard.",
+      "example_tr": "Dağcılar, fırtınalı tipi boyunca tehlikeli bir yolculukla karşı karşıya kaldı.",
+      "first_seen": "2026-11-24T07:27:12.303752+03:00",
+      "id": "ca59e4e7bb",
+      "ipa": "/ˈper.əl.əs/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-24",
+      "level": "C1",
+      "meaning_tr": "tehlikeli, riski yüksek",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "perilous"
+    },
     "cc7f60c717": {
       "answered_count": 0,
       "box": 1,
@@ -8285,6 +8333,30 @@
       "unknown_count": 0,
       "word": "confront"
     },
+    "edb50d4de8": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "in the event of fire",
+        "in the event of rain"
+      ],
+      "definition_en": "used to say what will happen if a particular situation occurs",
+      "due": "2026-11-25",
+      "example": "In the event of an emergency, please press the red button immediately.",
+      "example_tr": "Acil bir durum halinde, lütfen derhal kırmızı düğmeye basın.",
+      "first_seen": "2026-11-24T07:27:12.303752+03:00",
+      "id": "edb50d4de8",
+      "ipa": "/ɪn ðə ɪˈvent əv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-24",
+      "level": "B2",
+      "meaning_tr": "durumunda, halinde",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "in the event of"
+    },
     "eeb2e3a51b": {
       "answered_count": 0,
       "box": 1,
@@ -8817,8 +8889,24 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-23T21:23:01.658524+03:00",
-  "pool": [],
+  "last_sent_at": "2026-11-24T07:27:12.303752+03:00",
+  "pool": [
+    {
+      "collocations": [
+        "plunge into darkness",
+        "prices plunge"
+      ],
+      "definition_en": "to fall or drop quickly from a high position",
+      "example": "Stock prices began to plunge after the market opened on Monday morning.",
+      "example_tr": "Hisse senedi fiyatları Pazartesi sabahı borsa açıldıktan sonra düşmeye başladı.",
+      "ipa": "/plʌndʒ/",
+      "lang": "en",
+      "level": "B2",
+      "meaning_tr": "düşmek, dalmak, ani iniş yapmak",
+      "pos": "verb",
+      "word": "plunge"
+    }
+  ],
   "update_offset": 626511673,
   "version": 1
 }
