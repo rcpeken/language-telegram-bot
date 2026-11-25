@@ -1514,6 +1514,30 @@
       "unknown_count": 0,
       "word": "validate"
     },
+    "3010b5503e": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "hot on the heels of",
+        "on the heels of victory"
+      ],
+      "definition_en": "following very closely after a particular event",
+      "due": "2026-11-26",
+      "example": "The company launched its new product line on the heels of recent financial success.",
+      "example_tr": "Şirket, son zamanlardaki finansal başarısının hemen ardından yeni ürün serisini piyasaya sürdü.",
+      "first_seen": "2026-11-25T20:21:02.443081+03:00",
+      "id": "3010b5503e",
+      "ipa": "/ɒn ðə hiːlz əv/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-25",
+      "level": "C1",
+      "meaning_tr": "hemen ardından, peşinden",
+      "pos": "phrase",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "on the heels of"
+    },
     "330f4481a9": {
       "answered_count": 0,
       "box": 1,
@@ -4296,7 +4320,7 @@
         "genetic anomaly"
       ],
       "definition_en": "Something that is unusual or different from what is standard or expected.",
-      "due": "2026-10-18",
+      "due": "2026-11-26",
       "example": "Scientists identified a temporary temperature anomaly in the historical climate data.",
       "example_tr": "Bilim insanları, tarihi iklim verilerinde geçici bir sıcaklık sapması tespit etti.",
       "first_seen": "2026-09-27T15:10:16.946243+03:00",
@@ -4304,11 +4328,11 @@
       "ipa": "/əˈnɒməli/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-17",
+      "last_shown_at": "2026-11-25",
       "level": "C1",
       "meaning_tr": "sapma, anormallik, düzensizlik",
       "pos": "noun",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "anomaly"
     },
@@ -4512,7 +4536,7 @@
         "endorse a product"
       ],
       "definition_en": "To publicly declare approval or support for someone or something.",
-      "due": "2026-10-18",
+      "due": "2026-11-26",
       "example": "Several famous athletes agreed to endorse the new brand of sports equipment.",
       "example_tr": "Birkaç ünlü sporcu, yeni spor ekipmanı markasını desteklemeyi kabul etti.",
       "first_seen": "2026-10-17T13:52:54.582116+03:00",
@@ -4520,11 +4544,11 @@
       "ipa": "/ɪnˈdɔːs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-17",
+      "last_shown_at": "2026-11-25",
       "level": "C1",
       "meaning_tr": "onaylamak, desteklemek",
       "pos": "verb",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "endorse"
     },
@@ -8913,7 +8937,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-25T05:34:01.987475+03:00",
+  "last_sent_at": "2026-11-25T20:21:02.443081+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
