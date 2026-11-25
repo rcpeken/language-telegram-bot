@@ -4103,7 +4103,7 @@
         "on the verge of tears"
       ],
       "definition_en": "Very close to experiencing or doing something.",
-      "due": "2026-10-18",
+      "due": "2026-11-26",
       "example": "The scientists believe that they are on the verge of discovering a cure.",
       "example_tr": "Bilim insanları bir tedavi bulmanın eşiğinde olduklarına inanıyorlar.",
       "first_seen": "2026-09-17T20:05:50.551121+03:00",
@@ -4111,11 +4111,11 @@
       "ipa": "/ɒn ðə vɜːdʒ ɒv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-17",
+      "last_shown_at": "2026-11-25",
       "level": "B2",
       "meaning_tr": "-in eşiğinde, üzere",
       "pos": "phrase",
-      "shown_count": 4,
+      "shown_count": 5,
       "unknown_count": 0,
       "word": "on the verge of"
     },
@@ -4224,7 +4224,7 @@
         "ubiquitous presence"
       ],
       "definition_en": "Seeming to be everywhere at the same time.",
-      "due": "2026-10-18",
+      "due": "2026-11-26",
       "example": "Mobile phones have become ubiquitous in almost every part of the world today.",
       "example_tr": "Cep telefonları günümüzde dünyanın neredeyse her yerinde yaygın hale gelmiştir.",
       "first_seen": "2026-09-27T15:10:16.946243+03:00",
@@ -4232,11 +4232,11 @@
       "ipa": "/juːˈbɪkwɪtəs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-17",
+      "last_shown_at": "2026-11-25",
       "level": "C1",
       "meaning_tr": "her yerde bulunan, yaygın",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "ubiquitous"
     },
@@ -8913,7 +8913,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-24T20:53:43.178732+03:00",
+  "last_sent_at": "2026-11-25T05:34:01.987475+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
