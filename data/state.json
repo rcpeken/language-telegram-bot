@@ -2212,6 +2212,30 @@
       "unknown_count": 0,
       "word": "backbone"
     },
+    "467b5dceda": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "implicit trust",
+        "implicit agreement"
+      ],
+      "definition_en": "suggested without being directly expressed",
+      "due": "2026-11-27",
+      "example": "There was an implicit understanding between the business partners that confidentiality must be maintained.",
+      "example_tr": "İş ortakları arasında gizliliğin korunması gerektiğine dair örtük bir anlayış vardı.",
+      "first_seen": "2026-11-26T04:48:38.591059+03:00",
+      "id": "467b5dceda",
+      "ipa": "/ɪmˈplɪsɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-26",
+      "level": "C1",
+      "meaning_tr": "üstü kapalı, örtük, zımni",
+      "pos": "adjective",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "implicit"
+    },
     "4693792d5d": {
       "answered_count": 0,
       "box": 1,
@@ -4288,6 +4312,30 @@
       "unknown_count": 0,
       "word": "reluctant"
     },
+    "7b45dd7196": {
+      "answered_count": 0,
+      "box": 1,
+      "collocations": [
+        "elicit a response",
+        "elicit feedback"
+      ],
+      "definition_en": "to get a response or information from someone with difficulty",
+      "due": "2026-11-27",
+      "example": "The questionnaire was designed to elicit detailed feedback from customers regarding the service.",
+      "example_tr": "Anket, müşterilerden hizmetle ilgili detaylı geri bildirim almak üzere tasarlandı.",
+      "first_seen": "2026-11-26T04:48:38.591059+03:00",
+      "id": "7b45dd7196",
+      "ipa": "/ɪˈlɪsɪt/",
+      "known_count": 0,
+      "lang": "en",
+      "last_shown_at": "2026-11-26",
+      "level": "C1",
+      "meaning_tr": "ortaya çıkarmak, toplamak, temin etmek",
+      "pos": "verb",
+      "shown_count": 1,
+      "unknown_count": 0,
+      "word": "elicit"
+    },
     "7c990ecad0": {
       "answered_count": 0,
       "box": 1,
@@ -5355,7 +5403,7 @@
         "lack of accountability"
       ],
       "definition_en": "The state of being responsible to someone for actions and decisions.",
-      "due": "2026-10-18",
+      "due": "2026-11-27",
       "example": "Public officials must demonstrate greater accountability regarding how tax dollars are spent.",
       "example_tr": "Kamu görevlileri, vergi gelirlerinin nasıl harcandığına dair daha fazla hesap verebilirlik göstermelidir.",
       "first_seen": "2026-10-17T13:52:54.582116+03:00",
@@ -5363,11 +5411,11 @@
       "ipa": "/əˌkaʊntəˈbɪləti/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-17",
+      "last_shown_at": "2026-11-26",
       "level": "C1",
       "meaning_tr": "sorumluluk, hesap verebilirlik",
       "pos": "noun",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "accountability"
     },
@@ -5403,7 +5451,7 @@
         "highly resilient"
       ],
       "definition_en": "Able to quickly return to a previous good condition after a difficult situation.",
-      "due": "2026-10-18",
+      "due": "2026-11-27",
       "example": "Local businesses proved to be highly resilient during the economic crisis last year.",
       "example_tr": "Yerel işletmeler geçen yılki ekonomik kriz sırasında son derece dirençli olduklarını kanıtladılar.",
       "first_seen": "2026-09-16T10:12:29.899891+03:00",
@@ -5413,11 +5461,11 @@
       "lang": "en",
       "last_answer": "unknown",
       "last_answered_at": "2026-09-16",
-      "last_shown_at": "2026-10-17",
+      "last_shown_at": "2026-11-26",
       "level": "B2",
       "meaning_tr": "dirençli, esnek, güçlü",
       "pos": "adjective",
-      "shown_count": 5,
+      "shown_count": 6,
       "unknown_count": 1,
       "word": "resilient"
     },
@@ -8937,7 +8985,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-25T20:21:02.443081+03:00",
+  "last_sent_at": "2026-11-26T04:48:38.591059+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
