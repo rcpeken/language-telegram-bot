@@ -609,7 +609,7 @@
         "remain impartial"
       ],
       "definition_en": "not supporting one person or group more than another",
-      "due": "2026-10-19",
+      "due": "2026-11-28",
       "example": "A judge must remain impartial throughout the entire legal trial process.",
       "example_tr": "Bir yargıç tüm yasal dava süreci boyunca tarafsız kalmalıdır.",
       "first_seen": "2026-10-18T23:51:36.184580+03:00",
@@ -617,11 +617,11 @@
       "ipa": "/ɪmˈpɑː.ʃəl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-18",
+      "last_shown_at": "2026-11-27",
       "level": "B2",
       "meaning_tr": "tarafsız, adil, nesnel",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "impartial"
     },
@@ -7500,7 +7500,7 @@
         "tangible results"
       ],
       "definition_en": "Real or concrete, and able to be clearly seen or touched.",
-      "due": "2026-10-18",
+      "due": "2026-11-28",
       "example": "The new safety policies have produced tangible benefits for all factory employees.",
       "example_tr": "Yeni güvenlik politikaları tüm fabrika çalışanları için somut faydalar sağladı.",
       "first_seen": "2026-09-27T20:02:16.834307+03:00",
@@ -7508,11 +7508,11 @@
       "ipa": "/ˈtændʒəbəl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-17",
+      "last_shown_at": "2026-11-27",
       "level": "C1",
       "meaning_tr": "somut, elle tutulur, hissedilir",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "tangible"
     },
@@ -8985,7 +8985,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-26T20:01:12.582317+03:00",
+  "last_sent_at": "2026-11-27T04:46:46.795806+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
