@@ -3860,7 +3860,7 @@
         "superfluous information"
       ],
       "definition_en": "More than is needed, wanted, or useful.",
-      "due": "2026-10-19",
+      "due": "2026-11-29",
       "example": "Please edit the report to remove any superfluous details that distract the reader.",
       "example_tr": "Lütfen okuyucunun dikkatini dağıtan gereksiz detayları kaldırmak için raporu düzenleyin.",
       "first_seen": "2026-09-28T00:24:56.961051+03:00",
@@ -3868,11 +3868,11 @@
       "ipa": "/suːˈpɜːfluəs/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-18",
+      "last_shown_at": "2026-11-28",
       "level": "C1",
       "meaning_tr": "gereksiz, fazla, lüzumsuz",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "superfluous"
     },
@@ -4344,7 +4344,7 @@
         "strive to achieve"
       ],
       "definition_en": "To make a great effort to achieve or obtain something.",
-      "due": "2026-10-19",
+      "due": "2026-11-29",
       "example": "We must constantly strive to improve our customer service standards in this industry.",
       "example_tr": "Bu sektörde müşteri hizmetleri standartlarımızı geliştirmek için sürekli çaba göstermeliyiz.",
       "first_seen": "2026-09-28T00:24:56.961051+03:00",
@@ -4352,11 +4352,11 @@
       "ipa": "/straɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-18",
+      "last_shown_at": "2026-11-28",
       "level": "B2",
       "meaning_tr": "çabalamak, uğraşmak, gayret etmek",
       "pos": "verb",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "strive"
     },
@@ -8985,7 +8985,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-28T04:29:04.045416+03:00",
+  "last_sent_at": "2026-11-28T18:39:04.722089+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
