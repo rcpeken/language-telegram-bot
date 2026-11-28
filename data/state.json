@@ -993,7 +993,7 @@
         "pivotal moment"
       ],
       "definition_en": "of crucial importance in relation to the development of something",
-      "due": "2026-10-19",
+      "due": "2026-11-29",
       "example": "Technology played a pivotal role in keeping businesses connected during the lockdown.",
       "example_tr": "Karantina sırasında işletmelerin iletişimde kalmasında teknoloji kilit bir rol oynadı.",
       "first_seen": "2026-10-18T14:17:48.400327+03:00",
@@ -1001,11 +1001,11 @@
       "ipa": "/ˈpɪv.ə.təl/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-18",
+      "last_shown_at": "2026-11-28",
       "level": "C1",
       "meaning_tr": "kilit, çok önemli, hayati",
       "pos": "adjective",
-      "shown_count": 1,
+      "shown_count": 2,
       "unknown_count": 0,
       "word": "pivotal"
     },
@@ -3402,7 +3402,7 @@
         "elusive answer"
       ],
       "definition_en": "Difficult to find, catch, describe, or achieve.",
-      "due": "2026-10-19",
+      "due": "2026-11-29",
       "example": "The perfect solution to the economic crisis remains elusive for most policy makers.",
       "example_tr": "Ekonomik krize mükemmel çözüm, çoğu politika yapıcı için bulunması zor olmaya devam ediyor.",
       "first_seen": "2026-09-28T17:06:07.394692+03:00",
@@ -3410,11 +3410,11 @@
       "ipa": "/iˈluːsɪv/",
       "known_count": 0,
       "lang": "en",
-      "last_shown_at": "2026-10-18",
+      "last_shown_at": "2026-11-28",
       "level": "C1",
       "meaning_tr": "bulunması zor, yakalanamaz, anlaşılmaz",
       "pos": "adjective",
-      "shown_count": 2,
+      "shown_count": 3,
       "unknown_count": 0,
       "word": "elusive"
     },
@@ -8985,7 +8985,7 @@
       "word": "conversely"
     }
   },
-  "last_sent_at": "2026-11-27T19:46:33.116307+03:00",
+  "last_sent_at": "2026-11-28T04:29:04.045416+03:00",
   "pool": [],
   "update_offset": 626511673,
   "version": 1
